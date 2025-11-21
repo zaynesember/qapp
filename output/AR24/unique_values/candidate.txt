@@ -1,0 +1,3686 @@
+UNIQUE VALUES — candidate
+============================================================
+AARON EDWARD SPIVEY
+    Count: 12
+    Counties: 1
+AARON M PILKINGTON
+    Count: 51
+    Counties: 2
+ADAM FIRE CAT
+    Count: 201
+    Counties: 1
+ADAM TOLLESON
+    Count: 4
+    Counties: 1
+ADRIAN C MESSINA
+    Count: 9
+    Counties: 1
+AGAINST
+    Count: 20200
+    Counties: 75
+AL FELTON
+    Count: 6
+    Counties: 1
+ALAN M FLOYD
+    Count: 16
+    Counties: 1
+ALAN RIPPY
+    Count: 3
+    Counties: 1
+ALEX HOLLADAY
+    Count: 56
+    Counties: 1
+ALEX LATHAM
+    Count: 30
+    Counties: 1
+ALEX STOUT
+    Count: 4
+    Counties: 1
+ALEX TABOR
+    Count: 42
+    Counties: 1
+ALI DUERKSEN
+    Count: 48
+    Counties: 1
+ALICIA HAYES
+    Count: 153
+    Counties: 1
+ALLEN DAVIS
+    Count: 3
+    Counties: 1
+ALLISON BRUCKER
+    Count: 12
+    Counties: 1
+ALVIN "RELL" SCAIFE
+    Count: 3
+    Counties: 1
+ALYSSA BROWN
+    Count: 126
+    Counties: 2
+AMANDA AUSTIN
+    Count: 6
+    Counties: 1
+AMANDA FARRIS
+    Count: 9
+    Counties: 1
+AMANDA FOSTER
+    Count: 30
+    Counties: 1
+AMANDA NICOLE HAMBRICK
+    Count: 3
+    Counties: 1
+AMANDA SIMON
+    Count: 4
+    Counties: 1
+AMBER MADDOX
+    Count: 12
+    Counties: 1
+AMBER N EMDE
+    Count: 4
+    Counties: 1
+AMBERLY MARTIN
+    Count: 15
+    Counties: 2
+AMELIA MAY JOHNSON
+    Count: 6
+    Counties: 1
+AMIE CHISEM
+    Count: 3
+    Counties: 1
+AMIE GATES
+    Count: 57
+    Counties: 1
+AMY RENEE CLAY-THOMAS
+    Count: 6
+    Counties: 2
+ANDIE REYNOLDS
+    Count: 4
+    Counties: 1
+ANDRE RUCKS
+    Count: 3
+    Counties: 1
+ANDRE TONEY
+    Count: 9
+    Counties: 1
+ANDREW CADE EBERLY
+    Count: 44
+    Counties: 1
+ANDREW COLLINS
+    Count: 60
+    Counties: 1
+ANDREW HUBBLE
+    Count: 9
+    Counties: 1
+ANDREW MCINDOE
+    Count: 39
+    Counties: 1
+ANDREW PICKETT
+    Count: 12
+    Counties: 1
+ANDY HAWKINS
+    Count: 18
+    Counties: 1
+ANEISHA LEMONIER
+    Count: 4
+    Counties: 1
+ANGELA HALEY
+    Count: 3
+    Counties: 1
+ANGELA WEATHERBEE
+    Count: 3
+    Counties: 1
+ANGIE PARNELL
+    Count: 3
+    Counties: 1
+ANNA ISBELL
+    Count: 66
+    Counties: 1
+ANNETTE EVERETT
+    Count: 3
+    Counties: 1
+ANNETTE FALLIN
+    Count: 9
+    Counties: 1
+ANNETTE HUGHEY
+    Count: 3
+    Counties: 1
+ANNETTE TAYLOR
+    Count: 102
+    Counties: 3
+ANTHONY "TONY" BOOTH
+    Count: 3
+    Counties: 1
+ANTHONY M JAMES
+    Count: 12
+    Counties: 1
+ANTHONY STERLING
+    Count: 9
+    Counties: 1
+ANTWAN PHILLIPS
+    Count: 292
+    Counties: 1
+APRIL PERRY
+    Count: 12
+    Counties: 1
+ASH LEE HICKS
+    Count: 108
+    Counties: 1
+ASHER WILLIAMS
+    Count: 366
+    Counties: 8
+ASHLEY DOUGLAS
+    Count: 3
+    Counties: 1
+ASHLEY HUDSON
+    Count: 48
+    Counties: 1
+ASHLEY SHEYS
+    Count: 105
+    Counties: 1
+AUDREY B WETZEL
+    Count: 15
+    Counties: 1
+AUSTIN CATES
+    Count: 6
+    Counties: 1
+AUSTIN MCCOLLUM
+    Count: 186
+    Counties: 1
+AUSTIN SMITH
+    Count: 6
+    Counties: 1
+AUSTIN WILSON
+    Count: 16
+    Counties: 1
+BAILEY MORGAN
+    Count: 12
+    Counties: 1
+BANI' MEHARG
+    Count: 3
+    Counties: 1
+BARBARA BROWN
+    Count: 18
+    Counties: 1
+BARBARA LLOYD
+    Count: 3
+    Counties: 1
+BARBARA MATTHEWS
+    Count: 3
+    Counties: 1
+BARBARA MOSS
+    Count: 3
+    Counties: 1
+BARBARA TIPPY
+    Count: 3
+    Counties: 1
+BARRY ANDERSON
+    Count: 3
+    Counties: 1
+BARRY BROWN
+    Count: 16
+    Counties: 1
+BARRY O'DELL
+    Count: 3
+    Counties: 1
+BART CASTLEBERRY
+    Count: 75
+    Counties: 1
+BART HESTER
+    Count: 432
+    Counties: 1
+BART SCHULZ
+    Count: 156
+    Counties: 4
+BART STAFFORD
+    Count: 16
+    Counties: 1
+BARTH GRAYSON
+    Count: 9
+    Counties: 1
+BARTLEY "BOB" SCHWEGLER
+    Count: 18
+    Counties: 1
+BEN GILMORE
+    Count: 366
+    Counties: 8
+BEN HOOTEN
+    Count: 16
+    Counties: 1
+BETHANY HARRIS
+    Count: 6
+    Counties: 1
+BETHANY ROS
+    Count: 81
+    Counties: 1
+BETSY REITHEMEYER
+    Count: 153
+    Counties: 1
+BETTY MONTES
+    Count: 4
+    Counties: 1
+BILL ADAMS
+    Count: 39
+    Counties: 1
+BILL BRADSHAW
+    Count: 108
+    Counties: 3
+BILL FREE
+    Count: 3
+    Counties: 1
+BILL GERRARD III
+    Count: 3
+    Counties: 1
+BILL MCCORVEY
+    Count: 3
+    Counties: 1
+BILL PRATER
+    Count: 4
+    Counties: 1
+BILL RYKER
+    Count: 33
+    Counties: 1
+BILLY COOK
+    Count: 78
+    Counties: 1
+BILLY HALL
+    Count: 3
+    Counties: 1
+BILLY JOE FOSTER
+    Count: 3
+    Counties: 1
+BILLY LOFTON
+    Count: 15
+    Counties: 1
+BILLY ROBERTSON
+    Count: 9
+    Counties: 1
+BILLY WAYNE MITCHELL
+    Count: 18
+    Counties: 1
+BJ DAY
+    Count: 3
+    Counties: 1
+BLAKE TIERNEY
+    Count: 292
+    Counties: 1
+BOB NAULT
+    Count: 3
+    Counties: 1
+BOB RUSH
+    Count: 9
+    Counties: 1
+BOB VAN HAAREN
+    Count: 15
+    Counties: 1
+BOBBY CRISCO
+    Count: 6
+    Counties: 1
+BOBBY MORRISON
+    Count: 30
+    Counties: 1
+BOBBY WILSON
+    Count: 2641
+    Counties: 6
+BONNETTA WILLIAMS
+    Count: 3
+    Counties: 1
+BONNIE KEITH
+    Count: 3
+    Counties: 1
+BOYD "BO" WOODY
+    Count: 3
+    Counties: 1
+BRAD BURNS
+    Count: 36
+    Counties: 1
+BRAD HALL
+    Count: 55
+    Counties: 2
+BRAD MARTIN
+    Count: 4
+    Counties: 1
+BRAD NOEL
+    Count: 18
+    Counties: 1
+BRADLEY BRUNS
+    Count: 90
+    Counties: 1
+BRADLY MOORE
+    Count: 15
+    Counties: 1
+BRADY ZWEIFEL
+    Count: 3
+    Counties: 1
+BRANDEE WEAVER
+    Count: 12
+    Counties: 1
+BRANDI "ROWTON" MARTIN
+    Count: 3
+    Counties: 1
+BRANDI CATES
+    Count: 3
+    Counties: 1
+BRANDON "BJ" BAILEY
+    Count: 3
+    Counties: 1
+BRANDON ACHOR
+    Count: 48
+    Counties: 1
+BRANDON AYERS
+    Count: 3
+    Counties: 1
+BRANDON D BAKER
+    Count: 93
+    Counties: 1
+BRANDON HELLER
+    Count: 4
+    Counties: 1
+BRANDON HOGG
+    Count: 3
+    Counties: 1
+BRANDON SPICHER
+    Count: 51
+    Counties: 1
+BRANDON TAYLOR
+    Count: 9
+    Counties: 1
+BRANDON VAN SICKEL
+    Count: 15
+    Counties: 1
+BREA GRAGG
+    Count: 15
+    Counties: 1
+BREANNE DAVIS
+    Count: 252
+    Counties: 3
+BREAUNA D ALLEN
+    Count: 4
+    Counties: 1
+BRENDA CUNNINGHAM
+    Count: 18
+    Counties: 1
+BRENDA FERRELL
+    Count: 6
+    Counties: 1
+BRENDA HALEY BREWER
+    Count: 9
+    Counties: 1
+BRENDA J LONG
+    Count: 4
+    Counties: 1
+BRENDA VOYLES
+    Count: 3
+    Counties: 1
+BRENT CANON
+    Count: 6
+    Counties: 1
+BRENT CARROLL
+    Count: 12
+    Counties: 1
+BRENT EUBANKS
+    Count: 511
+    Counties: 2
+BRETT ARENT
+    Count: 18
+    Counties: 1
+BRETT T GRAVES
+    Count: 3
+    Counties: 1
+BRIAN HAWKINS
+    Count: 15
+    Counties: 1
+BRIAN LEACH
+    Count: 45
+    Counties: 1
+BRIAN MILLER
+    Count: 3
+    Counties: 1
+BRIAN S EVANS
+    Count: 27
+    Counties: 1
+BRIAN SANSOUCIE
+    Count: 3
+    Counties: 1
+BRIGHAM E JONES JR
+    Count: 12
+    Counties: 1
+BRIT MCKENZIE
+    Count: 108
+    Counties: 1
+BRITTANY SMITH
+    Count: 24
+    Counties: 1
+BRUCE COZART
+    Count: 60
+    Counties: 1
+BRUCE WESTERMAN
+    Count: 2691
+    Counties: 33
+BRYAN JACKSON
+    Count: 6
+    Counties: 1
+BRYAN MILLER
+    Count: 6
+    Counties: 1
+BRYCE ALLEN MONTGOMERY
+    Count: 132
+    Counties: 2
+BRYCE HOLLAND
+    Count: 3
+    Counties: 1
+BUTCH POND
+    Count: 63
+    Counties: 1
+CACHET BLEDSAW
+    Count: 3
+    Counties: 1
+CAITLIN DRAPER
+    Count: 2641
+    Counties: 6
+CAITLIN TANNEHILL OXFORD
+    Count: 120
+    Counties: 3
+CALEB BRACKETT
+    Count: 3
+    Counties: 1
+CALEB SWEARS
+    Count: 9
+    Counties: 1
+CALVIN J FRIERSON
+    Count: 3
+    Counties: 1
+CALVIN MURDOCK
+    Count: 12
+    Counties: 1
+CAMERON COOPER
+    Count: 99
+    Counties: 3
+CAMERON KEHLER
+    Count: 96
+    Counties: 1
+CAMILLE YVETTE BOVAN
+    Count: 6
+    Counties: 1
+CANDACE MAE LEWIS
+    Count: 3
+    Counties: 1
+CANDACE PIRANI
+    Count: 3
+    Counties: 1
+CANDICE BRIGHT
+    Count: 69
+    Counties: 1
+CANDIDA ROBINSON
+    Count: 3
+    Counties: 1
+CARISSA CUMMINGS
+    Count: 153
+    Counties: 1
+CARL E BLEDSOE SR
+    Count: 3
+    Counties: 1
+CARL NEVIN
+    Count: 54
+    Counties: 1
+CARL W MINER
+    Count: 3
+    Counties: 1
+CARLTON BILLINGSLEY
+    Count: 18
+    Counties: 1
+CARLTON WING
+    Count: 56
+    Counties: 1
+CAROL A SPENCER
+    Count: 6
+    Counties: 1
+CAROL DALBY
+    Count: 52
+    Counties: 1
+CAROL DUSS
+    Count: 6
+    Counties: 1
+CAROL VELLA
+    Count: 66
+    Counties: 1
+CAROLINE JANE ROGERS
+    Count: 3
+    Counties: 1
+CAROLYN S TODDY
+    Count: 3
+    Counties: 1
+CARRIE PERR
+    Count: 33
+    Counties: 1
+CARROLL E SMITH
+    Count: 6
+    Counties: 1
+CASEY TUCKER
+    Count: 705
+    Counties: 3
+CASSANDRA D GREEN
+    Count: 48
+    Counties: 1
+CATHY CONLIN DUVALL
+    Count: 9
+    Counties: 1
+CEIL SHORR
+    Count: 3
+    Counties: 1
+CHAD CURRAN
+    Count: 12
+    Counties: 1
+CHAD E BREKELBAUM
+    Count: 63
+    Counties: 1
+CHAD MCCONE
+    Count: 18
+    Counties: 1
+CHAD PURYEAR
+    Count: 120
+    Counties: 3
+CHANDLER CALVERT
+    Count: 3
+    Counties: 1
+CHANEL HICKS
+    Count: 3
+    Counties: 1
+CHANNON N PHIPPS
+    Count: 4
+    Counties: 1
+CHARLES CHRIS DAVIS
+    Count: 3
+    Counties: 1
+CHARLES DARIN JETTON
+    Count: 27
+    Counties: 1
+CHARLES DEAN
+    Count: 78
+    Counties: 1
+CHARLES E BROWN
+    Count: 12
+    Counties: 1
+CHARLES LANCE WOODYARD
+    Count: 3
+    Counties: 1
+CHARLES MAHAN
+    Count: 3
+    Counties: 1
+CHARLES MICHAEL HENDERSON
+    Count: 12
+    Counties: 1
+CHARLES R WIDMER
+    Count: 3
+    Counties: 1
+CHARLIE PIERCE
+    Count: 16
+    Counties: 1
+CHARLINE A WRIGHT
+    Count: 24
+    Counties: 1
+CHASE OLIVER
+    Count: 8751
+    Counties: 75
+CHEESA WILLIAMS
+    Count: 52
+    Counties: 1
+CHENOA SUMMERS
+    Count: 18
+    Counties: 1
+CHERYL A COOK
+    Count: 3
+    Counties: 1
+CHERYL MAY
+    Count: 3
+    Counties: 1
+CHESTER GALLOWAY JR
+    Count: 6
+    Counties: 1
+CHRIS COLLINS
+    Count: 153
+    Counties: 1
+CHRIS GOODSON
+    Count: 3
+    Counties: 1
+CHRIS LATIMER
+    Count: 153
+    Counties: 1
+CHRIS MOORE
+    Count: 114
+    Counties: 1
+CHRIS POTTER
+    Count: 12
+    Counties: 2
+CHRIS POWELL
+    Count: 208
+    Counties: 1
+CHRIS RIX
+    Count: 24
+    Counties: 1
+CHRIS TROUT
+    Count: 18
+    Counties: 1
+CHRISSY COOK
+    Count: 3
+    Counties: 1
+CHRISSY DESANTIAGO
+    Count: 6
+    Counties: 1
+CHRISTEL THOMPSON
+    Count: 18
+    Counties: 1
+CHRISTIAN JONES
+    Count: 96
+    Counties: 1
+CHRISTOPHER DAVIDSON
+    Count: 9
+    Counties: 1
+CHRISTOPHER LOFTIN
+    Count: 9
+    Counties: 1
+CHRISTOPHER SHANE KELEMS
+    Count: 24
+    Counties: 1
+CHRISTY L GORMAN-OVER
+    Count: 3
+    Counties: 1
+CHUCK B DOUGLAS
+    Count: 3
+    Counties: 1
+CHUCK VAN VELKINBURGH
+    Count: 15
+    Counties: 1
+CIARA' BOLTE
+    Count: 99
+    Counties: 3
+CINDY CRAWFORD
+    Count: 138
+    Counties: 1
+CINDY GLOVER
+    Count: 78
+    Counties: 1
+CINDY LOONEY
+    Count: 4
+    Counties: 1
+CLARK GUSTIN
+    Count: 3
+    Counties: 1
+CLAUDIA HARTNESS
+    Count: 3
+    Counties: 1
+CLIFF WOOD
+    Count: 6
+    Counties: 1
+CLIFTON EARL ROOTERS
+    Count: 4
+    Counties: 1
+CLINTON HAMPTON
+    Count: 3
+    Counties: 1
+CODY MARTIN
+    Count: 198
+    Counties: 1
+COLIN A COPE
+    Count: 153
+    Counties: 1
+COLTON EDWARDS
+    Count: 72
+    Counties: 1
+CONLEY F BYRD JR
+    Count: 24
+    Counties: 1
+COREY WILLIAMS SR
+    Count: 3
+    Counties: 1
+CORI MOBBS
+    Count: 12
+    Counties: 1
+CORTNEY D ANDERSON
+    Count: 9
+    Counties: 1
+CORTNEY WARWICK MCKEE
+    Count: 68
+    Counties: 1
+CORY DUNCAN
+    Count: 3
+    Counties: 1
+COURTNEY MAXWELL
+    Count: 21
+    Counties: 1
+CRAIG KAMINICKI
+    Count: 15
+    Counties: 1
+CRYSTAL BELL
+    Count: 18
+    Counties: 1
+CYNDALL HILL
+    Count: 153
+    Counties: 1
+CYNTHIA NATIONS
+    Count: 36
+    Counties: 1
+D ROSE RAINS
+    Count: 52
+    Counties: 1
+D'ANDRE L JONES
+    Count: 54
+    Counties: 1
+DAIMIEN SADAT RICE
+    Count: 4
+    Counties: 1
+DAKOTA LOGAN
+    Count: 39
+    Counties: 2
+DAMEIN E EVANS-DELRIE
+    Count: 20
+    Counties: 1
+DAMETER J RILEY
+    Count: 4
+    Counties: 1
+DAN CROSS
+    Count: 12
+    Counties: 1
+DAN SULLIVAN
+    Count: 126
+    Counties: 1
+DANA STONE
+    Count: 132
+    Counties: 2
+DANE FULTS
+    Count: 9
+    Counties: 1
+DANIEL BALL
+    Count: 3
+    Counties: 1
+DANIEL F DAVENPORT
+    Count: 3
+    Counties: 1
+DANIEL L BATES
+    Count: 7
+    Counties: 2
+DANIEL PARKER
+    Count: 39
+    Counties: 2
+DANIEL SELF
+    Count: 3
+    Counties: 1
+DANIEL SHELTON JR
+    Count: 3
+    Counties: 1
+DANNY CAPPS
+    Count: 3
+    Counties: 1
+DANNY ECKERT
+    Count: 6
+    Counties: 1
+DANNY ERVIN III
+    Count: 9
+    Counties: 1
+DANNY HARRINGTON
+    Count: 27
+    Counties: 1
+DANNY MCCRA
+    Count: 66
+    Counties: 1
+DANNY TRAW
+    Count: 6
+    Counties: 2
+DARLENE S THERIAULT
+    Count: 4
+    Counties: 1
+DARREN L SLOATE
+    Count: 3
+    Counties: 1
+DARRIN HARDY
+    Count: 15
+    Counties: 1
+DARYL J LINDMAN
+    Count: 6
+    Counties: 1
+DAVE WALLACE
+    Count: 129
+    Counties: 3
+DAVID AUSTIN CROWELL
+    Count: 27
+    Counties: 1
+DAVID E ALLEN
+    Count: 36
+    Counties: 1
+DAVID HOGUE
+    Count: 216
+    Counties: 2
+DAVID L BARBER
+    Count: 159
+    Counties: 1
+DAVID MCAVOY
+    Count: 60
+    Counties: 1
+DAVID MCPHERSON
+    Count: 108
+    Counties: 1
+DAVID MURRAY
+    Count: 69
+    Counties: 2
+DAVID PERRY
+    Count: 3
+    Counties: 1
+DAVID RAY
+    Count: 54
+    Counties: 2
+DAVID STALLSWORTH
+    Count: 3
+    Counties: 1
+DAVID TENNISON
+    Count: 18
+    Counties: 1
+DAVID THARP
+    Count: 15
+    Counties: 1
+DAVID V MURRAY
+    Count: 3
+    Counties: 1
+DAVID VICKERS
+    Count: 6
+    Counties: 1
+DAVID WATSON
+    Count: 9
+    Counties: 1
+DAVID WHITAKER
+    Count: 66
+    Counties: 1
+DAVID WILSON
+    Count: 36
+    Counties: 2
+DAVID WYSOCKI
+    Count: 15
+    Counties: 2
+DAWN MARIE HUTCHINS
+    Count: 27
+    Counties: 1
+DAWN ODOM
+    Count: 6
+    Counties: 1
+DAYTON MYERS
+    Count: 16
+    Counties: 1
+DEANN VAUGHT
+    Count: 96
+    Counties: 3
+DEANNA HODGES
+    Count: 39
+    Counties: 1
+DEBBIE EMISON
+    Count: 3
+    Counties: 1
+DEBBIE MCGREW
+    Count: 16
+    Counties: 1
+DEBORAH ANN MOORE
+    Count: 9
+    Counties: 1
+DEBORAH S JOHNSON
+    Count: 15
+    Counties: 1
+DEBRA ANNE HALE
+    Count: 3
+    Counties: 1
+DEDRA PATTERSON
+    Count: 4
+    Counties: 1
+DELLA MAE SKINNER
+    Count: 3
+    Counties: 1
+DELORES ATKINS
+    Count: 3
+    Counties: 1
+DENA POTEAT
+    Count: 3
+    Counties: 1
+DENA R THOMPSON MALONE
+    Count: 12
+    Counties: 1
+DENICE GREGORY
+    Count: 3
+    Counties: 1
+DENISE ENNETT
+    Count: 60
+    Counties: 1
+DENISE GARNER
+    Count: 72
+    Counties: 1
+DENNIS RUTHERFORD
+    Count: 9
+    Counties: 1
+DEREK FLANAGAN
+    Count: 9
+    Counties: 1
+DEREK HUBER
+    Count: 3
+    Counties: 1
+DERRICK AVANT
+    Count: 4
+    Counties: 1
+DESIREEN WHITTEN
+    Count: 36
+    Counties: 1
+DESMOND HAMMETT
+    Count: 30
+    Counties: 1
+DEXTER R MILLER
+    Count: 132
+    Counties: 6
+DIANA GONZALES WORTHEN
+    Count: 39
+    Counties: 1
+DIANA THOMAS
+    Count: 60
+    Counties: 1
+DIANE BRYANT
+    Count: 18
+    Counties: 1
+DIANN SMITH
+    Count: 9
+    Counties: 1
+DINO GIANNINI
+    Count: 6
+    Counties: 1
+DOCTOR ROSE MARIE BRYANT-JONES
+    Count: 33
+    Counties: 1
+DOLLY HENLEY
+    Count: 109
+    Counties: 3
+DON A DECKARD
+    Count: 6
+    Counties: 1
+DON C CLARK II
+    Count: 36
+    Counties: 1
+DON JENKINS
+    Count: 3
+    Counties: 1
+DONALD "DONNY" DAWSON
+    Count: 6
+    Counties: 1
+DONALD COMBS
+    Count: 12
+    Counties: 2
+DONALD J TRUMP
+    Count: 8751
+    Counties: 75
+DONALD R HOPKINS JR
+    Count: 3
+    Counties: 1
+DONALD RICHEY
+    Count: 21
+    Counties: 1
+DONALD SWINEY
+    Count: 9
+    Counties: 1
+DONELLA JAMES
+    Count: 3
+    Counties: 1
+DONNA HARTON USRY
+    Count: 18
+    Counties: 1
+DONNA HUMPHRIES
+    Count: 16
+    Counties: 1
+DONNA KEY
+    Count: 4
+    Counties: 1
+DONNA STATON
+    Count: 4
+    Counties: 1
+DONNIE ENGLAND
+    Count: 3
+    Counties: 1
+DONNIE HUFFINE
+    Count: 3
+    Counties: 1
+DONNIE TAYLOR
+    Count: 3
+    Counties: 1
+DORIS BROWN
+    Count: 15
+    Counties: 1
+DOROTHY ROBINSON
+    Count: 3
+    Counties: 1
+DOTTIE L WILLIAMS
+    Count: 9
+    Counties: 1
+DOUG CORBITT
+    Count: 117
+    Counties: 5
+DOUG ESTES
+    Count: 9
+    Counties: 1
+DOUG FOWLER
+    Count: 66
+    Counties: 1
+DOUG LONG
+    Count: 12
+    Counties: 1
+DOUG SPROUSE
+    Count: 159
+    Counties: 2
+DOUGLAS YANCEY
+    Count: 6
+    Counties: 1
+DR ALFREDA ROBINSON
+    Count: 6
+    Counties: 1
+DR HENRY L LANG
+    Count: 12
+    Counties: 1
+DREW SPURGERS
+    Count: 21
+    Counties: 1
+DREW WOOTEN
+    Count: 3
+    Counties: 1
+DUSTIN HERRON
+    Count: 3
+    Counties: 1
+DUSTIN TODD
+    Count: 198
+    Counties: 1
+DWAYNE SNYDER
+    Count: 39
+    Counties: 1
+DWIGHT TOSH
+    Count: 81
+    Counties: 3
+E'SHUNDRIA GANT
+    Count: 6
+    Counties: 1
+EARL WILLIAMS JR
+    Count: 32
+    Counties: 1
+EARNESTINE ANNETTE ARTIS
+    Count: 3
+    Counties: 1
+EARNIE LINK
+    Count: 3
+    Counties: 1
+EDDIE HARVEY
+    Count: 3
+    Counties: 1
+EDWARD E LEWIS JR
+    Count: 16
+    Counties: 1
+EDWARD WINTERS
+    Count: 3
+    Counties: 1
+ELDON SPEAR
+    Count: 3
+    Counties: 1
+ELI CLARDY
+    Count: 4
+    Counties: 1
+ELLEN M HURLEY MEYER
+    Count: 7
+    Counties: 2
+ELMYRA BROWN
+    Count: 15
+    Counties: 1
+EMILEE REACH
+    Count: 39
+    Counties: 1
+ERIC BIXBY
+    Count: 4
+    Counties: 1
+ERIC DARDEN
+    Count: 8
+    Counties: 1
+ERIC IB MCGEE
+    Count: 60
+    Counties: 1
+ERIC WHITE
+    Count: 3
+    Counties: 1
+ERIKA ASKELAND
+    Count: 126
+    Counties: 1
+ERIN HOLLIDAY
+    Count: 24
+    Counties: 1
+ERIN TAYLOR
+    Count: 99
+    Counties: 1
+ERMA SHAW BROWN
+    Count: 6
+    Counties: 1
+ESTELETA "LETA" RUPLE
+    Count: 15
+    Counties: 2
+ESTHER ACHUMI DENNIS
+    Count: 27
+    Counties: 1
+ESTHER M DIXON
+    Count: 16
+    Counties: 1
+ETHAN EPPINETTE
+    Count: 12
+    Counties: 1
+ETHAN WOLCOTT
+    Count: 3
+    Counties: 1
+EUGENE HANNAMAN
+    Count: 15
+    Counties: 1
+EUGENE ROBINSON
+    Count: 3
+    Counties: 1
+EVANGELINE BEAUMONT
+    Count: 63
+    Counties: 1
+FAYLA HENDERSON
+    Count: 3
+    Counties: 1
+FINIS BREWER
+    Count: 3
+    Counties: 1
+FLOYD BALENTINE
+    Count: 21
+    Counties: 1
+FLOYD L HANCOCK
+    Count: 3
+    Counties: 1
+FLOYD WILLIAMS
+    Count: 3
+    Counties: 1
+FOR
+    Count: 20206
+    Counties: 75
+FRAN CAVENAUGH
+    Count: 69
+    Counties: 3
+FRANCES L SYCE
+    Count: 24
+    Counties: 1
+FRANK BREWER
+    Count: 21
+    Counties: 1
+FRANK GILBERT
+    Count: 320
+    Counties: 1
+FRED ALLEN
+    Count: 44
+    Counties: 1
+FRED HANES
+    Count: 15
+    Counties: 1
+FRED HICKS
+    Count: 3
+    Counties: 1
+FREDDIE LEE MCCLINTON
+    Count: 4
+    Counties: 1
+FRENCH HILL
+    Count: 1347
+    Counties: 8
+FROSTY MERRIOTT
+    Count: 66
+    Counties: 1
+GAIL BRAZELL NEWTON
+    Count: 9
+    Counties: 1
+GARRETT SHEEKS
+    Count: 237
+    Counties: 5
+GARRY "BJ" JOHNS
+    Count: 6
+    Counties: 1
+GARY "BURT" BALLARD
+    Count: 3
+    Counties: 1
+GARY L WILLIAMS
+    Count: 3
+    Counties: 1
+GARY RICKER
+    Count: 108
+    Counties: 1
+GARY STUBBLEFIELD
+    Count: 468
+    Counties: 4
+GARY WAYNE STRANGE
+    Count: 9
+    Counties: 1
+GAYLE BROCK
+    Count: 3
+    Counties: 1
+GENE HARDIN
+    Count: 6
+    Counties: 1
+GENE WILLETT
+    Count: 3
+    Counties: 1
+GEORGE HAWTHORN
+    Count: 60
+    Counties: 1
+GEORGE J "JOEY" GREDE
+    Count: 6
+    Counties: 1
+GEORGE RANKIN
+    Count: 9
+    Counties: 1
+GEORGE WILLIAMS
+    Count: 3
+    Counties: 1
+GEORGE WILLIAMSON
+    Count: 6
+    Counties: 1
+GERALD L "JAY" GALYEN
+    Count: 9
+    Counties: 1
+GERALD MERCER
+    Count: 3
+    Counties: 1
+GERALDINE MOORE
+    Count: 3
+    Counties: 1
+GERY CRAVENS
+    Count: 3
+    Counties: 1
+GILBERT LEWIS
+    Count: 6
+    Counties: 2
+GINA KINGSTON
+    Count: 9
+    Counties: 1
+GINA THOMAS-LITTLEJOHN
+    Count: 42
+    Counties: 1
+GINNI KAUFFMAN
+    Count: 6
+    Counties: 2
+GLADYS NETTLES
+    Count: 54
+    Counties: 1
+GLENDA DICKISON
+    Count: 9
+    Counties: 1
+GLENN BARNES
+    Count: 255
+    Counties: 2
+GLORY ANN RICHARDSON
+    Count: 3
+    Counties: 1
+GORDON HORNADAY
+    Count: 3
+    Counties: 1
+GRACEYLYN "GRACE" BROWN
+    Count: 3
+    Counties: 1
+GREG HINES
+    Count: 153
+    Counties: 1
+GREG JEFFERY
+    Count: 12
+    Counties: 1
+GREGORY PENIX
+    Count: 3
+    Counties: 1
+GWEN HOFFMANN
+    Count: 16
+    Counties: 1
+GWENDOLYN D ALDRIDGE
+    Count: 3
+    Counties: 1
+HAMILTON HOLMES
+    Count: 69
+    Counties: 3
+HANNAH GILMER
+    Count: 3
+    Counties: 1
+HANNAH MARTIN
+    Count: 3
+    Counties: 1
+HARLAN BREAUX
+    Count: 39
+    Counties: 2
+HAROLD COPENHAVER
+    Count: 114
+    Counties: 1
+HAROLD TIMMERMAN
+    Count: 7
+    Counties: 2
+HARRY RODERICK
+    Count: 3
+    Counties: 1
+HAYES MINOR
+    Count: 153
+    Counties: 1
+HAYLEE EADS
+    Count: 9
+    Counties: 1
+HEATH CORBISHLEY
+    Count: 9
+    Counties: 1
+HEATH GUINN
+    Count: 9
+    Counties: 1
+HELEN AREGOOD
+    Count: 9
+    Counties: 1
+HENRY HALE
+    Count: 3
+    Counties: 1
+HOLLY HOOK
+    Count: 150
+    Counties: 1
+HOPE HENDREN DUKE
+    Count: 159
+    Counties: 1
+HOWARD M BEATY JR
+    Count: 111
+    Counties: 2
+HUNTER VICK
+    Count: 3
+    Counties: 1
+IAN LAUGHLIN
+    Count: 6
+    Counties: 1
+INEZ HARDEN
+    Count: 3
+    Counties: 1
+ISAIAH WELLS
+    Count: 3
+    Counties: 1
+JACARLLUS HILL
+    Count: 3
+    Counties: 1
+JACK LADYMAN
+    Count: 60
+    Counties: 1
+JACKIE ADCOCK
+    Count: 9
+    Counties: 1
+JACKIE KAUFMAN
+    Count: 44
+    Counties: 1
+JACKIE LOFTIN
+    Count: 3
+    Counties: 1
+JACOB D SEWELL
+    Count: 3
+    Counties: 1
+JACOB MALLOY
+    Count: 156
+    Counties: 1
+JAHMORRIS TYSON
+    Count: 3
+    Counties: 1
+JALICIA WYATT
+    Count: 12
+    Counties: 2
+JAMES "JIM" WALLACE
+    Count: 9
+    Counties: 1
+JAMES DEAN
+    Count: 18
+    Counties: 1
+JAMES DOBBINS
+    Count: 6
+    Counties: 1
+JAMES EARL TURNER
+    Count: 9
+    Counties: 1
+JAMES EATON
+    Count: 111
+    Counties: 3
+JAMES GRIDER
+    Count: 3
+    Counties: 1
+JAMES HENRY BARTOLOMEI
+    Count: 72
+    Counties: 2
+JAMES JESSEN
+    Count: 27
+    Counties: 1
+JAMES KING
+    Count: 3
+    Counties: 1
+JAMES PRUITT
+    Count: 3
+    Counties: 1
+JAMES ROBINSON
+    Count: 3
+    Counties: 1
+JAMES W FRIERSON JR
+    Count: 208
+    Counties: 1
+JAMES WHITED
+    Count: 24
+    Counties: 1
+JAMIE BUSBY
+    Count: 9
+    Counties: 1
+JAMIE SCOTT
+    Count: 144
+    Counties: 1
+JANA GARCIA
+    Count: 3
+    Counties: 1
+JANE-ELLEN UDOUJ-KUTCHKA
+    Count: 138
+    Counties: 1
+JANELL COMPTON
+    Count: 6
+    Counties: 1
+JANICE WHITAKER
+    Count: 3
+    Counties: 1
+JASON COX
+    Count: 4
+    Counties: 1
+JASON FRASER
+    Count: 3
+    Counties: 1
+JASON GARNER
+    Count: 9
+    Counties: 1
+JASON GILBERT
+    Count: 9
+    Counties: 1
+JASON LANKER
+    Count: 36
+    Counties: 1
+JASON LYON
+    Count: 9
+    Counties: 1
+JASON NAZARENKO
+    Count: 111
+    Counties: 2
+JASON NICHOLS
+    Count: 3
+    Counties: 1
+JAY QUINCY MALONE
+    Count: 3
+    Counties: 1
+JAY RICHARDSON
+    Count: 45
+    Counties: 1
+JAYSON PEPPAS
+    Count: 4
+    Counties: 1
+JD SMART
+    Count: 30
+    Counties: 1
+JEAN WILEY
+    Count: 3
+    Counties: 1
+JEANETTE HILLIKER
+    Count: 3
+    Counties: 1
+JEANNE ANDREWS
+    Count: 9
+    Counties: 1
+JEFF BATTENFIELD
+    Count: 7
+    Counties: 2
+JEFF MCDERMOTT
+    Count: 6
+    Counties: 1
+JEFF SMALLMON SR
+    Count: 15
+    Counties: 2
+JEFF WARDLAW
+    Count: 102
+    Counties: 3
+JENIMY "JIMMY" WILLIAMS
+    Count: 3
+    Counties: 1
+JENNIFER ROWLAND
+    Count: 3
+    Counties: 1
+JENNIFER THURLO
+    Count: 9
+    Counties: 1
+JERAD SELBY
+    Count: 3
+    Counties: 1
+JEREMIAH MOORE
+    Count: 237
+    Counties: 5
+JEREMY D BRIDGES
+    Count: 66
+    Counties: 1
+JEREMY G BRAY
+    Count: 4
+    Counties: 1
+JEREMY TERRELL
+    Count: 114
+    Counties: 1
+JEREMY WOOLDRIDGE
+    Count: 117
+    Counties: 3
+JERMAN SMITH
+    Count: 9
+    Counties: 1
+JEROME WRAY
+    Count: 3
+    Counties: 1
+JERRY COOK
+    Count: 3
+    Counties: 1
+JERRY CROSBY
+    Count: 3
+    Counties: 1
+JERRY DECKER
+    Count: 9
+    Counties: 1
+JERRY L SATTERWHITE
+    Count: 9
+    Counties: 1
+JERRY LEE JONES
+    Count: 3
+    Counties: 1
+JERRY RHODA BRADLEY
+    Count: 3
+    Counties: 1
+JERRY SNOW
+    Count: 66
+    Counties: 1
+JERRY W JONES
+    Count: 3
+    Counties: 1
+JERRY WARD
+    Count: 27
+    Counties: 1
+JESSE BUCHANAN
+    Count: 45
+    Counties: 1
+JESSE DEAN
+    Count: 3
+    Counties: 1
+JESSE LEON JOHNSON
+    Count: 3
+    Counties: 1
+JESSE WHITE
+    Count: 3
+    Counties: 1
+JESSICA BURNS
+    Count: 6
+    Counties: 1
+JESSICA EDMOND
+    Count: 153
+    Counties: 1
+JESSICA S STERLIN
+    Count: 3
+    Counties: 1
+JESSICA YOUNG
+    Count: 6
+    Counties: 1
+JESSIE MCGRUDER
+    Count: 45
+    Counties: 3
+JESSIE MORGAN
+    Count: 6
+    Counties: 1
+JESTAN HOPKINS
+    Count: 3
+    Counties: 1
+JILL STEIN
+    Count: 8751
+    Counties: 75
+JILL SUMMERFORD
+    Count: 72
+    Counties: 1
+JILLIAN BOGY
+    Count: 12
+    Counties: 2
+JIM BODENHAMER
+    Count: 15
+    Counties: 1
+JIM DOTSON
+    Count: 285
+    Counties: 1
+JIM MILLS
+    Count: 3
+    Counties: 1
+JIM MOORE
+    Count: 52
+    Counties: 1
+JIM PETTY
+    Count: 190
+    Counties: 2
+JIM WHITLEY
+    Count: 12
+    Counties: 1
+JIM WOOTEN
+    Count: 78
+    Counties: 2
+JIMMY CLARK
+    Count: 12
+    Counties: 2
+JIMMY FRALEY
+    Count: 15
+    Counties: 1
+JIMMY GAZAWAY
+    Count: 27
+    Counties: 1
+JIMMY HICKEY JR
+    Count: 208
+    Counties: 5
+JIMMY YOUNG
+    Count: 16
+    Counties: 1
+JIMMY YOUNGMAN
+    Count: 9
+    Counties: 1
+JK WILLIAMS
+    Count: 3
+    Counties: 1
+JOAN K ADCOCK
+    Count: 292
+    Counties: 1
+JOCELYN LAMPKIN
+    Count: 150
+    Counties: 1
+JODI HOWARD
+    Count: 3
+    Counties: 1
+JODY VERSER
+    Count: 54
+    Counties: 1
+JOE JORDAN
+    Count: 4
+    Counties: 1
+JOE RHINE
+    Count: 66
+    Counties: 1
+JOE SPIVEY
+    Count: 69
+    Counties: 1
+JOE WILLIAMS JR
+    Count: 15
+    Counties: 1
+JOEL EDWARD
+    Count: 45
+    Counties: 1
+JOEL JONES
+    Count: 66
+    Counties: 1
+JOEL NEWBURN
+    Count: 208
+    Counties: 1
+JOEL STEINLE
+    Count: 66
+    Counties: 1
+JOEY CARR
+    Count: 30
+    Counties: 1
+JOEY TINZIE
+    Count: 24
+    Counties: 1
+JOEY UL WERTZ
+    Count: 4
+    Counties: 1
+JOHN "BUTCH" PRUNTY
+    Count: 15
+    Counties: 1
+JOHN D REED
+    Count: 18
+    Counties: 1
+JOHN DAVID JOHNSON
+    Count: 27
+    Counties: 1
+JOHN DAVID MILLER
+    Count: 27
+    Counties: 1
+JOHN DEWEY
+    Count: 3
+    Counties: 1
+JOHN FENLEY
+    Count: 291
+    Counties: 1
+JOHN HOWERTON
+    Count: 3
+    Counties: 1
+JOHN JUSTICE
+    Count: 15
+    Counties: 1
+JOHN L BRADFORD
+    Count: 6
+    Counties: 2
+JOHN MADDOX
+    Count: 108
+    Counties: 3
+JOHN P CARR
+    Count: 60
+    Counties: 1
+JOHN PAGAN
+    Count: 8751
+    Counties: 75
+JOHN PAUL THOMPSON
+    Count: 3
+    Counties: 1
+JOHN PAYTON
+    Count: 339
+    Counties: 6
+JOHN SCHAEFFER
+    Count: 6
+    Counties: 1
+JOHN THURSTON
+    Count: 8751
+    Counties: 75
+JOHNNY EVERETTE
+    Count: 12
+    Counties: 1
+JOHNNY RICKMAN
+    Count: 3
+    Counties: 1
+JOHNNY RYE
+    Count: 39
+    Counties: 2
+JOLENE MULLET
+    Count: 18
+    Counties: 1
+JON MILLIGAN
+    Count: 69
+    Counties: 2
+JON RAMBO
+    Count: 9
+    Counties: 1
+JON S EUBANKS
+    Count: 177
+    Counties: 4
+JONATHAN ARNOLD
+    Count: 4
+    Counties: 1
+JONATHAN DISMANG
+    Count: 330
+    Counties: 3
+JONATHAN MARTIN
+    Count: 12
+    Counties: 1
+JONATHAN S ALLEN
+    Count: 3
+    Counties: 1
+JONATHAN WOLFE
+    Count: 6
+    Counties: 1
+JONATHON DAVIS
+    Count: 3
+    Counties: 1
+JORDAN R THOMAS
+    Count: 292
+    Counties: 1
+JOSEPH B WHITE
+    Count: 3
+    Counties: 1
+JOSEPH BOLL
+    Count: 63
+    Counties: 1
+JOSEPH MICHAEL STODDARD
+    Count: 3
+    Counties: 1
+JOSEPH MYLES
+    Count: 9
+    Counties: 1
+JOSEPH PEARSON
+    Count: 12
+    Counties: 1
+JOSEPH TUCKER JR
+    Count: 6
+    Counties: 1
+JOSH CURTIS
+    Count: 24
+    Counties: 1
+JOSH EARL
+    Count: 16
+    Counties: 1
+JOSH FERGUSON
+    Count: 9
+    Counties: 1
+JOSH LONGMIRE
+    Count: 15
+    Counties: 1
+JOY C SPRINGER
+    Count: 52
+    Counties: 1
+JOY GRISSOM
+    Count: 3
+    Counties: 1
+JUANITA WILSON
+    Count: 7
+    Counties: 2
+JUDY DARE
+    Count: 16
+    Counties: 1
+JUDY HARRISON
+    Count: 15
+    Counties: 1
+JUDY HINSON
+    Count: 9
+    Counties: 1
+JUDY NATION
+    Count: 36
+    Counties: 1
+JUDY WARD
+    Count: 3
+    Counties: 1
+JUDY WILSON
+    Count: 8
+    Counties: 1
+JULIA YARBROUGH
+    Count: 4
+    Counties: 1
+JULIE BLACKWOOD
+    Count: 44
+    Counties: 1
+JULIE MAYBERRY
+    Count: 69
+    Counties: 2
+JUNIOR WISE
+    Count: 6
+    Counties: 2
+JUSTIN COYNE
+    Count: 18
+    Counties: 1
+JUSTIN GONZALES
+    Count: 133
+    Counties: 5
+JUSTIN MEEKS
+    Count: 126
+    Counties: 2
+JUSTIN RUE
+    Count: 12
+    Counties: 1
+K C MCKENNEY
+    Count: 3
+    Counties: 1
+KAMALA D HARRIS
+    Count: 8751
+    Counties: 75
+KAMEY KELVINSON
+    Count: 9
+    Counties: 1
+KARA PAXTON
+    Count: 201
+    Counties: 1
+KARATHA MCWRIGHT
+    Count: 3
+    Counties: 1
+KAREN BAKER
+    Count: 8751
+    Counties: 75
+KAREN CROWSON
+    Count: 18
+    Counties: 1
+KAREN S ANDERSON
+    Count: 3
+    Counties: 1
+KARILYN BROWN
+    Count: 44
+    Counties: 1
+KARL HORTON
+    Count: 3
+    Counties: 1
+KARMEL KUHN
+    Count: 15
+    Counties: 1
+KATE SCHAFFER
+    Count: 102
+    Counties: 1
+KATE WELLS
+    Count: 9
+    Counties: 1
+KATHY LEWISON
+    Count: 48
+    Counties: 1
+KATRINA MIMMS
+    Count: 52
+    Counties: 1
+KAY GRAGG
+    Count: 3
+    Counties: 1
+KAYLA L SHEPHERD
+    Count: 3
+    Counties: 1
+KAYLEE WEDGEWORTH
+    Count: 285
+    Counties: 1
+KEITH BROOKS
+    Count: 72
+    Counties: 2
+KEITH CARLISLE
+    Count: 12
+    Counties: 1
+KEITH EVANS
+    Count: 3
+    Counties: 1
+KEITH HIGGINBOTHAM
+    Count: 66
+    Counties: 1
+KEITH KELLUM
+    Count: 18
+    Counties: 1
+KEITH LIVESAY
+    Count: 114
+    Counties: 1
+KELLY JACKSON
+    Count: 3
+    Counties: 1
+KELLY SIKORSKI
+    Count: 63
+    Counties: 1
+KELSEY JOHNSON
+    Count: 3
+    Counties: 1
+KELSEY PIRANI HENSLEY
+    Count: 6
+    Counties: 1
+KEN ASHLEY-PAULEY
+    Count: 21
+    Counties: 1
+KEN FARMER
+    Count: 42
+    Counties: 1
+KEN FERGUSON
+    Count: 225
+    Counties: 3
+KENDON UNDERWOOD
+    Count: 180
+    Counties: 1
+KENDRA MOORE
+    Count: 129
+    Counties: 1
+KENNETH CAGLE
+    Count: 3
+    Counties: 1
+KENNETH E MILLS
+    Count: 3
+    Counties: 1
+KENNETH LOFTON
+    Count: 3
+    Counties: 1
+KENNETH WAYNE COOPERWOOD
+    Count: 9
+    Counties: 1
+KENNETH WILLIAMSON
+    Count: 27
+    Counties: 1
+KENNY PARKER
+    Count: 9
+    Counties: 1
+KERRIE HANCOCK
+    Count: 9
+    Counties: 1
+KEVIN ANDREWS
+    Count: 15
+    Counties: 1
+KEVIN CRIDER
+    Count: 3
+    Counties: 1
+KEVIN HUTCHISON
+    Count: 6
+    Counties: 1
+KEVIN L BELL
+    Count: 4
+    Counties: 1
+KEVIN WILLIAMS
+    Count: 36
+    Counties: 1
+KIM COLLINS
+    Count: 4
+    Counties: 1
+KIM PEARSON
+    Count: 48
+    Counties: 1
+KIM SLAUGHTER
+    Count: 42
+    Counties: 1
+KIMBERLY BRUCE
+    Count: 4
+    Counties: 1
+KIRK BARBER
+    Count: 27
+    Counties: 1
+KOLTON JENSEN
+    Count: 6
+    Counties: 1
+KORREN EVERETT
+    Count: 3
+    Counties: 1
+KRIS KENDRICK
+    Count: 15
+    Counties: 1
+KRISTAIN THOMPSON
+    Count: 15
+    Counties: 1
+KRISTI MASSEY
+    Count: 3
+    Counties: 1
+KRISTYNA MASON
+    Count: 12
+    Counties: 1
+KWAMI ABDUL-BEY
+    Count: 54
+    Counties: 2
+KYLE LEWIS
+    Count: 15
+    Counties: 1
+KYLE SWEAT
+    Count: 3
+    Counties: 1
+KYMBERLON CLARK
+    Count: 3
+    Counties: 1
+L J WESLEY
+    Count: 16
+    Counties: 1
+LACEY BAKER
+    Count: 3
+    Counties: 1
+LACIE BETTENCOURT
+    Count: 3
+    Counties: 1
+LACOSTA BEENE
+    Count: 3
+    Counties: 1
+LAFAY BROADWAY
+    Count: 12
+    Counties: 1
+LAFAYETTE SMITH
+    Count: 12
+    Counties: 1
+LAKISHA N LOWE
+    Count: 9
+    Counties: 1
+LANCE MCMULLAN
+    Count: 6
+    Counties: 1
+LANE A SCOTT
+    Count: 12
+    Counties: 1
+LANE JEAN
+    Count: 81
+    Counties: 3
+LANEY HARRIS
+    Count: 12
+    Counties: 1
+LARRY D EAST
+    Count: 16
+    Counties: 1
+LARRY G JOHNSON
+    Count: 6
+    Counties: 1
+LARRY L WEIHE
+    Count: 36
+    Counties: 1
+LARRY SHINGLEUR SR
+    Count: 6
+    Counties: 1
+LARRY TYGER
+    Count: 6
+    Counties: 2
+LARRY WILLIAMS
+    Count: 16
+    Counties: 1
+LATONYA MCELROY
+    Count: 4
+    Counties: 1
+LATOYA HARRIS
+    Count: 9
+    Counties: 1
+LAURA J SMITH
+    Count: 6
+    Counties: 2
+LAURA JO DIXON
+    Count: 3
+    Counties: 1
+LAURA ROWE
+    Count: 3
+    Counties: 1
+LAURA WETZEL
+    Count: 15
+    Counties: 1
+LAUREN FAULK
+    Count: 69
+    Counties: 3
+LAURIE MOREHART MOORE
+    Count: 12
+    Counties: 1
+LAWANDA GAIL ROBINSON
+    Count: 3
+    Counties: 1
+LAWRENCE "JOE" ASKEW
+    Count: 3
+    Counties: 1
+LAYTON LEE
+    Count: 3
+    Counties: 1
+LEE ANN PITCHFORD
+    Count: 15
+    Counties: 1
+LEE HENSON
+    Count: 9
+    Counties: 1
+LEE JOHNSON
+    Count: 315
+    Counties: 1
+LEE KEMP
+    Count: 54
+    Counties: 1
+LELA CHISM
+    Count: 12
+    Counties: 1
+LEON HORTON
+    Count: 3
+    Counties: 1
+LES EAVES
+    Count: 78
+    Counties: 1
+LES PATTERSON
+    Count: 3
+    Counties: 1
+LES WARREN
+    Count: 72
+    Counties: 1
+LESLEY GRAY
+    Count: 9
+    Counties: 1
+LESLIE KERWOOD
+    Count: 6
+    Counties: 1
+LEWIS GILLS
+    Count: 6
+    Counties: 1
+LIA BELL
+    Count: 6
+    Counties: 1
+LINCOLN BARNETT
+    Count: 54
+    Counties: 2
+LINDA ALLISON
+    Count: 24
+    Counties: 1
+LINDA D GOODNER
+    Count: 3
+    Counties: 1
+LINDA M SPARROW
+    Count: 3
+    Counties: 1
+LINDA SANDERS
+    Count: 3
+    Counties: 1
+LINDA STARR
+    Count: 3
+    Counties: 1
+LIONELD JORDAN
+    Count: 201
+    Counties: 1
+LISA BALDRIDGE
+    Count: 3
+    Counties: 1
+LISA DAWSON
+    Count: 3
+    Counties: 1
+LISA ECKE
+    Count: 30
+    Counties: 1
+LISA HEAD
+    Count: 87
+    Counties: 3
+LISA MEYER
+    Count: 12
+    Counties: 1
+LISA POWELL CARTER
+    Count: 3
+    Counties: 1
+LIZ TORGERSON
+    Count: 16
+    Counties: 1
+LJ BRYANT
+    Count: 114
+    Counties: 1
+LM DUNCAN
+    Count: 6
+    Counties: 1
+LON CROSS
+    Count: 66
+    Counties: 1
+LONI KELLEY
+    Count: 3
+    Counties: 1
+LONNY MACK GOODWIN
+    Count: 208
+    Counties: 5
+LORETTA COTTON
+    Count: 3
+    Counties: 1
+LORETTA PURKEY
+    Count: 9
+    Counties: 2
+LORI MARRS
+    Count: 6
+    Counties: 1
+LORIE MASON JORDAN
+    Count: 216
+    Counties: 2
+LORINDA SMITH
+    Count: 201
+    Counties: 1
+LORNA D GOODWIN
+    Count: 3
+    Counties: 1
+LUIS DIAZ
+    Count: 6
+    Counties: 1
+LUTHER YANCEY
+    Count: 9
+    Counties: 2
+LYNDELL BRADLEY
+    Count: 3
+    Counties: 1
+M JUNE GRANT
+    Count: 3
+    Counties: 1
+MABELINE HANSBERRY
+    Count: 4
+    Counties: 1
+MAC GREEN
+    Count: 27
+    Counties: 1
+MAGGIE DAVENPORT
+    Count: 3
+    Counties: 1
+MALLORY SHAY TYLER
+    Count: 3
+    Counties: 1
+MANDEL G SAMUELS
+    Count: 153
+    Counties: 1
+MANDI TAYLOR
+    Count: 3
+    Counties: 1
+MANDY STOUT
+    Count: 3
+    Counties: 1
+MANUEL GARCIA
+    Count: 3
+    Counties: 1
+MARC ROSSON
+    Count: 96
+    Counties: 3
+MARCUS A JONES
+    Count: 1347
+    Counties: 8
+MARCUS E RICHMOND
+    Count: 213
+    Counties: 3
+MARCUS R WALKER
+    Count: 4
+    Counties: 1
+MAREE COATS
+    Count: 21
+    Counties: 1
+MARGARET "MARGE" WOLF
+    Count: 153
+    Counties: 1
+MARGARET MOUSER
+    Count: 186
+    Counties: 1
+MARGARET OTT
+    Count: 3
+    Counties: 1
+MARGARETTE LACY WINFREY
+    Count: 3
+    Counties: 1
+MARIE FLANAGAN
+    Count: 9
+    Counties: 1
+MARILYN WOODS-WEBB
+    Count: 3
+    Counties: 1
+MARINA BROOKS
+    Count: 16
+    Counties: 1
+MARION BEARD GIBSON
+    Count: 12
+    Counties: 1
+MARION WESLEY SHIPMAN
+    Count: 15
+    Counties: 1
+MARJORIE WARD
+    Count: 3
+    Counties: 1
+MARK A CRAIN
+    Count: 9
+    Counties: 1
+MARK A TOTH
+    Count: 24
+    Counties: 1
+MARK CONLEY
+    Count: 3
+    Counties: 1
+MARK D MCELROY
+    Count: 132
+    Counties: 6
+MARK ELSINGER
+    Count: 75
+    Counties: 1
+MARK FERRELL
+    Count: 18
+    Counties: 1
+MARK GARRETT
+    Count: 3
+    Counties: 1
+MARK JOHNSON
+    Count: 118
+    Counties: 2
+MARK LEDBETTER
+    Count: 24
+    Counties: 1
+MARK LONG
+    Count: 36
+    Counties: 1
+MARK SCOTT
+    Count: 186
+    Counties: 1
+MARK SHAFFER
+    Count: 4
+    Counties: 1
+MARK STEVEN FOWLER
+    Count: 4
+    Counties: 1
+MARK VAUGHT
+    Count: 21
+    Counties: 1
+MARK W BRADLEY
+    Count: 66
+    Counties: 1
+MARK W PERRY
+    Count: 44
+    Counties: 1
+MARQUIS "MARK" ROGERS
+    Count: 3
+    Counties: 1
+MARTHA WEST
+    Count: 18
+    Counties: 1
+MARVIN METCALF
+    Count: 3
+    Counties: 1
+MARY BENTLEY
+    Count: 117
+    Counties: 5
+MARY DENISE ROSS
+    Count: 3
+    Counties: 1
+MARY EDDLEMAN
+    Count: 9
+    Counties: 1
+MARY JANE PARKS
+    Count: 12
+    Counties: 1
+MARY KNIGHT
+    Count: 6
+    Counties: 1
+MARY MCADOO
+    Count: 3
+    Counties: 1
+MATT BLOOD
+    Count: 30
+    Counties: 1
+MATT BROWN
+    Count: 36
+    Counties: 1
+MATT DUFFIELD
+    Count: 57
+    Counties: 1
+MATT MCKEE
+    Count: 175
+    Counties: 2
+MATTHEW J SHEPHERD
+    Count: 60
+    Counties: 1
+MATTHEW VANCIL
+    Count: 3
+    Counties: 1
+MATTHEW W BLUM
+    Count: 18
+    Counties: 1
+MAUREEN SKINNER
+    Count: 118
+    Counties: 2
+MAURICE TAYLOR
+    Count: 32
+    Counties: 1
+MEGAN CAREY
+    Count: 3
+    Counties: 1
+MEGAN DAMRON
+    Count: 3
+    Counties: 1
+MELINDA MARTIN
+    Count: 15
+    Counties: 1
+MELINDA WRAY
+    Count: 3
+    Counties: 1
+MELLIE WILLIAMS
+    Count: 16
+    Counties: 1
+MELODY MILLER
+    Count: 81
+    Counties: 1
+MEREDITH FINN
+    Count: 16
+    Counties: 1
+MEREDITH TOWNSEND
+    Count: 20
+    Counties: 1
+MERLE E FAWCETT SR
+    Count: 6
+    Counties: 1
+MICAH BRAUGHTON
+    Count: 16
+    Counties: 1
+MICAH ROMINE
+    Count: 3
+    Counties: 1
+MICHAEL ALLDREDGE
+    Count: 30
+    Counties: 1
+MICHAEL CASTAGNA
+    Count: 6
+    Counties: 1
+MICHAEL CHASTAIN
+    Count: 16
+    Counties: 1
+MICHAEL CLEVENGER
+    Count: 3
+    Counties: 1
+MICHAEL COMMET
+    Count: 66
+    Counties: 1
+MICHAEL CRAVENS
+    Count: 3
+    Counties: 1
+MICHAEL EDWIN FIKE
+    Count: 3
+    Counties: 1
+MICHAEL FOUNTAIN
+    Count: 3
+    Counties: 1
+MICHAEL HOWELL
+    Count: 6
+    Counties: 1
+MICHAEL J BULLOCK
+    Count: 48
+    Counties: 1
+MICHAEL J KALAGIAS
+    Count: 186
+    Counties: 1
+MICHAEL L ANKTON
+    Count: 3
+    Counties: 1
+MICHAEL MCSPADDEN
+    Count: 3
+    Counties: 1
+MICHAEL PAKKO
+    Count: 8751
+    Counties: 75
+MICHAEL PARETTE
+    Count: 3
+    Counties: 1
+MICHAEL POUNDERS
+    Count: 3
+    Counties: 1
+MICHAEL SCANTLIN
+    Count: 4
+    Counties: 1
+MICHAEL TUCKER
+    Count: 3
+    Counties: 1
+MICHAEL W MILLER
+    Count: 99
+    Counties: 1
+MICHAEL WAGENBLAST
+    Count: 3
+    Counties: 1
+MICHAEL WEBSTER
+    Count: 3
+    Counties: 1
+MICHAEL WHITE
+    Count: 48
+    Counties: 1
+MICHAEL WOOD
+    Count: 8751
+    Counties: 75
+MICHELE LINEHAN
+    Count: 15
+    Counties: 1
+MICHELLE BLASENGAME
+    Count: 12
+    Counties: 1
+MICHELLE JUSTICE
+    Count: 252
+    Counties: 3
+MICHELLE S WHITE
+    Count: 15
+    Counties: 2
+MICKEY PARKER
+    Count: 3
+    Counties: 1
+MIKE AMASON
+    Count: 3
+    Counties: 1
+MIKE DAVIDSON
+    Count: 93
+    Counties: 1
+MIKE HOLCOMB
+    Count: 195
+    Counties: 4
+MIKE MATOS
+    Count: 3
+    Counties: 1
+MIKE MCDONALD
+    Count: 3
+    Counties: 1
+MIKE WASHKOWIAK
+    Count: 18
+    Counties: 1
+MIKE WIEDERKEHR
+    Count: 45
+    Counties: 1
+MINDY MCALINDON
+    Count: 102
+    Counties: 1
+MISTY D HUMWAY
+    Count: 24
+    Counties: 1
+MOLLY MCNULTY
+    Count: 705
+    Counties: 3
+MOLLY RAWN
+    Count: 201
+    Counties: 1
+MONICA CARTWRIGHT DAVIS
+    Count: 3
+    Counties: 1
+MONICA MACOMBER
+    Count: 4
+    Counties: 1
+MONICA TREAT
+    Count: 32
+    Counties: 1
+MONIQUE JONES
+    Count: 51
+    Counties: 1
+NA-QUISHIA K TERRELL
+    Count: 24
+    Counties: 1
+NANCY JO PUCCI
+    Count: 6
+    Counties: 1
+NATALIE QUINTANA-DUBOIS
+    Count: 6
+    Counties: 2
+NATALIE TIBBS
+    Count: 33
+    Counties: 1
+NATHAN RAINEY
+    Count: 3
+    Counties: 1
+NATHANIEL GUNNEMAN
+    Count: 36
+    Counties: 1
+NESTOR BRICENO
+    Count: 27
+    Counties: 1
+NICHOLAS "NICK" HENRY
+    Count: 150
+    Counties: 1
+NICHOLAS SANDERS
+    Count: 9
+    Counties: 1
+NICK BURKES
+    Count: 156
+    Counties: 1
+NICK SLAGLE
+    Count: 150
+    Counties: 1
+NICOLE CLOWNEY
+    Count: 45
+    Counties: 1
+NICOLE HART
+    Count: 32
+    Counties: 1
+NIKKI TACKETT
+    Count: 9
+    Counties: 1
+O L HIGHTOWER
+    Count: 24
+    Counties: 1
+O'DELL CARR
+    Count: 60
+    Counties: 1
+OTIS GIPSON
+    Count: 9
+    Counties: 1
+OWEN HAYNES
+    Count: 18
+    Counties: 1
+PAIGE WOLFE
+    Count: 15
+    Counties: 1
+PAM ANDERSON
+    Count: 3
+    Counties: 1
+PAM REYNOLDS
+    Count: 6
+    Counties: 1
+PAT SEARS
+    Count: 4
+    Counties: 1
+PATRICIA DOSS GLOVER
+    Count: 3
+    Counties: 1
+PATRICIA STEPHENS
+    Count: 3
+    Counties: 1
+PATRICK LOCKETT
+    Count: 24
+    Counties: 1
+PATTY HECTOR
+    Count: 18
+    Counties: 1
+PAUL CHILDRESS
+    Count: 45
+    Counties: 1
+PAUL COLVIN JR
+    Count: 18
+    Counties: 1
+PAUL FONTAINE
+    Count: 12
+    Counties: 2
+PAULA BURNS
+    Count: 3
+    Counties: 1
+PAULA J REYNOLDS
+    Count: 6
+    Counties: 1
+PAULA WHITEHEAD
+    Count: 9
+    Counties: 1
+PENNY MENDES ALLEN
+    Count: 6
+    Counties: 2
+PENNY OWENS
+    Count: 3
+    Counties: 1
+PERRY GALLOWAY
+    Count: 9
+    Counties: 1
+PERRY TACKETT
+    Count: 3
+    Counties: 1
+PETER SONSKI
+    Count: 8751
+    Counties: 75
+PHIL FRIESE
+    Count: 6
+    Counties: 1
+PHILL WASHINGTON
+    Count: 3
+    Counties: 1
+PHILLIP ROTHE
+    Count: 3
+    Counties: 1
+PHILLIP STULTZ
+    Count: 3
+    Counties: 1
+QUINCY SCOTT
+    Count: 3
+    Counties: 1
+R DAN GRANT
+    Count: 3
+    Counties: 1
+R GARRETT HAM
+    Count: 150
+    Counties: 1
+R SCOTT RICHARDSON
+    Count: 105
+    Counties: 1
+RACHAEL WILLIAMS
+    Count: 12
+    Counties: 1
+RACHEL TOLAND
+    Count: 9
+    Counties: 1
+RALF BAILES
+    Count: 16
+    Counties: 1
+RALPH CARRUTH
+    Count: 4
+    Counties: 1
+RALPH MEEKER JR
+    Count: 96
+    Counties: 1
+RALPH V WILLIAMS
+    Count: 12
+    Counties: 1
+RANDAL BOLEN
+    Count: 6
+    Counties: 1
+RANDALL BLALOCK
+    Count: 6
+    Counties: 1
+RANDY HENRY
+    Count: 24
+    Counties: 1
+RANDY ROBINSON
+    Count: 12
+    Counties: 1
+RANDY ROSE
+    Count: 3
+    Counties: 1
+RANDY TORRES
+    Count: 183
+    Counties: 1
+RAOUL R JOHNSTON
+    Count: 6
+    Counties: 1
+RAY OWEN JR
+    Count: 16
+    Counties: 1
+RAYMOND E WASHINGTON SR
+    Count: 27
+    Counties: 1
+RAYMOND FURLOW
+    Count: 6
+    Counties: 1
+RAYMOND WATSON
+    Count: 9
+    Counties: 1
+REBECCA BURKES
+    Count: 81
+    Counties: 2
+REBEKAH L DAVIS
+    Count: 60
+    Counties: 1
+REGINA CAROL WINFORD
+    Count: 3
+    Counties: 1
+REID CARROLL
+    Count: 36
+    Counties: 1
+RENEE BARRON
+    Count: 9
+    Counties: 1
+RETHA SPENCER
+    Count: 3
+    Counties: 1
+REX LENARD
+    Count: 3
+    Counties: 1
+REY HERNANDEZ
+    Count: 81
+    Counties: 2
+RHONDA G DUNN
+    Count: 3
+    Counties: 1
+RHONDA WOOD
+    Count: 8751
+    Counties: 75
+RICHARD "RICK" HALL
+    Count: 12
+    Counties: 1
+RICHARD L EDGERTON III
+    Count: 27
+    Counties: 1
+RICHARD MATTHEWS
+    Count: 15
+    Counties: 2
+RICHARD MCGREW
+    Count: 68
+    Counties: 1
+RICHARD MCK
+    Count: 63
+    Counties: 1
+RICHARD MCKEOWN
+    Count: 12
+    Counties: 1
+RICHARD ROGERS
+    Count: 18
+    Counties: 1
+RICHARD WOMACK
+    Count: 77
+    Counties: 3
+RICK BECK
+    Count: 126
+    Counties: 2
+RICK CRAWFORD
+    Count: 2076
+    Counties: 31
+RICK DELANEY
+    Count: 39
+    Counties: 2
+RICK EAST
+    Count: 3
+    Counties: 1
+RICK MCCLURE
+    Count: 66
+    Counties: 2
+RICK MYERS
+    Count: 18
+    Counties: 1
+RICK STEINER
+    Count: 3
+    Counties: 1
+RICKEY GULLEY
+    Count: 75
+    Counties: 1
+RICKEY LEE DRIGGERS
+    Count: 6
+    Counties: 1
+RICKEY T PHELIX
+    Count: 3
+    Counties: 1
+RICKY D SIMS
+    Count: 9
+    Counties: 1
+RICKY LATTIMORE
+    Count: 3
+    Counties: 1
+RICKY LEE DRIGGERS
+    Count: 6
+    Counties: 1
+RICKY MCDANIEL
+    Count: 3
+    Counties: 1
+RISIE HOWARD
+    Count: 2691
+    Counties: 33
+RJ HAWK
+    Count: 42
+    Counties: 1
+ROB B SHORT
+    Count: 27
+    Counties: 1
+ROBERT "BOBBY" ASTIN
+    Count: 3
+    Counties: 1
+ROBERT "BOBBY" GILLIAM
+    Count: 18
+    Counties: 1
+ROBERT ARNOLD
+    Count: 7
+    Counties: 2
+ROBERT CALDWELL
+    Count: 15
+    Counties: 1
+ROBERT CORTINEZ
+    Count: 511
+    Counties: 2
+ROBERT D CASTO
+    Count: 12
+    Counties: 1
+ROBERT E DENNI
+    Count: 30
+    Counties: 1
+ROBERT F KENNEDY JR
+    Count: 8751
+    Counties: 75
+ROBERT LEE SCOTT
+    Count: 3
+    Counties: 1
+ROBERT LOUTON
+    Count: 16
+    Counties: 1
+ROBERT THOMPSON
+    Count: 18
+    Counties: 1
+ROBERT THORNE JR
+    Count: 45
+    Counties: 3
+ROBERT WELLS
+    Count: 208
+    Counties: 1
+ROBIN DUVALL
+    Count: 3
+    Counties: 1
+ROBIN G ROARK
+    Count: 141
+    Counties: 6
+ROBIN HEFNER
+    Count: 9
+    Counties: 1
+ROBIN LUNDSTRUM
+    Count: 126
+    Counties: 2
+ROBIN W MCCRAY
+    Count: 72
+    Counties: 1
+ROD POWELL
+    Count: 96
+    Counties: 1
+RODNEY GOVENS
+    Count: 2076
+    Counties: 31
+RODNEY JUDY
+    Count: 39
+    Counties: 1
+RODNEY PARKER
+    Count: 3
+    Counties: 1
+ROGER D LYNCH
+    Count: 168
+    Counties: 2
+ROGER JOHNSON
+    Count: 4
+    Counties: 1
+ROGER MAULDIN
+    Count: 6
+    Counties: 1
+ROGER P QUILTY
+    Count: 9
+    Counties: 1
+ROGER SURLY
+    Count: 153
+    Counties: 1
+ROGER W HOOPER
+    Count: 15
+    Counties: 2
+ROGER WHITMORE
+    Count: 3
+    Counties: 1
+ROLLIN WYCOFF
+    Count: 27
+    Counties: 1
+RON MCNAIR
+    Count: 40
+    Counties: 1
+RONALD EANS
+    Count: 9
+    Counties: 1
+RONNI SCHWANTZ
+    Count: 3
+    Counties: 1
+RONNIE ADAMS
+    Count: 4
+    Counties: 1
+RONNIE RAMSEY
+    Count: 6
+    Counties: 1
+ROSE M OSTRONIC
+    Count: 15
+    Counties: 2
+ROSEANN KOCH
+    Count: 3
+    Counties: 1
+ROY BRUNSON
+    Count: 39
+    Counties: 1
+ROY L EASON
+    Count: 3
+    Counties: 1
+ROY REAVES
+    Count: 15
+    Counties: 1
+RUSSEL MEINKING
+    Count: 6
+    Counties: 1
+RUSSELL E BRAGG
+    Count: 54
+    Counties: 1
+RUTH QUINTANA
+    Count: 3
+    Counties: 1
+RYAN A ROSE
+    Count: 37
+    Counties: 2
+RYAN CARL PITTS
+    Count: 6
+    Counties: 2
+RYAN HERNDON
+    Count: 30
+    Counties: 1
+RYAN INTCHAUSPE
+    Count: 55
+    Counties: 2
+SAMI LYNN RUIS
+    Count: 3
+    Counties: 1
+SAMUEL BRAZELL JR
+    Count: 39
+    Counties: 1
+SAMUEL L KING
+    Count: 3
+    Counties: 1
+SAMUEL OLIVE
+    Count: 3
+    Counties: 1
+SANDRA BRAND
+    Count: 3
+    Counties: 1
+SANDRA CROWDER
+    Count: 15
+    Counties: 2
+SANDRA L DUNCAN
+    Count: 27
+    Counties: 1
+SANDRA L LEE
+    Count: 3
+    Counties: 1
+SANDRUAL COLE
+    Count: 3
+    Counties: 1
+SANDY MAIER
+    Count: 339
+    Counties: 6
+SARA FOLKINS
+    Count: 150
+    Counties: 1
+SARA PEPPARD
+    Count: 12
+    Counties: 1
+SARAH HAMPTON
+    Count: 90
+    Counties: 1
+SARAH TAYLOR
+    Count: 6
+    Counties: 1
+SCOTT A DUNN
+    Count: 9
+    Counties: 1
+SCOTT BARNETT
+    Count: 12
+    Counties: 1
+SCOTT FLIPPO
+    Count: 266
+    Counties: 5
+SCOTT FOWLER
+    Count: 44
+    Counties: 1
+SCOTT HARTSFIELD
+    Count: 3
+    Counties: 1
+SCOTT MENDHAM
+    Count: 39
+    Counties: 1
+SCOTT W LEECH
+    Count: 3
+    Counties: 1
+SCOTT WATKINS
+    Count: 6
+    Counties: 1
+SCOTTY TROY
+    Count: 9
+    Counties: 1
+SETH C MULLINAX
+    Count: 3
+    Counties: 1
+SHAD FOLEY
+    Count: 6
+    Counties: 1
+SHAD PEARCE
+    Count: 105
+    Counties: 3
+SHANE M JONES
+    Count: 4
+    Counties: 1
+SHANNON FREAS
+    Count: 30
+    Counties: 1
+SHANNON MILAM
+    Count: 6
+    Counties: 1
+SHAWN BLASINGAME
+    Count: 4
+    Counties: 1
+SHAWN DRAPER
+    Count: 6
+    Counties: 1
+SHAWN PEEBLES
+    Count: 9
+    Counties: 1
+SHAWNA LEMARR
+    Count: 3
+    Counties: 1
+SHEA NEWPORT
+    Count: 66
+    Counties: 1
+SHEILA TURNER
+    Count: 3
+    Counties: 1
+SHELIA VERSER
+    Count: 27
+    Counties: 1
+SHELLY HARVEY
+    Count: 9
+    Counties: 1
+SHERRY GILLON
+    Count: 3
+    Counties: 1
+SHERRY MAIN
+    Count: 78
+    Counties: 1
+SHERRY MONCRIEF
+    Count: 33
+    Counties: 1
+SHIRLEY SIMMONS
+    Count: 3
+    Counties: 1
+SIDNEY HARDIN
+    Count: 6
+    Counties: 1
+SKYLAR SMITH
+    Count: 9
+    Counties: 1
+SOMER CLARK-DAY
+    Count: 44
+    Counties: 1
+SONDRA EBY
+    Count: 3
+    Counties: 1
+SONIA EUBANKS BARKER
+    Count: 141
+    Counties: 6
+STACEY CAPLENER
+    Count: 3
+    Counties: 1
+STACEY HERRON
+    Count: 16
+    Counties: 1
+STACY MUNTZ
+    Count: 4
+    Counties: 1
+STAN BERRY
+    Count: 102
+    Counties: 2
+STEPHANIE BOOTHE
+    Count: 3
+    Counties: 1
+STEPHANIE FLOWERS
+    Count: 690
+    Counties: 7
+STEPHANIE FUNK
+    Count: 60
+    Counties: 1
+STEPHANIE ORMAN
+    Count: 150
+    Counties: 1
+STEPHEN BEAVERS
+    Count: 21
+    Counties: 1
+STEPHEN D HILLER
+    Count: 3
+    Counties: 1
+STEPHEN EDWARDS
+    Count: 27
+    Counties: 1
+STEPHEN MEEKS
+    Count: 69
+    Counties: 3
+STEPHEN PARTRIDGE
+    Count: 32
+    Counties: 1
+STEPHEN V FRANCO
+    Count: 16
+    Counties: 1
+STETSON PAINTER
+    Count: 36
+    Counties: 2
+STEVE ATKINSON
+    Count: 12
+    Counties: 1
+STEVE BALDRIDGE
+    Count: 3
+    Counties: 1
+STEVE BROWN
+    Count: 12
+    Counties: 1
+STEVE CROWELL
+    Count: 267
+    Counties: 7
+STEVE G PARSONS
+    Count: 2076
+    Counties: 31
+STEVE GALEN
+    Count: 150
+    Counties: 1
+STEVE HOLLOWELL
+    Count: 87
+    Counties: 3
+STEVE MAGIE
+    Count: 42
+    Counties: 1
+STEVE SMITH
+    Count: 12
+    Counties: 1
+STEVE STEVENS
+    Count: 6
+    Counties: 1
+STEVE UNGER
+    Count: 78
+    Counties: 1
+STEVE WHITEHEAD
+    Count: 39
+    Counties: 1
+STEVE WOMACK
+    Count: 2641
+    Counties: 6
+STEVEN B GUTHRIE
+    Count: 30
+    Counties: 1
+STEVEN BAKER
+    Count: 33
+    Counties: 1
+STEVEN BURKHART
+    Count: 3
+    Counties: 1
+STEVEN E OWENS
+    Count: 3
+    Counties: 1
+STEVEN LASSITER
+    Count: 3
+    Counties: 1
+STEVEN WALKER
+    Count: 249
+    Counties: 5
+STONNIE BURKS
+    Count: 3
+    Counties: 1
+STORMI RHIANNA MCBROOME
+    Count: 3
+    Counties: 1
+STUART THOMAS
+    Count: 15
+    Counties: 1
+SUSAN EDENS
+    Count: 18
+    Counties: 1
+SUSAN GARNER JONES
+    Count: 16
+    Counties: 1
+SUZANNE MCCALL
+    Count: 15
+    Counties: 1
+TAD LEE OGDEN
+    Count: 12
+    Counties: 1
+TAMMI NORTHCUTT BELL
+    Count: 54
+    Counties: 2
+TAMMY L GOODWIN
+    Count: 109
+    Counties: 3
+TAMMY MILLER
+    Count: 3
+    Counties: 1
+TANNER RUPLE
+    Count: 52
+    Counties: 1
+TARA SHEPHARD
+    Count: 32
+    Counties: 1
+TARA TODD
+    Count: 9
+    Counties: 1
+TED HARDEN
+    Count: 27
+    Counties: 1
+TERESA DANNAWAY
+    Count: 45
+    Counties: 1
+TERESA HAMILTON
+    Count: 9
+    Counties: 1
+TERESA LAMPKIN
+    Count: 3
+    Counties: 1
+TERRY C HARTWICK
+    Count: 108
+    Counties: 1
+TERRY KITTRELL
+    Count: 6
+    Counties: 1
+TERRY RICE
+    Count: 522
+    Counties: 10
+TERRY ROBERTS
+    Count: 24
+    Counties: 1
+TERRY VANDIVER
+    Count: 3
+    Counties: 1
+THEODORE "TEDDY" HOLT
+    Count: 3
+    Counties: 1
+THEODORE JONES
+    Count: 21
+    Counties: 1
+THEOGENE B WIDEMAN
+    Count: 3
+    Counties: 1
+THERESA COMEAU
+    Count: 9
+    Counties: 1
+THERESA SLOAN
+    Count: 3
+    Counties: 1
+THOMAS ALSTADT
+    Count: 4
+    Counties: 1
+THOMAS BRYAN TURCOL
+    Count: 3
+    Counties: 1
+THOMAS DUNN
+    Count: 3
+    Counties: 1
+THOMAS ELWOOD
+    Count: 114
+    Counties: 1
+THOMAS HENDERSON
+    Count: 3
+    Counties: 1
+THULA THOMAS
+    Count: 6
+    Counties: 1
+THURNELL GREEN
+    Count: 3
+    Counties: 1
+TIA WOODRUFF
+    Count: 4
+    Counties: 1
+TIELER BLAIN SIMMONS
+    Count: 3
+    Counties: 1
+TIFFANY TOLIVER
+    Count: 3
+    Counties: 1
+TIM BURRESS
+    Count: 18
+    Counties: 1
+TIM CALDWELL
+    Count: 21
+    Counties: 1
+TIM HUDSPETH
+    Count: 18
+    Counties: 1
+TIM SCOTT
+    Count: 9
+    Counties: 1
+TIM WHITTENBURG
+    Count: 27
+    Counties: 1
+TINA BAILEY
+    Count: 6
+    Counties: 1
+TINA HILLMAN
+    Count: 9
+    Counties: 1
+TIPPI MCCULLOUGH
+    Count: 48
+    Counties: 1
+TOBY RAND
+    Count: 24
+    Counties: 1
+TODD HERTZBERG
+    Count: 51
+    Counties: 1
+TODD ROARK
+    Count: 3
+    Counties: 1
+TOM BARTOLE
+    Count: 27
+    Counties: 1
+TOM BRATCHER
+    Count: 9
+    Counties: 1
+TOM NOWLIN
+    Count: 126
+    Counties: 2
+TOM TERMINELLA
+    Count: 201
+    Counties: 1
+TOMMIE HOFFMAN
+    Count: 3
+    Counties: 1
+TOMMY DEAN JOHNSON
+    Count: 15
+    Counties: 1
+TOMMY DORSEY
+    Count: 12
+    Counties: 1
+TOMMY GREENFIELD
+    Count: 3
+    Counties: 1
+TONY FURMAN
+    Count: 39
+    Counties: 1
+TONY MILLER
+    Count: 12
+    Counties: 1
+TORI L GREEN
+    Count: 3
+    Counties: 1
+TRACY J MULLINAX
+    Count: 4
+    Counties: 1
+TRACY L CATT
+    Count: 6
+    Counties: 1
+TRACY STEELE
+    Count: 40
+    Counties: 1
+TRAVIS DOSHIER
+    Count: 3
+    Counties: 1
+TRAVIS FANCHER
+    Count: 6
+    Counties: 1
+TRAVIS HARP
+    Count: 66
+    Counties: 1
+TRAVIS HOPSON
+    Count: 6
+    Counties: 1
+TRAVIS RAINS
+    Count: 6
+    Counties: 1
+TRAVIS SHEPHERD
+    Count: 3
+    Counties: 1
+TRENNIS NATHANIEL CAMPBELL
+    Count: 9
+    Counties: 1
+TRESHA COTTON LIGHT
+    Count: 3
+    Counties: 1
+TREVIS BENTLEY
+    Count: 7
+    Counties: 2
+TREVOR MCGARRAH
+    Count: 78
+    Counties: 1
+TREY STEIMEL
+    Count: 90
+    Counties: 3
+TRICIA CLARK
+    Count: 9
+    Counties: 1
+TROY MAXIM
+    Count: 9
+    Counties: 2
+TROY OWENS
+    Count: 30
+    Counties: 1
+TRUMAN L BULLARD
+    Count: 3
+    Counties: 1
+TUESDAY L COOPER
+    Count: 3
+    Counties: 1
+TY KELSO
+    Count: 6
+    Counties: 1
+TY SHERROD
+    Count: 3
+    Counties: 1
+TYLER DUNEGAN
+    Count: 3
+    Counties: 1
+TYLER LACHOWSKY
+    Count: 12
+    Counties: 1
+TYRONE MCWRIGHT
+    Count: 3
+    Counties: 1
+URIAH MEAD
+    Count: 6
+    Counties: 1
+VALERIE F HEARN
+    Count: 15
+    Counties: 1
+VANCE WILLIAMSON
+    Count: 3
+    Counties: 1
+VELVA JOY LINGO
+    Count: 3
+    Counties: 1
+VICKIE L FOGERTY
+    Count: 3
+    Counties: 1
+VICTORIA L FRENCH
+    Count: 4
+    Counties: 1
+VIVIAN FLOWERS
+    Count: 291
+    Counties: 1
+VLADIMIR LOPEZ
+    Count: 24
+    Counties: 1
+WADE ANDREWS
+    Count: 102
+    Counties: 4
+WADE PERMENTER
+    Count: 12
+    Counties: 1
+WALLY SHAW
+    Count: 3
+    Counties: 1
+WALTER BURGESS
+    Count: 12
+    Counties: 1
+WALTER STOERMER
+    Count: 320
+    Counties: 1
+WAYNE CROOM
+    Count: 6
+    Counties: 1
+WAYNE LONG
+    Count: 171
+    Counties: 3
+WAYNE M BALL
+    Count: 44
+    Counties: 1
+WAYNE RICKY SHUTTLEWORTH
+    Count: 3
+    Counties: 1
+WAYNE SIMPSON
+    Count: 3
+    Counties: 1
+WENDY FRANCIS
+    Count: 9
+    Counties: 1
+WENDY HARDING
+    Count: 30
+    Counties: 1
+WENDY HENSON
+    Count: 66
+    Counties: 1
+WESLEY PHELAN
+    Count: 6
+    Counties: 1
+WHITNEY SHEREE FREEMAN
+    Count: 51
+    Counties: 2
+WILL LARUE
+    Count: 15
+    Counties: 1
+WILL SCHUHKNECHT
+    Count: 12
+    Counties: 2
+WILLIAM "BILL" BEADLE
+    Count: 9
+    Counties: 1
+WILLIAM "BILL" STAHLMAN JR
+    Count: 6
+    Counties: 1
+WILLIAM "BILLY" WAGGLE
+    Count: 3
+    Counties: 1
+WILLIAM A AHNE
+    Count: 3
+    Counties: 1
+WILLIAM F CARR
+    Count: 6
+    Counties: 1
+WILLIAM FELLS
+    Count: 72
+    Counties: 1
+WILLIAM GOODMAN
+    Count: 3
+    Counties: 1
+WILLIAM L RIVES
+    Count: 3
+    Counties: 1
+WILLIAM LOYD
+    Count: 18
+    Counties: 1
+WILLIAM R SADDLER
+    Count: 4
+    Counties: 1
+WILLIAM ROUNTREE
+    Count: 9
+    Counties: 1
+WILLIAM T VANDER PAS
+    Count: 15
+    Counties: 2
+WILLIE BRANCH JR
+    Count: 3
+    Counties: 1
+WILLIE MOSER
+    Count: 24
+    Counties: 1
+WILLIS MONDY
+    Count: 6
+    Counties: 1
+WILSON HATCHER
+    Count: 12
+    Counties: 1
+WM BILL USSERY
+    Count: 24
+    Counties: 1
+WP "BILL" BURCKART
+    Count: 150
+    Counties: 1
+YVONDA JONES
+    Count: 18
+    Counties: 1
+YVONDA WILBON
+    Count: 9
+    Counties: 1
+ZACH BLEDSOE
+    Count: 3
+    Counties: 1
+ZACH BRANSCUM
+    Count: 6
+    Counties: 1
+ZACHARIAH GARRETT
+    Count: 60
+    Counties: 1
+ZACK GRAHAM
+    Count: 9
+    Counties: 1
+ZACK GRAMLICH
+    Count: 72
+    Counties: 1

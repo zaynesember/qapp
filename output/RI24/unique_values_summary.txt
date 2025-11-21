@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 497
+office: 273
+party_detailed: 8
+party_simplified: 5
+mode: 4
+votes: 1587
+county_name: 6
+county_fips: 6
+jurisdiction_name: 41
+jurisdiction_fips: 41
+candidate: 763
+district: 13
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 2
+writein: 2
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 6
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: RI
+    Jurisdictions: 41
+    Counties: 6
+    Precincts: 497
+

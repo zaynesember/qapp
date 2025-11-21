@@ -1,0 +1,26 @@
+UNIQUE VALUES — party_detailed
+============================================================
+<EMPTY>
+    Count: 13562
+    Counties: 10
+DEMOCRAT
+    Count: 3663
+    Counties: 10
+GREEN
+    Count: 300
+    Counties: 10
+INDEPENDENT
+    Count: 27
+    Counties: 4
+INDEPENDENT/DEMOCRAT
+    Count: 2
+    Counties: 1
+INDEPENDENT/REPUBLICAN
+    Count: 3
+    Counties: 1
+LIBERTARIAN
+    Count: 622
+    Counties: 10
+REPUBLICAN
+    Count: 3837
+    Counties: 10

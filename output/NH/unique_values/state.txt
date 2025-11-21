@@ -1,0 +1,5 @@
+UNIQUE VALUES — state
+============================================================
+NEW HAMPSHIRE
+    Count: 22016
+    Counties: 10

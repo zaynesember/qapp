@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 1489
+office: 68
+party_detailed: 7
+party_simplified: 5
+mode: 1
+votes: 2085
+county_name: 17
+county_fips: 17
+jurisdiction_name: 17
+jurisdiction_fips: 17
+candidate: 475
+district: 107
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 1
+writein: 1
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 2
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: NV
+    Jurisdictions: 17
+    Counties: 17
+    Precincts: 1489
+

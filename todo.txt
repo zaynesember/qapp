@@ -1,0 +1,29 @@
+QAPP TO DO
+
+- Readd unique value txt reports or think of a better way to do so
+- Check for correct column ordering
+- Vote totaller to not duplicate if there is a TOTAL `mode`
+- Allow for similar rows but with different `mode`, `district`, `precinct`****
+- Exclude "COUNTY TOTALS", "MACHINE COUNT" from duplicate check
+- Avoid flagging "CIRCUIT COURT JUDGE", "APPEALS COURT JUDGE"
+- Implement office mapping checks
+- Implement county and states FIP mapping checks
+- Implement checks against previous year's precinct project
+- Not report comma separated empty lists under issue_values
+- Fix issue_values and issue_row_numbers not being truncated (maybe the latter is actually fine as is?)
+- Give GPT a state's output and ask it to note all the checks performed and then note whether they are present in QAPP
+- Detect running mate appearing with presidential candidate (i.e. detect "AND", "&", " - ", "/")
+- Check vote aggregation against known state total for at least president
+- Autofit text to width in excel report
+
+
+
+
+Duplicate cases we want to detect:
+
+1. Exact duplicates
+2. Exact duplicates EXCEPT `votes`
+3. Rows with duplicate `precinct` values but different `county_fips` or `county_name` values
+4. Rows with the same `candidate` but different `office` or `dataverse`
+
+

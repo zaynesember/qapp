@@ -1,0 +1,14 @@
+UNIQUE VALUES — mode
+============================================================
+ABSENTEE
+    Count: 69355
+    Counties: 75
+EARLY VOTE
+    Count: 69355
+    Counties: 75
+ELECTION DAY
+    Count: 69355
+    Counties: 75
+PROVISIONAL
+    Count: 6643
+    Counties: 5

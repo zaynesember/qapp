@@ -1,0 +1,20 @@
+UNIQUE VALUES — county_name
+============================================================
+<EMPTY>
+    Count: 232
+    Counties: 1
+BRISTOL
+    Count: 3724
+    Counties: 1
+KENT
+    Count: 12224
+    Counties: 1
+NEWPORT
+    Count: 7528
+    Counties: 1
+PROVIDENCE
+    Count: 47584
+    Counties: 1
+WASHINGTON
+    Count: 12392
+    Counties: 1

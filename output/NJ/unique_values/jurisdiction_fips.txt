@@ -1,0 +1,65 @@
+UNIQUE VALUES — jurisdiction_fips
+============================================================
+34001
+    Count: 13620
+    Counties: 1
+34003
+    Count: 106204
+    Counties: 1
+34005
+    Count: 33210
+    Counties: 1
+34007
+    Count: 36649
+    Counties: 1
+34009
+    Count: 8452
+    Counties: 1
+34011
+    Count: 9266
+    Counties: 1
+34013
+    Count: 43981
+    Counties: 1
+34015
+    Count: 491
+    Counties: 1
+34017
+    Count: 37663
+    Counties: 1
+34019
+    Count: 6547
+    Counties: 1
+34021
+    Count: 16500
+    Counties: 1
+34023
+    Count: 98130
+    Counties: 1
+34025
+    Count: 18783
+    Counties: 1
+34027
+    Count: 98026
+    Counties: 1
+34029
+    Count: 38013
+    Counties: 1
+34031
+    Count: 13316
+    Counties: 1
+34033
+    Count: 8524
+    Counties: 1
+34035
+    Count: 10362
+    Counties: 1
+34037
+    Count: 4598
+    Counties: 1
+34039
+    Count: 33645
+    Counties: 1
+34041
+    Count: 5720
+    Counties: 1

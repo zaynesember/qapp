@@ -1,0 +1,20 @@
+UNIQUE VALUES — party_detailed
+============================================================
+<EMPTY>
+    Count: 786079
+    Counties: 102
+DEMOCRAT
+    Count: 82383
+    Counties: 102
+INDEPENDENT
+    Count: 10299
+    Counties: 102
+NONPARTISAN
+    Count: 469312
+    Counties: 102
+REPUBLICAN
+    Count: 35634
+    Counties: 102
+WORKING CLASS PARTY
+    Count: 361
+    Counties: 2

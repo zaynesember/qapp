@@ -1,0 +1,32 @@
+UNIQUE VALUES — county_name
+============================================================
+BELKNAP
+    Count: 1084
+    Counties: 1
+CARROLL
+    Count: 1532
+    Counties: 1
+CHESHIRE
+    Count: 1860
+    Counties: 1
+COOS
+    Count: 2633
+    Counties: 1
+GRAFTON
+    Count: 2991
+    Counties: 1
+HILLSBOROUGH
+    Count: 3779
+    Counties: 1
+MERRIMACK
+    Count: 2715
+    Counties: 1
+ROCKINGHAM
+    Count: 2013
+    Counties: 1
+STRAFFORD
+    Count: 2073
+    Counties: 1
+SULLIVAN
+    Count: 1336
+    Counties: 1

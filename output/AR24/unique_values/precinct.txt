@@ -1,0 +1,7550 @@
+UNIQUE VALUES — precinct
+============================================================
+001  CAMDEN
+    Count: 72
+    Counties: 1
+002 CAMDEN
+    Count: 66
+    Counties: 1
+003 CAMDEN
+    Count: 66
+    Counties: 1
+004 CAMDEN
+    Count: 66
+    Counties: 1
+005 BEARDEN
+    Count: 63
+    Counties: 1
+006 CHIDESTER
+    Count: 66
+    Counties: 1
+007 EAST CAMDEN
+    Count: 78
+    Counties: 1
+008 LOUANN
+    Count: 66
+    Counties: 1
+009 STEPHENS
+    Count: 72
+    Counties: 1
+010 COUNTY 001
+    Count: 66
+    Counties: 1
+011
+    Count: 112
+    Counties: 1
+011 COUNTY 002
+    Count: 60
+    Counties: 1
+012
+    Count: 108
+    Counties: 1
+012 COUNTY 003
+    Count: 63
+    Counties: 1
+013
+    Count: 96
+    Counties: 1
+013 COUNTY 004
+    Count: 66
+    Counties: 1
+014 16
+    Count: 96
+    Counties: 1
+014 COUNTY 005
+    Count: 72
+    Counties: 1
+015 COUNTY 007
+    Count: 60
+    Counties: 1
+016 COUNTY 008
+    Count: 60
+    Counties: 1
+017 COUNTY 010
+    Count: 66
+    Counties: 1
+018 COUNTY 011
+    Count: 60
+    Counties: 1
+02 BARNETT
+    Count: 72
+    Counties: 1
+020 BOSTON
+    Count: 66
+    Counties: 1
+021
+    Count: 104
+    Counties: 1
+022
+    Count: 104
+    Counties: 1
+023
+    Count: 104
+    Counties: 1
+024 08
+    Count: 104
+    Counties: 1
+03 BRADLEY
+    Count: 66
+    Counties: 1
+031
+    Count: 104
+    Counties: 1
+032
+    Count: 96
+    Counties: 1
+033
+    Count: 96
+    Counties: 1
+034
+    Count: 96
+    Counties: 1
+04 CULPEPPER
+    Count: 63
+    Counties: 1
+040 BRUSH CREEK
+    Count: 63
+    Counties: 1
+041 01
+    Count: 96
+    Counties: 1
+042
+    Count: 96
+    Counties: 1
+043
+    Count: 96
+    Counties: 1
+044
+    Count: 96
+    Counties: 1
+05 HOLLY MOUNTAIN
+    Count: 63
+    Counties: 1
+051
+    Count: 96
+    Counties: 1
+052 06
+    Count: 96
+    Counties: 1
+053
+    Count: 96
+    Counties: 1
+054
+    Count: 96
+    Counties: 1
+06 CHOCTAW
+    Count: 72
+    Counties: 1
+060 CANE HILL-1
+    Count: 60
+    Counties: 1
+061
+    Count: 100
+    Counties: 1
+061 CANE HILL-2
+    Count: 66
+    Counties: 1
+062 04
+    Count: 96
+    Counties: 1
+062 CANE HILL-3
+    Count: 69
+    Counties: 1
+063 05
+    Count: 96
+    Counties: 1
+064 06
+    Count: 96
+    Counties: 1
+07 WEST GRIGGS
+    Count: 69
+    Counties: 1
+071
+    Count: 100
+    Counties: 1
+072 04
+    Count: 92
+    Counties: 1
+073 06
+    Count: 92
+    Counties: 1
+074
+    Count: 104
+    Counties: 1
+08 CRAIG
+    Count: 66
+    Counties: 1
+080 CENTER-1
+    Count: 66
+    Counties: 1
+081
+    Count: 96
+    Counties: 1
+082 03
+    Count: 96
+    Counties: 1
+082 CENTER-2
+    Count: 66
+    Counties: 1
+083 04
+    Count: 96
+    Counties: 1
+083 CENTER-3
+    Count: 66
+    Counties: 1
+084 07
+    Count: 96
+    Counties: 1
+084 CENTER-4
+    Count: 66
+    Counties: 1
+085 CENTER-5
+    Count: 66
+    Counties: 1
+09 CARGILE
+    Count: 66
+    Counties: 1
+091 06
+    Count: 92
+    Counties: 1
+092
+    Count: 92
+    Counties: 1
+093 05
+    Count: 88
+    Counties: 1
+094
+    Count: 88
+    Counties: 1
+1
+    Count: 296
+    Counties: 4
+1-A OZARK WD 1
+    Count: 63
+    Counties: 1
+1-B OZARK WD 3
+    Count: 60
+    Counties: 1
+1-C OZARK WD 2
+    Count: 60
+    Counties: 1
+1.0
+    Count: 72
+    Counties: 1
+10
+    Count: 302
+    Counties: 4
+10 DAVIS
+    Count: 66
+    Counties: 1
+10.0
+    Count: 75
+    Counties: 1
+100 COVE CREEK-1
+    Count: 72
+    Counties: 1
+101
+    Count: 166
+    Counties: 2
+101 COVE CREEK-2
+    Count: 63
+    Counties: 1
+102 04
+    Count: 100
+    Counties: 1
+103
+    Count: 100
+    Counties: 1
+104
+    Count: 66
+    Counties: 1
+104 07
+    Count: 100
+    Counties: 1
+105
+    Count: 66
+    Counties: 1
+106
+    Count: 66
+    Counties: 1
+107
+    Count: 66
+    Counties: 1
+108
+    Count: 66
+    Counties: 1
+10F124.1
+    Count: 60
+    Counties: 1
+10F124.2
+    Count: 60
+    Counties: 1
+10F131.1
+    Count: 60
+    Counties: 1
+10F222.1
+    Count: 60
+    Counties: 1
+10F223.1
+    Count: 60
+    Counties: 1
+11
+    Count: 339
+    Counties: 4
+11 FORMOSA
+    Count: 63
+    Counties: 1
+11.0
+    Count: 66
+    Counties: 1
+110 COVE CREEK-3
+    Count: 72
+    Counties: 1
+111
+    Count: 66
+    Counties: 1
+111 01
+    Count: 92
+    Counties: 1
+112
+    Count: 66
+    Counties: 1
+112 06
+    Count: 92
+    Counties: 1
+113
+    Count: 158
+    Counties: 2
+114
+    Count: 69
+    Counties: 1
+114 12
+    Count: 92
+    Counties: 1
+115
+    Count: 66
+    Counties: 1
+116
+    Count: 66
+    Counties: 1
+117
+    Count: 66
+    Counties: 1
+119
+    Count: 66
+    Counties: 1
+11F118.1
+    Count: 69
+    Counties: 1
+11F119.1
+    Count: 66
+    Counties: 1
+11F119.2
+    Count: 66
+    Counties: 1
+11F119.3
+    Count: 66
+    Counties: 1
+11F119.4
+    Count: 66
+    Counties: 1
+11F120.1
+    Count: 69
+    Counties: 1
+11F120.2
+    Count: 69
+    Counties: 1
+11F121.1
+    Count: 69
+    Counties: 1
+11F217.1
+    Count: 66
+    Counties: 1
+12
+    Count: 210
+    Counties: 2
+12 EAST GRIGGS
+    Count: 69
+    Counties: 1
+12.0
+    Count: 66
+    Counties: 1
+120
+    Count: 66
+    Counties: 1
+120 CRAWFORD
+    Count: 72
+    Counties: 1
+121
+    Count: 158
+    Counties: 2
+122
+    Count: 158
+    Counties: 2
+123
+    Count: 66
+    Counties: 1
+123 08
+    Count: 92
+    Counties: 1
+124
+    Count: 66
+    Counties: 1
+124 10
+    Count: 116
+    Counties: 1
+125
+    Count: 66
+    Counties: 1
+126
+    Count: 66
+    Counties: 1
+128
+    Count: 66
+    Counties: 1
+12F114.1
+    Count: 60
+    Counties: 1
+12F115.1
+    Count: 60
+    Counties: 1
+12F116.1
+    Count: 63
+    Counties: 1
+12F116.2
+    Count: 63
+    Counties: 1
+12F411.1
+    Count: 63
+    Counties: 1
+12F411.2
+    Count: 63
+    Counties: 1
+12F412.1
+    Count: 63
+    Counties: 1
+12F413.1
+    Count: 63
+    Counties: 1
+12F413.2
+    Count: 63
+    Counties: 1
+12F413.3
+    Count: 63
+    Counties: 1
+12SC10.1
+    Count: 63
+    Counties: 1
+13
+    Count: 170
+    Counties: 2
+13.0
+    Count: 108
+    Counties: 1
+130
+    Count: 66
+    Counties: 1
+131
+    Count: 100
+    Counties: 1
+132
+    Count: 92
+    Counties: 1
+133
+    Count: 92
+    Counties: 1
+134
+    Count: 88
+    Counties: 1
+13B28.1
+    Count: 78
+    Counties: 1
+13B29.1
+    Count: 75
+    Counties: 1
+13B29.2
+    Count: 75
+    Counties: 1
+13B31.1
+    Count: 78
+    Counties: 1
+13B47.1
+    Count: 78
+    Counties: 1
+13F42.1
+    Count: 63
+    Counties: 1
+13F43.1
+    Count: 63
+    Counties: 1
+13F43.2
+    Count: 63
+    Counties: 1
+13F44.1
+    Count: 66
+    Counties: 1
+13F45.1
+    Count: 63
+    Counties: 1
+13F46.1
+    Count: 66
+    Counties: 1
+14
+    Count: 66
+    Counties: 1
+14.0
+    Count: 84
+    Counties: 1
+140 DURHAM
+    Count: 72
+    Counties: 1
+15
+    Count: 66
+    Counties: 1
+15 MOUNTAIN
+    Count: 63
+    Counties: 1
+15.0
+    Count: 81
+    Counties: 1
+150
+    Count: 66
+    Counties: 1
+16
+    Count: 66
+    Counties: 1
+16.0
+    Count: 87
+    Counties: 1
+160 DUTCH MILLS
+    Count: 63
+    Counties: 1
+17
+    Count: 75
+    Counties: 1
+17 LINN CREEK
+    Count: 63
+    Counties: 1
+17.0
+    Count: 81
+    Counties: 1
+18
+    Count: 66
+    Counties: 1
+18.0
+    Count: 66
+    Counties: 1
+180 ELKINS-1
+    Count: 72
+    Counties: 1
+181 ELKINS-2
+    Count: 72
+    Counties: 1
+19
+    Count: 66
+    Counties: 1
+19 RED RIVER
+    Count: 96
+    Counties: 1
+19.0
+    Count: 72
+    Counties: 1
+1B195.1
+    Count: 78
+    Counties: 1
+1B199.1
+    Count: 75
+    Counties: 1
+1B199.2
+    Count: 75
+    Counties: 1
+1B296.1
+    Count: 75
+    Counties: 1
+1B297.1
+    Count: 78
+    Counties: 1
+1B298.1
+    Count: 75
+    Counties: 1
+1B395.1
+    Count: 78
+    Counties: 1
+1B395.2
+    Count: 78
+    Counties: 1
+1B396.1
+    Count: 75
+    Counties: 1
+1B397.1
+    Count: 78
+    Counties: 1
+1B397.2
+    Count: 78
+    Counties: 1
+1B397.3
+    Count: 78
+    Counties: 1
+1B399.1
+    Count: 78
+    Counties: 1
+1C1108.1
+    Count: 63
+    Counties: 1
+1C2107.1
+    Count: 63
+    Counties: 1
+1C3106.1
+    Count: 63
+    Counties: 1
+1F4105.1
+    Count: 63
+    Counties: 1
+1LV103.1
+    Count: 78
+    Counties: 1
+1LV103.2
+    Count: 78
+    Counties: 1
+1LV103.3
+    Count: 78
+    Counties: 1
+1LV103.4
+    Count: 78
+    Counties: 1
+1LV103.5
+    Count: 78
+    Counties: 1
+1LV103.6
+    Count: 78
+    Counties: 1
+1LV103.7
+    Count: 78
+    Counties: 1
+1LV103.8
+    Count: 78
+    Counties: 1
+1LV103.9
+    Count: 78
+    Counties: 1
+1SC100.1
+    Count: 60
+    Counties: 1
+1SC101.1
+    Count: 63
+    Counties: 1
+1SC101.2
+    Count: 63
+    Counties: 1
+1SC102.1
+    Count: 63
+    Counties: 1
+1SC102.2
+    Count: 63
+    Counties: 1
+1SC102.3
+    Count: 63
+    Counties: 1
+1SC102.4
+    Count: 63
+    Counties: 1
+1SC102.5
+    Count: 63
+    Counties: 1
+1SC102.6
+    Count: 63
+    Counties: 1
+1SC102.8
+    Count: 63
+    Counties: 1
+1SC94.01
+    Count: 63
+    Counties: 1
+1SC94.02
+    Count: 63
+    Counties: 1
+1ST BAPTIST CHURCH P5
+    Count: 78
+    Counties: 1
+2
+    Count: 287
+    Counties: 4
+2-A OZARK WD 2
+    Count: 60
+    Counties: 1
+2-B OZARK RURAL
+    Count: 66
+    Counties: 1
+2-C LONELM/CRAVENS
+    Count: 63
+    Counties: 1
+2-D WALLACE/IVY
+    Count: 72
+    Counties: 1
+2-E OZARK WD 3
+    Count: 60
+    Counties: 1
+2.0
+    Count: 81
+    Counties: 1
+20
+    Count: 66
+    Counties: 1
+20 UNION
+    Count: 63
+    Counties: 1
+20.0
+    Count: 75
+    Counties: 1
+200 ELM SPRINGS TWP FIRE
+    Count: 75
+    Counties: 1
+200.X50 ELM SPRINGS TWP
+    Count: 69
+    Counties: 1
+201
+    Count: 66
+    Counties: 1
+202
+    Count: 66
+    Counties: 1
+203
+    Count: 66
+    Counties: 1
+204
+    Count: 66
+    Counties: 1
+205
+    Count: 66
+    Counties: 1
+206
+    Count: 66
+    Counties: 1
+207
+    Count: 66
+    Counties: 1
+208
+    Count: 66
+    Counties: 1
+209
+    Count: 66
+    Counties: 1
+21
+    Count: 66
+    Counties: 1
+21 WASHINGTON
+    Count: 69
+    Counties: 1
+21.01
+    Count: 72
+    Counties: 1
+210
+    Count: 66
+    Counties: 1
+210 ELM SPRINGS CITY-1
+    Count: 75
+    Counties: 1
+211
+    Count: 66
+    Counties: 1
+211 ELM SPRINGS CITY-2
+    Count: 69
+    Counties: 1
+212
+    Count: 66
+    Counties: 1
+213
+    Count: 66
+    Counties: 1
+214
+    Count: 72
+    Counties: 1
+215
+    Count: 66
+    Counties: 1
+216
+    Count: 66
+    Counties: 1
+217
+    Count: 66
+    Counties: 1
+218
+    Count: 72
+    Counties: 1
+219
+    Count: 66
+    Counties: 1
+22
+    Count: 66
+    Counties: 1
+22 WHEELER
+    Count: 63
+    Counties: 1
+22.0
+    Count: 78
+    Counties: 1
+220 FARMINGTON-1
+    Count: 78
+    Counties: 1
+221
+    Count: 66
+    Counties: 1
+221 FARMINGTON-5
+    Count: 78
+    Counties: 1
+222
+    Count: 66
+    Counties: 1
+222 FARMINGTON-2
+    Count: 78
+    Counties: 1
+223
+    Count: 66
+    Counties: 1
+223 FARMINGTON-3
+    Count: 78
+    Counties: 1
+224
+    Count: 66
+    Counties: 1
+224 FARMINGTON-4
+    Count: 78
+    Counties: 1
+225 FARMINGTON-6
+    Count: 78
+    Counties: 1
+23
+    Count: 66
+    Counties: 1
+23 MOUNTAIN RANCH
+    Count: 93
+    Counties: 1
+23.0
+    Count: 81
+    Counties: 1
+24
+    Count: 66
+    Counties: 1
+24 SOUTH GRIGGS
+    Count: 69
+    Counties: 1
+24.0
+    Count: 96
+    Counties: 1
+240 FAY 01
+    Count: 90
+    Counties: 1
+241 FAY 49
+    Count: 102
+    Counties: 1
+242 FAY 50
+    Count: 90
+    Counties: 1
+243 FAY 51
+    Count: 99
+    Counties: 1
+244 FAY 52
+    Count: 96
+    Counties: 1
+245 FAY 53
+    Count: 99
+    Counties: 1
+246 FAY 54
+    Count: 99
+    Counties: 1
+247 FAY 55
+    Count: 102
+    Counties: 1
+248 FAY 56
+    Count: 102
+    Counties: 1
+249 FAY 57
+    Count: 96
+    Counties: 1
+25
+    Count: 66
+    Counties: 1
+25 INDIAN HILLS
+    Count: 96
+    Counties: 1
+25.0
+    Count: 90
+    Counties: 1
+250 FAY 02
+    Count: 93
+    Counties: 1
+251 FAY 58
+    Count: 102
+    Counties: 1
+252 FAY 59
+    Count: 90
+    Counties: 1
+253 FAY 60
+    Count: 102
+    Counties: 1
+254 FAY 61
+    Count: 84
+    Counties: 1
+255 FAY 62
+    Count: 99
+    Counties: 1
+256 FAY 63
+    Count: 90
+    Counties: 1
+257 FAY 64
+    Count: 90
+    Counties: 1
+258 FAY 65
+    Count: 102
+    Counties: 1
+259 FAY 66
+    Count: 96
+    Counties: 1
+26
+    Count: 126
+    Counties: 2
+26 LAKEWOOD
+    Count: 96
+    Counties: 1
+26.0
+    Count: 72
+    Counties: 1
+260 FAY 03
+    Count: 90
+    Counties: 1
+27
+    Count: 129
+    Counties: 2
+27.0
+    Count: 72
+    Counties: 1
+270 FAY 04
+    Count: 90
+    Counties: 1
+28
+    Count: 126
+    Counties: 2
+28.0
+    Count: 69
+    Counties: 1
+280 FAY 05
+    Count: 90
+    Counties: 1
+29
+    Count: 126
+    Counties: 2
+29.0
+    Count: 72
+    Counties: 1
+290 FAY 06
+    Count: 84
+    Counties: 1
+2GW85.1
+    Count: 75
+    Counties: 1
+2GW85.2
+    Count: 75
+    Counties: 1
+2GW85.3
+    Count: 75
+    Counties: 1
+2GW90.1
+    Count: 75
+    Counties: 1
+2GW90.2
+    Count: 75
+    Counties: 1
+2GW91.1
+    Count: 75
+    Counties: 1
+2GW91.2
+    Count: 75
+    Counties: 1
+2GW91.4
+    Count: 75
+    Counties: 1
+2GW91.5
+    Count: 75
+    Counties: 1
+2GW91.6
+    Count: 75
+    Counties: 1
+2GW91.7
+    Count: 75
+    Counties: 1
+2GW92.1
+    Count: 75
+    Counties: 1
+2GW92.2
+    Count: 75
+    Counties: 1
+2GW92.3
+    Count: 63
+    Counties: 1
+2GW92.4
+    Count: 75
+    Counties: 1
+2GW92.5
+    Count: 75
+    Counties: 1
+2GW92.6
+    Count: 75
+    Counties: 1
+2GW92.7
+    Count: 75
+    Counties: 1
+2GW93.1
+    Count: 75
+    Counties: 1
+2GW93.2
+    Count: 75
+    Counties: 1
+2GW93.3
+    Count: 75
+    Counties: 1
+2GW93.4
+    Count: 75
+    Counties: 1
+2GW93.5
+    Count: 75
+    Counties: 1
+2GW93.6
+    Count: 75
+    Counties: 1
+2GW93.7
+    Count: 75
+    Counties: 1
+2GW93.8
+    Count: 75
+    Counties: 1
+2GW93.9
+    Count: 75
+    Counties: 1
+2ND BAPTIST CHURCH P3
+    Count: 72
+    Counties: 1
+2SC82.1
+    Count: 60
+    Counties: 1
+2SC83.1
+    Count: 60
+    Counties: 1
+2SC83.2
+    Count: 60
+    Counties: 1
+2SC84.1
+    Count: 60
+    Counties: 1
+2SC86.1
+    Count: 63
+    Counties: 1
+2SC86.2
+    Count: 63
+    Counties: 1
+2SC87.1
+    Count: 63
+    Counties: 1
+2SC87.2
+    Count: 63
+    Counties: 1
+2SC87.3
+    Count: 63
+    Counties: 1
+2SC88.1
+    Count: 63
+    Counties: 1
+2SC88.2
+    Count: 63
+    Counties: 1
+2SC89.1
+    Count: 63
+    Counties: 1
+2SC89.2
+    Count: 63
+    Counties: 1
+2SC89.3
+    Count: 63
+    Counties: 1
+2SC89.4
+    Count: 63
+    Counties: 1
+2SC89.5
+    Count: 63
+    Counties: 1
+3
+    Count: 279
+    Counties: 4
+3-A LONELM/CRAVENS
+    Count: 69
+    Counties: 1
+3-B FERN
+    Count: 66
+    Counties: 1
+3-C BOSTON
+    Count: 63
+    Counties: 1
+3-D JETHRO
+    Count: 63
+    Counties: 1
+3-E WATALULA
+    Count: 57
+    Counties: 1
+3-F MOUNTAIN
+    Count: 57
+    Counties: 1
+3.0
+    Count: 84
+    Counties: 1
+30
+    Count: 144
+    Counties: 2
+30.0
+    Count: 75
+    Counties: 1
+300 FAY 07
+    Count: 84
+    Counties: 1
+306
+    Count: 72
+    Counties: 1
+307
+    Count: 72
+    Counties: 1
+308
+    Count: 72
+    Counties: 1
+309
+    Count: 72
+    Counties: 1
+31
+    Count: 126
+    Counties: 2
+31.0
+    Count: 66
+    Counties: 1
+310
+    Count: 72
+    Counties: 1
+310 FAY 08
+    Count: 90
+    Counties: 1
+311
+    Count: 72
+    Counties: 1
+312
+    Count: 72
+    Counties: 1
+314
+    Count: 72
+    Counties: 1
+315
+    Count: 72
+    Counties: 1
+316
+    Count: 72
+    Counties: 1
+317
+    Count: 72
+    Counties: 1
+318
+    Count: 72
+    Counties: 1
+319
+    Count: 81
+    Counties: 1
+32
+    Count: 60
+    Counties: 1
+32.0
+    Count: 78
+    Counties: 1
+320
+    Count: 78
+    Counties: 1
+320 FAY 09A
+    Count: 90
+    Counties: 1
+321 FAY 09B
+    Count: 90
+    Counties: 1
+322
+    Count: 72
+    Counties: 1
+323
+    Count: 72
+    Counties: 1
+324
+    Count: 72
+    Counties: 1
+325
+    Count: 72
+    Counties: 1
+326
+    Count: 72
+    Counties: 1
+327
+    Count: 72
+    Counties: 1
+328
+    Count: 78
+    Counties: 1
+33
+    Count: 60
+    Counties: 1
+33.0
+    Count: 72
+    Counties: 1
+330
+    Count: 78
+    Counties: 1
+330 FAY 10
+    Count: 90
+    Counties: 1
+331
+    Count: 78
+    Counties: 1
+331 FAY 11
+    Count: 96
+    Counties: 1
+332
+    Count: 72
+    Counties: 1
+332 FAY 12
+    Count: 90
+    Counties: 1
+333 FAY 13
+    Count: 90
+    Counties: 1
+334 FAY 14
+    Count: 90
+    Counties: 1
+335 FAY 15
+    Count: 90
+    Counties: 1
+336 FAY 16
+    Count: 99
+    Counties: 1
+337 FAY 17
+    Count: 84
+    Counties: 1
+338 FAY 18
+    Count: 84
+    Counties: 1
+339 FAY 19
+    Count: 84
+    Counties: 1
+34
+    Count: 60
+    Counties: 1
+34.0
+    Count: 90
+    Counties: 1
+340 FAY 20
+    Count: 99
+    Counties: 1
+341 FAY 21
+    Count: 93
+    Counties: 1
+342 FAY 22
+    Count: 84
+    Counties: 1
+343 FAY 23
+    Count: 93
+    Counties: 1
+344 FAY 24
+    Count: 90
+    Counties: 1
+345 FAY 25
+    Count: 90
+    Counties: 1
+346 FAY 26
+    Count: 96
+    Counties: 1
+347 FAY 27
+    Count: 99
+    Counties: 1
+348 FAY 28
+    Count: 84
+    Counties: 1
+349 FAY 29
+    Count: 84
+    Counties: 1
+35.0
+    Count: 75
+    Counties: 1
+350 FAY 30
+    Count: 87
+    Counties: 1
+351 FAY 31
+    Count: 96
+    Counties: 1
+352 FAY 32
+    Count: 99
+    Counties: 1
+353 FAY 33
+    Count: 102
+    Counties: 1
+354 FAY 34
+    Count: 90
+    Counties: 1
+355 FAY 35
+    Count: 87
+    Counties: 1
+356 FAY 36
+    Count: 90
+    Counties: 1
+357 FAY 37
+    Count: 93
+    Counties: 1
+358 FAY 38
+    Count: 93
+    Counties: 1
+359 FAY 39
+    Count: 87
+    Counties: 1
+36
+    Count: 63
+    Counties: 1
+36.0
+    Count: 84
+    Counties: 1
+360 FAY 40
+    Count: 102
+    Counties: 1
+361 FAY 41
+    Count: 93
+    Counties: 1
+362 FAY 42
+    Count: 93
+    Counties: 1
+363 FAY 43
+    Count: 99
+    Counties: 1
+364 FAY 44
+    Count: 84
+    Counties: 1
+365 FAY 45
+    Count: 87
+    Counties: 1
+366 FAY 46
+    Count: 99
+    Counties: 1
+367 FAY 47
+    Count: 96
+    Counties: 1
+368 FAY 48
+    Count: 99
+    Counties: 1
+369 GREENLAND CITY-1
+    Count: 81
+    Counties: 1
+37.0
+    Count: 66
+    Counties: 1
+370 GREENLAND TWP-1
+    Count: 69
+    Counties: 1
+371 GREENLAND CITY-2
+    Count: 78
+    Counties: 1
+372 GREENLAND TWP-2
+    Count: 66
+    Counties: 1
+373 GOSHEN CITY-1
+    Count: 72
+    Counties: 1
+374 GOSHEN CITY-2
+    Count: 78
+    Counties: 1
+375 GOSHEN TWP-1
+    Count: 66
+    Counties: 1
+376 GOSHEN TWP-2
+    Count: 72
+    Counties: 1
+377 GREENLAND TWP-3
+    Count: 72
+    Counties: 1
+38.0
+    Count: 96
+    Counties: 1
+380 HARMON-1 FIRE
+    Count: 75
+    Counties: 1
+380.X50 HARMON-1
+    Count: 69
+    Counties: 1
+381 HARMON-5
+    Count: 69
+    Counties: 1
+381.X50 HARMON-5 FIRE
+    Count: 75
+    Counties: 1
+382 HARMON-2
+    Count: 60
+    Counties: 1
+383 HARMON-3
+    Count: 66
+    Counties: 1
+384 HARMON-4
+    Count: 69
+    Counties: 1
+385 HARMON-6
+    Count: 66
+    Counties: 1
+39.0
+    Count: 84
+    Counties: 1
+3BZ79.2
+    Count: 69
+    Counties: 1
+3BZ80.2
+    Count: 69
+    Counties: 1
+3BZ80.3
+    Count: 69
+    Counties: 1
+3BZ81.1
+    Count: 69
+    Counties: 1
+3BZ81.3
+    Count: 69
+    Counties: 1
+3HC78.1
+    Count: 60
+    Counties: 1
+3HC78.2
+    Count: 60
+    Counties: 1
+3HC78.3
+    Count: 60
+    Counties: 1
+3HC78.4
+    Count: 60
+    Counties: 1
+3HC78.5
+    Count: 60
+    Counties: 1
+3HF77.1
+    Count: 60
+    Counties: 1
+3HF77.2
+    Count: 60
+    Counties: 1
+3HF77.3
+    Count: 60
+    Counties: 1
+3HG76.1
+    Count: 60
+    Counties: 1
+3HG76.2
+    Count: 60
+    Counties: 1
+3HG76.3
+    Count: 60
+    Counties: 1
+3MD75.1
+    Count: 60
+    Counties: 1
+3MN74.1
+    Count: 60
+    Counties: 1
+3MN74.3
+    Count: 60
+    Counties: 1
+3MN74.4
+    Count: 60
+    Counties: 1
+3MN74.5
+    Count: 60
+    Counties: 1
+3MN74.6
+    Count: 60
+    Counties: 1
+3MN74.7
+    Count: 60
+    Counties: 1
+3SC70.1
+    Count: 63
+    Counties: 1
+3SC71.1
+    Count: 60
+    Counties: 1
+3SC71.2
+    Count: 60
+    Counties: 1
+3SC71.3
+    Count: 60
+    Counties: 1
+3SC71.4
+    Count: 60
+    Counties: 1
+3SC71.5
+    Count: 60
+    Counties: 1
+3SC71.6
+    Count: 60
+    Counties: 1
+3SC71.7
+    Count: 60
+    Counties: 1
+3SC71.8
+    Count: 60
+    Counties: 1
+3SC71.9
+    Count: 60
+    Counties: 1
+3SC72.2
+    Count: 63
+    Counties: 1
+3SC72.3
+    Count: 63
+    Counties: 1
+3SC73.1
+    Count: 60
+    Counties: 1
+3SC73.2
+    Count: 60
+    Counties: 1
+3SC73.3
+    Count: 60
+    Counties: 1
+3SC73.4
+    Count: 60
+    Counties: 1
+3SC73.5
+    Count: 60
+    Counties: 1
+3SC73.6
+    Count: 60
+    Counties: 1
+3SC73.7
+    Count: 60
+    Counties: 1
+3SC73.8
+    Count: 60
+    Counties: 1
+4
+    Count: 285
+    Counties: 4
+4-A PHILPOT
+    Count: 57
+    Counties: 1
+4-B WATALULA
+    Count: 63
+    Counties: 1
+4-C WV RURAL
+    Count: 60
+    Counties: 1
+4-D OZARK RURAL
+    Count: 60
+    Counties: 1
+4.0
+    Count: 84
+    Counties: 1
+40.0
+    Count: 105
+    Counties: 1
+400 ILLINOIS
+    Count: 60
+    Counties: 1
+403
+    Count: 66
+    Counties: 1
+404
+    Count: 66
+    Counties: 1
+405
+    Count: 66
+    Counties: 1
+406
+    Count: 69
+    Counties: 1
+407
+    Count: 66
+    Counties: 1
+408
+    Count: 66
+    Counties: 1
+409
+    Count: 66
+    Counties: 1
+41.0
+    Count: 81
+    Counties: 1
+410
+    Count: 66
+    Counties: 1
+412
+    Count: 66
+    Counties: 1
+414
+    Count: 66
+    Counties: 1
+415
+    Count: 66
+    Counties: 1
+416
+    Count: 66
+    Counties: 1
+417
+    Count: 66
+    Counties: 1
+419
+    Count: 66
+    Counties: 1
+419 JOHNSON TWP-4
+    Count: 69
+    Counties: 1
+42.0
+    Count: 72
+    Counties: 1
+420
+    Count: 66
+    Counties: 1
+420 JOHNSON TWP-1
+    Count: 63
+    Counties: 1
+421
+    Count: 66
+    Counties: 1
+421 JOHNSON CITY-1
+    Count: 75
+    Counties: 1
+422
+    Count: 66
+    Counties: 1
+422 JOHNSON CITY-4
+    Count: 75
+    Counties: 1
+423
+    Count: 66
+    Counties: 1
+423 JOHNSON TWP-2
+    Count: 69
+    Counties: 1
+424 JOHNSON TWP-3
+    Count: 69
+    Counties: 1
+425
+    Count: 66
+    Counties: 1
+425 JOHNSON CITY-2
+    Count: 75
+    Counties: 1
+426
+    Count: 66
+    Counties: 1
+426 JOHNSON CITY-3
+    Count: 75
+    Counties: 1
+440 LEES CREEK
+    Count: 72
+    Counties: 1
+45
+    Count: 60
+    Counties: 1
+450
+    Count: 66
+    Counties: 1
+451
+    Count: 66
+    Counties: 1
+452
+    Count: 66
+    Counties: 1
+453
+    Count: 66
+    Counties: 1
+454
+    Count: 66
+    Counties: 1
+455
+    Count: 66
+    Counties: 1
+460 LINCOLN
+    Count: 60
+    Counties: 1
+480 LITTERAL-1
+    Count: 60
+    Counties: 1
+481 LITTERAL-2
+    Count: 66
+    Counties: 1
+482 LITTERAL-3
+    Count: 66
+    Counties: 1
+483 LITTERAL-4
+    Count: 69
+    Counties: 1
+4F366.1
+    Count: 72
+    Counties: 1
+4F366.2
+    Count: 72
+    Counties: 1
+4F367.1
+    Count: 72
+    Counties: 1
+4F368.1
+    Count: 69
+    Counties: 1
+4F369.1
+    Count: 72
+    Counties: 1
+4F465.1
+    Count: 63
+    Counties: 1
+4GW62.1
+    Count: 75
+    Counties: 1
+4GW62.2
+    Count: 75
+    Counties: 1
+4GW62.3
+    Count: 75
+    Counties: 1
+4GW63.1
+    Count: 75
+    Counties: 1
+4GW63.2
+    Count: 75
+    Counties: 1
+4GW64.1
+    Count: 75
+    Counties: 1
+4SC53.1
+    Count: 60
+    Counties: 1
+4SC54.1
+    Count: 63
+    Counties: 1
+4SC54.2
+    Count: 63
+    Counties: 1
+4SC55.1
+    Count: 63
+    Counties: 1
+4SC55.2
+    Count: 63
+    Counties: 1
+4SC56.1
+    Count: 63
+    Counties: 1
+4SC56.2
+    Count: 63
+    Counties: 1
+4SC57.1
+    Count: 60
+    Counties: 1
+4SC57.2
+    Count: 60
+    Counties: 1
+4SC58.1
+    Count: 63
+    Counties: 1
+4SC59.1
+    Count: 63
+    Counties: 1
+4SC59.2
+    Count: 63
+    Counties: 1
+4SC59.3
+    Count: 63
+    Counties: 1
+4SC59.4
+    Count: 63
+    Counties: 1
+4SC59.5
+    Count: 63
+    Counties: 1
+4SC60.1
+    Count: 63
+    Counties: 1
+5
+    Count: 293
+    Counties: 4
+5-A WALLACE/IVY
+    Count: 72
+    Counties: 1
+5-B OZARK RURAL
+    Count: 66
+    Counties: 1
+5-C WEBB CITY
+    Count: 60
+    Counties: 1
+5.0
+    Count: 66
+    Counties: 1
+50
+    Count: 60
+    Counties: 1
+500 MARRS HILL-1
+    Count: 60
+    Counties: 1
+501 MARRS HILL-2
+    Count: 66
+    Counties: 1
+51
+    Count: 69
+    Counties: 1
+510
+    Count: 72
+    Counties: 1
+520 MORROW-1
+    Count: 63
+    Counties: 1
+521 MORROW-2
+    Count: 60
+    Counties: 1
+53
+    Count: 60
+    Counties: 1
+530
+    Count: 72
+    Counties: 1
+54
+    Count: 63
+    Counties: 1
+541 PRAIRIE TWP-1
+    Count: 66
+    Counties: 1
+541.XX1 PRAIRIE TWP 1-ANNEX
+    Count: 72
+    Counties: 1
+542 PRAIRIE TWP-2
+    Count: 72
+    Counties: 1
+543 PRAIRIE TWP-3
+    Count: 66
+    Counties: 1
+544 PRAIRIE TWP-4
+    Count: 63
+    Counties: 1
+545 PRAIRIE TWP-5
+    Count: 66
+    Counties: 1
+546 PRAIRIE TWP-6
+    Count: 66
+    Counties: 1
+547 PRAIRIE TWP-7
+    Count: 66
+    Counties: 1
+548 PRAIRIE TWP-8
+    Count: 60
+    Counties: 1
+548.X50 PRAIRIE TWP 8-ANNEX
+    Count: 66
+    Counties: 1
+55
+    Count: 60
+    Counties: 1
+550 PRAIRIE GR CITY-1
+    Count: 81
+    Counties: 1
+56
+    Count: 60
+    Counties: 1
+560 PRAIRIE GR CITY-2
+    Count: 81
+    Counties: 1
+561 PRAIRIE GR CITY-3
+    Count: 81
+    Counties: 1
+562 PRAIRIE GR CITY-4
+    Count: 87
+    Counties: 1
+563 PRAIRIE GR CITY-5
+    Count: 87
+    Counties: 1
+57
+    Count: 66
+    Counties: 1
+58
+    Count: 60
+    Counties: 1
+580 PRAIRIE GR TWP-1
+    Count: 60
+    Counties: 1
+581 PRAIRIE GR TWP-3
+    Count: 66
+    Counties: 1
+582 PRAIRIE GR TWP-2
+    Count: 66
+    Counties: 1
+59
+    Count: 60
+    Counties: 1
+5F350.1
+    Count: 72
+    Counties: 1
+5F351.1
+    Count: 72
+    Counties: 1
+5F352.1
+    Count: 72
+    Counties: 1
+5F448.1
+    Count: 63
+    Counties: 1
+5F449.1
+    Count: 63
+    Counties: 1
+5SC46.1
+    Count: 63
+    Counties: 1
+5SC47.1
+    Count: 63
+    Counties: 1
+6
+    Count: 293
+    Counties: 3
+6-A ALTUS RURAL
+    Count: 60
+    Counties: 1
+6-B ALTUS CITY
+    Count: 60
+    Counties: 1
+6-C DENNING
+    Count: 66
+    Counties: 1
+6-D WEIDERKEHR VILLAGE
+    Count: 60
+    Counties: 1
+6.0
+    Count: 108
+    Counties: 1
+60
+    Count: 66
+    Counties: 1
+61
+    Count: 60
+    Counties: 1
+610
+    Count: 60
+    Counties: 1
+62
+    Count: 60
+    Counties: 1
+620
+    Count: 60
+    Counties: 1
+620 REED-1
+    Count: 72
+    Counties: 1
+621 REED-2
+    Count: 72
+    Counties: 1
+64
+    Count: 60
+    Counties: 1
+640 RHEAS MILL
+    Count: 60
+    Counties: 1
+66
+    Count: 63
+    Counties: 1
+660 RICHLAND-1
+    Count: 72
+    Counties: 1
+661 RICHLAND-3
+    Count: 72
+    Counties: 1
+662 RICHLAND-2
+    Count: 72
+    Counties: 1
+67
+    Count: 60
+    Counties: 1
+680 SPG 01
+    Count: 66
+    Counties: 1
+690 SPG 02
+    Count: 72
+    Counties: 1
+6F342.2
+    Count: 72
+    Counties: 1
+6F343.1
+    Count: 72
+    Counties: 1
+6F343.2
+    Count: 72
+    Counties: 1
+6F344.1
+    Count: 72
+    Counties: 1
+6F345.1
+    Count: 72
+    Counties: 1
+6F440.1
+    Count: 63
+    Counties: 1
+6F440.2
+    Count: 63
+    Counties: 1
+6F441.1
+    Count: 63
+    Counties: 1
+6SC38.1
+    Count: 63
+    Counties: 1
+6SC39.1
+    Count: 63
+    Counties: 1
+7
+    Count: 348
+    Counties: 4
+7-A CECIL
+    Count: 60
+    Counties: 1
+7-B WEBB CITY
+    Count: 60
+    Counties: 1
+7-C ETNA
+    Count: 60
+    Counties: 1
+7-D DONALD RURAL
+    Count: 60
+    Counties: 1
+7.0
+    Count: 72
+    Counties: 1
+700 SPG 03
+    Count: 72
+    Counties: 1
+710 SPG 04
+    Count: 72
+    Counties: 1
+711
+    Count: 69
+    Counties: 1
+712
+    Count: 60
+    Counties: 1
+713
+    Count: 63
+    Counties: 1
+714
+    Count: 69
+    Counties: 1
+720 SPG 05
+    Count: 72
+    Counties: 1
+721
+    Count: 72
+    Counties: 1
+73
+    Count: 69
+    Counties: 1
+730 SPG 06
+    Count: 66
+    Counties: 1
+731
+    Count: 69
+    Counties: 1
+732
+    Count: 69
+    Counties: 1
+733
+    Count: 69
+    Counties: 1
+74
+    Count: 63
+    Counties: 1
+740 SPG 07
+    Count: 66
+    Counties: 1
+741 SPG 08
+    Count: 72
+    Counties: 1
+742 SPG 09
+    Count: 66
+    Counties: 1
+743 SPG 10
+    Count: 72
+    Counties: 1
+744 SPG 11
+    Count: 72
+    Counties: 1
+745 SPG 12
+    Count: 72
+    Counties: 1
+746 SPG 13
+    Count: 72
+    Counties: 1
+747 SPG 14
+    Count: 66
+    Counties: 1
+748 SPG 15
+    Count: 72
+    Counties: 1
+749 SPG 16
+    Count: 66
+    Counties: 1
+75
+    Count: 63
+    Counties: 1
+752 SPG 17
+    Count: 72
+    Counties: 1
+753 SPG 18
+    Count: 66
+    Counties: 1
+754 SPG 19
+    Count: 72
+    Counties: 1
+755 SPG 20
+    Count: 72
+    Counties: 1
+756 SPG 21
+    Count: 66
+    Counties: 1
+757 SPG 22
+    Count: 72
+    Counties: 1
+758 SPG 23
+    Count: 66
+    Counties: 1
+759 SPG 24
+    Count: 72
+    Counties: 1
+76
+    Count: 63
+    Counties: 1
+760 SPG 25
+    Count: 72
+    Counties: 1
+761 SPG 26
+    Count: 72
+    Counties: 1
+762 SPG 27
+    Count: 66
+    Counties: 1
+763 SPG 28
+    Count: 72
+    Counties: 1
+764 SPG 29
+    Count: 72
+    Counties: 1
+765 SPG 30
+    Count: 72
+    Counties: 1
+766 SPG 31
+    Count: 72
+    Counties: 1
+767 SPG 32
+    Count: 72
+    Counties: 1
+768 SPG 33
+    Count: 72
+    Counties: 1
+769 SPG 34
+    Count: 66
+    Counties: 1
+77
+    Count: 63
+    Counties: 1
+770 SPG 35
+    Count: 72
+    Counties: 1
+771 SPG 36
+    Count: 72
+    Counties: 1
+772 SPG 37
+    Count: 72
+    Counties: 1
+773 SPG 38
+    Count: 72
+    Counties: 1
+774 SPG 39
+    Count: 72
+    Counties: 1
+775 SPG 40
+    Count: 72
+    Counties: 1
+776 SPG 41
+    Count: 66
+    Counties: 1
+778 SPG 43
+    Count: 72
+    Counties: 1
+779 SPG TWP-1
+    Count: 63
+    Counties: 1
+78
+    Count: 63
+    Counties: 1
+780 STARR HILL
+    Count: 60
+    Counties: 1
+781 SPG TWP-2
+    Count: 63
+    Counties: 1
+782 SPG TWP-3
+    Count: 63
+    Counties: 1
+79
+    Count: 63
+    Counties: 1
+7F137.1
+    Count: 69
+    Counties: 1
+7F334.1
+    Count: 78
+    Counties: 1
+7F334.2
+    Count: 78
+    Counties: 1
+7F335.1
+    Count: 78
+    Counties: 1
+7F336.1
+    Count: 78
+    Counties: 1
+7F336.2
+    Count: 78
+    Counties: 1
+7F432.1
+    Count: 69
+    Counties: 1
+7F433.1
+    Count: 69
+    Counties: 1
+7F433.2
+    Count: 69
+    Counties: 1
+7TH STREET CHURCH WMPH
+    Count: 99
+    Counties: 1
+8
+    Count: 300
+    Counties: 4
+8-A BRANCH CITY
+    Count: 66
+    Counties: 1
+8-B CHARLESTON WD 1
+    Count: 66
+    Counties: 1
+8-C CHARLESTON RURAL
+    Count: 66
+    Counties: 1
+8-D VESTA
+    Count: 60
+    Counties: 1
+8-E DONALD RURAL
+    Count: 60
+    Counties: 1
+8-F CECIL
+    Count: 60
+    Counties: 1
+8-G DONALD RURAL
+    Count: 66
+    Counties: 1
+8.0
+    Count: 81
+    Counties: 1
+80
+    Count: 66
+    Counties: 1
+800 TONTITOWN CITY-1
+    Count: 120
+    Counties: 1
+801 TONTITOWN CITY-2
+    Count: 120
+    Counties: 1
+802 TONTITOWN CITY-3
+    Count: 120
+    Counties: 1
+803 TONTITOWN CITY-4
+    Count: 120
+    Counties: 1
+804 TONTITOWN CITY-5
+    Count: 120
+    Counties: 1
+805 TONTITOWN CITY-6
+    Count: 120
+    Counties: 1
+807 TONTITOWN TWP FIRE
+    Count: 75
+    Counties: 1
+81
+    Count: 63
+    Counties: 1
+810
+    Count: 78
+    Counties: 1
+810 VALLEY-1
+    Count: 72
+    Counties: 1
+811 VALLEY-2
+    Count: 72
+    Counties: 1
+812 VALLEY-3
+    Count: 69
+    Counties: 1
+82
+    Count: 60
+    Counties: 1
+820
+    Count: 78
+    Counties: 1
+820 VINEYARD
+    Count: 66
+    Counties: 1
+83
+    Count: 60
+    Counties: 1
+830
+    Count: 78
+    Counties: 1
+830 WAR EAGLE
+    Count: 63
+    Counties: 1
+84
+    Count: 63
+    Counties: 1
+840 WEDINGTON
+    Count: 60
+    Counties: 1
+85
+    Count: 72
+    Counties: 1
+86
+    Count: 72
+    Counties: 1
+860 WEST FORK CITY-1
+    Count: 69
+    Counties: 1
+861 WEST FORK CITY-2
+    Count: 69
+    Counties: 1
+862 WEST FORK CITY-3
+    Count: 69
+    Counties: 1
+87
+    Count: 66
+    Counties: 1
+880 WEST FORK TWP-1
+    Count: 69
+    Counties: 1
+881 WEST FORK TWP-2
+    Count: 69
+    Counties: 1
+882 WEST FORK TWP-3
+    Count: 72
+    Counties: 1
+89
+    Count: 72
+    Counties: 1
+8F228.1
+    Count: 60
+    Counties: 1
+8F229.1
+    Count: 60
+    Counties: 1
+8F230.1
+    Count: 60
+    Counties: 1
+9
+    Count: 295
+    Counties: 4
+9-A CHARLESTON WD 2
+    Count: 66
+    Counties: 1
+9-B CHARLESTON WD 3
+    Count: 66
+    Counties: 1
+9-C CHARLESTON RURAL
+    Count: 66
+    Counties: 1
+9.0
+    Count: 66
+    Counties: 1
+90
+    Count: 60
+    Counties: 1
+900
+    Count: 66
+    Counties: 1
+900 WHEELER-1
+    Count: 66
+    Counties: 1
+901 WHEELER-4
+    Count: 69
+    Counties: 1
+902 WHEELER-5
+    Count: 69
+    Counties: 1
+903 WHEELER-2
+    Count: 69
+    Counties: 1
+904 WHEELER-3
+    Count: 66
+    Counties: 1
+92
+    Count: 69
+    Counties: 1
+920 WHITE RIVER-1
+    Count: 72
+    Counties: 1
+93
+    Count: 69
+    Counties: 1
+930 WHITE RIVER-2
+    Count: 72
+    Counties: 1
+931 WHITE RIVER-3
+    Count: 72
+    Counties: 1
+932 WHITE RIVER-4
+    Count: 72
+    Counties: 1
+933 WHITE RIVER-5
+    Count: 72
+    Counties: 1
+94
+    Count: 66
+    Counties: 1
+940 WINSLOW TWP
+    Count: 72
+    Counties: 1
+950
+    Count: 60
+    Counties: 1
+950 WINSLOW CITY
+    Count: 78
+    Counties: 1
+960 WYMAN
+    Count: 72
+    Counties: 1
+9F127.1
+    Count: 60
+    Counties: 1
+9F225.1
+    Count: 60
+    Counties: 1
+9F226.1
+    Count: 60
+    Counties: 1
+AIRBASE
+    Count: 66
+    Counties: 1
+ALABAM
+    Count: 66
+    Counties: 1
+ALAMO
+    Count: 63
+    Counties: 1
+ALBION
+    Count: 60
+    Counties: 1
+ALCORN
+    Count: 66
+    Counties: 1
+ALGOA
+    Count: 69
+    Counties: 1
+ALLPORT CITY
+    Count: 63
+    Counties: 1
+ALMYRA
+    Count: 66
+    Counties: 1
+AMAGON
+    Count: 69
+    Counties: 1
+AMITY CITY
+    Count: 72
+    Counties: 1
+ANGORA MOUNTAIN
+    Count: 69
+    Counties: 1
+ANNIEVILLE
+    Count: 78
+    Counties: 1
+ANTHONYVILLE CITY HALL
+    Count: 69
+    Counties: 1
+ANTIOCH
+    Count: 120
+    Counties: 2
+ANTOINE
+    Count: 60
+    Counties: 1
+APLIN
+    Count: 75
+    Counties: 1
+APPLETON 1/JP4
+    Count: 63
+    Counties: 1
+APPLETON 2/JP3
+    Count: 69
+    Counties: 1
+ARBANNA
+    Count: 60
+    Counties: 1
+ARDEN
+    Count: 66
+    Counties: 1
+ARKADELPHIA WARD 1
+    Count: 72
+    Counties: 1
+ARKADELPHIA WARD 2
+    Count: 78
+    Counties: 1
+ARKADELPHIA WARD 3
+    Count: 66
+    Counties: 1
+ARKADELPHIA WARD 4
+    Count: 66
+    Counties: 1
+ARKADELPHIA WARD 5
+    Count: 66
+    Counties: 1
+ARKANSAS
+    Count: 66
+    Counties: 1
+ARKINDA
+    Count: 66
+    Counties: 1
+ARMOREL PLANTING COMPANY
+    Count: 66
+    Counties: 1
+ASHDOWN WARD 1
+    Count: 66
+    Counties: 1
+ASHDOWN WARD 2
+    Count: 66
+    Counties: 1
+ASHDOWN WARD 3
+    Count: 66
+    Counties: 1
+ASHLAND
+    Count: 78
+    Counties: 1
+ASHLEY
+    Count: 72
+    Counties: 1
+ATKINS IN/JP1
+    Count: 63
+    Counties: 1
+ATKINS OUT 1/JP1
+    Count: 63
+    Counties: 1
+ATKINS OUT 2/
+    Count: 63
+    Counties: 1
+ATKINS OUT 3/JP3
+    Count: 69
+    Counties: 1
+AUBURN
+    Count: 66
+    Counties: 1
+AUGUSTA-01
+    Count: 81
+    Counties: 1
+AUGUSTA-02
+    Count: 81
+    Counties: 1
+AUGUSTA-03
+    Count: 81
+    Counties: 1
+AURELLE SR97
+    Count: 60
+    Counties: 1
+AUSTIN
+    Count: 81
+    Counties: 1
+AUSTIN CITY
+    Count: 63
+    Counties: 1
+AUVERGNE
+    Count: 69
+    Counties: 1
+B/U
+    Count: 69
+    Counties: 1
+BAKER
+    Count: 60
+    Counties: 1
+BALD KNOB NORTH
+    Count: 60
+    Counties: 1
+BALD KNOB TWP
+    Count: 60
+    Counties: 1
+BALD KNOB WARD 1
+    Count: 66
+    Counties: 1
+BALD KNOB WARD 2
+    Count: 66
+    Counties: 1
+BALD KNOB WARD 3
+    Count: 66
+    Counties: 1
+BANKS CITY
+    Count: 66
+    Counties: 1
+BANKS RURAL
+    Count: 72
+    Counties: 1
+BAR/TARRY
+    Count: 66
+    Counties: 1
+BAR/YORKTOWN
+    Count: 66
+    Counties: 1
+BARBER
+    Count: 60
+    Counties: 1
+BARREN
+    Count: 72
+    Counties: 1
+BARTON
+    Count: 66
+    Counties: 1
+BARTON FIRE STATION P9
+    Count: 63
+    Counties: 1
+BAYLISS/JP6
+    Count: 72
+    Counties: 1
+BAYOU METO
+    Count: 66
+    Counties: 1
+BEAR CREEK
+    Count: 72
+    Counties: 1
+BEAR CREEK #4
+    Count: 66
+    Counties: 1
+BEAR CREEK #5
+    Count: 66
+    Counties: 1
+BEAR CREEK #6
+    Count: 66
+    Counties: 1
+BEARDEN
+    Count: 66
+    Counties: 1
+BEEBE WARD 1
+    Count: 66
+    Counties: 1
+BEEBE WARD 2
+    Count: 66
+    Counties: 1
+BEEBE WARD 3
+    Count: 66
+    Counties: 1
+BEEBE WARD 3C
+    Count: 66
+    Counties: 1
+BEECH CREEK
+    Count: 63
+    Counties: 1
+BEEDEVILLE
+    Count: 69
+    Counties: 1
+BELCHER/TYLER
+    Count: 60
+    Counties: 1
+BEN
+    Count: 60
+    Counties: 1
+BENNETT & LEMMONS
+    Count: 60
+    Counties: 1
+BENTLEY CITY
+    Count: 87
+    Counties: 1
+BENTLEY RURAL
+    Count: 81
+    Counties: 1
+BERRYVILLE EAST
+    Count: 66
+    Counties: 1
+BERRYVILLE WEST
+    Count: 66
+    Counties: 1
+BETHANY
+    Count: 72
+    Counties: 1
+BIG BOTTOM WARDS 1,2,3
+    Count: 72
+    Counties: 1
+BIG BOTTOM WYCOUGH LOGAN
+    Count: 72
+    Counties: 1
+BIG CREEK
+    Count: 246
+    Counties: 4
+BIG SPRING
+    Count: 66
+    Counties: 1
+BINGEN
+    Count: 72
+    Counties: 1
+BIRD
+    Count: 81
+    Counties: 1
+BIRDSONG COMMUNITY CENTER
+    Count: 63
+    Counties: 1
+BISMARCK
+    Count: 60
+    Counties: 1
+BLACK RIVER
+    Count: 84
+    Counties: 1
+BLACK RIVER- MARSHALL
+    Count: 72
+    Counties: 1
+BLACK ROCK
+    Count: 78
+    Counties: 1
+BLACK SPRINGS
+    Count: 63
+    Counties: 1
+BLACKFORK
+    Count: 60
+    Counties: 1
+BLACKVILLE
+    Count: 69
+    Counties: 1
+BLANSETT
+    Count: 60
+    Counties: 1
+BLEVINS
+    Count: 69
+    Counties: 1
+BLUE MOUNTAIN CITY
+    Count: 60
+    Counties: 1
+BLUE MOUNTAIN RURAL
+    Count: 60
+    Counties: 1
+BLUFF CITY CITY & RURAL
+    Count: 72
+    Counties: 1
+BLUFFTON
+    Count: 60
+    Counties: 1
+BOAS 1
+    Count: 90
+    Counties: 1
+BOAS 2
+    Count: 84
+    Counties: 1
+BOAS 3
+    Count: 87
+    Counties: 1
+BOD CITY & RURAL ST REP 89
+    Count: 72
+    Counties: 1
+BOD RURAL NEV SZ 3 & ST REP 89
+    Count: 72
+    Counties: 1
+BOD RURAL ST REP 98
+    Count: 72
+    Counties: 1
+BOLIVAR
+    Count: 63
+    Counties: 1
+BONAIR
+    Count: 63
+    Counties: 1
+BOONE WD 1
+    Count: 78
+    Counties: 1
+BOONE WD 2
+    Count: 78
+    Counties: 1
+BOONE WD 3
+    Count: 78
+    Counties: 1
+BOONE WD 4
+    Count: 60
+    Counties: 1
+BOSTON
+    Count: 57
+    Counties: 1
+BOSWELL
+    Count: 63
+    Counties: 1
+BOWIE 1, 2, 3
+    Count: 72
+    Counties: 1
+BOWIE 1, 2, 3 JP. DIST 2
+    Count: 78
+    Counties: 1
+BOWIE RURAL
+    Count: 132
+    Counties: 2
+BOWIE W2
+    Count: 66
+    Counties: 1
+BOWIE W3
+    Count: 72
+    Counties: 1
+BOWIE; W1
+    Count: 66
+    Counties: 1
+BOWMAN
+    Count: 63
+    Counties: 1
+BOYDELL
+    Count: 63
+    Counties: 1
+BRADFORD WARD 1
+    Count: 72
+    Counties: 1
+BRADFORD WARD 2
+    Count: 72
+    Counties: 1
+BRADFORD WARD 3
+    Count: 72
+    Counties: 1
+BRADSHAW & HAYWOOD
+    Count: 66
+    Counties: 1
+BRAWLEY
+    Count: 60
+    Counties: 1
+BREWER
+    Count: 66
+    Counties: 1
+BRIGGSVILLE
+    Count: 60
+    Counties: 1
+BRIGHT STAR
+    Count: 84
+    Counties: 1
+BRINKLEY TOWNSHIP BSDL
+    Count: 69
+    Counties: 1
+BRINKLEY WARD 1 STREP61 BSDL
+    Count: 78
+    Counties: 1
+BRINKLEY WARD 2 BSDL
+    Count: 81
+    Counties: 1
+BRINKLEY WARD 3 STREP61 BSDL
+    Count: 69
+    Counties: 1
+BRISTOW
+    Count: 60
+    Counties: 1
+BROCKWELL
+    Count: 75
+    Counties: 1
+BROWN & CARPENTER
+    Count: 60
+    Counties: 1
+BROWN SPRINGS
+    Count: 57
+    Counties: 1
+BUCK MOUNTAIN/JP4
+    Count: 63
+    Counties: 1
+BULLARD
+    Count: 60
+    Counties: 1
+BURKE
+    Count: 66
+    Counties: 1
+BUTLER
+    Count: 60
+    Counties: 1
+BUTLER TWP
+    Count: 60
+    Counties: 1
+BUTTERFIELD
+    Count: 63
+    Counties: 1
+CABOT CITY WARD 1
+    Count: 69
+    Counties: 1
+CABOT CITY WARD 2
+    Count: 75
+    Counties: 1
+CABOT CITY WARD 3
+    Count: 72
+    Counties: 1
+CABOT CITY WARD 4
+    Count: 69
+    Counties: 1
+CACHE
+    Count: 69
+    Counties: 1
+CACHE & WILSON
+    Count: 60
+    Counties: 1
+CACHE STREP61 CSDL
+    Count: 63
+    Counties: 1
+CADDO GAP
+    Count: 69
+    Counties: 1
+CADDO VALLEY WARDS 1,2,3
+    Count: 66
+    Counties: 1
+CADRON
+    Count: 63
+    Counties: 1
+CAGLESVILLE 1/JP4
+    Count: 63
+    Counties: 1
+CAGLESVILLE 2/JP3
+    Count: 69
+    Counties: 1
+CALDWELL
+    Count: 63
+    Counties: 1
+CALEDONIA SR97
+    Count: 60
+    Counties: 1
+CALF CREEK
+    Count: 60
+    Counties: 1
+CALHOUN
+    Count: 63
+    Counties: 1
+CALICO ROCK RURAL
+    Count: 63
+    Counties: 1
+CALICO ROCK _ WARD 1
+    Count: 63
+    Counties: 1
+CALICO ROCK _ WARD 2
+    Count: 63
+    Counties: 1
+CALICO ROCK _ WARD 3
+    Count: 63
+    Counties: 1
+CALICO ROCK _ WARD 4
+    Count: 63
+    Counties: 1
+CALIFORNIA
+    Count: 66
+    Counties: 1
+CALION
+    Count: 72
+    Counties: 1
+CALVARY  BAPTIST WMPH
+    Count: 99
+    Counties: 1
+CALVERT
+    Count: 60
+    Counties: 1
+CAMPBELL 1
+    Count: 69
+    Counties: 1
+CAMPBELL 2
+    Count: 69
+    Counties: 1
+CAMPBELL 3
+    Count: 69
+    Counties: 1
+CAMPBELL 4
+    Count: 69
+    Counties: 1
+CAMPBELL STATION
+    Count: 66
+    Counties: 1
+CANE
+    Count: 63
+    Counties: 1
+CANE CREEK
+    Count: 60
+    Counties: 1
+CANE CREEK 1
+    Count: 72
+    Counties: 1
+CANE CREEK 2
+    Count: 72
+    Counties: 1
+CANE CREEK 3
+    Count: 69
+    Counties: 1
+CANEY
+    Count: 135
+    Counties: 2
+CARLISLE CITY WARD 1
+    Count: 84
+    Counties: 1
+CARLISLE CITY WARD 2
+    Count: 84
+    Counties: 1
+CARLISLE CITY WARD 3
+    Count: 84
+    Counties: 1
+CARLISLE TWP
+    Count: 60
+    Counties: 1
+CARLTON 1, 2, 3
+    Count: 72
+    Counties: 1
+CARLTON RURAL
+    Count: 66
+    Counties: 1
+CAROLINE TWP
+    Count: 72
+    Counties: 1
+CASA
+    Count: 75
+    Counties: 1
+CATHOLIC POINT
+    Count: 87
+    Counties: 1
+CAULKSVILLE CITY
+    Count: 60
+    Counties: 1
+CAULKSVILLE RURAL
+    Count: 60
+    Counties: 1
+CAUTHRON
+    Count: 60
+    Counties: 1
+CAUTHRON/OLIVER
+    Count: 60
+    Counties: 1
+CAVE
+    Count: 72
+    Counties: 1
+CEDAR CREEK
+    Count: 60
+    Counties: 1
+CEDAR FALLS
+    Count: 78
+    Counties: 1
+CENTER
+    Count: 123
+    Counties: 2
+CENTER POST
+    Count: 63
+    Counties: 1
+CENTERVILLE
+    Count: 63
+    Counties: 1
+CENTRAL
+    Count: 141
+    Counties: 2
+CENTRAL 1
+    Count: 72
+    Counties: 1
+CHAMBERSVILLE
+    Count: 60
+    Counties: 1
+CHAMPAGNOLLE
+    Count: 60
+    Counties: 1
+CHARLES STRONG CENTER
+    Count: 81
+    Counties: 1
+CHEROKEE
+    Count: 66
+    Counties: 1
+CHERRY HILL
+    Count: 75
+    Counties: 1
+CHERRY ST. FIRE STATION P1
+    Count: 72
+    Counties: 1
+CHERRY VALLEY
+    Count: 63
+    Counties: 1
+CHESTER
+    Count: 66
+    Counties: 1
+CHOCTAW
+    Count: 66
+    Counties: 1
+CHRISP
+    Count: 66
+    Counties: 1
+CIVIC CENTER
+    Count: 99
+    Counties: 1
+CLAIBORNE
+    Count: 63
+    Counties: 1
+CLARENDON WARD 1 STREP61 CSDL
+    Count: 72
+    Counties: 1
+CLARENDON WARD 2 STREP61 CSDL
+    Count: 63
+    Counties: 1
+CLARENDON WARD 3 STREP61 CSDL
+    Count: 63
+    Counties: 1
+CLARK
+    Count: 60
+    Counties: 1
+CLARK CITY
+    Count: 60
+    Counties: 1
+CLARK CROSSROADS
+    Count: 60
+    Counties: 1
+CLARK RURAL
+    Count: 60
+    Counties: 1
+CLAY
+    Count: 60
+    Counties: 1
+CLAYTON
+    Count: 63
+    Counties: 1
+CLAYTON MCARTHUR
+    Count: 66
+    Counties: 1
+CLAYTON REED
+    Count: 66
+    Counties: 1
+CLAYTON TILLAR
+    Count: 72
+    Counties: 1
+CLEAR CREEK
+    Count: 129
+    Counties: 2
+CLEBURNE STREP62 CSDL
+    Count: 63
+    Counties: 1
+CLEVELAND
+    Count: 192
+    Counties: 3
+CLEVELAND TWP
+    Count: 60
+    Counties: 1
+COAL/LAFAYETTE
+    Count: 60
+    Counties: 1
+COFFEY
+    Count: 63
+    Counties: 1
+COLDWELL
+    Count: 60
+    Counties: 1
+COLLEGE HILL
+    Count: 108
+    Counties: 1
+COLLINS
+    Count: 66
+    Counties: 1
+COLT
+    Count: 75
+    Counties: 1
+COLUMBIA
+    Count: 60
+    Counties: 1
+COLUMBIA NORTH
+    Count: 69
+    Counties: 1
+COLUMBIA SOUTH
+    Count: 63
+    Counties: 1
+COLUMBUS
+    Count: 72
+    Counties: 1
+COMPTON
+    Count: 60
+    Counties: 1
+COOTER
+    Count: 63
+    Counties: 1
+COTTON PLANT-08
+    Count: 75
+    Counties: 1
+COTTON PLANT-09
+    Count: 75
+    Counties: 1
+COTTON PLANT/FREEMAN-07
+    Count: 63
+    Counties: 1
+COUNTRY BOX 1
+    Count: 66
+    Counties: 1
+COUNTRY BOX 2 SR97
+    Count: 60
+    Counties: 1
+COUNTRY BOX 3 SR97
+    Count: 60
+    Counties: 1
+COUNTRY BOX 4 SR97
+    Count: 60
+    Counties: 1
+COUNTRY BOX 6
+    Count: 66
+    Counties: 1
+COUNTRY BOX 7 SR97
+    Count: 60
+    Counties: 1
+COY CITY
+    Count: 63
+    Counties: 1
+CRAWFORD
+    Count: 60
+    Counties: 1
+CRAWFORDSVILLE
+    Count: 69
+    Counties: 1
+CROCKETT
+    Count: 63
+    Counties: 1
+CROOKED CREEK TWP
+    Count: 63
+    Counties: 1
+CROSBY
+    Count: 69
+    Counties: 1
+CROSSROADS
+    Count: 198
+    Counties: 3
+CROW MOUNTAIN EAST 1/JP1
+    Count: 63
+    Counties: 1
+CROW MOUNTAIN EAST 2/JP3
+    Count: 69
+    Counties: 1
+CROW MOUNTAIN WEST 1/
+    Count: 69
+    Counties: 1
+CROW MOUNTAIN WEST 2/JP7
+    Count: 63
+    Counties: 1
+CURRENT RIVER
+    Count: 60
+    Counties: 1
+CURTIS 1
+    Count: 66
+    Counties: 1
+CUSHMAN-UNION
+    Count: 72
+    Counties: 1
+CV
+    Count: 66
+    Counties: 1
+CW1
+    Count: 69
+    Counties: 1
+CW2
+    Count: 69
+    Counties: 1
+CW3
+    Count: 69
+    Counties: 1
+CYPERT
+    Count: 60
+    Counties: 1
+CYPRESS RIDGE STREP62
+    Count: 63
+    Counties: 1
+DAISY
+    Count: 60
+    Counties: 1
+DALTON
+    Count: 60
+    Counties: 1
+DANVILLE
+    Count: 72
+    Counties: 1
+DARDANELLE OUTSIDE
+    Count: 66
+    Counties: 1
+DARDANELLE WARD 1
+    Count: 63
+    Counties: 1
+DARDANELLE WARD 2
+    Count: 63
+    Counties: 1
+DARDANELLE WARD 3
+    Count: 63
+    Counties: 1
+DARYSAW
+    Count: 66
+    Counties: 1
+DAVIDSON
+    Count: 66
+    Counties: 1
+DAVIS
+    Count: 60
+    Counties: 1
+DEANN
+    Count: 69
+    Counties: 1
+DEKALB 1
+    Count: 60
+    Counties: 1
+DEKALB 2
+    Count: 60
+    Counties: 1
+DELAWARE
+    Count: 60
+    Counties: 1
+DELIGHT
+    Count: 72
+    Counties: 1
+DELL COMMUNITY CENTER
+    Count: 75
+    Counties: 1
+DEMUN RURAL
+    Count: 60
+    Counties: 1
+DENMARK
+    Count: 132
+    Counties: 2
+DENT
+    Count: 72
+    Counties: 1
+DENTON
+    Count: 60
+    Counties: 1
+DEPARTEE
+    Count: 72
+    Counties: 1
+DEQUEEN EAST
+    Count: 72
+    Counties: 1
+DEQUEEN NORTH
+    Count: 72
+    Counties: 1
+DEQUEEN SOUTH
+    Count: 72
+    Counties: 1
+DEROCH
+    Count: 57
+    Counties: 1
+DES ARC
+    Count: 123
+    Counties: 2
+DEWITT WARD 1
+    Count: 69
+    Counties: 1
+DEWITT WARD 2
+    Count: 69
+    Counties: 1
+DEWITT WARD 3
+    Count: 69
+    Counties: 1
+DIAZ
+    Count: 66
+    Counties: 1
+DISTRICT 1
+    Count: 116
+    Counties: 1
+DISTRICT 10
+    Count: 92
+    Counties: 1
+DISTRICT 11
+    Count: 100
+    Counties: 1
+DISTRICT 12
+    Count: 100
+    Counties: 1
+DISTRICT 2
+    Count: 116
+    Counties: 1
+DISTRICT 3
+    Count: 116
+    Counties: 1
+DISTRICT 4
+    Count: 116
+    Counties: 1
+DISTRICT 5
+    Count: 84
+    Counties: 1
+DISTRICT 6
+    Count: 84
+    Counties: 1
+DISTRICT 7
+    Count: 92
+    Counties: 1
+DISTRICT 8
+    Count: 88
+    Counties: 1
+DISTRICT 9
+    Count: 96
+    Counties: 1
+DIXON TOWNSHIP
+    Count: 69
+    Counties: 1
+DOBSON
+    Count: 60
+    Counties: 1
+DODD MOUNTAIN
+    Count: 63
+    Counties: 1
+DODDRIDGE
+    Count: 84
+    Counties: 1
+DOGPATCH
+    Count: 57
+    Counties: 1
+DOGWOOD TWP
+    Count: 60
+    Counties: 1
+DOLPH
+    Count: 63
+    Counties: 1
+DONALDSON CITY
+    Count: 57
+    Counties: 1
+DORTCH TWP
+    Count: 60
+    Counties: 1
+DOTA
+    Count: 72
+    Counties: 1
+DOVER
+    Count: 57
+    Counties: 1
+DOVER IN/JP5
+    Count: 63
+    Counties: 1
+DOVER OUT/JP5
+    Count: 63
+    Counties: 1
+DOWELL
+    Count: 78
+    Counties: 1
+DRIGGS
+    Count: 60
+    Counties: 1
+DUNCAN STREP62 CSDL
+    Count: 63
+    Counties: 1
+DUTCH CREEK
+    Count: 60
+    Counties: 1
+DUTY
+    Count: 84
+    Counties: 1
+DYESS CITY HALL
+    Count: 63
+    Counties: 1
+EAGLE LAKE
+    Count: 66
+    Counties: 1
+EAGLE TWP
+    Count: 66
+    Counties: 1
+EARLE
+    Count: 63
+    Counties: 1
+EAST & WEST RURAL
+    Count: 72
+    Counties: 1
+EAST COUNTY 1
+    Count: 66
+    Counties: 1
+EAST OAK BLUFF
+    Count: 60
+    Counties: 1
+EAST OUT
+    Count: 63
+    Counties: 1
+EAST PETER CREEK
+    Count: 66
+    Counties: 1
+EAST ROANOKE
+    Count: 60
+    Counties: 1
+EAST SULLIVAN
+    Count: 72
+    Counties: 1
+EATON
+    Count: 78
+    Counties: 1
+ECONOMY/JP3
+    Count: 69
+    Counties: 1
+EDMONDSON
+    Count: 63
+    Counties: 1
+EL PASO
+    Count: 63
+    Counties: 1
+ELAINE VOTECH P16
+    Count: 81
+    Counties: 1
+ELEVENPOINT
+    Count: 60
+    Counties: 1
+ELLSWORTH
+    Count: 60
+    Counties: 1
+EMERSON CITY
+    Count: 60
+    Counties: 1
+EMERSON TOWNSHIP
+    Count: 60
+    Counties: 1
+EMMET CITY BLVNS S DIS
+    Count: 72
+    Counties: 1
+EMMET RURAL BLEVINS SD
+    Count: 72
+    Counties: 1
+EMMET RURAL NEV SCHOOL DIST
+    Count: 72
+    Counties: 1
+ENGLAND CITY WARD 1
+    Count: 69
+    Counties: 1
+ENGLAND CITY WARD 2
+    Count: 69
+    Counties: 1
+ENGLAND CITY WARD 3
+    Count: 69
+    Counties: 1
+ENGLAND CITY WARD 4
+    Count: 69
+    Counties: 1
+ENON
+    Count: 66
+    Counties: 1
+ETOWAH FIRE STATION
+    Count: 63
+    Counties: 1
+EUREKA SPRINGS
+    Count: 78
+    Counties: 1
+FAIRVIEW
+    Count: 108
+    Counties: 1
+FAKES CHAPEL-20
+    Count: 63
+    Counties: 1
+FANNIE
+    Count: 63
+    Counties: 1
+FARGO STREP61 BSDL
+    Count: 63
+    Counties: 1
+FC WARD 1
+    Count: 69
+    Counties: 1
+FC WARD 2
+    Count: 69
+    Counties: 1
+FC WARD 3
+    Count: 75
+    Counties: 1
+FC WARD 4
+    Count: 69
+    Counties: 1
+FELSENTHAL CITY/SR96
+    Count: 72
+    Counties: 1
+FENTER
+    Count: 60
+    Counties: 1
+FENTER A
+    Count: 69
+    Counties: 1
+FENTER B
+    Count: 63
+    Counties: 1
+FENTER C
+    Count: 63
+    Counties: 1
+FERGUSON
+    Count: 66
+    Counties: 1
+FLAT CREEK
+    Count: 84
+    Counties: 1
+FLETCHER TWP
+    Count: 63
+    Counties: 1
+FOOTHILLS
+    Count: 66
+    Counties: 1
+FOREMAN WARD 1
+    Count: 72
+    Counties: 1
+FOREMAN WARD 2
+    Count: 72
+    Counties: 1
+FOREMAN WARD 3
+    Count: 72
+    Counties: 1
+FORREST CITY COUNTRY WEST
+    Count: 69
+    Counties: 1
+FOSTER
+    Count: 63
+    Counties: 1
+FOUKE
+    Count: 84
+    Counties: 1
+FOUNTAIN HILL CITY
+    Count: 63
+    Counties: 1
+FOUNTAIN HILL RURAL
+    Count: 63
+    Counties: 1
+FOURCHE
+    Count: 75
+    Counties: 1
+FOX
+    Count: 63
+    Counties: 1
+FRANCIS
+    Count: 66
+    Counties: 1
+FRANCURE
+    Count: 60
+    Counties: 1
+FRANKLIN
+    Count: 198
+    Counties: 3
+FRANKLIN CITY
+    Count: 72
+    Counties: 1
+FRANKLIN RURAL
+    Count: 72
+    Counties: 1
+FREEMAN/JP4
+    Count: 63
+    Counties: 1
+FRIENDSHIP
+    Count: 57
+    Counties: 1
+FULTON
+    Count: 78
+    Counties: 1
+FULTON/MC
+    Count: 69
+    Counties: 1
+FURLOW TWP
+    Count: 66
+    Counties: 1
+GAINSBORO
+    Count: 72
+    Counties: 1
+GALLA ROCK
+    Count: 63
+    Counties: 1
+GARLAND
+    Count: 158
+    Counties: 2
+GARNER CITY
+    Count: 60
+    Counties: 1
+GARNER TWP
+    Count: 66
+    Counties: 1
+GENOA
+    Count: 92
+    Counties: 1
+GEORGETOWN CITY
+    Count: 60
+    Counties: 1
+GEORGIA
+    Count: 72
+    Counties: 1
+GEORGIA NEV SCHOOL DIST ZONE3
+    Count: 72
+    Counties: 1
+GID
+    Count: 69
+    Counties: 1
+GIFFORD
+    Count: 57
+    Counties: 1
+GILES
+    Count: 72
+    Counties: 1
+GILKEY
+    Count: 60
+    Counties: 1
+GILLETT WARD 1
+    Count: 66
+    Counties: 1
+GILLETT WARD 2
+    Count: 66
+    Counties: 1
+GILLETT WARD 3
+    Count: 66
+    Counties: 1
+GILMORE
+    Count: 69
+    Counties: 1
+GLEN ROSE
+    Count: 57
+    Counties: 1
+GLENWOOD NORTH
+    Count: 66
+    Counties: 1
+GLENWOOD SOUTH
+    Count: 66
+    Counties: 1
+GOODRUM TWP
+    Count: 69
+    Counties: 1
+GOSNELL COMMUNITY CENTER
+    Count: 75
+    Counties: 1
+GOULD
+    Count: 66
+    Counties: 1
+GOULD CITY W1
+    Count: 78
+    Counties: 1
+GOULD CITY W2
+    Count: 72
+    Counties: 1
+GOULD CITY W3
+    Count: 66
+    Counties: 1
+GOURDNECK-CITIZENSHIP
+    Count: 69
+    Counties: 1
+GRADY CITY W1& W2
+    Count: 81
+    Counties: 1
+GRASSEY INSIDE
+    Count: 66
+    Counties: 1
+GRASSEY OUTSIDE
+    Count: 66
+    Counties: 1
+GRAVEL HILL
+    Count: 63
+    Counties: 1
+GRAVELLY
+    Count: 60
+    Counties: 1
+GRAY A
+    Count: 69
+    Counties: 1
+GRAY B
+    Count: 78
+    Counties: 1
+GRAY TWP
+    Count: 60
+    Counties: 1
+GREENBRIER-DESHA
+    Count: 72
+    Counties: 1
+GREENBRIER-JAMESTOWN
+    Count: 72
+    Counties: 1
+GREENBRIER-LOCUST GROVE
+    Count: 72
+    Counties: 1
+GREENF STREP61 BSDL
+    Count: 63
+    Counties: 1
+GREENFIELD
+    Count: 63
+    Counties: 1
+GREENHAW
+    Count: 66
+    Counties: 1
+GREENWICH VILLAGE
+    Count: 92
+    Counties: 1
+GREENWOOD RIVERVALE
+    Count: 75
+    Counties: 1
+GREERS FERRY GILES
+    Count: 96
+    Counties: 1
+GREGORY
+    Count: 81
+    Counties: 1
+GREGORY-06
+    Count: 63
+    Counties: 1
+GRIFFIN
+    Count: 81
+    Counties: 1
+GRIFFITHVILLE CITY
+    Count: 60
+    Counties: 1
+GROVE
+    Count: 57
+    Counties: 1
+GRUBBS
+    Count: 66
+    Counties: 1
+GUERNSEY
+    Count: 69
+    Counties: 1
+GUION CITY
+    Count: 69
+    Counties: 1
+GUION RURAL
+    Count: 69
+    Counties: 1
+GUM POND
+    Count: 69
+    Counties: 1
+GUM SPRINGS
+    Count: 63
+    Counties: 1
+GUM SPRINGS INSIDE/OUTSIDE 1
+    Count: 66
+    Counties: 1
+GUMWOOD TWP
+    Count: 63
+    Counties: 1
+GURDON GENERAL 1
+    Count: 66
+    Counties: 1
+GURDON WARDS 1, 2, 3, 4, 5
+    Count: 66
+    Counties: 1
+GUTHRIE
+    Count: 60
+    Counties: 1
+HALLEY
+    Count: 66
+    Counties: 1
+HAMBURG RURAL
+    Count: 63
+    Counties: 1
+HAMILTON TWP
+    Count: 60
+    Counties: 1
+HAMPTON
+    Count: 60
+    Counties: 1
+HARDY
+    Count: 87
+    Counties: 1
+HARPER
+    Count: 63
+    Counties: 1
+HARRELL
+    Count: 60
+    Counties: 1
+HARRISON
+    Count: 117
+    Counties: 2
+HARRISON EAST
+    Count: 60
+    Counties: 1
+HARTSELL
+    Count: 60
+    Counties: 1
+HASTY
+    Count: 57
+    Counties: 1
+HAZEN COUNTRY
+    Count: 60
+    Counties: 1
+HAZEN WARD 1
+    Count: 60
+    Counties: 1
+HAZEN WARD 2
+    Count: 60
+    Counties: 1
+HAZEN WARD 3
+    Count: 60
+    Counties: 1
+HEALING SPRINGS
+    Count: 66
+    Counties: 1
+HEBER SPRINGS OUTSIDE
+    Count: 69
+    Counties: 1
+HEBER SPRINGS WARD 1
+    Count: 63
+    Counties: 1
+HEBER SPRINGS WARD 2
+    Count: 66
+    Counties: 1
+HEBER SPRINGS WARD 3
+    Count: 66
+    Counties: 1
+HEBER SPRINGS WARD 4
+    Count: 69
+    Counties: 1
+HECTOR IN/JP4
+    Count: 63
+    Counties: 1
+HECTOR OUT/JP4
+    Count: 63
+    Counties: 1
+HENDERSON
+    Count: 60
+    Counties: 1
+HENTON
+    Count: 63
+    Counties: 1
+HERMITAGE CITY
+    Count: 66
+    Counties: 1
+HERMITAGE RURAL
+    Count: 66
+    Counties: 1
+HERRING
+    Count: 66
+    Counties: 1
+HETH BLACKFISH
+    Count: 69
+    Counties: 1
+HIBANKS SR97
+    Count: 60
+    Counties: 1
+HICKMAN RURAL EAST
+    Count: 60
+    Counties: 1
+HICKMAN RURAL WEST
+    Count: 60
+    Counties: 1
+HICKMAN WARD 1
+    Count: 60
+    Counties: 1
+HICKMAN WARD 2
+    Count: 60
+    Counties: 1
+HICKMAN WARD 3
+    Count: 60
+    Counties: 1
+HICKORY GROVE
+    Count: 186
+    Counties: 3
+HICKORY PLAINS
+    Count: 60
+    Counties: 1
+HICKORY RIDGE
+    Count: 69
+    Counties: 1
+HICKORY STREET
+    Count: 84
+    Counties: 1
+HICKORY STREET SOUTH
+    Count: 92
+    Counties: 1
+HIGGINS
+    Count: 78
+    Counties: 1
+HIGGINSON TWP
+    Count: 63
+    Counties: 1
+HIGGINSON WARD 1
+    Count: 63
+    Counties: 1
+HIGGINSON WARD 2
+    Count: 63
+    Counties: 1
+HIGGINSON WARD 3
+    Count: 63
+    Counties: 1
+HIGHLAND
+    Count: 66
+    Counties: 1
+HILBURN
+    Count: 66
+    Counties: 1
+HILL
+    Count: 72
+    Counties: 1
+HILLEMAN-13
+    Count: 63
+    Counties: 1
+HIND STREP62 CSDL
+    Count: 63
+    Counties: 1
+HOLIDAY ISLAND
+    Count: 84
+    Counties: 1
+HOLLY GROVE STREP62 CSDL
+    Count: 63
+    Counties: 1
+HOLLYWOOD 1
+    Count: 72
+    Counties: 1
+HON
+    Count: 60
+    Counties: 1
+HOPE 1
+    Count: 93
+    Counties: 1
+HOPE 2
+    Count: 93
+    Counties: 1
+HOPE 3
+    Count: 87
+    Counties: 1
+HOPE 4
+    Count: 93
+    Counties: 1
+HOPE 5
+    Count: 93
+    Counties: 1
+HOPE 6
+    Count: 96
+    Counties: 1
+HOPE 7
+    Count: 87
+    Counties: 1
+HOPPER
+    Count: 63
+    Counties: 1
+HORSESHOE
+    Count: 66
+    Counties: 1
+HORSESHOE BEND RURAL
+    Count: 72
+    Counties: 1
+HORSESHOE BEND _ WARD 1
+    Count: 90
+    Counties: 1
+HORSESHOE BEND _ WARD 2
+    Count: 126
+    Counties: 1
+HORSESHOE BEND _ WARD 3
+    Count: 90
+    Counties: 1
+HORSESHOE BEND _ WARD 4
+    Count: 90
+    Counties: 1
+HORSESHOE LAKE
+    Count: 63
+    Counties: 1
+HOUSTON
+    Count: 75
+    Counties: 1
+HOWARD CITY
+    Count: 87
+    Counties: 1
+HOWARD RURAL
+    Count: 87
+    Counties: 1
+HOWELL-12
+    Count: 63
+    Counties: 1
+HUDGIN
+    Count: 63
+    Counties: 1
+HUDSON
+    Count: 57
+    Counties: 1
+HUFF
+    Count: 72
+    Counties: 1
+HUGHES
+    Count: 75
+    Counties: 1
+HUMNOKE CITY
+    Count: 72
+    Counties: 1
+HUMPHREY WARD 1
+    Count: 75
+    Counties: 1
+HUMPHREY WARD 3
+    Count: 75
+    Counties: 1
+HUNT
+    Count: 60
+    Counties: 1
+HUNTER-11
+    Count: 63
+    Counties: 1
+HUNTSVILLE WARD 1
+    Count: 66
+    Counties: 1
+HUNTSVILLE WARD 2
+    Count: 66
+    Counties: 1
+HUNTSVILLE WARD 3
+    Count: 66
+    Counties: 1
+HUNTSVILLE WARD 4
+    Count: 66
+    Counties: 1
+HURRICAN
+    Count: 63
+    Counties: 1
+HUTTIG
+    Count: 66
+    Counties: 1
+HW1
+    Count: 69
+    Counties: 1
+HW2
+    Count: 63
+    Counties: 1
+HW3
+    Count: 63
+    Counties: 1
+INDIAN BAYOU TWP
+    Count: 63
+    Counties: 1
+INGLESIDE
+    Count: 66
+    Counties: 1
+INGRAM
+    Count: 60
+    Counties: 1
+IONS CREEK
+    Count: 60
+    Counties: 1
+ISBELL TWP
+    Count: 60
+    Counties: 1
+ISLAND
+    Count: 66
+    Counties: 1
+JACK STREP62 CSDL
+    Count: 63
+    Counties: 1
+JACKSON
+    Count: 309
+    Counties: 5
+JACKSONPORT
+    Count: 66
+    Counties: 1
+JAMES
+    Count: 60
+    Counties: 1
+JANES CREEK
+    Count: 60
+    Counties: 1
+JEFFERSON
+    Count: 324
+    Counties: 5
+JERICHO CITY HALL
+    Count: 75
+    Counties: 1
+JEROME
+    Count: 66
+    Counties: 1
+JERSEY
+    Count: 66
+    Counties: 1
+JESUP
+    Count: 78
+    Counties: 1
+JEWELL
+    Count: 66
+    Counties: 1
+JOHNSON
+    Count: 186
+    Counties: 3
+JOHNSVILLE
+    Count: 66
+    Counties: 1
+JOINER CITY HALL
+    Count: 69
+    Counties: 1
+JONES/LITTLE TEXAS
+    Count: 60
+    Counties: 1
+JOY
+    Count: 63
+    Counties: 1
+JP 001
+    Count: 66
+    Counties: 1
+JP 002
+    Count: 72
+    Counties: 1
+JP 003
+    Count: 66
+    Counties: 1
+JP 004
+    Count: 66
+    Counties: 1
+JP 005
+    Count: 72
+    Counties: 1
+JP 006
+    Count: 60
+    Counties: 1
+JP 007
+    Count: 60
+    Counties: 1
+JP 008
+    Count: 60
+    Counties: 1
+JP 009
+    Count: 60
+    Counties: 1
+JP 01
+    Count: 63
+    Counties: 1
+JP 02
+    Count: 69
+    Counties: 1
+JP 03
+    Count: 75
+    Counties: 1
+JP 04
+    Count: 81
+    Counties: 1
+JP 05
+    Count: 75
+    Counties: 1
+JP 06
+    Count: 81
+    Counties: 1
+JP 07
+    Count: 75
+    Counties: 1
+JP 08
+    Count: 87
+    Counties: 1
+JP 09
+    Count: 75
+    Counties: 1
+JP 1
+    Count: 72
+    Counties: 1
+JP 2
+    Count: 72
+    Counties: 1
+JP 3
+    Count: 72
+    Counties: 1
+JP 4
+    Count: 72
+    Counties: 1
+JP 5 REP 88
+    Count: 66
+    Counties: 1
+JP 6 REP 88
+    Count: 66
+    Counties: 1
+JP 7 REP 88
+    Count: 66
+    Counties: 1
+JP 8 REP 88
+    Count: 66
+    Counties: 1
+JP 9 REP 88
+    Count: 66
+    Counties: 1
+JP01
+    Count: 60
+    Counties: 1
+JP02
+    Count: 60
+    Counties: 1
+JP03
+    Count: 60
+    Counties: 1
+JP04
+    Count: 69
+    Counties: 1
+JP05
+    Count: 60
+    Counties: 1
+JP06
+    Count: 60
+    Counties: 1
+JP07
+    Count: 69
+    Counties: 1
+JP08
+    Count: 63
+    Counties: 1
+JP09
+    Count: 69
+    Counties: 1
+JP10
+    Count: 60
+    Counties: 1
+JP11
+    Count: 66
+    Counties: 1
+JUDSONIA WARD 1
+    Count: 66
+    Counties: 1
+JUDSONIA WARD 2
+    Count: 66
+    Counties: 1
+JUDSONIA WARD 3
+    Count: 66
+    Counties: 1
+JUNCTION CITY SR97
+    Count: 60
+    Counties: 1
+KEATON
+    Count: 63
+    Counties: 1
+KEENER
+    Count: 60
+    Counties: 1
+KEEVIL STREP61
+    Count: 63
+    Counties: 1
+KEISER FIRST BAPTIST CHURCH
+    Count: 63
+    Counties: 1
+KENNEY
+    Count: 75
+    Counties: 1
+KENSETT TWP
+    Count: 63
+    Counties: 1
+KENSETT WARD 1
+    Count: 78
+    Counties: 1
+KENSETT WARD 2
+    Count: 78
+    Counties: 1
+KENSETT WARD 3
+    Count: 78
+    Counties: 1
+KENTUCKY
+    Count: 63
+    Counties: 1
+KEO CITY
+    Count: 63
+    Counties: 1
+KIMBROUGH
+    Count: 66
+    Counties: 1
+KINGS RIVER
+    Count: 132
+    Counties: 2
+KINGSLAND INSIDE
+    Count: 66
+    Counties: 1
+KINGSLAND OUTSIDE
+    Count: 66
+    Counties: 1
+KIRBY
+    Count: 60
+    Counties: 1
+KNOB
+    Count: 60
+    Counties: 1
+KNOB CREEK
+    Count: 63
+    Counties: 1
+LACEY
+    Count: 72
+    Counties: 1
+LACROSSE
+    Count: 63
+    Counties: 1
+LAFAVE
+    Count: 60
+    Counties: 1
+LAFAYETTE TWP
+    Count: 63
+    Counties: 1
+LAFFERTY
+    Count: 63
+    Counties: 1
+LAGRUE
+    Count: 66
+    Counties: 1
+LAKE
+    Count: 81
+    Counties: 1
+LAKES AREA
+    Count: 75
+    Counties: 1
+LAKEVIEW SCHOOL CAFETERIA P15
+    Count: 63
+    Counties: 1
+LAMAR
+    Count: 135
+    Counties: 2
+LAMB
+    Count: 60
+    Counties: 1
+LANEBURG
+    Count: 72
+    Counties: 1
+LANEBURG NEV SD ZONE 3
+    Count: 72
+    Counties: 1
+LANGLEY/LODI
+    Count: 60
+    Counties: 1
+LANGUILLE
+    Count: 63
+    Counties: 1
+LARKIN
+    Count: 63
+    Counties: 1
+LAVE CREEK
+    Count: 72
+    Counties: 1
+LAWRENCE
+    Count: 78
+    Counties: 1
+LAWSON SR96
+    Count: 60
+    Counties: 1
+LEACHVILLE CITY HALL
+    Count: 87
+    Counties: 1
+LEE
+    Count: 66
+    Counties: 1
+LETONA
+    Count: 84
+    Counties: 1
+LEWIS WARD 1
+    Count: 60
+    Counties: 1
+LEWIS WARD 2
+    Count: 60
+    Counties: 1
+LEXA FIRE STATION P10
+    Count: 63
+    Counties: 1
+LIBERTY
+    Count: 261
+    Counties: 4
+LICK CREEK
+    Count: 66
+    Counties: 1
+LICK MTN.
+    Count: 81
+    Counties: 1
+LIDDELL & CHALK BLUFF
+    Count: 66
+    Counties: 1
+LINCOLN
+    Count: 57
+    Counties: 1
+LISBON SR97
+    Count: 60
+    Counties: 1
+LITTLE BLACK
+    Count: 60
+    Counties: 1
+LITTLE RIVER
+    Count: 66
+    Counties: 1
+LITTLE RIVER PAYNEWAY
+    Count: 75
+    Counties: 1
+LOCUST
+    Count: 60
+    Counties: 1
+LOGAN
+    Count: 60
+    Counties: 1
+LONDON IN/JP6
+    Count: 72
+    Counties: 1
+LONDON OUT/JP6
+    Count: 72
+    Counties: 1
+LONE HILL
+    Count: 63
+    Counties: 1
+LONE PINE/GARNETT
+    Count: 69
+    Counties: 1
+LONE PINE/MT. HOME
+    Count: 69
+    Counties: 1
+LONG CREEK
+    Count: 60
+    Counties: 1
+LONOKE CITY WARD 1
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 2
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 3
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 4
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 5
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 6
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 7
+    Count: 66
+    Counties: 1
+LONOKE CITY WARD 8
+    Count: 66
+    Counties: 1
+LONOKE TWP
+    Count: 66
+    Counties: 1
+LOW GAP
+    Count: 57
+    Counties: 1
+LOWER HILL CITY
+    Count: 63
+    Counties: 1
+LOWER HILL COUNTRY
+    Count: 63
+    Counties: 1
+LOWER NORTH
+    Count: 66
+    Counties: 1
+LR JACKSON
+    Count: 99
+    Counties: 1
+LUNSFORD
+    Count: 75
+    Counties: 1
+MACKS
+    Count: 66
+    Counties: 1
+MADISON
+    Count: 147
+    Counties: 2
+MAG WARD 1
+    Count: 96
+    Counties: 1
+MAG WARD 2
+    Count: 93
+    Counties: 1
+MAG WARD 3
+    Count: 93
+    Counties: 1
+MAG WARD 4
+    Count: 93
+    Counties: 1
+MAGAZINE 1
+    Count: 60
+    Counties: 1
+MAGAZINE 2
+    Count: 60
+    Counties: 1
+MAGNESS
+    Count: 75
+    Counties: 1
+MAGNESS TWP
+    Count: 75
+    Counties: 1
+MAGNET
+    Count: 63
+    Counties: 1
+MALVERN WARD 1
+    Count: 63
+    Counties: 1
+MALVERN WARD 2
+    Count: 63
+    Counties: 1
+MALVERN WARD 3
+    Count: 63
+    Counties: 1
+MALVERN WARD 4
+    Count: 63
+    Counties: 1
+MANDEVILLE
+    Count: 112
+    Counties: 1
+MANILA POLICE DEPT
+    Count: 63
+    Counties: 1
+MARION
+    Count: 204
+    Counties: 3
+MARION N BOX 1
+    Count: 72
+    Counties: 1
+MARION N BOX 2
+    Count: 78
+    Counties: 1
+MARION SCHOOL
+    Count: 120
+    Counties: 1
+MARION SOUTH
+    Count: 72
+    Counties: 1
+MARSHALL
+    Count: 63
+    Counties: 1
+MARTIN
+    Count: 78
+    Counties: 1
+MARTIN 1/JP4
+    Count: 66
+    Counties: 1
+MARTIN 2/JP6
+    Count: 72
+    Counties: 1
+MARTIN 3/JP6
+    Count: 72
+    Counties: 1
+MARVELL FIRE STATION P11
+    Count: 69
+    Counties: 1
+MASON
+    Count: 63
+    Counties: 1
+MAUMELLE
+    Count: 75
+    Counties: 1
+MCCASKILL
+    Count: 72
+    Counties: 1
+MCCLAREN
+    Count: 81
+    Counties: 1
+MCCRORY RURAL-15
+    Count: 63
+    Counties: 1
+MCCRORY-17
+    Count: 75
+    Counties: 1
+MCCRORY-18
+    Count: 75
+    Counties: 1
+MCFALL
+    Count: 63
+    Counties: 1
+MCHUE
+    Count: 72
+    Counties: 1
+MCHUE 3
+    Count: 72
+    Counties: 1
+MCJESTER
+    Count: 63
+    Counties: 1
+MCNAB
+    Count: 72
+    Counties: 1
+MCNEIL CITY
+    Count: 66
+    Counties: 1
+MCNEIL TOWNSHIP
+    Count: 60
+    Counties: 1
+MCRAE TWP
+    Count: 66
+    Counties: 1
+MCRAE WARD 1
+    Count: 66
+    Counties: 1
+MCRAE WARD 2
+    Count: 66
+    Counties: 1
+MELBOURNE RURAL
+    Count: 69
+    Counties: 1
+MELBOURNE _ WARD 1
+    Count: 63
+    Counties: 1
+MELBOURNE _ WARD 2
+    Count: 69
+    Counties: 1
+MELBOURNE _ WARD 3
+    Count: 75
+    Counties: 1
+MELBOURNE _ WARD 4
+    Count: 63
+    Counties: 1
+MENIFEE CITY
+    Count: 87
+    Counties: 1
+MENIFEE RURAL
+    Count: 81
+    Counties: 1
+MERRY GREEN 1
+    Count: 60
+    Counties: 1
+MERRY GREEN 2
+    Count: 60
+    Counties: 1
+MIDWAY CITY
+    Count: 57
+    Counties: 1
+MILL BAYOU
+    Count: 66
+    Counties: 1
+MILL CREEK
+    Count: 129
+    Counties: 2
+MILLER
+    Count: 63
+    Counties: 1
+MILO
+    Count: 63
+    Counties: 1
+MINERAL
+    Count: 66
+    Counties: 1
+MISS CO ELECTION CENTER
+    Count: 72
+    Counties: 1
+MISSISSIPPI
+    Count: 66
+    Counties: 1
+MIST
+    Count: 63
+    Counties: 1
+MITCHELL
+    Count: 63
+    Counties: 1
+MITCHELLVILLE
+    Count: 63
+    Counties: 1
+MONROE
+    Count: 72
+    Counties: 1
+MONTGOMERY
+    Count: 57
+    Counties: 1
+MONTGOMERY/SMALLEY STREP62
+    Count: 63
+    Counties: 1
+MONTROSE CITY
+    Count: 63
+    Counties: 1
+MONTROSE RURAL
+    Count: 63
+    Counties: 1
+MOOREFIELD
+    Count: 72
+    Counties: 1
+MOOREFIELD WARD 1
+    Count: 72
+    Counties: 1
+MOOREFIELD WARD 4
+    Count: 72
+    Counties: 1
+MORELAND 1/JP3
+    Count: 69
+    Counties: 1
+MORELAND 2/JP4
+    Count: 63
+    Counties: 1
+MORGAN
+    Count: 168
+    Counties: 2
+MORGAN INSIDE
+    Count: 96
+    Counties: 1
+MORGAN OUTSIDE
+    Count: 66
+    Counties: 1
+MORRIS
+    Count: 72
+    Counties: 1
+MORRISON BLUFF
+    Count: 60
+    Counties: 1
+MORTON-14
+    Count: 63
+    Counties: 1
+MOUNT IDA INSIDE
+    Count: 63
+    Counties: 1
+MOUNT IDA OUTSIDE
+    Count: 63
+    Counties: 1
+MOUNT PLEASANT
+    Count: 60
+    Counties: 1
+MOUNT PLEASANT CITY
+    Count: 66
+    Counties: 1
+MOUNT PLEASANT RURAL
+    Count: 66
+    Counties: 1
+MOUNTAIN
+    Count: 243
+    Counties: 4
+MS/AFTON
+    Count: 96
+    Counties: 1
+MT SHERMAN
+    Count: 57
+    Counties: 1
+MT ZION
+    Count: 63
+    Counties: 1
+MT. HOLLY SR97
+    Count: 60
+    Counties: 1
+MT. PISGAH
+    Count: 63
+    Counties: 1
+MT. PLEASANT
+    Count: 60
+    Counties: 1
+MURFREESBORO EAST
+    Count: 66
+    Counties: 1
+MURFREESBORO WEST
+    Count: 66
+    Counties: 1
+MURRAY
+    Count: 57
+    Counties: 1
+MYATT
+    Count: 63
+    Counties: 1
+MYRON
+    Count: 72
+    Counties: 1
+NCE
+    Count: 63
+    Counties: 1
+NCW
+    Count: 63
+    Counties: 1
+NELSON
+    Count: 60
+    Counties: 1
+NEW GLAISE
+    Count: 66
+    Counties: 1
+NEW LONDON SR96
+    Count: 60
+    Counties: 1
+NEW TENNESSEE
+    Count: 75
+    Counties: 1
+NEWBURG
+    Count: 69
+    Counties: 1
+NEWCASTLE PARROTT
+    Count: 63
+    Counties: 1
+NEWHOPE
+    Count: 60
+    Counties: 1
+NEWPORT WARD 1-A
+    Count: 66
+    Counties: 1
+NEWPORT WARD 1-B
+    Count: 66
+    Counties: 1
+NEWPORT WARD 2-A
+    Count: 66
+    Counties: 1
+NEWPORT WARD 2-B
+    Count: 66
+    Counties: 1
+NEWPORT WARD 2-C
+    Count: 66
+    Counties: 1
+NEWPORT WARD 3-A
+    Count: 66
+    Counties: 1
+NEWPORT WARD 3-B
+    Count: 66
+    Counties: 1
+NEWPORT WARD 3-C
+    Count: 66
+    Counties: 1
+NEWPORT WARD 4-A
+    Count: 66
+    Counties: 1
+NEWPORT WARD 4-B
+    Count: 66
+    Counties: 1
+NICHOLS
+    Count: 81
+    Counties: 1
+NIVEN
+    Count: 63
+    Counties: 1
+NOGO/JP4
+    Count: 63
+    Counties: 1
+NORMAN INSIDE
+    Count: 63
+    Counties: 1
+NORMAN OUTSIDE
+    Count: 63
+    Counties: 1
+NORPHLET
+    Count: 66
+    Counties: 1
+NORTH
+    Count: 72
+    Counties: 1
+NORTH BIG ROCK
+    Count: 66
+    Counties: 1
+NORTH CADRON INSIDE
+    Count: 63
+    Counties: 1
+NORTH CADRON OUTSIDE
+    Count: 63
+    Counties: 1
+NORTH COUNTY
+    Count: 78
+    Counties: 1
+NORTH EAST COUNTY
+    Count: 72
+    Counties: 1
+NORTH HEIGHTS
+    Count: 84
+    Counties: 1
+NORTH HICKORY
+    Count: 81
+    Counties: 1
+NORTH KILGORE & CLEVELAND
+    Count: 60
+    Counties: 1
+NORTH LEBANON
+    Count: 66
+    Counties: 1
+NORTH RURAL AUGUSTA-04
+    Count: 63
+    Counties: 1
+NORTH ST. FRANCIS
+    Count: 60
+    Counties: 1
+NORTH UNION
+    Count: 66
+    Counties: 1
+NORTHEAST
+    Count: 66
+    Counties: 1
+NORTHWEST/FIFTY SIX
+    Count: 72
+    Counties: 1
+O'KEAN
+    Count: 66
+    Counties: 1
+OAK GROVE TWP
+    Count: 72
+    Counties: 1
+ODEN INSIDE
+    Count: 63
+    Counties: 1
+ODEN OUTSIDE
+    Count: 63
+    Counties: 1
+OIL TROUGH
+    Count: 72
+    Counties: 1
+OKOLONA CITY 1
+    Count: 66
+    Counties: 1
+OLD GLAISE
+    Count: 66
+    Counties: 1
+OLD HICKORY
+    Count: 81
+    Counties: 1
+OLD LEXINGTON
+    Count: 63
+    Counties: 1
+OLYPHANT
+    Count: 66
+    Counties: 1
+OSC. OLD JR HIGH GYM
+    Count: 78
+    Counties: 1
+OUACHITA
+    Count: 57
+    Counties: 1
+OWEN FISHER
+    Count: 63
+    Counties: 1
+OWEN WALDENBURG
+    Count: 63
+    Counties: 1
+OWEN/GLENDALE
+    Count: 69
+    Counties: 1
+OWEN/PALMYRA
+    Count: 69
+    Counties: 1
+OXFORD CITY
+    Count: 69
+    Counties: 1
+OXFORD RURAL
+    Count: 63
+    Counties: 1
+OXLEY
+    Count: 60
+    Counties: 1
+OZAN
+    Count: 175
+    Counties: 2
+OZARK
+    Count: 66
+    Counties: 1
+OZMENT
+    Count: 72
+    Counties: 1
+PALESTINE
+    Count: 75
+    Counties: 1
+PANGBURN WARD 1
+    Count: 81
+    Counties: 1
+PANGBURN WARD 2
+    Count: 81
+    Counties: 1
+PANGBURN WARD 3
+    Count: 81
+    Counties: 1
+PARACLIFTA
+    Count: 66
+    Counties: 1
+PARKDALE CITY
+    Count: 63
+    Counties: 1
+PARKDALE RURAL
+    Count: 63
+    Counties: 1
+PARKIN
+    Count: 87
+    Counties: 1
+PARKS
+    Count: 60
+    Counties: 1
+PATMOS
+    Count: 69
+    Counties: 1
+PATTERSON-16
+    Count: 63
+    Counties: 1
+PAYNE & SWAIN
+    Count: 63
+    Counties: 1
+PCT 1
+    Count: 87
+    Counties: 1
+PCT 10
+    Count: 93
+    Counties: 1
+PCT 11
+    Count: 93
+    Counties: 1
+PCT 12
+    Count: 114
+    Counties: 1
+PCT 13
+    Count: 90
+    Counties: 1
+PCT 14
+    Count: 93
+    Counties: 1
+PCT 15
+    Count: 72
+    Counties: 1
+PCT 16
+    Count: 72
+    Counties: 1
+PCT 17
+    Count: 69
+    Counties: 1
+PCT 18
+    Count: 84
+    Counties: 1
+PCT 19
+    Count: 72
+    Counties: 1
+PCT 2
+    Count: 87
+    Counties: 1
+PCT 21
+    Count: 84
+    Counties: 1
+PCT 22
+    Count: 69
+    Counties: 1
+PCT 23
+    Count: 78
+    Counties: 1
+PCT 24
+    Count: 78
+    Counties: 1
+PCT 25
+    Count: 72
+    Counties: 1
+PCT 26
+    Count: 78
+    Counties: 1
+PCT 27
+    Count: 72
+    Counties: 1
+PCT 28
+    Count: 84
+    Counties: 1
+PCT 29
+    Count: 90
+    Counties: 1
+PCT 3
+    Count: 93
+    Counties: 1
+PCT 30
+    Count: 84
+    Counties: 1
+PCT 31
+    Count: 84
+    Counties: 1
+PCT 32
+    Count: 75
+    Counties: 1
+PCT 33
+    Count: 69
+    Counties: 1
+PCT 34
+    Count: 66
+    Counties: 1
+PCT 35
+    Count: 72
+    Counties: 1
+PCT 36
+    Count: 105
+    Counties: 1
+PCT 37
+    Count: 78
+    Counties: 1
+PCT 38
+    Count: 78
+    Counties: 1
+PCT 39
+    Count: 78
+    Counties: 1
+PCT 4
+    Count: 87
+    Counties: 1
+PCT 40
+    Count: 90
+    Counties: 1
+PCT 41
+    Count: 87
+    Counties: 1
+PCT 42
+    Count: 105
+    Counties: 1
+PCT 43
+    Count: 93
+    Counties: 1
+PCT 44
+    Count: 105
+    Counties: 1
+PCT 45
+    Count: 87
+    Counties: 1
+PCT 46
+    Count: 93
+    Counties: 1
+PCT 48
+    Count: 78
+    Counties: 1
+PCT 49
+    Count: 96
+    Counties: 1
+PCT 5
+    Count: 87
+    Counties: 1
+PCT 50
+    Count: 87
+    Counties: 1
+PCT 53
+    Count: 87
+    Counties: 1
+PCT 54
+    Count: 87
+    Counties: 1
+PCT 55
+    Count: 90
+    Counties: 1
+PCT 6
+    Count: 90
+    Counties: 1
+PCT 7
+    Count: 90
+    Counties: 1
+PCT 8
+    Count: 102
+    Counties: 1
+PCT 9
+    Count: 96
+    Counties: 1
+PCT01
+    Count: 63
+    Counties: 1
+PCT02
+    Count: 105
+    Counties: 1
+PCT03
+    Count: 96
+    Counties: 1
+PCT04
+    Count: 66
+    Counties: 1
+PCT05
+    Count: 60
+    Counties: 1
+PCT06
+    Count: 96
+    Counties: 1
+PCT07
+    Count: 60
+    Counties: 1
+PCT08
+    Count: 60
+    Counties: 1
+PCT09
+    Count: 60
+    Counties: 1
+PEA RIDGE/JP3
+    Count: 69
+    Counties: 1
+PENCIL BLUFF
+    Count: 63
+    Counties: 1
+PENNINGTON BALCH
+    Count: 69
+    Counties: 1
+PERLA CITY
+    Count: 57
+    Counties: 1
+PERRY
+    Count: 75
+    Counties: 1
+PERRYTOWN
+    Count: 69
+    Counties: 1
+PETIT JEAN
+    Count: 213
+    Counties: 3
+PETTUS TWP
+    Count: 63
+    Counties: 1
+PICKENS
+    Count: 63
+    Counties: 1
+PINE
+    Count: 63
+    Counties: 1
+PINE RIDGE TOWNSHIP CSDL
+    Count: 69
+    Counties: 1
+PINEVILLE CITY
+    Count: 63
+    Counties: 1
+PINEVILLE RURAL
+    Count: 63
+    Counties: 1
+PINEY
+    Count: 63
+    Counties: 1
+PINEY FORK
+    Count: 78
+    Counties: 1
+PISGAH
+    Count: 60
+    Counties: 1
+PLANTERS 1, 3, 4, RURAL
+    Count: 66
+    Counties: 1
+PLANTERS 2
+    Count: 72
+    Counties: 1
+PLANTERSVILLE
+    Count: 75
+    Counties: 1
+PLEASANT GROVE
+    Count: 60
+    Counties: 1
+PLEASANT HILL
+    Count: 57
+    Counties: 1
+POFF
+    Count: 66
+    Counties: 1
+POLK
+    Count: 57
+    Counties: 1
+POLLARD
+    Count: 60
+    Counties: 1
+PONCA
+    Count: 57
+    Counties: 1
+PORTLAND CITY
+    Count: 75
+    Counties: 1
+PORTLAND RURAL
+    Count: 63
+    Counties: 1
+POTTSVILLE IN 1/JP2
+    Count: 75
+    Counties: 1
+POTTSVILLE IN 2/JP2
+    Count: 78
+    Counties: 1
+POTTSVILLE OUT 1/
+    Count: 75
+    Counties: 1
+POTTSVILLE OUT 2/JP2/JP12
+    Count: 66
+    Counties: 1
+POTTSVILLE OUT 3/JP2/LG54
+    Count: 63
+    Counties: 1
+PR/SB
+    Count: 96
+    Counties: 1
+PRAIRIE
+    Count: 306
+    Counties: 5
+PRAIRIE TWP
+    Count: 60
+    Counties: 1
+PRAIRIES
+    Count: 69
+    Counties: 1
+PRECINCT 1
+    Count: 364
+    Counties: 4
+PRECINCT 1 - MENA
+    Count: 69
+    Counties: 1
+PRECINCT 10
+    Count: 403
+    Counties: 4
+PRECINCT 10 - SHADY GROVE
+    Count: 63
+    Counties: 1
+PRECINCT 100
+    Count: 219
+    Counties: 2
+PRECINCT 101
+    Count: 219
+    Counties: 2
+PRECINCT 102
+    Count: 238
+    Counties: 2
+PRECINCT 103
+    Count: 207
+    Counties: 2
+PRECINCT 104
+    Count: 234
+    Counties: 2
+PRECINCT 105
+    Count: 234
+    Counties: 2
+PRECINCT 106
+    Count: 234
+    Counties: 2
+PRECINCT 107
+    Count: 234
+    Counties: 2
+PRECINCT 108
+    Count: 234
+    Counties: 2
+PRECINCT 109
+    Count: 211
+    Counties: 2
+PRECINCT 11
+    Count: 393
+    Counties: 4
+PRECINCT 11 - ROCKY
+    Count: 63
+    Counties: 1
+PRECINCT 110
+    Count: 234
+    Counties: 2
+PRECINCT 111
+    Count: 207
+    Counties: 2
+PRECINCT 112
+    Count: 242
+    Counties: 2
+PRECINCT 113
+    Count: 232
+    Counties: 2
+PRECINCT 114
+    Count: 209
+    Counties: 2
+PRECINCT 115
+    Count: 199
+    Counties: 2
+PRECINCT 116
+    Count: 218
+    Counties: 2
+PRECINCT 117
+    Count: 201
+    Counties: 2
+PRECINCT 118
+    Count: 193
+    Counties: 2
+PRECINCT 119
+    Count: 201
+    Counties: 2
+PRECINCT 12
+    Count: 312
+    Counties: 3
+PRECINCT 12 - POTTER
+    Count: 63
+    Counties: 1
+PRECINCT 120
+    Count: 197
+    Counties: 2
+PRECINCT 121
+    Count: 191
+    Counties: 2
+PRECINCT 122
+    Count: 191
+    Counties: 2
+PRECINCT 123
+    Count: 238
+    Counties: 2
+PRECINCT 124
+    Count: 167
+    Counties: 2
+PRECINCT 125
+    Count: 191
+    Counties: 2
+PRECINCT 126
+    Count: 191
+    Counties: 2
+PRECINCT 127
+    Count: 191
+    Counties: 2
+PRECINCT 128
+    Count: 191
+    Counties: 2
+PRECINCT 129
+    Count: 197
+    Counties: 2
+PRECINCT 13
+    Count: 342
+    Counties: 3
+PRECINCT 13 - HATFIELD
+    Count: 63
+    Counties: 1
+PRECINCT 130
+    Count: 169
+    Counties: 2
+PRECINCT 131
+    Count: 193
+    Counties: 2
+PRECINCT 132
+    Count: 203
+    Counties: 2
+PRECINCT 133
+    Count: 87
+    Counties: 1
+PRECINCT 134
+    Count: 87
+    Counties: 1
+PRECINCT 135
+    Count: 87
+    Counties: 1
+PRECINCT 136
+    Count: 69
+    Counties: 1
+PRECINCT 137
+    Count: 69
+    Counties: 1
+PRECINCT 138
+    Count: 75
+    Counties: 1
+PRECINCT 139
+    Count: 75
+    Counties: 1
+PRECINCT 14
+    Count: 326
+    Counties: 3
+PRECINCT 14 - COVE
+    Count: 63
+    Counties: 1
+PRECINCT 140
+    Count: 81
+    Counties: 1
+PRECINCT 141
+    Count: 87
+    Counties: 1
+PRECINCT 142
+    Count: 87
+    Counties: 1
+PRECINCT 143
+    Count: 93
+    Counties: 1
+PRECINCT 144
+    Count: 87
+    Counties: 1
+PRECINCT 145
+    Count: 87
+    Counties: 1
+PRECINCT 146
+    Count: 84
+    Counties: 1
+PRECINCT 147
+    Count: 87
+    Counties: 1
+PRECINCT 148
+    Count: 87
+    Counties: 1
+PRECINCT 149
+    Count: 87
+    Counties: 1
+PRECINCT 15
+    Count: 341
+    Counties: 3
+PRECINCT 15 - VANDERVOORT
+    Count: 63
+    Counties: 1
+PRECINCT 150
+    Count: 99
+    Counties: 1
+PRECINCT 151
+    Count: 81
+    Counties: 1
+PRECINCT 152
+    Count: 84
+    Counties: 1
+PRECINCT 153
+    Count: 81
+    Counties: 1
+PRECINCT 154
+    Count: 87
+    Counties: 1
+PRECINCT 155
+    Count: 102
+    Counties: 1
+PRECINCT 156
+    Count: 96
+    Counties: 1
+PRECINCT 157
+    Count: 102
+    Counties: 1
+PRECINCT 158
+    Count: 75
+    Counties: 1
+PRECINCT 159
+    Count: 102
+    Counties: 1
+PRECINCT 16
+    Count: 312
+    Counties: 3
+PRECINCT 16 - WICKES
+    Count: 63
+    Counties: 1
+PRECINCT 160
+    Count: 96
+    Counties: 1
+PRECINCT 161
+    Count: 69
+    Counties: 1
+PRECINCT 162
+    Count: 75
+    Counties: 1
+PRECINCT 163
+    Count: 102
+    Counties: 1
+PRECINCT 164
+    Count: 102
+    Counties: 1
+PRECINCT 165
+    Count: 99
+    Counties: 1
+PRECINCT 166
+    Count: 72
+    Counties: 1
+PRECINCT 167
+    Count: 99
+    Counties: 1
+PRECINCT 168
+    Count: 102
+    Counties: 1
+PRECINCT 169
+    Count: 102
+    Counties: 1
+PRECINCT 17
+    Count: 320
+    Counties: 3
+PRECINCT 17 - GRANNIS
+    Count: 63
+    Counties: 1
+PRECINCT 170
+    Count: 99
+    Counties: 1
+PRECINCT 171
+    Count: 99
+    Counties: 1
+PRECINCT 172
+    Count: 102
+    Counties: 1
+PRECINCT 173
+    Count: 96
+    Counties: 1
+PRECINCT 174
+    Count: 111
+    Counties: 1
+PRECINCT 175
+    Count: 111
+    Counties: 1
+PRECINCT 176
+    Count: 111
+    Counties: 1
+PRECINCT 177
+    Count: 69
+    Counties: 1
+PRECINCT 178
+    Count: 75
+    Counties: 1
+PRECINCT 179
+    Count: 75
+    Counties: 1
+PRECINCT 18
+    Count: 332
+    Counties: 3
+PRECINCT 180
+    Count: 75
+    Counties: 1
+PRECINCT 181
+    Count: 75
+    Counties: 1
+PRECINCT 182
+    Count: 108
+    Counties: 1
+PRECINCT 183
+    Count: 108
+    Counties: 1
+PRECINCT 184
+    Count: 69
+    Counties: 1
+PRECINCT 185
+    Count: 69
+    Counties: 1
+PRECINCT 186
+    Count: 69
+    Counties: 1
+PRECINCT 187
+    Count: 102
+    Counties: 1
+PRECINCT 188
+    Count: 69
+    Counties: 1
+PRECINCT 189
+    Count: 102
+    Counties: 1
+PRECINCT 19
+    Count: 321
+    Counties: 3
+PRECINCT 190
+    Count: 102
+    Counties: 1
+PRECINCT 191
+    Count: 69
+    Counties: 1
+PRECINCT 192
+    Count: 102
+    Counties: 1
+PRECINCT 193
+    Count: 102
+    Counties: 1
+PRECINCT 194
+    Count: 63
+    Counties: 1
+PRECINCT 195
+    Count: 63
+    Counties: 1
+PRECINCT 196
+    Count: 63
+    Counties: 1
+PRECINCT 197
+    Count: 63
+    Counties: 1
+PRECINCT 198
+    Count: 75
+    Counties: 1
+PRECINCT 199
+    Count: 75
+    Counties: 1
+PRECINCT 2
+    Count: 344
+    Counties: 4
+PRECINCT 2 - MENA
+    Count: 69
+    Counties: 1
+PRECINCT 20
+    Count: 297
+    Counties: 3
+PRECINCT 200
+    Count: 69
+    Counties: 1
+PRECINCT 201
+    Count: 69
+    Counties: 1
+PRECINCT 202
+    Count: 60
+    Counties: 1
+PRECINCT 203
+    Count: 87
+    Counties: 1
+PRECINCT 204
+    Count: 87
+    Counties: 1
+PRECINCT 205
+    Count: 87
+    Counties: 1
+PRECINCT 206
+    Count: 87
+    Counties: 1
+PRECINCT 207
+    Count: 87
+    Counties: 1
+PRECINCT 208
+    Count: 69
+    Counties: 1
+PRECINCT 209
+    Count: 60
+    Counties: 1
+PRECINCT 21
+    Count: 287
+    Counties: 3
+PRECINCT 210
+    Count: 66
+    Counties: 1
+PRECINCT 211
+    Count: 72
+    Counties: 1
+PRECINCT 212
+    Count: 66
+    Counties: 1
+PRECINCT 213
+    Count: 72
+    Counties: 1
+PRECINCT 214
+    Count: 78
+    Counties: 1
+PRECINCT 215
+    Count: 72
+    Counties: 1
+PRECINCT 216
+    Count: 72
+    Counties: 1
+PRECINCT 217
+    Count: 78
+    Counties: 1
+PRECINCT 218
+    Count: 78
+    Counties: 1
+PRECINCT 219
+    Count: 102
+    Counties: 1
+PRECINCT 22
+    Count: 321
+    Counties: 3
+PRECINCT 220
+    Count: 84
+    Counties: 1
+PRECINCT 221
+    Count: 84
+    Counties: 1
+PRECINCT 222
+    Count: 75
+    Counties: 1
+PRECINCT 223
+    Count: 99
+    Counties: 1
+PRECINCT 224
+    Count: 99
+    Counties: 1
+PRECINCT 225
+    Count: 99
+    Counties: 1
+PRECINCT 226
+    Count: 72
+    Counties: 1
+PRECINCT 227
+    Count: 72
+    Counties: 1
+PRECINCT 228
+    Count: 78
+    Counties: 1
+PRECINCT 229
+    Count: 105
+    Counties: 1
+PRECINCT 23
+    Count: 287
+    Counties: 3
+PRECINCT 230
+    Count: 78
+    Counties: 1
+PRECINCT 231
+    Count: 72
+    Counties: 1
+PRECINCT 232
+    Count: 99
+    Counties: 1
+PRECINCT 233
+    Count: 75
+    Counties: 1
+PRECINCT 234
+    Count: 78
+    Counties: 1
+PRECINCT 235
+    Count: 99
+    Counties: 1
+PRECINCT 237
+    Count: 105
+    Counties: 1
+PRECINCT 238
+    Count: 99
+    Counties: 1
+PRECINCT 239
+    Count: 72
+    Counties: 1
+PRECINCT 24
+    Count: 299
+    Counties: 3
+PRECINCT 240
+    Count: 93
+    Counties: 1
+PRECINCT 241
+    Count: 69
+    Counties: 1
+PRECINCT 242
+    Count: 93
+    Counties: 1
+PRECINCT 243
+    Count: 66
+    Counties: 1
+PRECINCT 244
+    Count: 72
+    Counties: 1
+PRECINCT 245
+    Count: 72
+    Counties: 1
+PRECINCT 246
+    Count: 93
+    Counties: 1
+PRECINCT 247
+    Count: 66
+    Counties: 1
+PRECINCT 248
+    Count: 111
+    Counties: 1
+PRECINCT 249
+    Count: 72
+    Counties: 1
+PRECINCT 25
+    Count: 304
+    Counties: 3
+PRECINCT 250
+    Count: 111
+    Counties: 1
+PRECINCT 251
+    Count: 99
+    Counties: 1
+PRECINCT 252
+    Count: 72
+    Counties: 1
+PRECINCT 253
+    Count: 111
+    Counties: 1
+PRECINCT 254
+    Count: 99
+    Counties: 1
+PRECINCT 255
+    Count: 111
+    Counties: 1
+PRECINCT 256
+    Count: 111
+    Counties: 1
+PRECINCT 257
+    Count: 111
+    Counties: 1
+PRECINCT 258
+    Count: 111
+    Counties: 1
+PRECINCT 259
+    Count: 111
+    Counties: 1
+PRECINCT 26
+    Count: 318
+    Counties: 3
+PRECINCT 260
+    Count: 111
+    Counties: 1
+PRECINCT 261
+    Count: 111
+    Counties: 1
+PRECINCT 262
+    Count: 111
+    Counties: 1
+PRECINCT 263
+    Count: 111
+    Counties: 1
+PRECINCT 264
+    Count: 108
+    Counties: 1
+PRECINCT 265
+    Count: 108
+    Counties: 1
+PRECINCT 266
+    Count: 102
+    Counties: 1
+PRECINCT 267
+    Count: 108
+    Counties: 1
+PRECINCT 268
+    Count: 108
+    Counties: 1
+PRECINCT 269
+    Count: 108
+    Counties: 1
+PRECINCT 27
+    Count: 296
+    Counties: 3
+PRECINCT 270
+    Count: 108
+    Counties: 1
+PRECINCT 271
+    Count: 108
+    Counties: 1
+PRECINCT 272
+    Count: 114
+    Counties: 1
+PRECINCT 273
+    Count: 108
+    Counties: 1
+PRECINCT 274
+    Count: 114
+    Counties: 1
+PRECINCT 275
+    Count: 102
+    Counties: 1
+PRECINCT 276
+    Count: 114
+    Counties: 1
+PRECINCT 277
+    Count: 108
+    Counties: 1
+PRECINCT 278
+    Count: 75
+    Counties: 1
+PRECINCT 279
+    Count: 75
+    Counties: 1
+PRECINCT 28
+    Count: 294
+    Counties: 3
+PRECINCT 280
+    Count: 102
+    Counties: 1
+PRECINCT 281
+    Count: 75
+    Counties: 1
+PRECINCT 282
+    Count: 63
+    Counties: 1
+PRECINCT 283
+    Count: 75
+    Counties: 1
+PRECINCT 284
+    Count: 75
+    Counties: 1
+PRECINCT 285
+    Count: 66
+    Counties: 1
+PRECINCT 286
+    Count: 66
+    Counties: 1
+PRECINCT 287
+    Count: 66
+    Counties: 1
+PRECINCT 288
+    Count: 66
+    Counties: 1
+PRECINCT 289
+    Count: 66
+    Counties: 1
+PRECINCT 29
+    Count: 307
+    Counties: 3
+PRECINCT 290
+    Count: 66
+    Counties: 1
+PRECINCT 291
+    Count: 66
+    Counties: 1
+PRECINCT 292
+    Count: 66
+    Counties: 1
+PRECINCT 293
+    Count: 66
+    Counties: 1
+PRECINCT 294
+    Count: 66
+    Counties: 1
+PRECINCT 295
+    Count: 66
+    Counties: 1
+PRECINCT 296
+    Count: 66
+    Counties: 1
+PRECINCT 297
+    Count: 66
+    Counties: 1
+PRECINCT 298
+    Count: 66
+    Counties: 1
+PRECINCT 299
+    Count: 69
+    Counties: 1
+PRECINCT 3
+    Count: 350
+    Counties: 4
+PRECINCT 3 - MENA
+    Count: 69
+    Counties: 1
+PRECINCT 30
+    Count: 303
+    Counties: 3
+PRECINCT 300
+    Count: 60
+    Counties: 1
+PRECINCT 301
+    Count: 69
+    Counties: 1
+PRECINCT 302
+    Count: 69
+    Counties: 1
+PRECINCT 303
+    Count: 63
+    Counties: 1
+PRECINCT 304
+    Count: 69
+    Counties: 1
+PRECINCT 305
+    Count: 69
+    Counties: 1
+PRECINCT 306
+    Count: 63
+    Counties: 1
+PRECINCT 307
+    Count: 72
+    Counties: 1
+PRECINCT 308
+    Count: 75
+    Counties: 1
+PRECINCT 309
+    Count: 75
+    Counties: 1
+PRECINCT 31
+    Count: 292
+    Counties: 3
+PRECINCT 310
+    Count: 75
+    Counties: 1
+PRECINCT 311
+    Count: 69
+    Counties: 1
+PRECINCT 312
+    Count: 96
+    Counties: 1
+PRECINCT 313
+    Count: 102
+    Counties: 1
+PRECINCT 314
+    Count: 75
+    Counties: 1
+PRECINCT 315
+    Count: 75
+    Counties: 1
+PRECINCT 316
+    Count: 75
+    Counties: 1
+PRECINCT 317
+    Count: 102
+    Counties: 1
+PRECINCT 318
+    Count: 69
+    Counties: 1
+PRECINCT 319
+    Count: 75
+    Counties: 1
+PRECINCT 32
+    Count: 312
+    Counties: 3
+PRECINCT 320
+    Count: 75
+    Counties: 1
+PRECINCT 321
+    Count: 69
+    Counties: 1
+PRECINCT 322
+    Count: 108
+    Counties: 1
+PRECINCT 323
+    Count: 69
+    Counties: 1
+PRECINCT 324
+    Count: 69
+    Counties: 1
+PRECINCT 325
+    Count: 69
+    Counties: 1
+PRECINCT 326
+    Count: 108
+    Counties: 1
+PRECINCT 327
+    Count: 108
+    Counties: 1
+PRECINCT 328
+    Count: 108
+    Counties: 1
+PRECINCT 329
+    Count: 93
+    Counties: 1
+PRECINCT 33
+    Count: 330
+    Counties: 3
+PRECINCT 330
+    Count: 114
+    Counties: 1
+PRECINCT 331
+    Count: 108
+    Counties: 1
+PRECINCT 332
+    Count: 69
+    Counties: 1
+PRECINCT 333
+    Count: 108
+    Counties: 1
+PRECINCT 334
+    Count: 108
+    Counties: 1
+PRECINCT 335
+    Count: 87
+    Counties: 1
+PRECINCT 336
+    Count: 111
+    Counties: 1
+PRECINCT 337
+    Count: 111
+    Counties: 1
+PRECINCT 338
+    Count: 111
+    Counties: 1
+PRECINCT 339
+    Count: 111
+    Counties: 1
+PRECINCT 34
+    Count: 295
+    Counties: 3
+PRECINCT 340
+    Count: 87
+    Counties: 1
+PRECINCT 341
+    Count: 93
+    Counties: 1
+PRECINCT 342
+    Count: 93
+    Counties: 1
+PRECINCT 343
+    Count: 96
+    Counties: 1
+PRECINCT 344
+    Count: 99
+    Counties: 1
+PRECINCT 345
+    Count: 114
+    Counties: 1
+PRECINCT 346
+    Count: 75
+    Counties: 1
+PRECINCT 347
+    Count: 75
+    Counties: 1
+PRECINCT 348
+    Count: 75
+    Counties: 1
+PRECINCT 349
+    Count: 75
+    Counties: 1
+PRECINCT 35
+    Count: 275
+    Counties: 3
+PRECINCT 350
+    Count: 75
+    Counties: 1
+PRECINCT 351
+    Count: 69
+    Counties: 1
+PRECINCT 352
+    Count: 60
+    Counties: 1
+PRECINCT 353
+    Count: 66
+    Counties: 1
+PRECINCT 354
+    Count: 66
+    Counties: 1
+PRECINCT 355
+    Count: 66
+    Counties: 1
+PRECINCT 356
+    Count: 66
+    Counties: 1
+PRECINCT 357
+    Count: 60
+    Counties: 1
+PRECINCT 358
+    Count: 60
+    Counties: 1
+PRECINCT 359
+    Count: 66
+    Counties: 1
+PRECINCT 36
+    Count: 302
+    Counties: 3
+PRECINCT 360
+    Count: 60
+    Counties: 1
+PRECINCT 361
+    Count: 69
+    Counties: 1
+PRECINCT 362
+    Count: 63
+    Counties: 1
+PRECINCT 363
+    Count: 66
+    Counties: 1
+PRECINCT 364
+    Count: 66
+    Counties: 1
+PRECINCT 365
+    Count: 60
+    Counties: 1
+PRECINCT 366
+    Count: 63
+    Counties: 1
+PRECINCT 367
+    Count: 63
+    Counties: 1
+PRECINCT 368
+    Count: 63
+    Counties: 1
+PRECINCT 369
+    Count: 69
+    Counties: 1
+PRECINCT 37
+    Count: 290
+    Counties: 3
+PRECINCT 370
+    Count: 63
+    Counties: 1
+PRECINCT 371
+    Count: 69
+    Counties: 1
+PRECINCT 372
+    Count: 69
+    Counties: 1
+PRECINCT 374
+    Count: 69
+    Counties: 1
+PRECINCT 375
+    Count: 69
+    Counties: 1
+PRECINCT 376
+    Count: 63
+    Counties: 1
+PRECINCT 377
+    Count: 66
+    Counties: 1
+PRECINCT 378
+    Count: 72
+    Counties: 1
+PRECINCT 379
+    Count: 69
+    Counties: 1
+PRECINCT 38
+    Count: 288
+    Counties: 3
+PRECINCT 380
+    Count: 72
+    Counties: 1
+PRECINCT 381
+    Count: 69
+    Counties: 1
+PRECINCT 382
+    Count: 69
+    Counties: 1
+PRECINCT 383
+    Count: 72
+    Counties: 1
+PRECINCT 384
+    Count: 63
+    Counties: 1
+PRECINCT 385
+    Count: 75
+    Counties: 1
+PRECINCT 386
+    Count: 66
+    Counties: 1
+PRECINCT 387
+    Count: 75
+    Counties: 1
+PRECINCT 388
+    Count: 75
+    Counties: 1
+PRECINCT 389
+    Count: 93
+    Counties: 1
+PRECINCT 39
+    Count: 268
+    Counties: 3
+PRECINCT 390
+    Count: 93
+    Counties: 1
+PRECINCT 391
+    Count: 72
+    Counties: 1
+PRECINCT 392
+    Count: 96
+    Counties: 1
+PRECINCT 393
+    Count: 72
+    Counties: 1
+PRECINCT 394
+    Count: 96
+    Counties: 1
+PRECINCT 395
+    Count: 78
+    Counties: 1
+PRECINCT 396
+    Count: 99
+    Counties: 1
+PRECINCT 397
+    Count: 99
+    Counties: 1
+PRECINCT 398
+    Count: 72
+    Counties: 1
+PRECINCT 399
+    Count: 69
+    Counties: 1
+PRECINCT 4
+    Count: 358
+    Counties: 4
+PRECINCT 4 - ACORN
+    Count: 63
+    Counties: 1
+PRECINCT 40
+    Count: 262
+    Counties: 3
+PRECINCT 400
+    Count: 75
+    Counties: 1
+PRECINCT 401
+    Count: 81
+    Counties: 1
+PRECINCT 402
+    Count: 99
+    Counties: 1
+PRECINCT 403
+    Count: 99
+    Counties: 1
+PRECINCT 404
+    Count: 99
+    Counties: 1
+PRECINCT 405
+    Count: 99
+    Counties: 1
+PRECINCT 406
+    Count: 99
+    Counties: 1
+PRECINCT 407
+    Count: 99
+    Counties: 1
+PRECINCT 408
+    Count: 99
+    Counties: 1
+PRECINCT 409
+    Count: 99
+    Counties: 1
+PRECINCT 41
+    Count: 310
+    Counties: 3
+PRECINCT 410
+    Count: 66
+    Counties: 1
+PRECINCT 411
+    Count: 99
+    Counties: 1
+PRECINCT 412
+    Count: 99
+    Counties: 1
+PRECINCT 413
+    Count: 60
+    Counties: 1
+PRECINCT 414
+    Count: 99
+    Counties: 1
+PRECINCT 415
+    Count: 60
+    Counties: 1
+PRECINCT 416
+    Count: 63
+    Counties: 1
+PRECINCT 417
+    Count: 63
+    Counties: 1
+PRECINCT 418
+    Count: 69
+    Counties: 1
+PRECINCT 419
+    Count: 75
+    Counties: 1
+PRECINCT 42
+    Count: 271
+    Counties: 3
+PRECINCT 420
+    Count: 99
+    Counties: 1
+PRECINCT 421
+    Count: 60
+    Counties: 1
+PRECINCT 422
+    Count: 66
+    Counties: 1
+PRECINCT 423
+    Count: 60
+    Counties: 1
+PRECINCT 424
+    Count: 102
+    Counties: 1
+PRECINCT 425
+    Count: 96
+    Counties: 1
+PRECINCT 426
+    Count: 99
+    Counties: 1
+PRECINCT 427
+    Count: 102
+    Counties: 1
+PRECINCT 428
+    Count: 99
+    Counties: 1
+PRECINCT 429
+    Count: 99
+    Counties: 1
+PRECINCT 43
+    Count: 276
+    Counties: 3
+PRECINCT 430
+    Count: 69
+    Counties: 1
+PRECINCT 431
+    Count: 72
+    Counties: 1
+PRECINCT 432
+    Count: 75
+    Counties: 1
+PRECINCT 44
+    Count: 269
+    Counties: 3
+PRECINCT 45
+    Count: 302
+    Counties: 3
+PRECINCT 46
+    Count: 272
+    Counties: 3
+PRECINCT 47
+    Count: 296
+    Counties: 3
+PRECINCT 48
+    Count: 312
+    Counties: 3
+PRECINCT 49
+    Count: 288
+    Counties: 3
+PRECINCT 5
+    Count: 381
+    Counties: 4
+PRECINCT 5 - INK
+    Count: 63
+    Counties: 1
+PRECINCT 50
+    Count: 270
+    Counties: 3
+PRECINCT 500
+    Count: 66
+    Counties: 1
+PRECINCT 501
+    Count: 72
+    Counties: 1
+PRECINCT 502
+    Count: 66
+    Counties: 1
+PRECINCT 51
+    Count: 297
+    Counties: 3
+PRECINCT 52
+    Count: 282
+    Counties: 3
+PRECINCT 53
+    Count: 280
+    Counties: 3
+PRECINCT 54
+    Count: 201
+    Counties: 2
+PRECINCT 55
+    Count: 254
+    Counties: 2
+PRECINCT 56
+    Count: 258
+    Counties: 2
+PRECINCT 57
+    Count: 215
+    Counties: 2
+PRECINCT 58
+    Count: 254
+    Counties: 2
+PRECINCT 59
+    Count: 214
+    Counties: 2
+PRECINCT 6
+    Count: 368
+    Counties: 4
+PRECINCT 6 - BOARD CAMP
+    Count: 63
+    Counties: 1
+PRECINCT 60
+    Count: 254
+    Counties: 2
+PRECINCT 61
+    Count: 235
+    Counties: 2
+PRECINCT 62
+    Count: 219
+    Counties: 2
+PRECINCT 63
+    Count: 238
+    Counties: 2
+PRECINCT 64
+    Count: 250
+    Counties: 2
+PRECINCT 65
+    Count: 242
+    Counties: 2
+PRECINCT 66
+    Count: 203
+    Counties: 2
+PRECINCT 67
+    Count: 203
+    Counties: 2
+PRECINCT 68
+    Count: 207
+    Counties: 2
+PRECINCT 69
+    Count: 230
+    Counties: 2
+PRECINCT 7
+    Count: 396
+    Counties: 4
+PRECINCT 7 - CHERRY HILL
+    Count: 63
+    Counties: 1
+PRECINCT 70
+    Count: 222
+    Counties: 2
+PRECINCT 71
+    Count: 234
+    Counties: 2
+PRECINCT 72
+    Count: 226
+    Counties: 2
+PRECINCT 73
+    Count: 219
+    Counties: 2
+PRECINCT 74
+    Count: 210
+    Counties: 2
+PRECINCT 75
+    Count: 210
+    Counties: 2
+PRECINCT 76
+    Count: 226
+    Counties: 2
+PRECINCT 77
+    Count: 219
+    Counties: 2
+PRECINCT 78
+    Count: 215
+    Counties: 2
+PRECINCT 79
+    Count: 203
+    Counties: 2
+PRECINCT 8
+    Count: 399
+    Counties: 4
+PRECINCT 8 - BIG FORK
+    Count: 63
+    Counties: 1
+PRECINCT 80
+    Count: 195
+    Counties: 2
+PRECINCT 81
+    Count: 216
+    Counties: 2
+PRECINCT 82
+    Count: 209
+    Counties: 2
+PRECINCT 83
+    Count: 213
+    Counties: 2
+PRECINCT 84
+    Count: 215
+    Counties: 2
+PRECINCT 85
+    Count: 209
+    Counties: 2
+PRECINCT 86
+    Count: 215
+    Counties: 2
+PRECINCT 87
+    Count: 215
+    Counties: 2
+PRECINCT 88
+    Count: 215
+    Counties: 2
+PRECINCT 89
+    Count: 207
+    Counties: 2
+PRECINCT 9
+    Count: 409
+    Counties: 4
+PRECINCT 9 - DALLAS VALLEY
+    Count: 63
+    Counties: 1
+PRECINCT 90
+    Count: 223
+    Counties: 2
+PRECINCT 91
+    Count: 207
+    Counties: 2
+PRECINCT 92
+    Count: 207
+    Counties: 2
+PRECINCT 93
+    Count: 219
+    Counties: 2
+PRECINCT 94
+    Count: 227
+    Counties: 2
+PRECINCT 95
+    Count: 215
+    Counties: 2
+PRECINCT 96
+    Count: 215
+    Counties: 2
+PRECINCT 97
+    Count: 207
+    Counties: 2
+PRECINCT 98
+    Count: 227
+    Counties: 2
+PRECINCT 99
+    Count: 211
+    Counties: 2
+PROMISED LAND
+    Count: 78
+    Counties: 1
+PT DELUCE
+    Count: 72
+    Counties: 1
+PULASKI TWP
+    Count: 66
+    Counties: 1
+PUMKIN BEND-19
+    Count: 63
+    Counties: 1
+R. JACKSON NEIGHBORHOOD CENTER
+    Count: 105
+    Counties: 1
+RANDOLPH RURAL
+    Count: 63
+    Counties: 1
+RANDOLPH W1
+    Count: 63
+    Counties: 1
+RANDOLPH W2
+    Count: 63
+    Counties: 1
+RANDOLPH W3
+    Count: 63
+    Counties: 1
+RANDOLPH W4
+    Count: 63
+    Counties: 1
+RANKIN
+    Count: 75
+    Counties: 1
+RATCLIFF CITY
+    Count: 60
+    Counties: 1
+RATCLIFF RURAL
+    Count: 60
+    Counties: 1
+RAYMOND TWN STREP62 CSDL
+    Count: 63
+    Counties: 1
+RED COLONY
+    Count: 66
+    Counties: 1
+RED DOORS
+    Count: 69
+    Counties: 1
+RED RIVER
+    Count: 186
+    Counties: 3
+REDFORK
+    Count: 66
+    Counties: 1
+REDLAND
+    Count: 66
+    Counties: 1
+REEDS CREEK SAFFELL
+    Count: 78
+    Counties: 1
+REEDS CREEK STRAWBERRY
+    Count: 78
+    Counties: 1
+RELIEF
+    Count: 72
+    Counties: 1
+REMMEL
+    Count: 69
+    Counties: 1
+REVEILLE CITY
+    Count: 60
+    Counties: 1
+REVEILLE RURAL
+    Count: 60
+    Counties: 1
+REYNO
+    Count: 60
+    Counties: 1
+RICHARD B. HARRISON MULTI
+    Count: 72
+    Counties: 1
+RICHARDSON
+    Count: 60
+    Counties: 1
+RICHLAND
+    Count: 183
+    Counties: 3
+RICHLAND STREP61
+    Count: 63
+    Counties: 1
+RICHWOOD
+    Count: 72
+    Counties: 1
+RICHWOOD TWP
+    Count: 60
+    Counties: 1
+RICHWOODS
+    Count: 69
+    Counties: 1
+RILEY
+    Count: 81
+    Counties: 1
+RISON INSIDE
+    Count: 66
+    Counties: 1
+RISON OUTSIDE
+    Count: 66
+    Counties: 1
+RIVER
+    Count: 60
+    Counties: 1
+RIVER CITY
+    Count: 66
+    Counties: 1
+RIVER RURAL
+    Count: 60
+    Counties: 1
+ROC ROE CITY
+    Count: 63
+    Counties: 1
+ROC ROE COUNTRY
+    Count: 63
+    Counties: 1
+ROC-ROE STREP61 CSDL
+    Count: 63
+    Counties: 1
+ROCK CREEK
+    Count: 60
+    Counties: 1
+ROCKPORT W-1
+    Count: 63
+    Counties: 1
+ROCKPORT WARD 2
+    Count: 63
+    Counties: 1
+ROCKY MOUND
+    Count: 69
+    Counties: 1
+ROE STREP61 CSDL
+    Count: 63
+    Counties: 1
+RONDO
+    Count: 112
+    Counties: 1
+ROSE BUD CITY
+    Count: 63
+    Counties: 1
+ROSE CREEK
+    Count: 75
+    Counties: 1
+ROSIE
+    Count: 72
+    Counties: 1
+ROSSTON CITYSALESTAX & STREP89
+    Count: 78
+    Counties: 1
+ROSSTON RURAL ST REP 89
+    Count: 72
+    Counties: 1
+ROSSTON RURAL ST REP 98
+    Count: 72
+    Counties: 1
+ROVER
+    Count: 60
+    Counties: 1
+ROWELL
+    Count: 63
+    Counties: 1
+ROYAL
+    Count: 63
+    Counties: 1
+RUDDELL RURAL
+    Count: 75
+    Counties: 1
+RUDDELL WARD 1
+    Count: 72
+    Counties: 1
+RUDDELL WARD 2
+    Count: 72
+    Counties: 1
+RUDDELL WARD 3
+    Count: 72
+    Counties: 1
+RUDDELL WARD 4
+    Count: 72
+    Counties: 1
+RUNNING LAKE
+    Count: 60
+    Counties: 1
+RURAL HUNTER-10
+    Count: 63
+    Counties: 1
+RUSSELL CITY
+    Count: 60
+    Counties: 1
+RUSSELL TWP
+    Count: 60
+    Counties: 1
+RUSSELLVILLE 1A/JP8/W1
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 1B/
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 1C/
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 2A/
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 2B/JP10/W2
+    Count: 72
+    Counties: 1
+RUSSELLVILLE 2C/
+    Count: 84
+    Counties: 1
+RUSSELLVILLE 3A/
+    Count: 84
+    Counties: 1
+RUSSELLVILLE 3B/JP12/JP13/W3
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 4A/JP7/W4
+    Count: 69
+    Counties: 1
+RUSSELLVILLE 4B/JP7/W4
+    Count: 69
+    Counties: 1
+RUSSELLVILLE 4C/JP8/W4
+    Count: 72
+    Counties: 1
+RUSSELLVILLE 4D/
+    Count: 84
+    Counties: 1
+RUSSELLVILLE 4E/JP13/W4
+    Count: 72
+    Counties: 1
+RUSSELLVILLE 4F/
+    Count: 78
+    Counties: 1
+RUSSELLVILLE 4G/JP13/W4
+    Count: 72
+    Counties: 1
+RUSSELLVILLE 4H/
+    Count: 78
+    Counties: 1
+RUSSELLVILLE OUT 1/JP7
+    Count: 63
+    Counties: 1
+RUSSELLVILLE OUT 2/JP7/JP13
+    Count: 63
+    Counties: 1
+RUSSELLVILLE OUT 3/JP12
+    Count: 66
+    Counties: 1
+RUSSELLVILLE OUT 4/
+    Count: 72
+    Counties: 1
+SAGE
+    Count: 63
+    Counties: 1
+SALADO
+    Count: 72
+    Counties: 1
+SALINE
+    Count: 66
+    Counties: 1
+SALINE INSIDE
+    Count: 66
+    Counties: 1
+SALINE OUTSIDE
+    Count: 66
+    Counties: 1
+SANDFLAT
+    Count: 100
+    Counties: 1
+SARATOGA
+    Count: 72
+    Counties: 1
+SCOTT
+    Count: 72
+    Counties: 1
+SCOTT VV AND WH
+    Count: 66
+    Counties: 1
+SCOTTSVILLE 1/JP4
+    Count: 63
+    Counties: 1
+SCOTTSVILLE 2/JP5
+    Count: 63
+    Counties: 1
+SE LINCOLN CO FD
+    Count: 72
+    Counties: 1
+SEARCY
+    Count: 63
+    Counties: 1
+SEARCY WARD 1A
+    Count: 69
+    Counties: 1
+SEARCY WARD 1B
+    Count: 57
+    Counties: 1
+SEARCY WARD 1C
+    Count: 69
+    Counties: 1
+SEARCY WARD 1D
+    Count: 69
+    Counties: 1
+SEARCY WARD 1E
+    Count: 69
+    Counties: 1
+SEARCY WARD 2B
+    Count: 69
+    Counties: 1
+SEARCY WARD 2C
+    Count: 75
+    Counties: 1
+SEARCY WARD 2D
+    Count: 63
+    Counties: 1
+SEARCY WARD 2E
+    Count: 75
+    Counties: 1
+SEARCY WARD 3A
+    Count: 69
+    Counties: 1
+SEARCY WARD 3B
+    Count: 69
+    Counties: 1
+SEARCY WARD 3C
+    Count: 69
+    Counties: 1
+SEARCY WARD 3D
+    Count: 69
+    Counties: 1
+SEARCY WARD 3E
+    Count: 63
+    Counties: 1
+SEARCY WARD 4A
+    Count: 69
+    Counties: 1
+SEARCY WARD 4B
+    Count: 69
+    Counties: 1
+SEARCY WARD 4C
+    Count: 69
+    Counties: 1
+SELMA
+    Count: 66
+    Counties: 1
+SF/WILSON
+    Count: 63
+    Counties: 1
+SHADY GROVE
+    Count: 60
+    Counties: 1
+SHILOH
+    Count: 60
+    Counties: 1
+SHOAL CREEK
+    Count: 60
+    Counties: 1
+SHOFFNER
+    Count: 69
+    Counties: 1
+SHORT MTN WD 1
+    Count: 60
+    Counties: 1
+SHORT MTN WD 2
+    Count: 60
+    Counties: 1
+SHORT MTN WD 3
+    Count: 60
+    Counties: 1
+SHORT MTN WD 4
+    Count: 60
+    Counties: 1
+SHOVER SPRINGS
+    Count: 69
+    Counties: 1
+SILOAM
+    Count: 60
+    Counties: 1
+SILVERLAKE
+    Count: 69
+    Counties: 1
+SIMPSON 1
+    Count: 60
+    Counties: 1
+SIMPSON 2
+    Count: 60
+    Counties: 1
+SIMS
+    Count: 63
+    Counties: 1
+SMACKOVER
+    Count: 66
+    Counties: 1
+SMITH
+    Count: 198
+    Counties: 3
+SNYDER/TRAFALGAR
+    Count: 63
+    Counties: 1
+SOUTH
+    Count: 72
+    Counties: 1
+SOUTH AUGUSTA-05
+    Count: 63
+    Counties: 1
+SOUTH BIG ROCK
+    Count: 72
+    Counties: 1
+SOUTH CADRON INSIDE
+    Count: 63
+    Counties: 1
+SOUTH CADRON OUTSIDE
+    Count: 63
+    Counties: 1
+SOUTH CARROLL
+    Count: 78
+    Counties: 1
+SOUTH COUNTY 1
+    Count: 66
+    Counties: 1
+SOUTH HICKORY
+    Count: 72
+    Counties: 1
+SOUTH KILGORE & GLEGHORN
+    Count: 60
+    Counties: 1
+SOUTH LEBANON
+    Count: 66
+    Counties: 1
+SOUTH ST. FRANCIS
+    Count: 60
+    Counties: 1
+SOUTH UNION
+    Count: 66
+    Counties: 1
+SPRING
+    Count: 66
+    Counties: 1
+SPRING 1
+    Count: 72
+    Counties: 1
+SPRING 2
+    Count: 66
+    Counties: 1
+SPRING LAKE CHURCH P8
+    Count: 63
+    Counties: 1
+SPRING RIVER
+    Count: 132
+    Counties: 2
+SPRINGHILL
+    Count: 141
+    Counties: 2
+ST. CHARLES
+    Count: 63
+    Counties: 1
+ST. JOE
+    Count: 66
+    Counties: 1
+ST. VINCENT
+    Count: 81
+    Counties: 1
+STANLEY
+    Count: 66
+    Counties: 1
+STAR CITY W1
+    Count: 69
+    Counties: 1
+STAR CITY W2
+    Count: 69
+    Counties: 1
+STAR CITY W3
+    Count: 69
+    Counties: 1
+STEELE
+    Count: 81
+    Counties: 1
+STRAWBERRY
+    Count: 216
+    Counties: 3
+STRONG SR96
+    Count: 60
+    Counties: 1
+STUTTGART WARD 1
+    Count: 69
+    Counties: 1
+STUTTGART WARD 2
+    Count: 75
+    Counties: 1
+STUTTGART WARD 3
+    Count: 69
+    Counties: 1
+SUGAR CAMP
+    Count: 60
+    Counties: 1
+SUGAR CREEK
+    Count: 60
+    Counties: 1
+SUGAR HILL
+    Count: 108
+    Counties: 1
+SUGAR LOAF
+    Count: 66
+    Counties: 1
+SWIFTON
+    Count: 66
+    Counties: 1
+SYLAMORE
+    Count: 63
+    Counties: 1
+TABERNACLE OF GOD CHURCH
+    Count: 96
+    Counties: 1
+TAYLOR CITY
+    Count: 60
+    Counties: 1
+TAYLOR TOWNSHIP
+    Count: 60
+    Counties: 1
+TENNESSEE
+    Count: 60
+    Counties: 1
+THACKER
+    Count: 72
+    Counties: 1
+THREE CREEKS SR97
+    Count: 60
+    Counties: 1
+TILLAR
+    Count: 69
+    Counties: 1
+TINSMAN
+    Count: 60
+    Counties: 1
+TOMAHAWK
+    Count: 66
+    Counties: 1
+TOMLINSON
+    Count: 60
+    Counties: 1
+TOMLINSON/TATE
+    Count: 60
+    Counties: 1
+TOTTEN TWP
+    Count: 60
+    Counties: 1
+TRICE
+    Count: 108
+    Counties: 1
+TRINITY BAPTIST CHURCH
+    Count: 66
+    Counties: 1
+TUCKERMAN OUTSIDE
+    Count: 69
+    Counties: 1
+TUCKERMAN WARD 1
+    Count: 69
+    Counties: 1
+TUCKERMAN WARD 2
+    Count: 72
+    Counties: 1
+TUCKERMAN WARD 3
+    Count: 69
+    Counties: 1
+TUPELO
+    Count: 69
+    Counties: 1
+TURRELL FIRE STATION
+    Count: 69
+    Counties: 1
+TWIN CREEK
+    Count: 69
+    Counties: 1
+TYLER
+    Count: 75
+    Counties: 1
+TYRONZA
+    Count: 66
+    Counties: 1
+TYRONZA / TWIST
+    Count: 69
+    Counties: 1
+UNION
+    Count: 452
+    Counties: 6
+UNION SR96
+    Count: 60
+    Counties: 1
+UNION VALLEY
+    Count: 75
+    Counties: 1
+UPPER HILL
+    Count: 63
+    Counties: 1
+UPPER NORTH
+    Count: 66
+    Counties: 1
+V/BC
+    Count: 63
+    Counties: 1
+VALLEY
+    Count: 123
+    Counties: 2
+VAN BUREN
+    Count: 57
+    Counties: 1
+VELVET RIDGE
+    Count: 60
+    Counties: 1
+VIOLET HILL
+    Count: 63
+    Counties: 1
+VOTECH
+    Count: 63
+    Counties: 1
+WALDO CITY
+    Count: 66
+    Counties: 1
+WALDO TOWNSHIP
+    Count: 60
+    Counties: 1
+WALKER
+    Count: 60
+    Counties: 1
+WALLACE/RICHLAND
+    Count: 66
+    Counties: 1
+WALLS TWP
+    Count: 63
+    Counties: 1
+WALNUT LAKE
+    Count: 66
+    Counties: 1
+WAR EAGLE
+    Count: 66
+    Counties: 1
+WARD
+    Count: 63
+    Counties: 1
+WARD 1
+    Count: 384
+    Counties: 5
+WARD 1 SR97
+    Count: 60
+    Counties: 1
+WARD 1, 2 & 3
+    Count: 72
+    Counties: 1
+WARD 2
+    Count: 384
+    Counties: 5
+WARD 2 & 3 PRESCOTT SZ 2
+    Count: 72
+    Counties: 1
+WARD 2 CITY/SR97
+    Count: 72
+    Counties: 1
+WARD 2, 3 & 4 PRESCOTT SZ 1
+    Count: 72
+    Counties: 1
+WARD 3
+    Count: 360
+    Counties: 5
+WARD 3 CITY/SR97
+    Count: 66
+    Counties: 1
+WARD 4
+    Count: 159
+    Counties: 2
+WARD 4 SR97
+    Count: 60
+    Counties: 1
+WARD CITY WARD 1
+    Count: 66
+    Counties: 1
+WARD CITY WARD 2
+    Count: 66
+    Counties: 1
+WARD CITY WARD 3
+    Count: 66
+    Counties: 1
+WARD ONE
+    Count: 66
+    Counties: 1
+WARD THREE
+    Count: 66
+    Counties: 1
+WARD TWO
+    Count: 66
+    Counties: 1
+WARD TWP
+    Count: 60
+    Counties: 1
+WARM SPRINGS
+    Count: 60
+    Counties: 1
+WASHBURN
+    Count: 60
+    Counties: 1
+WASHINGTON
+    Count: 434
+    Counties: 6
+WASHINGTON EAST
+    Count: 81
+    Counties: 1
+WASHINGTON WEST
+    Count: 81
+    Counties: 1
+WASHITA
+    Count: 63
+    Counties: 1
+WATER VALLEY
+    Count: 60
+    Counties: 1
+WATERS STORE
+    Count: 66
+    Counties: 1
+WATTENSAW CITY WARD 1
+    Count: 81
+    Counties: 1
+WATTENSAW CITY WARD 2
+    Count: 81
+    Counties: 1
+WATTENSAW CITY WARD 3
+    Count: 81
+    Counties: 1
+WATTENSAW COUNTRY
+    Count: 66
+    Counties: 1
+WAVELAND
+    Count: 66
+    Counties: 1
+WCR
+    Count: 63
+    Counties: 1
+WELBOURNE EAST
+    Count: 87
+    Counties: 1
+WELBOURNE WEST
+    Count: 81
+    Counties: 1
+WELDON
+    Count: 69
+    Counties: 1
+WELLS BAYOU/FS
+    Count: 72
+    Counties: 1
+WESSON SR97
+    Count: 60
+    Counties: 1
+WEST COUNTY 1
+    Count: 66
+    Counties: 1
+WEST HELENA CITY HALL P7
+    Count: 63
+    Counties: 1
+WEST MPH 1ST BAPTIST CHURCH
+    Count: 102
+    Counties: 1
+WEST OAK BLUFF
+    Count: 60
+    Counties: 1
+WEST OUT
+    Count: 69
+    Counties: 1
+WEST PETER CREEK
+    Count: 66
+    Counties: 1
+WEST POINT
+    Count: 60
+    Counties: 1
+WEST PRAIRIE
+    Count: 63
+    Counties: 1
+WEST ROANOKE
+    Count: 60
+    Counties: 1
+WEST SULLIVAN
+    Count: 72
+    Counties: 1
+WHEATLEY
+    Count: 69
+    Counties: 1
+WHELEN SPRINGS 1
+    Count: 66
+    Counties: 1
+WHITE
+    Count: 57
+    Counties: 1
+WHITE EAGLE
+    Count: 78
+    Counties: 1
+WHITE RIVER
+    Count: 72
+    Counties: 1
+WHITE RIVER COUNTRY
+    Count: 60
+    Counties: 1
+WHITE RIVER WARD 1
+    Count: 72
+    Counties: 1
+WHITE RIVER WARD 2
+    Count: 72
+    Counties: 1
+WHITE RIVER WARD 3
+    Count: 72
+    Counties: 1
+WHITEOAK
+    Count: 66
+    Counties: 1
+WHITEVILLE
+    Count: 63
+    Counties: 1
+WIDEMAN
+    Count: 63
+    Counties: 1
+WIDENER
+    Count: 69
+    Counties: 1
+WILBURN
+    Count: 63
+    Counties: 1
+WILEY
+    Count: 60
+    Counties: 1
+WILEY'S COVE
+    Count: 84
+    Counties: 1
+WILLIAMS TWP
+    Count: 63
+    Counties: 1
+WILLIS
+    Count: 102
+    Counties: 1
+WILLISVILLE CITY&RURALST.REP98
+    Count: 72
+    Counties: 1
+WILLISVILLE RURAL ST. REP 89
+    Count: 72
+    Counties: 1
+WILMAR
+    Count: 78
+    Counties: 1
+WILMOT CITY
+    Count: 69
+    Counties: 1
+WILMOT RURAL
+    Count: 63
+    Counties: 1
+WILSON FIRE STATION
+    Count: 69
+    Counties: 1
+WINCHESTER NO JP, SN8
+    Count: 63
+    Counties: 1
+WISEMAN
+    Count: 63
+    Counties: 1
+WM HIGH SCHOOL
+    Count: 114
+    Counties: 1
+WOLLEY'S SR97
+    Count: 60
+    Counties: 1
+WOODBERRY
+    Count: 60
+    Counties: 1
+WYE
+    Count: 75
+    Counties: 1
+WYNNE TOWNSHIP
+    Count: 63
+    Counties: 1
+WYNNE WARD 1
+    Count: 75
+    Counties: 1
+WYNNE WARD 2
+    Count: 69
+    Counties: 1
+WYNNE WARD 3
+    Count: 75
+    Counties: 1
+WYNNE WARD 4
+    Count: 75
+    Counties: 1
+WYNNE WARD 5
+    Count: 75
+    Counties: 1
+YOCUM
+    Count: 69
+    Counties: 1
+YORK TWP
+    Count: 75
+    Counties: 1
+ZION
+    Count: 66
+    Counties: 1

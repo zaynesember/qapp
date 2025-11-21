@@ -1,0 +1,140 @@
+UNIQUE VALUES — district
+============================================================
+001
+    Count: 1909
+    Counties: 10
+002
+    Count: 2157
+    Counties: 10
+003
+    Count: 1316
+    Counties: 10
+004
+    Count: 385
+    Counties: 10
+005
+    Count: 479
+    Counties: 10
+006
+    Count: 287
+    Counties: 10
+007
+    Count: 247
+    Counties: 10
+008
+    Count: 349
+    Counties: 9
+009
+    Count: 146
+    Counties: 6
+010
+    Count: 172
+    Counties: 6
+011
+    Count: 92
+    Counties: 6
+012
+    Count: 167
+    Counties: 6
+013
+    Count: 96
+    Counties: 6
+014
+    Count: 53
+    Counties: 6
+015
+    Count: 150
+    Counties: 6
+016
+    Count: 111
+    Counties: 6
+017
+    Count: 130
+    Counties: 7
+018
+    Count: 144
+    Counties: 6
+019
+    Count: 80
+    Counties: 4
+020
+    Count: 88
+    Counties: 4
+021
+    Count: 124
+    Counties: 4
+022
+    Count: 42
+    Counties: 3
+023
+    Count: 76
+    Counties: 3
+024
+    Count: 68
+    Counties: 3
+025
+    Count: 45
+    Counties: 3
+026
+    Count: 50
+    Counties: 3
+027
+    Count: 43
+    Counties: 3
+028
+    Count: 27
+    Counties: 3
+029
+    Count: 37
+    Counties: 3
+030
+    Count: 62
+    Counties: 3
+031
+    Count: 38
+    Counties: 2
+032
+    Count: 41
+    Counties: 2
+033
+    Count: 27
+    Counties: 2
+034
+    Count: 24
+    Counties: 2
+035
+    Count: 17
+    Counties: 2
+036
+    Count: 45
+    Counties: 2
+037
+    Count: 26
+    Counties: 2
+038
+    Count: 27
+    Counties: 2
+039
+    Count: 33
+    Counties: 2
+040
+    Count: 65
+    Counties: 2
+041
+    Count: 36
+    Counties: 1
+042
+    Count: 27
+    Counties: 1
+043
+    Count: 11
+    Counties: 1
+044
+    Count: 14
+    Counties: 1
+045
+    Count: 19
+    Counties: 1
+STATEWIDE
+    Count: 12434
+    Counties: 10

@@ -1,0 +1,17 @@
+UNIQUE VALUES — party_simplified
+============================================================
+<EMPTY>
+    Count: 786079
+    Counties: 102
+DEMOCRAT
+    Count: 82383
+    Counties: 102
+NONPARTISAN
+    Count: 469312
+    Counties: 102
+OTHER
+    Count: 10660
+    Counties: 102
+REPUBLICAN
+    Count: 35634
+    Counties: 102

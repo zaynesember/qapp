@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 467
+office: 36
+party_detailed: 9
+party_simplified: 6
+mode: 2
+votes: 2193
+county_name: 4
+county_fips: 4
+jurisdiction_name: 4
+jurisdiction_fips: 4
+candidate: 150
+district: 41
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 1
+writein: 1
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 1
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: HI
+    Jurisdictions: 4
+    Counties: 4
+    Precincts: 467
+

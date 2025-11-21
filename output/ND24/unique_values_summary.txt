@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 385
+office: 53
+party_detailed: 6
+party_simplified: 6
+mode: 1
+votes: 2262
+county_name: 53
+county_fips: 53
+jurisdiction_name: 53
+jurisdiction_fips: 53
+candidate: 399
+district: 145
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 2
+writein: 2
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 3
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: ND
+    Jurisdictions: 53
+    Counties: 53
+    Precincts: 385
+

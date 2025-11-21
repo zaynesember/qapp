@@ -1,0 +1,83 @@
+UNIQUE VALUES — district
+============================================================
+<EMPTY>
+    Count: 430007
+    Counties: 21
+001
+    Count: 3870
+    Counties: 1
+002
+    Count: 3310
+    Counties: 3
+005
+    Count: 11001
+    Counties: 3
+006
+    Count: 9114
+    Counties: 1
+007
+    Count: 1878
+    Counties: 3
+009
+    Count: 5064
+    Counties: 2
+011
+    Count: 324
+    Counties: 1
+012
+    Count: 4955
+    Counties: 1
+1
+    Count: 2488
+    Counties: 5
+10
+    Count: 8018
+    Counties: 3
+11
+    Count: 2963
+    Counties: 1
+12
+    Count: 1408
+    Counties: 2
+2
+    Count: 2748
+    Counties: 7
+3
+    Count: 6090
+    Counties: 6
+4
+    Count: 4105
+    Counties: 4
+5
+    Count: 369
+    Counties: 2
+6
+    Count: 31
+    Counties: 1
+7
+    Count: 1830
+    Counties: 1
+8
+    Count: 7782
+    Counties: 3
+9
+    Count: 625
+    Counties: 2
+AT-LARGE
+    Count: 2740
+    Counties: 6
+STATE
+    Count: 45420
+    Counties: 1
+STATEWIDE
+    Count: 85329
+    Counties: 17
+WARD 1
+    Count: 39
+    Counties: 1
+WARD 2
+    Count: 153
+    Counties: 1
+WARD 3
+    Count: 39
+    Counties: 1

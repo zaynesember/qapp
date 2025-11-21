@@ -1,0 +1,32 @@
+UNIQUE VALUES — mode
+============================================================
+<EMPTY>
+    Count: 21068
+    Counties: 5
+ABSENTEE
+    Count: 58656
+    Counties: 9
+EARLY VOTING
+    Count: 116344
+    Counties: 12
+ELECTION DAY
+    Count: 135452
+    Counties: 12
+EMERGENCY
+    Count: 15982
+    Counties: 3
+FEDERAL/OVERSEAS
+    Count: 3276
+    Counties: 5
+MAIL-IN
+    Count: 58847
+    Counties: 3
+PROVISIONAL
+    Count: 89700
+    Counties: 11
+STATE/FED
+    Count: 15803
+    Counties: 1
+TOTAL
+    Count: 126572
+    Counties: 12

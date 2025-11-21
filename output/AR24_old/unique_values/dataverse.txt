@@ -1,0 +1,14 @@
+UNIQUE VALUES — dataverse
+============================================================
+HOUSE
+    Count: 22227
+    Counties: 75
+LOCAL
+    Count: 28453
+    Counties: 71
+PRESIDENT
+    Count: 61257
+    Counties: 75
+STATE
+    Count: 102771
+    Counties: 75

@@ -1,0 +1,44 @@
+UNIQUE VALUES — party_detailed
+============================================================
+<EMPTY>
+    Count: 220767
+    Counties: 21
+AMERICAN SOLIDARITY
+    Count: 84
+    Counties: 1
+COMMON SENSE INDEPENDENT
+    Count: 3038
+    Counties: 1
+CONSTITUTION
+    Count: 17499
+    Counties: 7
+DEMOCRAT
+    Count: 151481
+    Counties: 21
+GREEN
+    Count: 21817
+    Counties: 7
+INDEPENDENT
+    Count: 11855
+    Counties: 4
+LIBERTARIAN
+    Count: 21003
+    Counties: 7
+NONPARTISAN
+    Count: 50764
+    Counties: 5
+REPUBLICAN
+    Count: 122491
+    Counties: 21
+SOCIALISM AND LIBERATION
+    Count: 6345
+    Counties: 6
+SOCIALIST EQUALITY
+    Count: 26
+    Counties: 1
+SOCIALIST WORKERS PARTY
+    Count: 8762
+    Counties: 6
+VOTE BETTER
+    Count: 5768
+    Counties: 5

@@ -1,0 +1,11 @@
+UNIQUE VALUES — writein
+============================================================
+<EMPTY>
+    Count: 118492
+    Counties: 6
+FALSE
+    Count: 465601
+    Counties: 19
+TRUE
+    Count: 57607
+    Counties: 15

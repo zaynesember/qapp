@@ -1,0 +1,1019 @@
+UNIQUE VALUES — district
+============================================================
+000
+    Count: 173902
+    Counties: 102
+001
+    Count: 10965
+    Counties: 3
+002
+    Count: 2961
+    Counties: 8
+003
+    Count: 2097
+    Counties: 2
+004
+    Count: 9049
+    Counties: 43
+005
+    Count: 2303
+    Counties: 2
+006
+    Count: 2889
+    Counties: 2
+007
+    Count: 2242
+    Counties: 2
+008
+    Count: 2310
+    Counties: 3
+009
+    Count: 1927
+    Counties: 3
+010
+    Count: 2946
+    Counties: 3
+011
+    Count: 2998
+    Counties: 8
+012
+    Count: 4412
+    Counties: 35
+013
+    Count: 3134
+    Counties: 8
+014
+    Count: 3484
+    Counties: 8
+015
+    Count: 4405
+    Counties: 36
+016
+    Count: 3825
+    Counties: 22
+017
+    Count: 3733
+    Counties: 15
+018
+    Count: 292
+    Counties: 1
+019
+    Count: 848
+    Counties: 2
+020
+    Count: 589
+    Counties: 1
+021
+    Count: 209
+    Counties: 1
+022
+    Count: 552
+    Counties: 2
+023
+    Count: 114
+    Counties: 1
+024
+    Count: 195
+    Counties: 1
+025
+    Count: 723
+    Counties: 3
+026
+    Count: 244
+    Counties: 1
+027
+    Count: 719
+    Counties: 2
+028
+    Count: 618
+    Counties: 2
+029
+    Count: 306
+    Counties: 3
+030
+    Count: 342
+    Counties: 1
+031
+    Count: 812
+    Counties: 2
+032
+    Count: 192
+    Counties: 1
+033
+    Count: 207
+    Counties: 1
+034
+    Count: 907
+    Counties: 5
+035
+    Count: 308
+    Counties: 1
+036
+    Count: 284
+    Counties: 1
+037
+    Count: 1183
+    Counties: 14
+038
+    Count: 228
+    Counties: 2
+039
+    Count: 210
+    Counties: 1
+040
+    Count: 800
+    Counties: 4
+041
+    Count: 264
+    Counties: 2
+042
+    Count: 369
+    Counties: 1
+043
+    Count: 752
+    Counties: 4
+044
+    Count: 165
+    Counties: 1
+045
+    Count: 416
+    Counties: 2
+046
+    Count: 1215
+    Counties: 5
+047
+    Count: 532
+    Counties: 1
+048
+    Count: 376
+    Counties: 2
+049
+    Count: 820
+    Counties: 5
+050
+    Count: 236
+    Counties: 2
+051
+    Count: 320
+    Counties: 2
+052
+    Count: 898
+    Counties: 6
+053
+    Count: 1114
+    Counties: 14
+054
+    Count: 252
+    Counties: 1
+055
+    Count: 940
+    Counties: 12
+056
+    Count: 213
+    Counties: 2
+057
+    Count: 271
+    Counties: 2
+058
+    Count: 1066
+    Counties: 16
+059
+    Count: 244
+    Counties: 2
+060
+    Count: 217
+    Counties: 1
+061
+    Count: 292
+    Counties: 1
+062
+    Count: 192
+    Counties: 1
+063
+    Count: 316
+    Counties: 1
+064
+    Count: 234
+    Counties: 2
+065
+    Count: 392
+    Counties: 2
+066
+    Count: 316
+    Counties: 2
+067
+    Count: 312
+    Counties: 1
+068
+    Count: 264
+    Counties: 2
+069
+    Count: 345
+    Counties: 3
+070
+    Count: 368
+    Counties: 3
+071
+    Count: 326
+    Counties: 6
+072
+    Count: 465
+    Counties: 1
+073
+    Count: 470
+    Counties: 9
+074
+    Count: 648
+    Counties: 5
+075
+    Count: 322
+    Counties: 5
+076
+    Count: 478
+    Counties: 3
+077
+    Count: 232
+    Counties: 2
+078
+    Count: 210
+    Counties: 1
+079
+    Count: 328
+    Counties: 4
+080
+    Count: 300
+    Counties: 2
+081
+    Count: 424
+    Counties: 1
+082
+    Count: 344
+    Counties: 3
+083
+    Count: 237
+    Counties: 2
+084
+    Count: 162
+    Counties: 4
+085
+    Count: 248
+    Counties: 2
+086
+    Count: 280
+    Counties: 1
+087
+    Count: 508
+    Counties: 8
+088
+    Count: 389
+    Counties: 5
+089
+    Count: 430
+    Counties: 7
+090
+    Count: 288
+    Counties: 3
+091
+    Count: 423
+    Counties: 4
+092
+    Count: 312
+    Counties: 1
+093
+    Count: 376
+    Counties: 6
+094
+    Count: 615
+    Counties: 13
+095
+    Count: 422
+    Counties: 3
+096
+    Count: 431
+    Counties: 3
+097
+    Count: 244
+    Counties: 2
+098
+    Count: 204
+    Counties: 1
+099
+    Count: 381
+    Counties: 5
+100
+    Count: 478
+    Counties: 10
+101
+    Count: 392
+    Counties: 6
+102
+    Count: 522
+    Counties: 11
+103
+    Count: 180
+    Counties: 1
+104
+    Count: 378
+    Counties: 2
+105
+    Count: 475
+    Counties: 9
+106
+    Count: 519
+    Counties: 7
+107
+    Count: 424
+    Counties: 7
+108
+    Count: 394
+    Counties: 5
+109
+    Count: 331
+    Counties: 5
+10TH CIRCUIT - FEHRENBACHER VACANCY
+    Count: 27
+    Counties: 1
+10TH CIRCUIT - LYONS VACANCY
+    Count: 567
+    Counties: 1
+10TH CIRCUIT - RETAIN GORMAN
+    Count: 1272
+    Counties: 5
+10TH CIRCUIT - RISINGER VACANCY
+    Count: 756
+    Counties: 1
+110
+    Count: 412
+    Counties: 8
+111
+    Count: 348
+    Counties: 1
+112
+    Count: 328
+    Counties: 2
+113
+    Count: 264
+    Counties: 2
+114
+    Count: 328
+    Counties: 1
+115
+    Count: 369
+    Counties: 6
+116
+    Count: 405
+    Counties: 9
+117
+    Count: 439
+    Counties: 10
+118
+    Count: 363
+    Counties: 5
+11TH CIRCUIT - RETAIN FOLEY
+    Count: 1197
+    Counties: 5
+11TH CIRCUIT - RETAIN YODER
+    Count: 1197
+    Counties: 5
+12TH CIRCUIT - 2ND SUBCIRCUIT - ALLEN VACANCY
+    Count: 324
+    Counties: 1
+12TH CIRCUIT - 4TH SUBCIRCUIT - GOMORA VACANCY
+    Count: 321
+    Counties: 1
+12TH CIRCUIT - O'LEARY VACANCY
+    Count: 1788
+    Counties: 1
+12TH CIRCUIT - RETAIN CORNELIUS
+    Count: 1788
+    Counties: 1
+12TH CIRCUIT - RETAIN GARCIA
+    Count: 1788
+    Counties: 1
+13TH CIRCUIT - BERNABEI VACANCY
+    Count: 200
+    Counties: 1
+13TH CIRCUIT - HETTEL VACANCY
+    Count: 476
+    Counties: 1
+13TH CIRCUIT - PETERSON VACANCY
+    Count: 200
+    Counties: 1
+13TH CIRCUIT - RETAIN HOLLAND
+    Count: 1045
+    Counties: 3
+13TH CIRCUIT - RETAIN RACCUGLIA
+    Count: 1045
+    Counties: 3
+14TH CIRCUIT - CONWAY, JR. VACANCY
+    Count: 120
+    Counties: 1
+14TH CIRCUIT - SENNEFF VACANCY
+    Count: 240
+    Counties: 1
+14TH CIRCUIT - STEINES VACANCY
+    Count: 240
+    Counties: 1
+15TH CIRCUIT - RETAIN ACKERT
+    Count: 887
+    Counties: 5
+16TH CIRCUIT - 2ND SUBCIRCUIT - NOVERINI VACANCY
+    Count: 234
+    Counties: 1
+16TH CIRCUIT - 4TH SUBCIRCUIT - HULL, III VACANCY
+    Count: 392
+    Counties: 1
+16TH CIRCUIT - HUDSON VACANCY
+    Count: 1128
+    Counties: 1
+16TH CIRCUIT - RETAIN BARSANTI
+    Count: 1504
+    Counties: 1
+16TH CIRCUIT - RETAIN CRUZ
+    Count: 1504
+    Counties: 1
+16TH CIRCUIT - RETAIN DALTON
+    Count: 1504
+    Counties: 1
+16TH CIRCUIT - RETAIN NOLAND
+    Count: 1504
+    Counties: 1
+17TH CIRCUIT - 1ST SUBCIRCUIT - MCGRAW VACANCY
+    Count: 482
+    Counties: 2
+17TH CIRCUIT - RETAIN BRUSCATO
+    Count: 905
+    Counties: 2
+17TH CIRCUIT - RETAIN LOWRY
+    Count: 905
+    Counties: 2
+17TH CIRCUIT - RETAIN MAHER
+    Count: 905
+    Counties: 2
+18TH CIRCUIT - 1ST SUBCIRCUIT - BRENNAN VACANCY
+    Count: 404
+    Counties: 1
+18TH CIRCUIT - 2ND SUBCIRCUIT - DAVENPORT VACANCY
+    Count: 348
+    Counties: 1
+18TH CIRCUIT - 3RD SUBCIRCUIT - KINSELLA VACANCY
+    Count: 532
+    Counties: 1
+19TH CIRCUIT - RETAIN BISHOP
+    Count: 1724
+    Counties: 1
+19TH CIRCUIT - RETAIN SALVI
+    Count: 1724
+    Counties: 1
+19TH CIRCUIT - RETAIN SHANES
+    Count: 1724
+    Counties: 1
+19TH CIRCUIT - RETAIN SMITH
+    Count: 1724
+    Counties: 1
+19TH CIRCUIT - RETAIN SOWINSKI FIX
+    Count: 1724
+    Counties: 1
+19TH CIRCUIT - RETAIN STRIDE
+    Count: 1724
+    Counties: 1
+1ST APPELLATE - CONNORS VACANCY
+    Count: 8163
+    Counties: 1
+1ST APPELLATE - CUNNINGHAM VACANCY
+    Count: 8163
+    Counties: 1
+1ST APPELLATE - DELORT VACANCY
+    Count: 8163
+    Counties: 1
+1ST APPELLATE - O'NEILL BURKE VACANCY
+    Count: 8163
+    Counties: 1
+1ST APPELLATE - RETAIN ELLIS
+    Count: 10884
+    Counties: 1
+1ST APPELLATE - RETAIN HOFFMAN
+    Count: 10884
+    Counties: 1
+1ST CIRCUIT - LEBERMAN VACANCY
+    Count: 24
+    Counties: 1
+1ST CIRCUIT - RETAIN GILL
+    Count: 982
+    Counties: 9
+1ST CIRCUIT - RETAIN GOTT
+    Count: 982
+    Counties: 9
+1ST CIRCUIT - RETAIN GREEN
+    Count: 982
+    Counties: 9
+1ST CIRCUIT - RETAIN SANDERS
+    Count: 982
+    Counties: 9
+1ST CIRCUIT - RETAIN SOLVERSON
+    Count: 982
+    Counties: 9
+1ST CIRCUIT - RETAIN WITTIG
+    Count: 982
+    Counties: 9
+20TH CIRCUIT - RETAIN CRUSE
+    Count: 648
+    Counties: 1
+20TH CIRCUIT - RETAIN GLEESON
+    Count: 648
+    Counties: 1
+20TH CIRCUIT - RETAIN KOLKER
+    Count: 648
+    Counties: 1
+20TH CIRCUIT - RETAIN O'GARA
+    Count: 648
+    Counties: 1
+20TH CIRCUIT - RETAIN RUDOLF
+    Count: 648
+    Counties: 1
+21ST CIRCUIT - ALBRECHT VACANCY
+    Count: 236
+    Counties: 1
+21ST CIRCUIT - RETAIN CUNNINGTON
+    Count: 451
+    Counties: 2
+22ND CIRCUIT - COWLIN VACANCY
+    Count: 669
+    Counties: 1
+22ND CIRCUIT - RETAIN CHMIEL
+    Count: 892
+    Counties: 1
+22ND CIRCUIT - RETAIN DAVIS
+    Count: 892
+    Counties: 1
+22ND CIRCUIT - WILBRANDT VACANCY
+    Count: 669
+    Counties: 1
+23RD CIRCUIT - BARNHART VACANCY
+    Count: 234
+    Counties: 1
+24TH CIRCUIT - RETAIN EMGE
+    Count: 448
+    Counties: 4
+2ND APPELLATE - RETAIN HUTCHINSON
+    Count: 4708
+    Counties: 5
+2ND CIRCUIT - RETAIN C. WEBER
+    Count: 950
+    Counties: 12
+2ND CIRCUIT - RETAIN DIRNBECK
+    Count: 950
+    Counties: 12
+2ND CIRCUIT - RETAIN J. WEBER
+    Count: 949
+    Counties: 12
+2ND CIRCUIT - RETAIN MORGAN
+    Count: 950
+    Counties: 12
+2ND CIRCUIT - RETAIN WEBB
+    Count: 950
+    Counties: 12
+2ND CIRCUIT - TEDESCHI VACANCY
+    Count: 105
+    Counties: 1
+3RD APPELLATE - LYTTON VACANCY
+    Count: 6604
+    Counties: 7
+3RD APPELLATE - O'BRIEN VACANCY
+    Count: 6604
+    Counties: 7
+3RD APPELLATE - RETAIN HOLDRIDGE
+    Count: 6630
+    Counties: 21
+3RD APPELLATE - SCHMIDT VACANCY
+    Count: 6604
+    Counties: 7
+3RD CIRCUIT - RETAIN BAUER
+    Count: 864
+    Counties: 2
+3RD CIRCUIT - RETAIN NAPP
+    Count: 864
+    Counties: 2
+3RD CIRCUIT - RETAIN SMITH
+    Count: 864
+    Counties: 2
+4TH APPELLATE - HOLDER WHITE VACANCY
+    Count: 6425
+    Counties: 41
+4TH APPELLATE - RETAIN STEIGMANN
+    Count: 5213
+    Counties: 30
+4TH APPELLATE - TURNER VACANCY
+    Count: 6425
+    Counties: 41
+4TH CIRCUIT - MCHANEY VACANCY
+    Count: 928
+    Counties: 9
+4TH CIRCUIT - RETAIN ADE-HARLOW
+    Count: 1198
+    Counties: 9
+4TH CIRCUIT - ROBERTS VACANCY
+    Count: 190
+    Counties: 1
+5TH CIRCUIT - FAHEY VACANCY
+    Count: 218
+    Counties: 1
+5TH CIRCUIT - RETAIN BOVARD
+    Count: 828
+    Counties: 5
+5TH CIRCUIT - RETAIN DEARMOND
+    Count: 828
+    Counties: 5
+5TH CIRCUIT - RETAIN HALL
+    Count: 828
+    Counties: 5
+5TH CIRCUIT - RETAIN O'BRIEN
+    Count: 828
+    Counties: 5
+6TH CIRCUIT - BROCH, JR. VACANCY
+    Count: 68
+    Counties: 1
+6TH CIRCUIT - RETAIN GRIFFITH
+    Count: 1152
+    Counties: 6
+6TH CIRCUIT - RETAIN RICHEY
+    Count: 1136
+    Counties: 6
+6TH CIRCUIT - RETAIN ROSENBAUM
+    Count: 1152
+    Counties: 6
+6TH CIRCUIT - RETAIN WEBBER
+    Count: 1136
+    Counties: 6
+7TH CIRCUIT - RETAIN CHERRY
+    Count: 1253
+    Counties: 6
+7TH CIRCUIT - THIRD SUBCIRCUIT - DEIHL VACANCY
+    Count: 180
+    Counties: 1
+8TH CIRCUIT - RETAIN HOOKER
+    Count: 783
+    Counties: 8
+8TH CIRCUIT - RETAIN MCCARTNEY
+    Count: 783
+    Counties: 8
+8TH CIRCUIT - RETAIN WESSEL
+    Count: 783
+    Counties: 8
+9TH CIRCUIT - PONCIN VACANCY
+    Count: 135
+    Counties: 1
+9TH CIRCUIT - RETAIN BEAL
+    Count: 846
+    Counties: 6
+9TH CIRCUIT - RETAIN CLARK
+    Count: 846
+    Counties: 6
+9TH CIRCUIT - RETAIN STANDARD
+    Count: 846
+    Counties: 6
+COOK - 10TH SUBCIRCUIT- MCWILLIAMS VACANCY
+    Count: 492
+    Counties: 1
+COOK - 10TH SUBCIRCUIT- WOJKOWSKI VACANCY
+    Count: 492
+    Counties: 1
+COOK - 11TH SUBCIRCUIT- COLLINS VACANCY
+    Count: 444
+    Counties: 1
+COOK - 11TH SUBCIRCUIT- DALEO VACANCY
+    Count: 444
+    Counties: 1
+COOK - 12TH SUBCIRCUIT- DICKLER VACANCY
+    Count: 600
+    Counties: 1
+COOK - 12TH SUBCIRCUIT- QUINN VACANCY
+    Count: 600
+    Counties: 1
+COOK - 12TH SUBCIRCUIT- SCHLEIFER VACANCY
+    Count: 600
+    Counties: 1
+COOK - 13TH SUBCIRCUIT- BETAR, III VACANCY
+    Count: 396
+    Counties: 1
+COOK - 13TH SUBCIRCUIT- STEFFEN VACANCY
+    Count: 396
+    Counties: 1
+COOK - 14TH SUBCIRCUIT- O'HARA VACANCY
+    Count: 399
+    Counties: 1
+COOK - 14TH SUBCIRCUIT- PIERCE VACANCY
+    Count: 399
+    Counties: 1
+COOK - 15TH SUBCIRCUIT- DEMACOPOULOUS VACANCY
+    Count: 509
+    Counties: 1
+COOK - 15TH SUBCIRCUIT- TOOMIN VACANCY
+    Count: 509
+    Counties: 1
+COOK - 16TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF LAWRENCE E. FLOOD
+    Count: 333
+    Counties: 1
+COOK - 16TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF MAXWELL GRIFFIN, JR.
+    Count: 333
+    Counties: 1
+COOK - 17TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF BRIAN K. FLAHERTY
+    Count: 510
+    Counties: 1
+COOK - 17TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF CARMEN K. AGUILAR
+    Count: 510
+    Counties: 1
+COOK - 18TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF JAMES B. LINN
+    Count: 576
+    Counties: 1
+COOK - 18TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF LAUREN GOTTAINER EDIDIN
+    Count: 432
+    Counties: 1
+COOK - 19TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF ROBERT E. SENECHALLE, JR.
+    Count: 477
+    Counties: 1
+COOK - 20TH SUBCIRCUIT - CONVERTED FROM ASSOCIATE JUDGESHIP OF ELIZABETH M. BUDZINSKI
+    Count: 405
+    Counties: 1
+COOK - 3RD SUBCIRCUIT - BROSNAHAN VACANCY
+    Count: 444
+    Counties: 1
+COOK - 3RD SUBCIRCUIT - HARMENING VACANCY
+    Count: 444
+    Counties: 1
+COOK - 4TH SUBCIRCUIT - FELICE VACANCY
+    Count: 492
+    Counties: 1
+COOK - 4TH SUBCIRCUIT - KING VACANCY
+    Count: 492
+    Counties: 1
+COOK - 4TH SUBCIRCUIT - MALONEY VACANCY
+    Count: 492
+    Counties: 1
+COOK - 5TH SUBCIRCUIT - LEWIS VACANCY
+    Count: 450
+    Counties: 1
+COOK - 7TH SUBCIRCUIT - SOLGANICK VACANCY
+    Count: 414
+    Counties: 1
+COOK - 8TH SUBCIRCUIT - COLLINS-DOLE VACANCY
+    Count: 405
+    Counties: 1
+COOK CIRCUIT - FLANNERY, JR. VACANCY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - GAUGHAN VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - HABERKORN VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - HUBBARD VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - MARAS VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - MITCHELL VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - MURPHY VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - PROPES VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - RAINES VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - RETAIN AGRAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BARRETT
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BARTKOWICZ
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BLAKELY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BOYD
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BRENNAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BREWER
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN BROSNAHAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN CHUPACK
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN CIACCIA-LEZZA
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN CLANCY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN COLEMAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN CUNNINGHAM
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN DALY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN DAVIS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN DEGNAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN DELGADO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN EHRLICH
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN FLANAGAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN FLANNIGAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN FRAUSTO-SANDOVAL
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN GALLAGHER
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN GAMBONEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN GONZALEZ
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN GRAY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HAGERTY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HARRIS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HARVEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HAYES
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HORAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HOWARD
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN HUGE
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN JONES, JR.
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN K. O'MALLEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN KELLEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN LANAHAN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN LEWIS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN LUBIN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MACCARTHY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MARINO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MARISIE
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MARSALEK
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MCGUIRE
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MCHALE
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MCKENNA
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MULLEN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN MURPHY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN NAVARRO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN OCASIO III
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN ORR
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN PAVLUS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN PEREZ
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN PERKINS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN QUISH
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN RAMIREZ
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN REDDICK
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN ROBERTS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN ROSADO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN S. O'MALLEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SALTOUROS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SANTIAGO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SCANNICCHIO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SEATON
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SHAPIRO
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SIANIS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SILVA
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN SLATTERY BOYLE
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN VAHEY
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN VARGA
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN WALKER
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN WEBBER
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN WILLIS
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN WRENN
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - RETAIN WRIGHT, JR.
+    Count: 10884
+    Counties: 1
+COOK CIRCUIT - SULLIVAN VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT - WALKER VACANCY
+    Count: 8163
+    Counties: 1
+COOK CIRCUIT- RETAIN JEAN-BAPTISTE
+    Count: 10884
+    Counties: 1

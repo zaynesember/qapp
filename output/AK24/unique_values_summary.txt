@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 523
+office: 10
+party_detailed: 12
+party_simplified: 6
+mode: 5
+votes: 1490
+county_name: 31
+county_fips: 31
+jurisdiction_name: 41
+jurisdiction_fips: 41
+candidate: 196
+district: 54
+dataverse: 4
+year: 1
+stage: 1
+state: 1
+special: 1
+writein: 1
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 1
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: AK
+    Jurisdictions: 41
+    Counties: 31
+    Precincts: 523
+

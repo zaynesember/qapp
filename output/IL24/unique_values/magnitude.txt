@@ -1,0 +1,8 @@
+UNIQUE VALUES — magnitude
+============================================================
+1
+    Count: 1384012
+    Counties: 102
+5
+    Count: 56
+    Counties: 2

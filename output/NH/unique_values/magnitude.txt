@@ -1,0 +1,29 @@
+UNIQUE VALUES — magnitude
+============================================================
+1
+    Count: 20025
+    Counties: 10
+10
+    Count: 18
+    Counties: 1
+2
+    Count: 886
+    Counties: 10
+3
+    Count: 665
+    Counties: 8
+4
+    Count: 339
+    Counties: 6
+6
+    Count: 13
+    Counties: 1
+7
+    Count: 33
+    Counties: 2
+8
+    Count: 18
+    Counties: 1
+9
+    Count: 19
+    Counties: 1

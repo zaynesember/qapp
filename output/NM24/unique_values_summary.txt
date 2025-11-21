@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 1034
+office: 90
+party_detailed: 7
+party_simplified: 4
+mode: 1
+votes: 749
+county_name: 33
+county_fips: 33
+jurisdiction_name: 33
+jurisdiction_fips: 33
+candidate: 257
+district: 26
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 1
+writein: 2
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 2
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: NM
+    Jurisdictions: 33
+    Counties: 33
+    Precincts: 1034
+

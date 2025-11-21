@@ -1,0 +1,17 @@
+UNIQUE VALUES — dataverse
+============================================================
+<EMPTY>
+    Count: 8581
+    Counties: 5
+HOUSE
+    Count: 90141
+    Counties: 20
+LOCAL
+    Count: 294835
+    Counties: 20
+PRESIDENT
+    Count: 139268
+    Counties: 21
+SENATE
+    Count: 108875
+    Counties: 21

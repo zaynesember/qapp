@@ -1,0 +1,14 @@
+UNIQUE VALUES — mode
+============================================================
+EARLY VOTING
+    Count: 20921
+    Counties: 6
+ELECTION DAY
+    Count: 20921
+    Counties: 6
+MAIL
+    Count: 20921
+    Counties: 6
+TOTAL
+    Count: 20921
+    Counties: 6

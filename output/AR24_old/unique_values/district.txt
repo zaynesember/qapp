@@ -1,0 +1,386 @@
+UNIQUE VALUES — district
+============================================================
+<EMPTY>
+    Count: 134854
+    Counties: 75
+000
+    Count: 52
+    Counties: 1
+001
+    Count: 7583
+    Counties: 43
+002
+    Count: 3083
+    Counties: 22
+003
+    Count: 8786
+    Counties: 26
+004
+    Count: 6473
+    Counties: 42
+005
+    Count: 930
+    Counties: 25
+006
+    Count: 3346
+    Counties: 15
+007
+    Count: 865
+    Counties: 15
+008
+    Count: 1356
+    Counties: 18
+009
+    Count: 383
+    Counties: 8
+010
+    Count: 664
+    Counties: 11
+011
+    Count: 686
+    Counties: 8
+012
+    Count: 524
+    Counties: 4
+013
+    Count: 246
+    Counties: 2
+014
+    Count: 690
+    Counties: 2
+015
+    Count: 336
+    Counties: 2
+016
+    Count: 180
+    Counties: 1
+017
+    Count: 419
+    Counties: 3
+018
+    Count: 582
+    Counties: 5
+019
+    Count: 285
+    Counties: 4
+020
+    Count: 324
+    Counties: 2
+021
+    Count: 45
+    Counties: 1
+022
+    Count: 744
+    Counties: 7
+023
+    Count: 395
+    Counties: 6
+024
+    Count: 110
+    Counties: 2
+025
+    Count: 744
+    Counties: 6
+026
+    Count: 579
+    Counties: 6
+027
+    Count: 249
+    Counties: 5
+028
+    Count: 156
+    Counties: 4
+029
+    Count: 256
+    Counties: 4
+030
+    Count: 138
+    Counties: 3
+031
+    Count: 27
+    Counties: 1
+032
+    Count: 180
+    Counties: 1
+033
+    Count: 501
+    Counties: 3
+034
+    Count: 630
+    Counties: 2
+035
+    Count: 90
+    Counties: 3
+036
+    Count: 78
+    Counties: 2
+037
+    Count: 174
+    Counties: 3
+038
+    Count: 345
+    Counties: 5
+039
+    Count: 171
+    Counties: 3
+040
+    Count: 105
+    Counties: 3
+041
+    Count: 252
+    Counties: 2
+042
+    Count: 138
+    Counties: 3
+043
+    Count: 126
+    Counties: 2
+044
+    Count: 102
+    Counties: 2
+045
+    Count: 102
+    Counties: 2
+046
+    Count: 177
+    Counties: 4
+047
+    Count: 315
+    Counties: 1
+048
+    Count: 37
+    Counties: 2
+049
+    Count: 45
+    Counties: 1
+050
+    Count: 144
+    Counties: 1
+051
+    Count: 276
+    Counties: 1
+052
+    Count: 213
+    Counties: 3
+053
+    Count: 114
+    Counties: 1
+054
+    Count: 234
+    Counties: 5
+055
+    Count: 72
+    Counties: 1
+056
+    Count: 84
+    Counties: 1
+057
+    Count: 198
+    Counties: 3
+058
+    Count: 156
+    Counties: 1
+059
+    Count: 78
+    Counties: 2
+060
+    Count: 168
+    Counties: 2
+061
+    Count: 474
+    Counties: 5
+062
+    Count: 264
+    Counties: 6
+063
+    Count: 108
+    Counties: 2
+064
+    Count: 225
+    Counties: 3
+065
+    Count: 255
+    Counties: 2
+066
+    Count: 88
+    Counties: 1
+067
+    Count: 88
+    Counties: 1
+068
+    Count: 54
+    Counties: 1
+069
+    Count: 108
+    Counties: 2
+070
+    Count: 112
+    Counties: 1
+071
+    Count: 96
+    Counties: 1
+072
+    Count: 40
+    Counties: 1
+073
+    Count: 60
+    Counties: 1
+074
+    Count: 48
+    Counties: 1
+075
+    Count: 96
+    Counties: 1
+076
+    Count: 52
+    Counties: 1
+077
+    Count: 44
+    Counties: 1
+078
+    Count: 144
+    Counties: 2
+079
+    Count: 32
+    Counties: 1
+080
+    Count: 60
+    Counties: 1
+081
+    Count: 84
+    Counties: 1
+082
+    Count: 78
+    Counties: 1
+083
+    Count: 90
+    Counties: 1
+084
+    Count: 144
+    Counties: 1
+085
+    Count: 136
+    Counties: 1
+086
+    Count: 216
+    Counties: 3
+087
+    Count: 192
+    Counties: 3
+088
+    Count: 218
+    Counties: 3
+089
+    Count: 133
+    Counties: 5
+090
+    Count: 77
+    Counties: 3
+091
+    Count: 60
+    Counties: 1
+092
+    Count: 138
+    Counties: 2
+093
+    Count: 195
+    Counties: 4
+094
+    Count: 204
+    Counties: 3
+095
+    Count: 111
+    Counties: 2
+096
+    Count: 282
+    Counties: 6
+097
+    Count: 120
+    Counties: 1
+098
+    Count: 102
+    Counties: 4
+099
+    Count: 81
+    Counties: 3
+DISTRICT 9 DIVISION 2
+    Count: 432
+    Counties: 2
+NORTH WARD POSITION 1
+    Count: 12
+    Counties: 1
+PLACE 1 WARD 2
+    Count: 8
+    Counties: 1
+POSITION 1
+    Count: 18164
+    Counties: 75
+POSITION 2
+    Count: 30
+    Counties: 5
+POSITION 3
+    Count: 242
+    Counties: 9
+POSITION 4
+    Count: 12
+    Counties: 2
+POSITION 5
+    Count: 6
+    Counties: 1
+WARD 1
+    Count: 108
+    Counties: 4
+WARD 1 POSIITON 1
+    Count: 18
+    Counties: 1
+WARD 1 POSITION 1
+    Count: 958
+    Counties: 27
+WARD 1 POSITION 2
+    Count: 1281
+    Counties: 33
+WARD 2
+    Count: 144
+    Counties: 4
+WARD 2 POSIITON 1
+    Count: 12
+    Counties: 1
+WARD 2 POSITION 1
+    Count: 1172
+    Counties: 28
+WARD 2 POSITION 2
+    Count: 1279
+    Counties: 36
+WARD 3
+    Count: 144
+    Counties: 4
+WARD 3 POSIITON 1
+    Count: 12
+    Counties: 1
+WARD 3 POSITION 1
+    Count: 795
+    Counties: 19
+WARD 3 POSITION 2
+    Count: 1658
+    Counties: 21
+WARD 3 POSITION 3
+    Count: 162
+    Counties: 1
+WARD 4
+    Count: 24
+    Counties: 1
+WARD 4 POSITION 1
+    Count: 334
+    Counties: 9
+WARD 4 POSITION 2
+    Count: 1069
+    Counties: 9
+WARD 5 POSIITON 2
+    Count: 12
+    Counties: 1
+WARD 5 POSITION 1
+    Count: 6
+    Counties: 1
+WARD 5 POSITION 2
+    Count: 110
+    Counties: 2

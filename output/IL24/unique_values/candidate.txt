@@ -1,0 +1,2327 @@
+UNIQUE VALUES — candidate
+============================================================
+AARON M ORTIZ
+    Count: 53
+    Counties: 1
+AARON PORTER
+    Count: 106
+    Counties: 1
+ABDELNASSER RASHID
+    Count: 69
+    Counties: 1
+ADAM M BEATY
+    Count: 75
+    Counties: 2
+ADAM M NIEMERG
+    Count: 152
+    Counties: 11
+ADRIENNE ELAINE DAVIS - NO
+    Count: 2721
+    Counties: 1
+ADRIENNE ELAINE DAVIS - YES
+    Count: 2721
+    Counties: 1
+AICHA MARIE MACCARTHY - NO
+    Count: 2721
+    Counties: 1
+AICHA MARIE MACCARTHY - YES
+    Count: 2721
+    Counties: 1
+AL RASHO
+    Count: 53
+    Counties: 1
+ALICIA MARTINEZ
+    Count: 3
+    Counties: 2
+ALON STEIN
+    Count: 150
+    Counties: 1
+AMANDA BYASSEE GOTT - NO
+    Count: 237
+    Counties: 9
+AMANDA BYASSEE GOTT - YES
+    Count: 237
+    Counties: 9
+AMANDA S ADE-HARLOW - NO
+    Count: 270
+    Counties: 9
+AMANDA S ADE-HARLOW - YES
+    Count: 270
+    Counties: 9
+AMAR PATEL
+    Count: 1
+    Counties: 1
+AMY "MURRI" BRIEL
+    Count: 101
+    Counties: 3
+AMY ELIK
+    Count: 87
+    Counties: 1
+AMY L GRANT
+    Count: 133
+    Counties: 1
+AMY LANNERD
+    Count: 1946
+    Counties: 41
+ANDIE RAMON MCNEILSR
+    Count: 1
+    Counties: 1
+ANDRE MCNEIL
+    Count: 1
+    Counties: 1
+ANDRE MCNEIL JR
+    Count: 1
+    Counties: 1
+ANDRE RAMON MCNEIL
+    Count: 2
+    Counties: 2
+ANDRE RAMON MCNEIL SR
+    Count: 71
+    Counties: 68
+ANDRE RAMON MCNEIL ST
+    Count: 1
+    Counties: 1
+ANDRE ROMAN MCNEIL SR
+    Count: 2
+    Counties: 2
+ANDREA MICHELLE WEBBER - NO
+    Count: 2721
+    Counties: 1
+ANDREA MICHELLE WEBBER - YES
+    Count: 2721
+    Counties: 1
+ANDREW J GLEESON - NO
+    Count: 162
+    Counties: 1
+ANDREW J GLEESON - YES
+    Count: 162
+    Counties: 1
+ANGEL OAKLEY
+    Count: 3
+    Counties: 2
+ANGIE GUERRERO-CUELLAR
+    Count: 76
+    Counties: 1
+ANN M WILLIAMS
+    Count: 51
+    Counties: 1
+ANNA MOELLER
+    Count: 56
+    Counties: 2
+ANNA SCHIEFELBEIN
+    Count: 7
+    Counties: 7
+ANNE STAVA-MURRAY
+    Count: 106
+    Counties: 1
+ANTHONY AIRDO
+    Count: 58
+    Counties: 2
+ANTHONY CURRAN
+    Count: 52
+    Counties: 1
+ANTHONY DELUCA
+    Count: 75
+    Counties: 2
+ARDIE RAMON MCNEIL SR
+    Count: 1
+    Counties: 1
+ARLENE Y COLEMAN-ROMEO
+    Count: 2721
+    Counties: 1
+ART SMIGIELSKI
+    Count: 447
+    Counties: 1
+ARTHUR WESLEY WILLIS - NO
+    Count: 2721
+    Counties: 1
+ARTHUR WESLEY WILLIS - YES
+    Count: 2721
+    Counties: 1
+ASHLEY JENSEN
+    Count: 137
+    Counties: 1
+ASHLEY RAMOS
+    Count: 615
+    Counties: 8
+AUDRE RAMON MCNEIL SR
+    Count: 1
+    Counties: 1
+AUDREY BARRETT
+    Count: 61
+    Counties: 1
+AUDREY VICTORIA COSGROVE
+    Count: 148
+    Counties: 1
+BARBARA HERNANDEZ
+    Count: 59
+    Counties: 2
+BEATRIZ A FRAUSTO-SANDOVAL - NO
+    Count: 2721
+    Counties: 1
+BEATRIZ A FRAUSTO-SANDOVAL - YES
+    Count: 2721
+    Counties: 1
+BEATRIZ SANTIAGO - NO
+    Count: 2721
+    Counties: 1
+BEATRIZ SANTIAGO - YES
+    Count: 2721
+    Counties: 1
+BILL FOSTER
+    Count: 604
+    Counties: 8
+BLAINE WILHOUR
+    Count: 129
+    Counties: 8
+BLANK BALLOTS
+    Count: 13792
+    Counties: 37
+BOB MORGAN
+    Count: 73
+    Counties: 2
+BRAD HALBROOK
+    Count: 119
+    Counties: 7
+BRAD SCHNEIDER
+    Count: 458
+    Counties: 3
+BRAD STEPHENS
+    Count: 67
+    Counties: 1
+BRADLEY J FRITTS
+    Count: 132
+    Counties: 5
+BRANDUN SCHWEIZER
+    Count: 89
+    Counties: 2
+BRENDAN MAHER - NO
+    Count: 217
+    Counties: 2
+BRENDAN MAHER - YES
+    Count: 217
+    Counties: 2
+BRIAN LARRY KIENITZ
+    Count: 8
+    Counties: 8
+BRIAN ROBERTS
+    Count: 1043
+    Counties: 34
+BRIDGET COLLEEN DUIGNAN
+    Count: 159
+    Counties: 1
+BRIEN J OBRIEN - NO
+    Count: 173
+    Counties: 5
+BRIEN J OBRIEN - YES
+    Count: 173
+    Counties: 5
+BRUCE C BEAL - NO
+    Count: 214
+    Counties: 6
+BRUCE C BEAL - YES
+    Count: 214
+    Counties: 6
+BRYANT "BUTCH" HITCHINGS
+    Count: 38
+    Counties: 1
+CAMILLE LILLY
+    Count: 70
+    Counties: 1
+CAREY C GILL - NO
+    Count: 237
+    Counties: 9
+CAREY C GILL - YES
+    Count: 237
+    Counties: 9
+CARL ANTHONY WALKER
+    Count: 2721
+    Counties: 1
+CARL ANTHONY WALKER - NO
+    Count: 2721
+    Counties: 1
+CARL ANTHONY WALKER - YES
+    Count: 2721
+    Counties: 1
+CARL B BOYD - NO
+    Count: 2721
+    Counties: 1
+CARL B BOYD - YES
+    Count: 2721
+    Counties: 1
+CARL LAMBRECHT
+    Count: 73
+    Counties: 2
+CARL R KUNZ
+    Count: 66
+    Counties: 1
+CAROL AMMONS
+    Count: 60
+    Counties: 1
+CAROL M HOWARD - NO
+    Count: 2721
+    Counties: 1
+CAROL M HOWARD - YES
+    Count: 2721
+    Counties: 1
+CAROLINE BORDEN CAMPION
+    Count: 9
+    Counties: 1
+CAROLINE GLENNON-GOODMAN
+    Count: 164
+    Counties: 1
+CECILIA ABUNDIS
+    Count: 111
+    Counties: 1
+CECILIA ANNE HORAN - NO
+    Count: 2721
+    Counties: 1
+CECILIA ANNE HORAN - YES
+    Count: 2721
+    Counties: 1
+CELIA LOUISE GAMRATH
+    Count: 2721
+    Counties: 1
+CHAD KOPPIE
+    Count: 394
+    Counties: 1
+CHANTELLE PORTER
+    Count: 101
+    Counties: 1
+CHARLES "CHARLIE" HALL - NO
+    Count: 173
+    Counties: 5
+CHARLES "CHARLIE" HALL - YES
+    Count: 173
+    Counties: 5
+CHARLES "CHUCK" SMITH - NO
+    Count: 431
+    Counties: 1
+CHARLES "CHUCK" SMITH - YES
+    Count: 431
+    Counties: 1
+CHARLES HUTCHINSON
+    Count: 73
+    Counties: 1
+CHARLIE HELMICK
+    Count: 93
+    Counties: 1
+CHARLIE MEIER
+    Count: 105
+    Counties: 5
+CHASE OLIVER
+    Count: 57
+    Counties: 54
+CHASE OLIVER & MIKE TER MAAT
+    Count: 1
+    Counties: 1
+CHASE OLIVER / MIKE TER MAAT
+    Count: 3
+    Counties: 3
+CHASE OLIVER MIKE TER MAAT
+    Count: 1
+    Counties: 1
+CHASE OLIVER/ MIKE TER MAAT
+    Count: 1
+    Counties: 1
+CHASE OLIVER/MIKE DER MAAT
+    Count: 1
+    Counties: 1
+CHASE OLIVER/MIKE TER MAAT
+    Count: 14
+    Counties: 14
+CHASE OLIVER/MIKE TER MATT
+    Count: 2
+    Counties: 2
+CHERANDA FOX
+    Count: 1
+    Counties: 1
+CHERONDA FOX
+    Count: 1
+    Counties: 1
+CHERUNDA FOX
+    Count: 76
+    Counties: 71
+CHERUNDRA FOX
+    Count: 1
+    Counties: 1
+CHIBUIHE "CHIBU" ASONYE
+    Count: 6
+    Counties: 6
+CHLOE GEORGIANNA PEDERSEN
+    Count: 2721
+    Counties: 1
+CHRIS BALKEMA
+    Count: 258
+    Counties: 13
+CHRIS BAUER - NO
+    Count: 211
+    Counties: 2
+CHRIS BAUER - YES
+    Count: 211
+    Counties: 2
+CHRIS G MILLER
+    Count: 105
+    Counties: 6
+CHRIS HENNING
+    Count: 61
+    Counties: 2
+CHRIS KOLKER - NO
+    Count: 162
+    Counties: 1
+CHRIS KOLKER - YES
+    Count: 162
+    Counties: 1
+CHRIS METCALFE
+    Count: 62
+    Counties: 2
+CHRISTEN L BISHOP - NO
+    Count: 431
+    Counties: 1
+CHRISTEN L BISHOP - YES
+    Count: 431
+    Counties: 1
+CHRISTINE SHANAHAN MCGOVERN
+    Count: 71
+    Counties: 1
+CHRISTOPHER "CD" DAVIDSMEYER
+    Count: 154
+    Counties: 10
+CHRISTOPHER B HANTLA
+    Count: 38
+    Counties: 1
+CHRISTOPHER L WEBER - NO
+    Count: 238
+    Counties: 12
+CHRISTOPHER L WEBER - YES
+    Count: 238
+    Counties: 12
+CHRISTOPHER R STRIDE - NO
+    Count: 431
+    Counties: 1
+CHRISTOPHER R STRIDE - YES
+    Count: 431
+    Counties: 1
+CHRISTY W SOLVERSON - NO
+    Count: 237
+    Counties: 9
+CHRISTY W SOLVERSON - YES
+    Count: 237
+    Counties: 9
+CLARE JOYCE QUISH - NO
+    Count: 2721
+    Counties: 1
+CLARE JOYCE QUISH - YES
+    Count: 2721
+    Counties: 1
+CLAUDIA DE LA CRUZ
+    Count: 33
+    Counties: 30
+CLAUDIA DELA CRUZ
+    Count: 1
+    Counties: 1
+CLAUDIA DELA CRUZE
+    Count: 1
+    Counties: 1
+CLAUDIA DELACRUZ
+    Count: 2
+    Counties: 2
+CLAUDIA DFE LA CRUZ
+    Count: 1
+    Counties: 1
+CLAUDIO DELA CRUZ
+    Count: 1
+    Counties: 1
+COLETTE SAFFORD
+    Count: 447
+    Counties: 1
+COLLEEN REARDON DALY - NO
+    Count: 2721
+    Counties: 1
+COLLEEN REARDON DALY - YES
+    Count: 2721
+    Counties: 1
+COLONEL WEST
+    Count: 1
+    Counties: 1
+COMEL WEST
+    Count: 1
+    Counties: 1
+CONSTANT CONNOR VLAKANCIC
+    Count: 6
+    Counties: 6
+CORD ZACHARY WITTIG - NO
+    Count: 237
+    Counties: 9
+CORD ZACHARY WITTIG - YES
+    Count: 237
+    Counties: 9
+CORINNE C HEGGIE
+    Count: 2721
+    Counties: 1
+CORNEL WEST
+    Count: 48
+    Counties: 46
+CORNEL WEST / MELINA ABDULLAH
+    Count: 3
+    Counties: 3
+CORNEL WEST / MELINDA ABDULLAH
+    Count: 1
+    Counties: 1
+CORNEL WEST / MILINA ABDULLAH
+    Count: 1
+    Counties: 1
+CORNEL WEST AND MELINA ABDULLAH
+    Count: 1
+    Counties: 1
+CORNEL WEST MELINA ABDULLAH
+    Count: 1
+    Counties: 1
+CORNEL WEST/MELINA ABDULLAH
+    Count: 25
+    Counties: 25
+CORNEL WEST/RUDOLPH WARE
+    Count: 1
+    Counties: 1
+CORNELL WEST
+    Count: 2
+    Counties: 2
+CRAIG DEARMOND - NO
+    Count: 173
+    Counties: 5
+CRAIG DEARMOND - YES
+    Count: 173
+    Counties: 5
+CRISTINA CASTRO
+    Count: 108
+    Counties: 2
+CRYSTAL VILLARREAL SOLTOW
+    Count: 139
+    Counties: 2
+CURTIS J TARVER II
+    Count: 61
+    Counties: 1
+CYNTHIA M RACCUGLIA - NO
+    Count: 219
+    Counties: 3
+CYNTHIA M RACCUGLIA - YES
+    Count: 219
+    Counties: 3
+CYNTHIA RAMIREZ - NO
+    Count: 2721
+    Counties: 1
+CYNTHIA RAMIREZ - YES
+    Count: 2721
+    Counties: 1
+CYNTHIA Y COBBS
+    Count: 2721
+    Counties: 1
+DAGMARA "DEE" AVELAR
+    Count: 62
+    Counties: 2
+DAN SWANSON
+    Count: 110
+    Counties: 6
+DAN UGASTE
+    Count: 98
+    Counties: 2
+DANIEL B SHANES - NO
+    Count: 431
+    Counties: 1
+DANIEL B SHANES - YES
+    Count: 431
+    Counties: 1
+DANIEL BEHR
+    Count: 68
+    Counties: 2
+DANIEL DIDECH
+    Count: 61
+    Counties: 2
+DANIEL J EMGE - NO
+    Count: 112
+    Counties: 4
+DANIEL J EMGE - YES
+    Count: 112
+    Counties: 4
+DANIEL P DALTON
+    Count: 24
+    Counties: 1
+DANIEL PATRICK BRENNAN - NO
+    Count: 2721
+    Counties: 1
+DANIEL PATRICK BRENNAN - YES
+    Count: 2721
+    Counties: 1
+DANIEL R DEGNAN - NO
+    Count: 2721
+    Counties: 1
+DANIEL R DEGNAN - YES
+    Count: 2721
+    Counties: 1
+DANNY K DAVIS
+    Count: 394
+    Counties: 1
+DARIN LAHOOD
+    Count: 836
+    Counties: 21
+DAVE KOEHLER
+    Count: 205
+    Counties: 4
+DAVE SEVERIN
+    Count: 135
+    Counties: 9
+DAVE VELLA
+    Count: 83
+    Counties: 2
+DAVID FRIESS
+    Count: 123
+    Counties: 6
+DAVID GARCIA - NO
+    Count: 447
+    Counties: 1
+DAVID GARCIA - YES
+    Count: 447
+    Counties: 1
+DAVID GILL
+    Count: 105
+    Counties: 8
+DAVID J NASH
+    Count: 1
+    Counties: 1
+DAVID KLIMENT
+    Count: 98
+    Counties: 1
+DAVID R CHERRY - NO
+    Count: 302
+    Counties: 6
+DAVID R CHERRY - YES
+    Count: 302
+    Counties: 6
+DAVID R NAVARRO - NO
+    Count: 2721
+    Counties: 1
+DAVID R NAVARRO - YES
+    Count: 2721
+    Counties: 1
+DAVID SIMPSON
+    Count: 132
+    Counties: 5
+DAVID W ELLIS - NO
+    Count: 2721
+    Counties: 1
+DAVID W ELLIS - YES
+    Count: 2721
+    Counties: 1
+DAVID WALSTER
+    Count: 8
+    Counties: 2
+DAWN GONZALEZ
+    Count: 148
+    Counties: 1
+DEBBIE MEYERS-MARTIN
+    Count: 76
+    Counties: 2
+DEBJANI DEB DESAI
+    Count: 2721
+    Counties: 1
+DEBRA A SEATON - NO
+    Count: 2721
+    Counties: 1
+DEBRA A SEATON - YES
+    Count: 2721
+    Counties: 1
+DEIDRE M DYER
+    Count: 2721
+    Counties: 1
+DELIA RAMIREZ
+    Count: 425
+    Counties: 2
+DENNIS E FOUTCH
+    Count: 8
+    Counties: 2
+DENNIS M REBOLETTI
+    Count: 104
+    Counties: 2
+DENNIS ROY ATTEBERRY
+    Count: 270
+    Counties: 9
+DENNIS TIPSWORD JR
+    Count: 112
+    Counties: 9
+DESI ANDERSON
+    Count: 101
+    Counties: 4
+DIANE BLAIR-SHERLOCK
+    Count: 94
+    Counties: 1
+DIANN KAREN MARSALEK - NO
+    Count: 2721
+    Counties: 1
+DIANN KAREN MARSALEK - YES
+    Count: 2721
+    Counties: 1
+DONALD J TRUMP
+    Count: 10058
+    Counties: 102
+DONALD P PUCKETT
+    Count: 56
+    Counties: 2
+E KENNETH WRIGHT JR - NO
+    Count: 2721
+    Counties: 1
+E KENNETH WRIGHT JR - YES
+    Count: 2721
+    Counties: 1
+ED HERSHEY
+    Count: 361
+    Counties: 2
+EDGAR GONZALEZ JR
+    Count: 38
+    Counties: 1
+EDWARD JOSEPH UNDERHILL
+    Count: 2721
+    Counties: 1
+EDWARD SHLIKAS
+    Count: 1
+    Counties: 1
+ELIZABETH "LISA" HERNANDEZ
+    Count: 64
+    Counties: 1
+ELIZABETH CIACCIA-LEZZA - NO
+    Count: 2721
+    Counties: 1
+ELIZABETH CIACCIA-LEZZA - YES
+    Count: 2721
+    Counties: 1
+ELIZABETH MARY HAYES - NO
+    Count: 2721
+    Counties: 1
+ELIZABETH MARY HAYES - YES
+    Count: 2721
+    Counties: 1
+ELLEN L FLANNIGAN - NO
+    Count: 2721
+    Counties: 1
+ELLEN L FLANNIGAN - YES
+    Count: 2721
+    Counties: 1
+EMANUEL "CHRIS" WELCH
+    Count: 80
+    Counties: 2
+ERIC J DIRNBECK - NO
+    Count: 238
+    Counties: 12
+ERIC J DIRNBECK - YES
+    Count: 238
+    Counties: 12
+ERIC SORENSEN
+    Count: 794
+    Counties: 14
+ERICA L REDDICK - NO
+    Count: 2721
+    Counties: 1
+ERICA L REDDICK - YES
+    Count: 2721
+    Counties: 1
+ERIK KARL JACOBS
+    Count: 120
+    Counties: 2
+ERIKA ORR - NO
+    Count: 2721
+    Counties: 1
+ERIKA ORR - YES
+    Count: 2721
+    Counties: 1
+EVA-DINA DELGADO
+    Count: 60
+    Counties: 1
+FRANK J ANDREOU
+    Count: 150
+    Counties: 1
+FRANK ROWDER
+    Count: 1
+    Counties: 1
+FRANK W IERULLI
+    Count: 189
+    Counties: 1
+FRED CRESPO
+    Count: 55
+    Counties: 1
+FREDERICK L WALLS
+    Count: 79
+    Counties: 3
+FUTURE MADAM POSTOS
+    Count: 1
+    Counties: 1
+FUTURE MADAM POTUS
+    Count: 9
+    Counties: 8
+FUTURE MADAME POTUS
+    Count: 1
+    Counties: 1
+GABBY SHANAHAN
+    Count: 61
+    Counties: 2
+GARRY HUBARD
+    Count: 1
+    Counties: 1
+GARRY HUBBARD
+    Count: 20
+    Counties: 19
+GENE DOHERTY
+    Count: 1946
+    Counties: 41
+GENO J CAFFARINI
+    Count: 50
+    Counties: 1
+GLEN OLAND
+    Count: 78
+    Counties: 1
+GORDAN HLAVENKA
+    Count: 1
+    Counties: 1
+GORDON HLAVENKA
+    Count: 3
+    Counties: 3
+GRACIELA GUZMAN
+    Count: 97
+    Counties: 1
+GREGG C JOHNSON
+    Count: 93
+    Counties: 1
+GRISELDA VEGA SAMUEL
+    Count: 133
+    Counties: 1
+H YVONNE COLEMAN - NO
+    Count: 2721
+    Counties: 1
+H YVONNE COLEMAN - YES
+    Count: 2721
+    Counties: 1
+HANNAH BILLINGSLEY
+    Count: 76
+    Counties: 3
+HARRY BENTON
+    Count: 61
+    Counties: 2
+HEATH LYNN STONE
+    Count: 1
+    Counties: 1
+HEATHER BROWN
+    Count: 135
+    Counties: 3
+HEATHER LYNN STONE
+    Count: 32
+    Counties: 32
+HEATHER LYNN STONE AND MIKE TER MAAT
+    Count: 1
+    Counties: 1
+HEIDI HENRY
+    Count: 77
+    Counties: 5
+HEINZ RUDOLF - NO
+    Count: 162
+    Counties: 1
+HEINZ RUDOLF - YES
+    Count: 162
+    Counties: 1
+HERBERT HEBEIN
+    Count: 77
+    Counties: 1
+HILARY MYRICK-WINSTON
+    Count: 2
+    Counties: 1
+HOAN HUYNH
+    Count: 54
+    Counties: 1
+HOPE F MERCADO
+    Count: 133
+    Counties: 1
+IESHIA GRAY - NO
+    Count: 2721
+    Counties: 1
+IESHIA GRAY - YES
+    Count: 2721
+    Counties: 1
+J FRANK MCCARTNEY - NO
+    Count: 197
+    Counties: 8
+J FRANK MCCARTNEY - YES
+    Count: 197
+    Counties: 8
+JACK HAGERTY - NO
+    Count: 2721
+    Counties: 1
+JACK HAGERTY - YES
+    Count: 2721
+    Counties: 1
+JACKIE HAAS
+    Count: 72
+    Counties: 4
+JACKIE WILLIAMSON
+    Count: 133
+    Counties: 1
+JACQUELYN D ACKERT - NO
+    Count: 183
+    Counties: 5
+JACQUELYN D ACKERT - YES
+    Count: 183
+    Counties: 5
+JAE KWON
+    Count: 87
+    Counties: 1
+JAIME M ANDRADE JR
+    Count: 48
+    Counties: 1
+JAMES "JACK" COSTELLO
+    Count: 150
+    Counties: 1
+JAMES "JAMIE" SHAPIRO - NO
+    Count: 2721
+    Counties: 1
+JAMES "JAMIE" SHAPIRO - YES
+    Count: 2721
+    Counties: 1
+JAMES CREIGHTON MITCHELL JR
+    Count: 73
+    Counties: 1
+JAMES F HEUERMAN
+    Count: 60
+    Counties: 1
+JAMES M VARGA - NO
+    Count: 2721
+    Counties: 1
+JAMES M VARGA - YES
+    Count: 2721
+    Counties: 1
+JAMES MICHAEL VICK
+    Count: 1
+    Counties: 1
+JAMES PATRICK MURPHY - NO
+    Count: 2721
+    Counties: 1
+JAMES PATRICK MURPHY - YES
+    Count: 2721
+    Counties: 1
+JAMES S MURPHY-AGUILU
+    Count: 2721
+    Counties: 1
+JAMES STANDARD - NO
+    Count: 214
+    Counties: 6
+JAMES STANDARD - YES
+    Count: 214
+    Counties: 6
+JAMES T "JIM" MARTER
+    Count: 671
+    Counties: 7
+JAMES T STRUCK
+    Count: 1
+    Counties: 1
+JAMES V MURPHY
+    Count: 164
+    Counties: 1
+JANET YANG ROHR
+    Count: 88
+    Counties: 2
+JANICE D SCHAKOWSKY
+    Count: 436
+    Counties: 3
+JARRETT CLEM
+    Count: 89
+    Counties: 2
+JASON HELLAND
+    Count: 1594
+    Counties: 7
+JASON PLUMMER
+    Count: 233
+    Counties: 11
+JASON PROCTOR
+    Count: 97
+    Counties: 1
+JASON R BUNTING
+    Count: 148
+    Counties: 7
+JAVIER LOERA CERVANTES
+    Count: 116
+    Counties: 1
+JAWAHARIAL "OMAR" WILLIAMS
+    Count: 62
+    Counties: 1
+JAY HOFFMAN
+    Count: 88
+    Counties: 2
+JAY KEEVEN
+    Count: 82
+    Counties: 2
+JEANNE MARIE WRENN - NO
+    Count: 2721
+    Counties: 1
+JEANNE MARIE WRENN - YES
+    Count: 2721
+    Counties: 1
+JED DAVIS
+    Count: 77
+    Counties: 5
+JEFF BROWNFIELD
+    Count: 134
+    Counties: 2
+JEFF KEICHER
+    Count: 92
+    Counties: 3
+JEFFERY G CHRONES
+    Count: 144
+    Counties: 1
+JEFFREY S MCKINLEY
+    Count: 24
+    Counties: 1
+JEHAN GORDON-BOOTH
+    Count: 104
+    Counties: 1
+JENNIFER "JEN" MONSON
+    Count: 132
+    Counties: 2
+JENNIFER BARRON
+    Count: 87
+    Counties: 1
+JENNIFER GONG-GERSHOWITZ
+    Count: 79
+    Counties: 1
+JENNIFER L JOHNSON
+    Count: 223
+    Counties: 1
+JENNIFER M LYNCH
+    Count: 81
+    Counties: 1
+JENNIFER M RANGEL-KELLY
+    Count: 60
+    Counties: 1
+JENNIFER PATRICIA CALLAHAN
+    Count: 2721
+    Counties: 1
+JENNIFER SANALITRO
+    Count: 94
+    Counties: 2
+JEREMY RICHEY - NO
+    Count: 254
+    Counties: 6
+JEREMY RICHEY - YES
+    Count: 254
+    Counties: 6
+JERRY EVANS
+    Count: 604
+    Counties: 8
+JERRY J HOOKER - NO
+    Count: 197
+    Counties: 8
+JERRY J HOOKER - YES
+    Count: 197
+    Counties: 8
+JERRY WHITE
+    Count: 1
+    Counties: 1
+JESUS "CHUY" GARCIA
+    Count: 364
+    Counties: 2
+JILL C MARISIE - NO
+    Count: 2721
+    Counties: 1
+JILL C MARISIE - YES
+    Count: 2721
+    Counties: 1
+JILL STEIN
+    Count: 64
+    Counties: 61
+JILL STEIN & RUDOLPH WARE
+    Count: 1
+    Counties: 1
+JILL STEIN / RUDOLPH WARE
+    Count: 4
+    Counties: 4
+JILL STEIN AND RUDOLPH WARE
+    Count: 1
+    Counties: 1
+JILL STEIN RUNDOLPH WARE
+    Count: 1
+    Counties: 1
+JILL STEIN/ RUDOLPH WARE
+    Count: 1
+    Counties: 1
+JILL STEIN/RUDOLPH WARD
+    Count: 1
+    Counties: 1
+JILL STEIN/RUDOLPH WARE
+    Count: 29
+    Counties: 28
+JIM CARRIS
+    Count: 458
+    Counties: 3
+JIM GELDERMANN
+    Count: 79
+    Counties: 1
+JIM GIACONE
+    Count: 35
+    Counties: 1
+JIM LANHAM
+    Count: 70
+    Counties: 1
+JO BETH WEBER - NO
+    Count: 238
+    Counties: 12
+JO BETH WEBER - YES
+    Count: 238
+    Counties: 12
+JOANNE F ROSADO - NO
+    Count: 2721
+    Counties: 1
+JOANNE F ROSADO - YES
+    Count: 2721
+    Counties: 1
+JOE MCGRAW
+    Count: 794
+    Counties: 14
+JOE SOSNOWSKI
+    Count: 82
+    Counties: 3
+JOEL CHUPACK - NO
+    Count: 2721
+    Counties: 1
+JOEL CHUPACK - YES
+    Count: 2721
+    Counties: 1
+JOHN "JZ" ZIMMERS
+    Count: 65
+    Counties: 1
+JOHN A BARSANTI - NO
+    Count: 376
+    Counties: 1
+JOHN A BARSANTI - YES
+    Count: 376
+    Counties: 1
+JOHN A FAIRMAN
+    Count: 169
+    Counties: 1
+JOHN ALBERS
+    Count: 1
+    Counties: 1
+JOHN ANDERSON
+    Count: 1594
+    Counties: 7
+JOHN BOORAS
+    Count: 425
+    Counties: 2
+JOHN D PEACOCK
+    Count: 50
+    Counties: 1
+JOHN F COSTELLO JR
+    Count: 1594
+    Counties: 7
+JOHN G DALTON - NO
+    Count: 376
+    Counties: 1
+JOHN G DALTON - YES
+    Count: 376
+    Counties: 1
+JOHN H EHRLICH - NO
+    Count: 2721
+    Counties: 1
+JOHN H EHRLICH - YES
+    Count: 2721
+    Counties: 1
+JOHN HOCK
+    Count: 144
+    Counties: 1
+JOHN J OGARA - NO
+    Count: 162
+    Counties: 1
+JOHN J OGARA - YES
+    Count: 162
+    Counties: 1
+JOHN LOWRY - NO
+    Count: 217
+    Counties: 2
+JOHN LOWRY - YES
+    Count: 217
+    Counties: 2
+JOHN M CABELLO
+    Count: 86
+    Counties: 3
+JOHN M DICKEY
+    Count: 1
+    Counties: 1
+JOHN M SPEARS
+    Count: 189
+    Counties: 1
+JOHN MCADAMS
+    Count: 78
+    Counties: 1
+JOHN P ALBERS
+    Count: 28
+    Counties: 28
+JOHN P ALBERS AKA JOHN PATRICK ALBERS
+    Count: 1
+    Counties: 1
+JOHN P ALBERS JOHN P ALBERS
+    Count: 1
+    Counties: 1
+JOHN P ALBERS JOHN PATRICK ALBERS
+    Count: 13
+    Counties: 13
+JOHN P ALBERSJOHN PATRICK ALBERS
+    Count: 3
+    Counties: 3
+JOHN PATRICK ALBERS
+    Count: 2
+    Counties: 2
+JOHN W SANDERS - NO
+    Count: 237
+    Counties: 9
+JOHN W SANDERS - YES
+    Count: 237
+    Counties: 9
+JON LUERS
+    Count: 130
+    Counties: 1
+JONATHAN L JACKSON
+    Count: 560
+    Counties: 3
+JOSEPH KISHORE & JERRY WHITE
+    Count: 1
+    Counties: 1
+JOSEPH KISHORE TANNIRU
+    Count: 1
+    Counties: 1
+JOSEPH P BRUSCATO - NO
+    Count: 217
+    Counties: 2
+JOSEPH P BRUSCATO - YES
+    Count: 217
+    Counties: 2
+JOSEPH SEVERINO
+    Count: 3
+    Counties: 3
+JOSEPH V SALVI - NO
+    Count: 431
+    Counties: 1
+JOSEPH V SALVI - YES
+    Count: 431
+    Counties: 1
+JOSEPH WILLIAM KOPSICK
+    Count: 1
+    Counties: 1
+JOSHUA LOYD
+    Count: 536
+    Counties: 7
+JOY VIRGINIA CUNNINGHAM
+    Count: 2721
+    Counties: 1
+JOYCE MASON
+    Count: 73
+    Counties: 1
+JULIO CESAR VALDEZ
+    Count: 78
+    Counties: 1
+JUSTIN Q SLAUGHTER
+    Count: 85
+    Counties: 2
+JUSTIN TUCKER
+    Count: 1
+    Counties: 1
+KAM BUCKNER
+    Count: 61
+    Counties: 1
+KAMALA D HARRIS
+    Count: 10058
+    Counties: 102
+KAREN LYNN OMALLEY - NO
+    Count: 2721
+    Counties: 1
+KAREN LYNN OMALLEY - YES
+    Count: 2721
+    Counties: 1
+KARINA VILLA
+    Count: 135
+    Counties: 3
+KATE GORMAN - NO
+    Count: 302
+    Counties: 5
+KATE GORMAN - YES
+    Count: 302
+    Counties: 5
+KATE WATSON
+    Count: 17
+    Counties: 1
+KATHALEEN THERESA LANAHAN - NO
+    Count: 2721
+    Counties: 1
+KATHALEEN THERESA LANAHAN - YES
+    Count: 2721
+    Counties: 1
+KATHRYN MALONEY VAHEY - NO
+    Count: 2721
+    Counties: 1
+KATHRYN MALONEY VAHEY - YES
+    Count: 2721
+    Counties: 1
+KATHY M FLANAGAN - NO
+    Count: 2721
+    Counties: 1
+KATHY M FLANAGAN - YES
+    Count: 2721
+    Counties: 1
+KATHY MARSHALL
+    Count: 3
+    Counties: 3
+KATIE DEANE-SCHLOTTMAN
+    Count: 129
+    Counties: 2
+KATIE RABENDA
+    Count: 81
+    Counties: 1
+KATIE STUART
+    Count: 82
+    Counties: 2
+KELLY M CASSIDY
+    Count: 52
+    Counties: 1
+KENT DELGADO - NO
+    Count: 2721
+    Counties: 1
+KENT DELGADO - YES
+    Count: 2721
+    Counties: 1
+KENTON SKARIN
+    Count: 1594
+    Counties: 7
+KEVIN JOHN OLICKAL
+    Count: 60
+    Counties: 1
+KEVIN MCKEE
+    Count: 3
+    Counties: 3
+KEVIN PATRICK CUNNINGHAM - NO
+    Count: 2721
+    Counties: 1
+KEVIN PATRICK CUNNINGHAM - YES
+    Count: 2721
+    Counties: 1
+KEVIN SCHMIDT
+    Count: 82
+    Counties: 1
+KIMBERLY A LIGHTFORD
+    Count: 145
+    Counties: 2
+KIMBERLY D LEWIS - NO
+    Count: 2721
+    Counties: 1
+KIMBERLY D LEWIS - YES
+    Count: 2721
+    Counties: 1
+KIMBERLY DIGIOVANNI
+    Count: 376
+    Counties: 1
+KIMBERLY NEELY DUBUCLET
+    Count: 53
+    Counties: 1
+KOULA A FOURNIER
+    Count: 164
+    Counties: 1
+KRISTEN CHIARO
+    Count: 104
+    Counties: 3
+KYLE A MOORE
+    Count: 127
+    Counties: 5
+KYLE ANNE NAPP - NO
+    Count: 211
+    Counties: 2
+KYLE ANNE NAPP - YES
+    Count: 211
+    Counties: 2
+LA SHAWN K FORD
+    Count: 70
+    Counties: 1
+LAKESIA COLLINS
+    Count: 113
+    Counties: 1
+LANCE PETERSON
+    Count: 1594
+    Counties: 7
+LATOYA GREENWOOD
+    Count: 82
+    Counties: 1
+LATRINA PEETE
+    Count: 1
+    Counties: 1
+LAURA FAVER DIAS
+    Count: 64
+    Counties: 1
+LAURA HRUSKA
+    Count: 64
+    Counties: 1
+LAURA M MURPHY
+    Count: 131
+    Counties: 2
+LAUREN UNDERWOOD
+    Count: 671
+    Counties: 7
+LAURIE PARMAN
+    Count: 79
+    Counties: 2
+LAWRENCE "LARRY" WALSH JR
+    Count: 70
+    Counties: 1
+LEAH DANIELLE SETZEN
+    Count: 133
+    Counties: 1
+LESLIE COLLAZO
+    Count: 70
+    Counties: 1
+LI ARELLANO JR
+    Count: 261
+    Counties: 12
+LIEN CHOI
+    Count: 2
+    Counties: 1
+LILIAN JIMENEZ
+    Count: 57
+    Counties: 1
+LINDA DAVENPORT
+    Count: 1594
+    Counties: 7
+LINDA PEREZ - NO
+    Count: 2721
+    Counties: 1
+LINDA PEREZ - YES
+    Count: 2721
+    Counties: 1
+LINDA R ROBERTSON
+    Count: 98
+    Counties: 2
+LINDSAY HUGE - NO
+    Count: 2721
+    Counties: 1
+LINDSAY HUGE - YES
+    Count: 2721
+    Counties: 1
+LINDSEY LAPOINTE
+    Count: 65
+    Counties: 1
+LIONEL JEAN-BAPTISTE - NO
+    Count: 2721
+    Counties: 1
+LIONEL JEAN-BAPTISTE - YES
+    Count: 2721
+    Counties: 1
+LISA ANN MARINO - NO
+    Count: 2721
+    Counties: 1
+LISA ANN MARINO - YES
+    Count: 2721
+    Counties: 1
+LISA HOLDER WHITE
+    Count: 1946
+    Counties: 41
+LISA J DAVIS
+    Count: 64
+    Counties: 1
+LISA SMITH
+    Count: 97
+    Counties: 3
+LIZ BISHOP
+    Count: 101
+    Counties: 3
+LLOYD JAMES BROOKS
+    Count: 170
+    Counties: 1
+LOVELEEN AHUJA
+    Count: 135
+    Counties: 1
+LOWELL MARTIN SEIDA
+    Count: 2
+    Counties: 1
+LUCIANO "LOU" PANICI JR
+    Count: 169
+    Counties: 1
+LUCY VAZQUEZ-GONZALEZ
+    Count: 148
+    Counties: 1
+LUPE CASTILLO
+    Count: 364
+    Counties: 2
+LYNN TERESE PALAC
+    Count: 144
+    Counties: 1
+MARCUS C EVANS JR
+    Count: 69
+    Counties: 1
+MARCUS LEWIS
+    Count: 559
+    Counties: 3
+MARGARET CROKE
+    Count: 52
+    Counties: 1
+MARIA C VESEY
+    Count: 94
+    Counties: 2
+MARIA MCCARTHY
+    Count: 150
+    Counties: 1
+MARIA PETERSON
+    Count: 85
+    Counties: 4
+MARIAN EMILY PERKINS - NO
+    Count: 2721
+    Counties: 1
+MARIAN EMILY PERKINS - YES
+    Count: 2721
+    Counties: 1
+MARK E BOVARD - NO
+    Count: 173
+    Counties: 5
+MARK E BOVARD - YES
+    Count: 173
+    Counties: 5
+MARK L WALKER
+    Count: 116
+    Counties: 1
+MARK R ALBERS
+    Count: 77
+    Counties: 1
+MARK RICE
+    Count: 508
+    Counties: 3
+MARK S GOODWIN
+    Count: 60
+    Counties: 1
+MARKETA FRANKLIN
+    Count: 3
+    Counties: 2
+MARLOW A JONES
+    Count: 59
+    Counties: 1
+MARSHALL J SUBACH
+    Count: 101
+    Counties: 1
+MARTHA "MARTI" DEUTER
+    Count: 104
+    Counties: 2
+MARTIN C KELLEY - NO
+    Count: 2721
+    Counties: 1
+MARTIN C KELLEY - YES
+    Count: 2721
+    Counties: 1
+MARTIN J MOYLAN
+    Count: 67
+    Counties: 1
+MARTIN MCLAUGHLIN
+    Count: 85
+    Counties: 4
+MARTIN S AGRAN - NO
+    Count: 2721
+    Counties: 1
+MARTIN S AGRAN - YES
+    Count: 2721
+    Counties: 1
+MARY BETH CANTY
+    Count: 63
+    Counties: 1
+MARY COLLEEN ROBERTS - NO
+    Count: 2721
+    Counties: 1
+MARY COLLEEN ROBERTS - YES
+    Count: 2721
+    Counties: 1
+MARY E MILLER
+    Count: 1056
+    Counties: 35
+MARY EDLY-ALLEN
+    Count: 137
+    Counties: 1
+MARY GILL
+    Count: 77
+    Counties: 1
+MARY LANE MIKVA
+    Count: 2721
+    Counties: 1
+MARY MAHADY
+    Count: 79
+    Counties: 1
+MARY MARGARET BROSNAHAN - NO
+    Count: 2721
+    Counties: 1
+MARY MARGARET BROSNAHAN - YES
+    Count: 2721
+    Counties: 1
+MARY SEVANDAL COHEN
+    Count: 132
+    Counties: 1
+MATT HANSON
+    Count: 79
+    Counties: 2
+MATTHEW TAYLOR
+    Count: 150
+    Counties: 1
+MAURA HIRSCHAUER
+    Count: 76
+    Counties: 3
+MAURA SLATTERY BOYLE - NO
+    Count: 2721
+    Counties: 1
+MAURA SLATTERY BOYLE - YES
+    Count: 2721
+    Counties: 1
+MAURICE A WEST II
+    Count: 78
+    Counties: 1
+MEG LOUGHRAN CAPPEL
+    Count: 129
+    Counties: 2
+MELINA ABDEULLAH
+    Count: 1
+    Counties: 1
+MELINA ABDULAH
+    Count: 1
+    Counties: 1
+MELINA ABDULLAH
+    Count: 29
+    Counties: 29
+MELINA ABUDLLAH
+    Count: 1
+    Counties: 1
+MELINA ANDULLAH
+    Count: 1
+    Counties: 1
+MELINDA ABDULLAH
+    Count: 2
+    Counties: 2
+MELINDA ABJULLAH
+    Count: 1
+    Counties: 1
+MELINDA ADDULLAH
+    Count: 1
+    Counties: 1
+MELINS ABULLAH
+    Count: 1
+    Counties: 1
+MELISSA MORGAN - NO
+    Count: 238
+    Counties: 12
+MELISSA MORGAN - YES
+    Count: 238
+    Counties: 12
+MELISSA PRESSER
+    Count: 6
+    Counties: 1
+MICHAEL B BARRETT - NO
+    Count: 2721
+    Counties: 1
+MICHAEL B BARRETT - YES
+    Count: 2721
+    Counties: 1
+MICHAEL CRAWFORD
+    Count: 66
+    Counties: 1
+MICHAEL E HASTINGS
+    Count: 147
+    Counties: 2
+MICHAEL E SULLIVAN
+    Count: 8
+    Counties: 2
+MICHAEL H LINDHORST
+    Count: 8
+    Counties: 2
+MICHAEL J CHMIEL - NO
+    Count: 223
+    Counties: 1
+MICHAEL J CHMIEL - YES
+    Count: 223
+    Counties: 1
+MICHAEL J KELLY
+    Count: 77
+    Counties: 1
+MICHAEL J NOLAND - NO
+    Count: 376
+    Counties: 1
+MICHAEL J NOLAND - YES
+    Count: 376
+    Counties: 1
+MICHAEL M CHVATAL
+    Count: 164
+    Counties: 1
+MICHAEL R CLANCY - NO
+    Count: 2721
+    Counties: 1
+MICHAEL R CLANCY - YES
+    Count: 2721
+    Counties: 1
+MICHAEL TULLY MULLEN - NO
+    Count: 2721
+    Counties: 1
+MICHAEL TULLY MULLEN - YES
+    Count: 2721
+    Counties: 1
+MICHELE HUNTER
+    Count: 63
+    Counties: 1
+MICHELLE MUSSMAN
+    Count: 71
+    Counties: 2
+MIKE BOST
+    Count: 1043
+    Counties: 34
+MIKE COFFEY
+    Count: 104
+    Counties: 3
+MIKE MCHALE - NO
+    Count: 2721
+    Counties: 1
+MIKE MCHALE - YES
+    Count: 2721
+    Counties: 1
+MIKE QUIGLEY
+    Count: 435
+    Counties: 2
+MIKE SIMMONS
+    Count: 105
+    Counties: 1
+MIKE TER MAAT
+    Count: 27
+    Counties: 26
+MIKE TER MAAT OLIVER
+    Count: 1
+    Counties: 1
+MIKE VICK
+    Count: 3
+    Counties: 3
+MORGAN PHILLIPS
+    Count: 112
+    Counties: 9
+NABEELA SYED
+    Count: 80
+    Counties: 2
+NADINE JEAN WICHERN
+    Count: 135
+    Counties: 1
+NATALIAN BOLTON
+    Count: 48
+    Counties: 1
+NATALIE A MANLEY
+    Count: 68
+    Counties: 1
+NEIL COHEN
+    Count: 2721
+    Counties: 1
+NICHOLAS "NICK" SMITH
+    Count: 80
+    Counties: 3
+NICHOLAS O MEYER
+    Count: 120
+    Counties: 2
+NICK RAFTOPOULOS
+    Count: 87
+    Counties: 1
+NICOLE LA HA
+    Count: 86
+    Counties: 3
+NICOLLE GRASSE
+    Count: 60
+    Counties: 1
+NIGEL D GRAHAM
+    Count: 45
+    Counties: 1
+NIKI CONFORTI
+    Count: 574
+    Counties: 2
+NIKKI BUDZINSKI
+    Count: 536
+    Counties: 7
+NO
+    Count: 27285
+    Counties: 102
+NO CANDIDATE
+    Count: 2
+    Counties: 1
+NORINE K HAMMOND
+    Count: 187
+    Counties: 13
+NORMA HERNANDEZ
+    Count: 58
+    Counties: 2
+OVERVOTES
+    Count: 351213
+    Counties: 102
+OWENS J SHELBY
+    Count: 138
+    Counties: 1
+PABLO F DECASTRO
+    Count: 2721
+    Counties: 1
+PAMELA CURRAN SMITH
+    Count: 150
+    Counties: 1
+PAT HEERY
+    Count: 148
+    Counties: 1
+PATRICIA BONK
+    Count: 85
+    Counties: 1
+PATRICIA SOWINSKI FIX - NO
+    Count: 431
+    Counties: 1
+PATRICIA SOWINSKI FIX - YES
+    Count: 431
+    Counties: 1
+PATRICK JOYCE
+    Count: 142
+    Counties: 4
+PATRICK SHEEHAN
+    Count: 71
+    Counties: 2
+PATRICK WINDHORST
+    Count: 133
+    Counties: 10
+PATRYCJA KARLIN
+    Count: 48
+    Counties: 1
+PAUL JACOBS
+    Count: 121
+    Counties: 5
+PAUL N FARACI
+    Count: 134
+    Counties: 2
+PAUL S PAVLUS - NO
+    Count: 2721
+    Counties: 1
+PAUL S PAVLUS - YES
+    Count: 2721
+    Counties: 1
+PEDRO FREGOSO JR
+    Count: 111
+    Counties: 1
+PETER J MEYER JR
+    Count: 2
+    Counties: 2
+PETER JANKO
+    Count: 82
+    Counties: 3
+PETER MICHAEL GONZALEZ - NO
+    Count: 2721
+    Counties: 1
+PETER MICHAEL GONZALEZ - YES
+    Count: 2721
+    Counties: 1
+PETER SONSKI
+    Count: 23
+    Counties: 21
+PHILIP FOWLER
+    Count: 164
+    Counties: 1
+PHILIP NAGEL
+    Count: 142
+    Counties: 4
+PRESTON JONES JR - NO
+    Count: 2721
+    Counties: 1
+PRESTON JONES JR - YES
+    Count: 2721
+    Counties: 1
+RACHEL VENTURA
+    Count: 132
+    Counties: 2
+RAJA KRISHNAMOORTHI
+    Count: 506
+    Counties: 3
+RALPH E MECZYK
+    Count: 132
+    Counties: 1
+RAMON OCASIO III - NO
+    Count: 2721
+    Counties: 1
+RAMON OCASIO III - YES
+    Count: 2721
+    Counties: 1
+RANDI OLSON
+    Count: 92
+    Counties: 3
+RANDY C BOLLE
+    Count: 8
+    Counties: 2
+RANDY ROSENBAUM - NO
+    Count: 254
+    Counties: 6
+RANDY ROSENBAUM - YES
+    Count: 254
+    Counties: 6
+REBECCA SIMMONS FOLEY - NO
+    Count: 275
+    Counties: 5
+REBECCA SIMMONS FOLEY - YES
+    Count: 275
+    Counties: 5
+REGAN DEERING
+    Count: 113
+    Counties: 5
+REGINA ANN SCANNICCHIO - NO
+    Count: 2721
+    Counties: 1
+REGINA ANN SCANNICCHIO - YES
+    Count: 2721
+    Counties: 1
+RENE CRUZ - NO
+    Count: 376
+    Counties: 1
+RENE CRUZ - YES
+    Count: 376
+    Counties: 1
+RICHARD MAYERS
+    Count: 77
+    Counties: 72
+RICK RYAN
+    Count: 71
+    Counties: 1
+RITA MAYFIELD
+    Count: 54
+    Counties: 1
+RIVANDA DOSS BEAL
+    Count: 170
+    Counties: 1
+ROBERT "BOB" RITA
+    Count: 75
+    Counties: 1
+ROBERT "RUSTY" STEVENS
+    Count: 94
+    Counties: 1
+ROBERT F KENNEDY JR
+    Count: 10043
+    Counties: 102
+ROBERT HARRIS - NO
+    Count: 2721
+    Counties: 1
+ROBERT HARRIS - YES
+    Count: 2721
+    Counties: 1
+ROBERT J STEIGMANN - NO
+    Count: 1201
+    Counties: 30
+ROBERT J STEIGMANN - YES
+    Count: 1201
+    Counties: 30
+ROBERT MARTWICK
+    Count: 130
+    Counties: 1
+ROBERT PETERS
+    Count: 114
+    Counties: 1
+ROBERT SUMRELL JR
+    Count: 145
+    Counties: 2
+ROBIN KELLY
+    Count: 618
+    Counties: 8
+ROBYN GABEL
+    Count: 73
+    Counties: 1
+RODNEY G CLARK - NO
+    Count: 214
+    Counties: 6
+RODNEY G CLARK - YES
+    Count: 214
+    Counties: 6
+ROGER B WEBBER - NO
+    Count: 254
+    Counties: 6
+ROGER B WEBBER - YES
+    Count: 254
+    Counties: 6
+RONALD E ANDERMANN
+    Count: 60
+    Counties: 1
+RONALD F BARTKOWICZ - NO
+    Count: 2721
+    Counties: 1
+RONALD F BARTKOWICZ - YES
+    Count: 2721
+    Counties: 1
+ROSA MARIA SILVA - NO
+    Count: 2721
+    Counties: 1
+ROSA MARIA SILVA - YES
+    Count: 2721
+    Counties: 1
+ROY JONES
+    Count: 6
+    Counties: 6
+RUDOLPH WARE
+    Count: 40
+    Counties: 38
+RUDOLPH WARE STEIN
+    Count: 1
+    Counties: 1
+RUDOLPH WATE
+    Count: 1
+    Counties: 1
+RYAN SPAIN
+    Count: 133
+    Counties: 9
+SALLY OWENS
+    Count: 205
+    Counties: 4
+SAMANTHA JEAN GASCA
+    Count: 147
+    Counties: 2
+SANDRA PARGA
+    Count: 98
+    Counties: 1
+SARAH JOHNSON
+    Count: 2721
+    Counties: 1
+SARAH SMITH - NO
+    Count: 211
+    Counties: 2
+SARAH SMITH - YES
+    Count: 211
+    Counties: 2
+SCOTT M BELT
+    Count: 50
+    Counties: 1
+SCOTT MCKENNA - NO
+    Count: 2721
+    Counties: 1
+SCOTT MCKENNA - YES
+    Count: 2721
+    Counties: 1
+SCOTT SUMMER
+    Count: 1
+    Counties: 1
+SCOTT SUMMERS
+    Count: 19
+    Counties: 19
+SEAN A DWYER
+    Count: 64
+    Counties: 1
+SEAN CASTEN
+    Count: 574
+    Counties: 2
+SEAN W DONAHUE
+    Count: 189
+    Counties: 1
+SETH ALAN COHEN
+    Count: 436
+    Counties: 3
+SHANNON OMALLEY - NO
+    Count: 2721
+    Counties: 1
+SHANNON OMALLEY - YES
+    Count: 2721
+    Counties: 1
+SHARON CHUNG
+    Count: 101
+    Counties: 4
+SHIVA AADURAI
+    Count: 1
+    Counties: 1
+SHIVA AYADWRAI
+    Count: 1
+    Counties: 1
+SHIVA AYYADUNAI
+    Count: 1
+    Counties: 1
+SHIVA AYYADURAI
+    Count: 73
+    Counties: 69
+SHIVA AYYADURI
+    Count: 2
+    Counties: 2
+SHIVA AYYANDURAI
+    Count: 2
+    Counties: 2
+SHONDRA IRVING
+    Count: 2
+    Counties: 2
+SONYA MARIE HARPER
+    Count: 65
+    Counties: 1
+STEPHANIE A KIFOWIT
+    Count: 54
+    Counties: 4
+STEPHANIE KATHRYN MILLER
+    Count: 133
+    Counties: 1
+STEPHANIE SALTOUROS - NO
+    Count: 2721
+    Counties: 1
+STEPHANIE SALTOUROS - YES
+    Count: 2721
+    Counties: 1
+STEPHEN R GREEN - NO
+    Count: 237
+    Counties: 9
+STEPHEN R GREEN - YES
+    Count: 237
+    Counties: 9
+STEVE STADELMAN
+    Count: 139
+    Counties: 2
+STEVEN REICK
+    Count: 79
+    Counties: 1
+STUART F LUBIN - NO
+    Count: 2721
+    Counties: 1
+STUART F LUBIN - YES
+    Count: 2721
+    Counties: 1
+SUE SCHERER
+    Count: 97
+    Counties: 3
+SUSAN BUCHSER
+    Count: 1
+    Counties: 1
+SUSAN FAYETTE HUTCHINSON - NO
+    Count: 1177
+    Counties: 5
+SUSAN FAYETTE HUTCHINSON - YES
+    Count: 1177
+    Counties: 5
+SUSAN M BUCHSER
+    Count: 2
+    Counties: 2
+SUSAN MAIEDA BUCHSER
+    Count: 1
+    Counties: 1
+SUSAN MAIEDE BUCHSER
+    Count: 1
+    Counties: 1
+SUSAN MAREDA BUCHSER
+    Count: 1
+    Counties: 1
+SUSAN MAUDA BUCHSER
+    Count: 4
+    Counties: 4
+SUSAN MAUDE BUCHER
+    Count: 1
+    Counties: 1
+SUSAN MAUDE BUCHSER
+    Count: 55
+    Counties: 52
+SUSAN MAUDE BUSCHER
+    Count: 1
+    Counties: 1
+SUZANNE AKHRAS
+    Count: 86
+    Counties: 3
+SUZANNE C MANGIAMELE
+    Count: 223
+    Counties: 1
+SUZANNE NESS
+    Count: 79
+    Counties: 2
+T SCOTT WEBB - NO
+    Count: 238
+    Counties: 12
+T SCOTT WEBB - YES
+    Count: 238
+    Counties: 12
+TERESA L ALEXANDER
+    Count: 59
+    Counties: 2
+TERRA COSTA HOWARD
+    Count: 92
+    Counties: 1
+TERRI BRYANT
+    Count: 258
+    Counties: 14
+TERRY GALLAGHER - NO
+    Count: 2721
+    Counties: 1
+TERRY GALLAGHER - YES
+    Count: 2721
+    Counties: 1
+TERRY NGUYEN LE
+    Count: 54
+    Counties: 1
+THADDEUS JONES
+    Count: 90
+    Counties: 3
+THERESA MAH
+    Count: 49
+    Counties: 1
+THOMAS D DENBY
+    Count: 45
+    Counties: 1
+THOMAS E GRIFFITH - NO
+    Count: 254
+    Counties: 6
+THOMAS E GRIFFITH - YES
+    Count: 254
+    Counties: 6
+THOMAS E HOFFMAN - NO
+    Count: 2721
+    Counties: 1
+THOMAS E HOFFMAN - YES
+    Count: 2721
+    Counties: 1
+THOMAS F MCGUIRE - NO
+    Count: 2721
+    Counties: 1
+THOMAS F MCGUIRE - YES
+    Count: 2721
+    Counties: 1
+THOMAS W CUNNINGTON - NO
+    Count: 98
+    Counties: 2
+THOMAS W CUNNINGTON - YES
+    Count: 98
+    Counties: 2
+TIANA ELLIS BLAKELY - NO
+    Count: 2721
+    Counties: 1
+TIANA ELLIS BLAKELY - YES
+    Count: 2721
+    Counties: 1
+TIEN H GLAUB
+    Count: 2721
+    Counties: 1
+TIFFANY DAVIS - NO
+    Count: 223
+    Counties: 1
+TIFFANY DAVIS - YES
+    Count: 223
+    Counties: 1
+TIMOTHY "TJ" WESSEL - NO
+    Count: 197
+    Counties: 8
+TIMOTHY "TJ" WESSEL - YES
+    Count: 197
+    Counties: 8
+TODD L MARTIN
+    Count: 119
+    Counties: 1
+TOM SAM SIANIS - NO
+    Count: 2721
+    Counties: 1
+TOM SAM SIANIS - YES
+    Count: 2721
+    Counties: 1
+TOM SCHLENHARDT
+    Count: 116
+    Counties: 1
+TOM WEBER
+    Count: 78
+    Counties: 2
+TOMMY BREWER - NO
+    Count: 2721
+    Counties: 1
+TOMMY BREWER - YES
+    Count: 2721
+    Counties: 1
+TOMMY HANSON
+    Count: 436
+    Counties: 2
+TONY M MCCOMBIE
+    Count: 120
+    Counties: 7
+TOSI UFODIKE
+    Count: 80
+    Counties: 2
+TOYA T HARVEY - NO
+    Count: 2721
+    Counties: 1
+TOYA T HARVEY - YES
+    Count: 2721
+    Counties: 1
+TRACY KATZ MUHL
+    Count: 67
+    Counties: 2
+TRAVIS ROBERT WEAVER
+    Count: 114
+    Counties: 6
+TROY HOLLAND - NO
+    Count: 219
+    Counties: 3
+TROY HOLLAND - YES
+    Count: 219
+    Counties: 3
+UNDERVOTES
+    Count: 351214
+    Counties: 102
+VICTORIA ROSE BRESLAN
+    Count: 107
+    Counties: 1
+VINCENT F CORNELIUS - NO
+    Count: 447
+    Counties: 1
+VINCENT F CORNELIUS - YES
+    Count: 447
+    Counties: 1
+WAYNE A ROSENTHAL
+    Count: 119
+    Counties: 5
+WEST/ABDULLAH W-IN
+    Count: 28
+    Counties: 1
+WILL GUZZARDI
+    Count: 52
+    Counties: 1
+WILLAM A YODER - NO
+    Count: 275
+    Counties: 5
+WILLIAM "BILLY" MORGAN
+    Count: 72
+    Counties: 4
+WILLIAM "WILL" DAVIS
+    Count: 85
+    Counties: 1
+WILLIAM A YODER - YES
+    Count: 275
+    Counties: 5
+WILLIAM BONNET
+    Count: 2
+    Counties: 2
+WILLIAM BONNETT
+    Count: 27
+    Counties: 26
+WILLIAM BONNETT JR
+    Count: 3
+    Counties: 3
+WILLIAM E HAUTER
+    Count: 105
+    Counties: 8
+WILLIAM E HOLDRIDGE - NO
+    Count: 1536
+    Counties: 21
+WILLIAM E HOLDRIDGE - YES
+    Count: 1536
+    Counties: 21
+WILLIAM G GAMBONEY - NO
+    Count: 2721
+    Counties: 1
+WILLIAM G GAMBONEY - YES
+    Count: 2721
+    Counties: 1
+WILLIE PRESTON
+    Count: 124
+    Counties: 1
+WRITE-IN
+    Count: 13985
+    Counties: 100
+YES
+    Count: 27285
+    Counties: 102
+YOLANDA HARRIS SAYRE
+    Count: 150
+    Counties: 1
+YOLONDA MORRIS
+    Count: 61
+    Counties: 1
+ZINA R CRUSE - NO
+    Count: 162
+    Counties: 1
+ZINA R CRUSE - YES
+    Count: 162
+    Counties: 1
+ZOE LEIGH
+    Count: 1
+    Counties: 1

@@ -1,0 +1,26 @@
+UNIQUE VALUES — party_detailed
+============================================================
+AMERICAN SOLIDARITY
+    Count: 8751
+    Counties: 75
+DEMOCRAT
+    Count: 35361
+    Counties: 75
+GREEN
+    Count: 8751
+    Counties: 75
+INDEPENDENT
+    Count: 13133
+    Counties: 75
+LIBERTARIAN
+    Count: 24516
+    Counties: 75
+NONPARTISAN
+    Count: 73571
+    Counties: 75
+PROHIBITION
+    Count: 8751
+    Counties: 75
+REPUBLICAN
+    Count: 41874
+    Counties: 75

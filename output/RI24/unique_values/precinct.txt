@@ -1,0 +1,1493 @@
+UNIQUE VALUES — precinct
+============================================================
+BARRINGTON 0101
+    Count: 220
+    Counties: 1
+BARRINGTON 0102
+    Count: 220
+    Counties: 1
+BARRINGTON 0103
+    Count: 220
+    Counties: 1
+BARRINGTON 0104
+    Count: 216
+    Counties: 1
+BARRINGTON 0105
+    Count: 216
+    Counties: 1
+BARRINGTON 0106
+    Count: 216
+    Counties: 1
+BARRINGTON LIMITED
+    Count: 100
+    Counties: 1
+BARRINGTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+BRISTOL 0201
+    Count: 180
+    Counties: 1
+BRISTOL 0202
+    Count: 180
+    Counties: 1
+BRISTOL 0203
+    Count: 180
+    Counties: 1
+BRISTOL 0204
+    Count: 176
+    Counties: 1
+BRISTOL 0205
+    Count: 176
+    Counties: 1
+BRISTOL 0206
+    Count: 176
+    Counties: 1
+BRISTOL 0207
+    Count: 176
+    Counties: 1
+BRISTOL 0208
+    Count: 176
+    Counties: 1
+BRISTOL LIMITED
+    Count: 100
+    Counties: 1
+BRISTOL PRESIDENTIAL
+    Count: 32
+    Counties: 1
+BURRILLVILLE 0301
+    Count: 156
+    Counties: 1
+BURRILLVILLE 0302
+    Count: 156
+    Counties: 1
+BURRILLVILLE 0303
+    Count: 156
+    Counties: 1
+BURRILLVILLE 0304
+    Count: 156
+    Counties: 1
+BURRILLVILLE 0305
+    Count: 156
+    Counties: 1
+BURRILLVILLE 0306
+    Count: 152
+    Counties: 1
+BURRILLVILLE LIMITED
+    Count: 96
+    Counties: 1
+BURRILLVILLE PRESIDENTIAL
+    Count: 32
+    Counties: 1
+CENTRAL FALLS 0401
+    Count: 152
+    Counties: 1
+CENTRAL FALLS 0402
+    Count: 152
+    Counties: 1
+CENTRAL FALLS 0403
+    Count: 152
+    Counties: 1
+CENTRAL FALLS 0404
+    Count: 152
+    Counties: 1
+CENTRAL FALLS 0405
+    Count: 156
+    Counties: 1
+CENTRAL FALLS 0406
+    Count: 156
+    Counties: 1
+CENTRAL FALLS 0407
+    Count: 152
+    Counties: 1
+CENTRAL FALLS LIMITED
+    Count: 100
+    Counties: 1
+CENTRAL FALLS PRESIDENTIAL
+    Count: 32
+    Counties: 1
+CHARLESTOWN 0501
+    Count: 304
+    Counties: 1
+CHARLESTOWN 0502
+    Count: 304
+    Counties: 1
+CHARLESTOWN 0503
+    Count: 304
+    Counties: 1
+CHARLESTOWN 0504
+    Count: 304
+    Counties: 1
+CHARLESTOWN LIMITED
+    Count: 96
+    Counties: 1
+CHARLESTOWN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+COVENTRY 0601
+    Count: 176
+    Counties: 1
+COVENTRY 0602
+    Count: 168
+    Counties: 1
+COVENTRY 0603
+    Count: 172
+    Counties: 1
+COVENTRY 0604
+    Count: 172
+    Counties: 1
+COVENTRY 0605
+    Count: 168
+    Counties: 1
+COVENTRY 0606
+    Count: 168
+    Counties: 1
+COVENTRY 0607
+    Count: 168
+    Counties: 1
+COVENTRY 0608
+    Count: 168
+    Counties: 1
+COVENTRY 0609
+    Count: 176
+    Counties: 1
+COVENTRY 0610
+    Count: 172
+    Counties: 1
+COVENTRY 0611
+    Count: 172
+    Counties: 1
+COVENTRY 0612
+    Count: 176
+    Counties: 1
+COVENTRY 0613
+    Count: 172
+    Counties: 1
+COVENTRY 0614
+    Count: 176
+    Counties: 1
+COVENTRY 0615
+    Count: 168
+    Counties: 1
+COVENTRY 0616
+    Count: 172
+    Counties: 1
+COVENTRY 0617
+    Count: 172
+    Counties: 1
+COVENTRY LIMITED
+    Count: 96
+    Counties: 1
+COVENTRY PRESIDENTIAL
+    Count: 32
+    Counties: 1
+CRANSTON 0701
+    Count: 204
+    Counties: 1
+CRANSTON 0702
+    Count: 204
+    Counties: 1
+CRANSTON 0703
+    Count: 212
+    Counties: 1
+CRANSTON 0704
+    Count: 208
+    Counties: 1
+CRANSTON 0705
+    Count: 208
+    Counties: 1
+CRANSTON 0706
+    Count: 212
+    Counties: 1
+CRANSTON 0707
+    Count: 208
+    Counties: 1
+CRANSTON 0708
+    Count: 216
+    Counties: 1
+CRANSTON 0709
+    Count: 204
+    Counties: 1
+CRANSTON 0710
+    Count: 212
+    Counties: 1
+CRANSTON 0711
+    Count: 208
+    Counties: 1
+CRANSTON 0712
+    Count: 208
+    Counties: 1
+CRANSTON 0713
+    Count: 208
+    Counties: 1
+CRANSTON 0714
+    Count: 208
+    Counties: 1
+CRANSTON 0715
+    Count: 204
+    Counties: 1
+CRANSTON 0716
+    Count: 208
+    Counties: 1
+CRANSTON 0717
+    Count: 208
+    Counties: 1
+CRANSTON 0718
+    Count: 204
+    Counties: 1
+CRANSTON 0719
+    Count: 204
+    Counties: 1
+CRANSTON 0720
+    Count: 200
+    Counties: 1
+CRANSTON 0721
+    Count: 204
+    Counties: 1
+CRANSTON 0722
+    Count: 200
+    Counties: 1
+CRANSTON 0723
+    Count: 200
+    Counties: 1
+CRANSTON 0724
+    Count: 204
+    Counties: 1
+CRANSTON 0725
+    Count: 200
+    Counties: 1
+CRANSTON 0726
+    Count: 212
+    Counties: 1
+CRANSTON LIMITED
+    Count: 96
+    Counties: 1
+CRANSTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+CUMBERLAND 0801
+    Count: 304
+    Counties: 1
+CUMBERLAND 0802
+    Count: 304
+    Counties: 1
+CUMBERLAND 0803
+    Count: 308
+    Counties: 1
+CUMBERLAND 0804
+    Count: 300
+    Counties: 1
+CUMBERLAND 0805
+    Count: 308
+    Counties: 1
+CUMBERLAND 0806
+    Count: 296
+    Counties: 1
+CUMBERLAND 0807
+    Count: 312
+    Counties: 1
+CUMBERLAND 0808
+    Count: 292
+    Counties: 1
+CUMBERLAND 0809
+    Count: 312
+    Counties: 1
+CUMBERLAND 0810
+    Count: 304
+    Counties: 1
+CUMBERLAND 0811
+    Count: 304
+    Counties: 1
+CUMBERLAND 0812
+    Count: 312
+    Counties: 1
+CUMBERLAND 0813
+    Count: 304
+    Counties: 1
+CUMBERLAND 0814
+    Count: 304
+    Counties: 1
+CUMBERLAND LIMITED
+    Count: 100
+    Counties: 1
+CUMBERLAND PRESIDENTIAL
+    Count: 32
+    Counties: 1
+EAST GREENWICH 0901
+    Count: 180
+    Counties: 1
+EAST GREENWICH 0902
+    Count: 180
+    Counties: 1
+EAST GREENWICH 0903
+    Count: 180
+    Counties: 1
+EAST GREENWICH 0904
+    Count: 180
+    Counties: 1
+EAST GREENWICH 0905
+    Count: 180
+    Counties: 1
+EAST GREENWICH LIMITED
+    Count: 96
+    Counties: 1
+EAST GREENWICH PRESIDENTIAL
+    Count: 32
+    Counties: 1
+EAST PROVIDENCE 1001
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1002
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1003
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1004
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1005
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1006
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1007
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1008
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1009
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1010
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1011
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1012
+    Count: 132
+    Counties: 1
+EAST PROVIDENCE 1013
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1014
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1015
+    Count: 136
+    Counties: 1
+EAST PROVIDENCE 1016
+    Count: 140
+    Counties: 1
+EAST PROVIDENCE 1017
+    Count: 140
+    Counties: 1
+EAST PROVIDENCE LIMITED
+    Count: 100
+    Counties: 1
+EAST PROVIDENCE PRESIDENTIAL
+    Count: 32
+    Counties: 1
+EXETER 1101
+    Count: 236
+    Counties: 1
+EXETER 1102
+    Count: 236
+    Counties: 1
+EXETER 1103
+    Count: 236
+    Counties: 1
+EXETER LIMITED
+    Count: 96
+    Counties: 1
+EXETER PRESIDENTIAL
+    Count: 32
+    Counties: 1
+FEDERAL PRECINCT #1
+    Count: 60
+    Counties: 1
+FEDERAL PRECINCT #1S
+    Count: 60
+    Counties: 1
+FEDERAL PRECINCT #2
+    Count: 56
+    Counties: 1
+FEDERAL PRECINCT #2S
+    Count: 56
+    Counties: 1
+FOSTER 1201
+    Count: 208
+    Counties: 1
+FOSTER 1202
+    Count: 208
+    Counties: 1
+FOSTER LIMITED
+    Count: 96
+    Counties: 1
+FOSTER PRESIDENTIAL
+    Count: 32
+    Counties: 1
+GLOCESTER 1301
+    Count: 192
+    Counties: 1
+GLOCESTER 1302
+    Count: 192
+    Counties: 1
+GLOCESTER 1303
+    Count: 192
+    Counties: 1
+GLOCESTER 1304
+    Count: 192
+    Counties: 1
+GLOCESTER 1305
+    Count: 192
+    Counties: 1
+GLOCESTER LIMITED
+    Count: 96
+    Counties: 1
+GLOCESTER PRESIDENTIAL
+    Count: 32
+    Counties: 1
+HOPKINTON 1401
+    Count: 316
+    Counties: 1
+HOPKINTON 1402
+    Count: 316
+    Counties: 1
+HOPKINTON 1403
+    Count: 320
+    Counties: 1
+HOPKINTON LIMITED
+    Count: 96
+    Counties: 1
+HOPKINTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+JAMESTOWN 1501
+    Count: 244
+    Counties: 1
+JAMESTOWN 1502
+    Count: 244
+    Counties: 1
+JAMESTOWN LIMITED
+    Count: 100
+    Counties: 1
+JAMESTOWN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+JOHNSTON 1601
+    Count: 176
+    Counties: 1
+JOHNSTON 1602
+    Count: 192
+    Counties: 1
+JOHNSTON 1603
+    Count: 192
+    Counties: 1
+JOHNSTON 1604
+    Count: 184
+    Counties: 1
+JOHNSTON 1605
+    Count: 184
+    Counties: 1
+JOHNSTON 1606
+    Count: 184
+    Counties: 1
+JOHNSTON 1607
+    Count: 188
+    Counties: 1
+JOHNSTON 1608
+    Count: 188
+    Counties: 1
+JOHNSTON 1609
+    Count: 192
+    Counties: 1
+JOHNSTON 1610
+    Count: 192
+    Counties: 1
+JOHNSTON 1611
+    Count: 184
+    Counties: 1
+JOHNSTON 1612
+    Count: 184
+    Counties: 1
+JOHNSTON LIMITED
+    Count: 96
+    Counties: 1
+JOHNSTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+LINCOLN 1701
+    Count: 140
+    Counties: 1
+LINCOLN 1702
+    Count: 156
+    Counties: 1
+LINCOLN 1703
+    Count: 140
+    Counties: 1
+LINCOLN 1704
+    Count: 152
+    Counties: 1
+LINCOLN 1705
+    Count: 164
+    Counties: 1
+LINCOLN 1706
+    Count: 144
+    Counties: 1
+LINCOLN 1707
+    Count: 144
+    Counties: 1
+LINCOLN 1708
+    Count: 160
+    Counties: 1
+LINCOLN 1709
+    Count: 144
+    Counties: 1
+LINCOLN 1710
+    Count: 152
+    Counties: 1
+LINCOLN 1711
+    Count: 164
+    Counties: 1
+LINCOLN LIMITED
+    Count: 100
+    Counties: 1
+LINCOLN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+LITTLE COMPTON 1801
+    Count: 196
+    Counties: 1
+LITTLE COMPTON LIMITED
+    Count: 100
+    Counties: 1
+LITTLE COMPTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+MIDDLETOWN 1901
+    Count: 192
+    Counties: 1
+MIDDLETOWN 1902
+    Count: 192
+    Counties: 1
+MIDDLETOWN 1903
+    Count: 192
+    Counties: 1
+MIDDLETOWN 1904
+    Count: 192
+    Counties: 1
+MIDDLETOWN 1905
+    Count: 192
+    Counties: 1
+MIDDLETOWN LIMITED
+    Count: 100
+    Counties: 1
+MIDDLETOWN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NARRAGANSETT 2001
+    Count: 208
+    Counties: 1
+NARRAGANSETT 2002
+    Count: 208
+    Counties: 1
+NARRAGANSETT 2003
+    Count: 208
+    Counties: 1
+NARRAGANSETT 2004
+    Count: 208
+    Counties: 1
+NARRAGANSETT LIMITED
+    Count: 96
+    Counties: 1
+NARRAGANSETT PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NEW SHOREHAM 2201
+    Count: 228
+    Counties: 1
+NEW SHOREHAM LIMITED
+    Count: 96
+    Counties: 1
+NEW SHOREHAM PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NEWPORT 2101
+    Count: 216
+    Counties: 1
+NEWPORT 2102
+    Count: 220
+    Counties: 1
+NEWPORT 2103
+    Count: 220
+    Counties: 1
+NEWPORT 2104
+    Count: 220
+    Counties: 1
+NEWPORT 2105
+    Count: 220
+    Counties: 1
+NEWPORT 2106
+    Count: 220
+    Counties: 1
+NEWPORT 2107
+    Count: 220
+    Counties: 1
+NEWPORT 2108
+    Count: 216
+    Counties: 1
+NEWPORT 2109
+    Count: 216
+    Counties: 1
+NEWPORT LIMITED
+    Count: 100
+    Counties: 1
+NEWPORT PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NORTH KINGSTOWN 2301
+    Count: 216
+    Counties: 1
+NORTH KINGSTOWN 2302
+    Count: 216
+    Counties: 1
+NORTH KINGSTOWN 2303
+    Count: 216
+    Counties: 1
+NORTH KINGSTOWN 2304
+    Count: 212
+    Counties: 1
+NORTH KINGSTOWN 2305
+    Count: 212
+    Counties: 1
+NORTH KINGSTOWN 2306
+    Count: 216
+    Counties: 1
+NORTH KINGSTOWN 2307
+    Count: 216
+    Counties: 1
+NORTH KINGSTOWN 2308
+    Count: 212
+    Counties: 1
+NORTH KINGSTOWN 2309
+    Count: 212
+    Counties: 1
+NORTH KINGSTOWN 2310
+    Count: 212
+    Counties: 1
+NORTH KINGSTOWN LIMITED
+    Count: 96
+    Counties: 1
+NORTH KINGSTOWN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NORTH PROVIDENCE 2401
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2402
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2403
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2404
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2405
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2406
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2407
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2408
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2409
+    Count: 144
+    Counties: 1
+NORTH PROVIDENCE 2410
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2411
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2412
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE 2413
+    Count: 140
+    Counties: 1
+NORTH PROVIDENCE LIMITED
+    Count: 100
+    Counties: 1
+NORTH PROVIDENCE PRESIDENTIAL
+    Count: 32
+    Counties: 1
+NORTH SMITHFIELD 2501
+    Count: 200
+    Counties: 1
+NORTH SMITHFIELD 2502
+    Count: 200
+    Counties: 1
+NORTH SMITHFIELD 2503
+    Count: 200
+    Counties: 1
+NORTH SMITHFIELD 2504
+    Count: 200
+    Counties: 1
+NORTH SMITHFIELD 2505
+    Count: 204
+    Counties: 1
+NORTH SMITHFIELD LIMITED
+    Count: 100
+    Counties: 1
+NORTH SMITHFIELD PRESIDENTIAL
+    Count: 32
+    Counties: 1
+PAWTUCKET 2601
+    Count: 244
+    Counties: 1
+PAWTUCKET 2602
+    Count: 240
+    Counties: 1
+PAWTUCKET 2603
+    Count: 240
+    Counties: 1
+PAWTUCKET 2604
+    Count: 244
+    Counties: 1
+PAWTUCKET 2605
+    Count: 248
+    Counties: 1
+PAWTUCKET 2606
+    Count: 248
+    Counties: 1
+PAWTUCKET 2607
+    Count: 240
+    Counties: 1
+PAWTUCKET 2608
+    Count: 244
+    Counties: 1
+PAWTUCKET 2609
+    Count: 240
+    Counties: 1
+PAWTUCKET 2610
+    Count: 244
+    Counties: 1
+PAWTUCKET 2611
+    Count: 236
+    Counties: 1
+PAWTUCKET 2612
+    Count: 240
+    Counties: 1
+PAWTUCKET 2613
+    Count: 236
+    Counties: 1
+PAWTUCKET 2614
+    Count: 236
+    Counties: 1
+PAWTUCKET 2615
+    Count: 240
+    Counties: 1
+PAWTUCKET 2616
+    Count: 236
+    Counties: 1
+PAWTUCKET 2617
+    Count: 236
+    Counties: 1
+PAWTUCKET 2618
+    Count: 236
+    Counties: 1
+PAWTUCKET 2619
+    Count: 236
+    Counties: 1
+PAWTUCKET 2620
+    Count: 236
+    Counties: 1
+PAWTUCKET 2621
+    Count: 236
+    Counties: 1
+PAWTUCKET 2622
+    Count: 236
+    Counties: 1
+PAWTUCKET 2623
+    Count: 236
+    Counties: 1
+PAWTUCKET 2624
+    Count: 240
+    Counties: 1
+PAWTUCKET 2625
+    Count: 236
+    Counties: 1
+PAWTUCKET 2626
+    Count: 240
+    Counties: 1
+PAWTUCKET 2627
+    Count: 236
+    Counties: 1
+PAWTUCKET 2628
+    Count: 236
+    Counties: 1
+PAWTUCKET LIMITED
+    Count: 100
+    Counties: 1
+PAWTUCKET PRESIDENTIAL
+    Count: 32
+    Counties: 1
+PORTSMOUTH 2701
+    Count: 192
+    Counties: 1
+PORTSMOUTH 2702
+    Count: 188
+    Counties: 1
+PORTSMOUTH 2703
+    Count: 188
+    Counties: 1
+PORTSMOUTH 2704
+    Count: 188
+    Counties: 1
+PORTSMOUTH 2705
+    Count: 188
+    Counties: 1
+PORTSMOUTH 2706
+    Count: 188
+    Counties: 1
+PORTSMOUTH 2707
+    Count: 188
+    Counties: 1
+PORTSMOUTH LIMITED
+    Count: 100
+    Counties: 1
+PORTSMOUTH PRESIDENTIAL
+    Count: 32
+    Counties: 1
+PROVIDENCE 2801
+    Count: 148
+    Counties: 1
+PROVIDENCE 2802
+    Count: 148
+    Counties: 1
+PROVIDENCE 2803
+    Count: 148
+    Counties: 1
+PROVIDENCE 2804
+    Count: 148
+    Counties: 1
+PROVIDENCE 2805
+    Count: 144
+    Counties: 1
+PROVIDENCE 2806
+    Count: 144
+    Counties: 1
+PROVIDENCE 2807
+    Count: 144
+    Counties: 1
+PROVIDENCE 2808
+    Count: 136
+    Counties: 1
+PROVIDENCE 2809
+    Count: 144
+    Counties: 1
+PROVIDENCE 2810
+    Count: 144
+    Counties: 1
+PROVIDENCE 2811
+    Count: 144
+    Counties: 1
+PROVIDENCE 2812
+    Count: 140
+    Counties: 1
+PROVIDENCE 2813
+    Count: 140
+    Counties: 1
+PROVIDENCE 2814
+    Count: 140
+    Counties: 1
+PROVIDENCE 2815
+    Count: 140
+    Counties: 1
+PROVIDENCE 2816
+    Count: 140
+    Counties: 1
+PROVIDENCE 2817
+    Count: 140
+    Counties: 1
+PROVIDENCE 2818
+    Count: 140
+    Counties: 1
+PROVIDENCE 2819
+    Count: 140
+    Counties: 1
+PROVIDENCE 2820
+    Count: 140
+    Counties: 1
+PROVIDENCE 2821
+    Count: 140
+    Counties: 1
+PROVIDENCE 2822
+    Count: 140
+    Counties: 1
+PROVIDENCE 2823
+    Count: 140
+    Counties: 1
+PROVIDENCE 2824
+    Count: 136
+    Counties: 1
+PROVIDENCE 2825
+    Count: 144
+    Counties: 1
+PROVIDENCE 2826
+    Count: 136
+    Counties: 1
+PROVIDENCE 2827
+    Count: 144
+    Counties: 1
+PROVIDENCE 2828
+    Count: 144
+    Counties: 1
+PROVIDENCE 2829
+    Count: 136
+    Counties: 1
+PROVIDENCE 2830
+    Count: 140
+    Counties: 1
+PROVIDENCE 2831
+    Count: 140
+    Counties: 1
+PROVIDENCE 2832
+    Count: 144
+    Counties: 1
+PROVIDENCE 2833
+    Count: 144
+    Counties: 1
+PROVIDENCE 2834
+    Count: 132
+    Counties: 1
+PROVIDENCE 2835
+    Count: 132
+    Counties: 1
+PROVIDENCE 2836
+    Count: 132
+    Counties: 1
+PROVIDENCE 2837
+    Count: 144
+    Counties: 1
+PROVIDENCE 2838
+    Count: 132
+    Counties: 1
+PROVIDENCE 2839
+    Count: 144
+    Counties: 1
+PROVIDENCE 2840
+    Count: 144
+    Counties: 1
+PROVIDENCE 2841
+    Count: 144
+    Counties: 1
+PROVIDENCE 2842
+    Count: 132
+    Counties: 1
+PROVIDENCE 2843
+    Count: 136
+    Counties: 1
+PROVIDENCE 2844
+    Count: 132
+    Counties: 1
+PROVIDENCE 2845
+    Count: 136
+    Counties: 1
+PROVIDENCE 2846
+    Count: 136
+    Counties: 1
+PROVIDENCE 2847
+    Count: 136
+    Counties: 1
+PROVIDENCE 2848
+    Count: 144
+    Counties: 1
+PROVIDENCE 2849
+    Count: 144
+    Counties: 1
+PROVIDENCE 2850
+    Count: 144
+    Counties: 1
+PROVIDENCE 2851
+    Count: 136
+    Counties: 1
+PROVIDENCE 2852
+    Count: 148
+    Counties: 1
+PROVIDENCE 2853
+    Count: 148
+    Counties: 1
+PROVIDENCE 2854
+    Count: 148
+    Counties: 1
+PROVIDENCE 2855
+    Count: 148
+    Counties: 1
+PROVIDENCE 2856
+    Count: 148
+    Counties: 1
+PROVIDENCE 2857
+    Count: 140
+    Counties: 1
+PROVIDENCE 2858
+    Count: 140
+    Counties: 1
+PROVIDENCE 2859
+    Count: 136
+    Counties: 1
+PROVIDENCE 2860
+    Count: 136
+    Counties: 1
+PROVIDENCE 2861
+    Count: 136
+    Counties: 1
+PROVIDENCE 2862
+    Count: 136
+    Counties: 1
+PROVIDENCE 2863
+    Count: 136
+    Counties: 1
+PROVIDENCE 2864
+    Count: 132
+    Counties: 1
+PROVIDENCE 2865
+    Count: 136
+    Counties: 1
+PROVIDENCE 2866
+    Count: 132
+    Counties: 1
+PROVIDENCE 2867
+    Count: 132
+    Counties: 1
+PROVIDENCE 2868
+    Count: 132
+    Counties: 1
+PROVIDENCE 2869
+    Count: 144
+    Counties: 1
+PROVIDENCE 2870
+    Count: 136
+    Counties: 1
+PROVIDENCE 2871
+    Count: 136
+    Counties: 1
+PROVIDENCE 2872
+    Count: 136
+    Counties: 1
+PROVIDENCE 2873
+    Count: 136
+    Counties: 1
+PROVIDENCE 2874
+    Count: 136
+    Counties: 1
+PROVIDENCE 2875
+    Count: 136
+    Counties: 1
+PROVIDENCE 2876
+    Count: 136
+    Counties: 1
+PROVIDENCE 2877
+    Count: 136
+    Counties: 1
+PROVIDENCE 2878
+    Count: 136
+    Counties: 1
+PROVIDENCE 2879
+    Count: 136
+    Counties: 1
+PROVIDENCE 2880
+    Count: 136
+    Counties: 1
+PROVIDENCE 2881
+    Count: 140
+    Counties: 1
+PROVIDENCE 2882
+    Count: 140
+    Counties: 1
+PROVIDENCE LIMITED 1
+    Count: 100
+    Counties: 1
+PROVIDENCE LIMITED 2
+    Count: 96
+    Counties: 1
+PROVIDENCE PRESIDENTIAL
+    Count: 32
+    Counties: 1
+RICHMOND 2901
+    Count: 192
+    Counties: 1
+RICHMOND 2902
+    Count: 192
+    Counties: 1
+RICHMOND 2903
+    Count: 192
+    Counties: 1
+RICHMOND LIMITED
+    Count: 96
+    Counties: 1
+RICHMOND PRESIDENTIAL
+    Count: 32
+    Counties: 1
+SCITUATE 3001
+    Count: 232
+    Counties: 1
+SCITUATE 3002
+    Count: 232
+    Counties: 1
+SCITUATE 3003
+    Count: 232
+    Counties: 1
+SCITUATE LIMITED
+    Count: 96
+    Counties: 1
+SCITUATE PRESIDENTIAL
+    Count: 32
+    Counties: 1
+SMITHFIELD 3101
+    Count: 180
+    Counties: 1
+SMITHFIELD 3102
+    Count: 180
+    Counties: 1
+SMITHFIELD 3103
+    Count: 180
+    Counties: 1
+SMITHFIELD 3104
+    Count: 180
+    Counties: 1
+SMITHFIELD 3105
+    Count: 180
+    Counties: 1
+SMITHFIELD 3106
+    Count: 180
+    Counties: 1
+SMITHFIELD LIMITED
+    Count: 100
+    Counties: 1
+SMITHFIELD PRESIDENTIAL
+    Count: 32
+    Counties: 1
+SOUTH KINGSTOWN 3201
+    Count: 188
+    Counties: 1
+SOUTH KINGSTOWN 3202
+    Count: 188
+    Counties: 1
+SOUTH KINGSTOWN 3203
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3204
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3205
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3206
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3207
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3208
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3209
+    Count: 192
+    Counties: 1
+SOUTH KINGSTOWN 3210
+    Count: 188
+    Counties: 1
+SOUTH KINGSTOWN 3211
+    Count: 188
+    Counties: 1
+SOUTH KINGSTOWN LIMITED
+    Count: 96
+    Counties: 1
+SOUTH KINGSTOWN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+TIVERTON 3301
+    Count: 260
+    Counties: 1
+TIVERTON 3302
+    Count: 260
+    Counties: 1
+TIVERTON 3303
+    Count: 260
+    Counties: 1
+TIVERTON 3304
+    Count: 260
+    Counties: 1
+TIVERTON 3305
+    Count: 256
+    Counties: 1
+TIVERTON 3306
+    Count: 256
+    Counties: 1
+TIVERTON 3307
+    Count: 252
+    Counties: 1
+TIVERTON LIMITED
+    Count: 100
+    Counties: 1
+TIVERTON PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WARREN 3401
+    Count: 148
+    Counties: 1
+WARREN 3402
+    Count: 148
+    Counties: 1
+WARREN 3403
+    Count: 152
+    Counties: 1
+WARREN 3404
+    Count: 152
+    Counties: 1
+WARREN LIMITED
+    Count: 100
+    Counties: 1
+WARREN PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WARWICK 3501
+    Count: 164
+    Counties: 1
+WARWICK 3502
+    Count: 168
+    Counties: 1
+WARWICK 3503
+    Count: 168
+    Counties: 1
+WARWICK 3504
+    Count: 168
+    Counties: 1
+WARWICK 3505
+    Count: 168
+    Counties: 1
+WARWICK 3506
+    Count: 168
+    Counties: 1
+WARWICK 3507
+    Count: 168
+    Counties: 1
+WARWICK 3508
+    Count: 168
+    Counties: 1
+WARWICK 3509
+    Count: 164
+    Counties: 1
+WARWICK 3510
+    Count: 164
+    Counties: 1
+WARWICK 3511
+    Count: 168
+    Counties: 1
+WARWICK 3512
+    Count: 164
+    Counties: 1
+WARWICK 3513
+    Count: 164
+    Counties: 1
+WARWICK 3514
+    Count: 164
+    Counties: 1
+WARWICK 3515
+    Count: 164
+    Counties: 1
+WARWICK 3516
+    Count: 160
+    Counties: 1
+WARWICK 3517
+    Count: 160
+    Counties: 1
+WARWICK 3518
+    Count: 164
+    Counties: 1
+WARWICK 3519
+    Count: 164
+    Counties: 1
+WARWICK 3520
+    Count: 156
+    Counties: 1
+WARWICK 3521
+    Count: 156
+    Counties: 1
+WARWICK 3522
+    Count: 156
+    Counties: 1
+WARWICK 3523
+    Count: 156
+    Counties: 1
+WARWICK 3524
+    Count: 160
+    Counties: 1
+WARWICK 3525
+    Count: 160
+    Counties: 1
+WARWICK 3526
+    Count: 160
+    Counties: 1
+WARWICK 3527
+    Count: 164
+    Counties: 1
+WARWICK 3528
+    Count: 164
+    Counties: 1
+WARWICK 3529
+    Count: 164
+    Counties: 1
+WARWICK 3530
+    Count: 168
+    Counties: 1
+WARWICK 3531
+    Count: 160
+    Counties: 1
+WARWICK 3532
+    Count: 160
+    Counties: 1
+WARWICK 3533
+    Count: 160
+    Counties: 1
+WARWICK 3534
+    Count: 168
+    Counties: 1
+WARWICK LIMITED
+    Count: 96
+    Counties: 1
+WARWICK PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WEST GREENWICH 3701
+    Count: 164
+    Counties: 1
+WEST GREENWICH 3702
+    Count: 168
+    Counties: 1
+WEST GREENWICH 3703
+    Count: 168
+    Counties: 1
+WEST GREENWICH 3704
+    Count: 168
+    Counties: 1
+WEST GREENWICH LIMITED
+    Count: 96
+    Counties: 1
+WEST GREENWICH PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WEST WARWICK 3801
+    Count: 144
+    Counties: 1
+WEST WARWICK 3802
+    Count: 144
+    Counties: 1
+WEST WARWICK 3803
+    Count: 160
+    Counties: 1
+WEST WARWICK 3804
+    Count: 152
+    Counties: 1
+WEST WARWICK 3805
+    Count: 152
+    Counties: 1
+WEST WARWICK 3806
+    Count: 152
+    Counties: 1
+WEST WARWICK 3807
+    Count: 164
+    Counties: 1
+WEST WARWICK 3808
+    Count: 168
+    Counties: 1
+WEST WARWICK 3809
+    Count: 168
+    Counties: 1
+WEST WARWICK 3810
+    Count: 144
+    Counties: 1
+WEST WARWICK LIMITED
+    Count: 96
+    Counties: 1
+WEST WARWICK PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WESTERLY 3601
+    Count: 356
+    Counties: 1
+WESTERLY 3602
+    Count: 356
+    Counties: 1
+WESTERLY 3603
+    Count: 356
+    Counties: 1
+WESTERLY 3604
+    Count: 356
+    Counties: 1
+WESTERLY 3605
+    Count: 356
+    Counties: 1
+WESTERLY 3606
+    Count: 356
+    Counties: 1
+WESTERLY 3607
+    Count: 356
+    Counties: 1
+WESTERLY LIMITED
+    Count: 96
+    Counties: 1
+WESTERLY PRESIDENTIAL
+    Count: 32
+    Counties: 1
+WOONSOCKET 3901
+    Count: 288
+    Counties: 1
+WOONSOCKET 3902
+    Count: 292
+    Counties: 1
+WOONSOCKET 3903
+    Count: 292
+    Counties: 1
+WOONSOCKET 3904
+    Count: 292
+    Counties: 1
+WOONSOCKET 3905
+    Count: 292
+    Counties: 1
+WOONSOCKET 3906
+    Count: 288
+    Counties: 1
+WOONSOCKET 3907
+    Count: 288
+    Counties: 1
+WOONSOCKET 3908
+    Count: 288
+    Counties: 1
+WOONSOCKET 3909
+    Count: 284
+    Counties: 1
+WOONSOCKET 3910
+    Count: 284
+    Counties: 1
+WOONSOCKET 3911
+    Count: 284
+    Counties: 1
+WOONSOCKET 3912
+    Count: 284
+    Counties: 1
+WOONSOCKET LIMITED
+    Count: 100
+    Counties: 1
+WOONSOCKET PRESIDENTIAL
+    Count: 32
+    Counties: 1

@@ -1,0 +1,977 @@
+UNIQUE VALUES — office
+============================================================
+0.75% SALES AND USE TAX
+    Count: 390
+    Counties: 2
+1% SALES AND USE TAX
+    Count: 18
+    Counties: 1
+1% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+    Count: 8
+    Counties: 1
+1.5% SALES AND USE TAX GREENLAND
+    Count: 12
+    Counties: 1
+38.50 BALD KNOB SCHOOL MILL TAX
+    Count: 6
+    Counties: 1
+5% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+    Count: 6
+    Counties: 1
+ALDERMAN OF OXFORD CITY OF OXFO
+    Count: 12
+    Counties: 1
+ANNEXATION SILOAM SPRINGS
+    Count: 102
+    Counties: 1
+BOARD OF DIRECTORS SILOAM SPRINGS
+    Count: 108
+    Counties: 1
+BONDS
+    Count: 24
+    Counties: 1
+BSD 349 TOTAL MILL SCHOOL TAX
+    Count: 6
+    Counties: 1
+CAMMACK VILLAGE TREASURER
+    Count: 8
+    Counties: 1
+CAVE CITY BOARD OF DIRECTORS
+    Count: 60
+    Counties: 1
+CCJPL 1% MILL TAX
+    Count: 228
+    Counties: 1
+CCRWDD BOARD OF DIRECTORS
+    Count: 186
+    Counties: 1
+CIRCUIT CLERK
+    Count: 78
+    Counties: 1
+CIRCUIT JUDGEDIVISION 17 SUB2
+    Count: 1022
+    Counties: 2
+CITY OF ALEXANDER CITY COUNCIL
+    Count: 28
+    Counties: 2
+CITY OF ALPENA CITY COUNCIL
+    Count: 22
+    Counties: 2
+CITY OF ALPENA LOCAL ISSUE NO 1
+    Count: 8
+    Counties: 1
+CITY OF ALPENA LOCAL ISSUE NO 2
+    Count: 6
+    Counties: 1
+CITY OF ANTHONYVILLE CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF ARKANSAS CITY ALDERMAN NORTHITIO
+    Count: 6
+    Counties: 1
+CITY OF ASH FLAT ALDERMAN
+    Count: 12
+    Counties: 2
+CITY OF AUGUSTA ALDERMAN
+    Count: 54
+    Counties: 1
+CITY OF AUSTIN CITY CLERK
+    Count: 3
+    Counties: 1
+CITY OF BALD KNOB CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF BARLING ORDINANCE 509
+    Count: 108
+    Counties: 1
+CITY OF BARLING ORDINANCE 511
+    Count: 108
+    Counties: 1
+CITY OF BAUXITE CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF BEAVER CITY MAYOR
+    Count: 3
+    Counties: 1
+CITY OF BELLA VISTA CITY COUNCIL
+    Count: 594
+    Counties: 1
+CITY OF BENTON CITY COUNCIL
+    Count: 36
+    Counties: 1
+CITY OF BENTONVILLE CITY ATTORNEY
+    Count: 300
+    Counties: 1
+CITY OF BENTONVILLE CITY COUNCIL
+    Count: 750
+    Counties: 1
+CITY OF BENTONVILLE MAYOR
+    Count: 300
+    Counties: 1
+CITY OF BLACK ROCK ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF BLUE EYE MAYOR
+    Count: 3
+    Counties: 1
+CITY OF BONANZA ALDERMAN
+    Count: 45
+    Counties: 1
+CITY OF BONO ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF BOONEVILLE ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF BRADFORD CITY COUNCIL
+    Count: 36
+    Counties: 1
+CITY OF BRINKLEY CITY COUNCIL
+    Count: 33
+    Counties: 1
+CITY OF BRYANT CITY COUNCIL
+    Count: 96
+    Counties: 1
+CITY OF BULL SHOALS CITY COUNCIL
+    Count: 90
+    Counties: 1
+CITY OF BULL SHOALS MAYOR SPECIAL
+    Count: 24
+    Counties: 1
+CITY OF CALION ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF CAMDEN ALDERMAN
+    Count: 36
+    Counties: 1
+CITY OF CARLISLE 3% GROSS RECEIPTS TAX
+    Count: 18
+    Counties: 1
+CITY OF CARLISLE CITY COUNCIL
+    Count: 54
+    Counties: 1
+CITY OF CEDARVILLE CITY COUNCIL
+    Count: 8
+    Counties: 1
+CITY OF CENTERTON CITY COUNCIL
+    Count: 264
+    Counties: 1
+CITY OF CHESTER CITY COUNCIL
+    Count: 8
+    Counties: 1
+CITY OF CLARENDON CITY COUNCIL
+    Count: 9
+    Counties: 1
+CITY OF CLARKEDALE CITY CLERK
+    Count: 6
+    Counties: 1
+CITY OF CLARKSVILLE CITY OF CLA
+    Count: 72
+    Counties: 1
+CITY OF CLINTON RECORDER/TREASURER
+    Count: 24
+    Counties: 1
+CITY OF COLT ORDINANCE NO 2024-06
+    Count: 6
+    Counties: 1
+CITY OF CONWAY CITY COUNCIL
+    Count: 189
+    Counties: 1
+CITY OF CONWAY MAYOR
+    Count: 225
+    Counties: 1
+CITY OF COTTON PLANT ALDERMAN
+    Count: 24
+    Counties: 1
+CITY OF DAMASCUS CITY COUNCIL
+    Count: 12
+    Counties: 2
+CITY OF DE QUEEN ALDERMAN
+    Count: 30
+    Counties: 1
+CITY OF DECATUR CITY COUNCIL
+    Count: 162
+    Counties: 1
+CITY OF DELIGHT ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF DENNING CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF DES ARC ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF DEVALLS ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF DEVALLS BLUFF CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF DEVALLS BLUFF LOCAL SALES AND USE TAX
+    Count: 18
+    Counties: 1
+CITY OF DEWITT ORDINANCE NO 883
+    Count: 18
+    Counties: 1
+CITY OF DIAMOND CITY COUNCIL RECORDER
+    Count: 8
+    Counties: 1
+CITY OF DIAMONDHEAD MAYOR
+    Count: 4
+    Counties: 1
+CITY OF DYER CITY COUNCIL
+    Count: 16
+    Counties: 1
+CITY OF EGYPT ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF EL DORADO ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF ELAINE 1.5% SALES AND USE TAX
+    Count: 6
+    Counties: 1
+CITY OF ELAINE ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF ELM SPRINGS CITY COUNCIL
+    Count: 24
+    Counties: 2
+CITY OF ENGLAND CHANGING THE TERMS OF CM
+    Count: 24
+    Counties: 1
+CITY OF EUDORA CITY CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF EVENING SHADE ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF FAIRFIELD BAY CITY COUNCIL
+    Count: 72
+    Counties: 1
+CITY OF FAIRFIELD BAY MAYORAL RECALL ELECTION
+    Count: 30
+    Counties: 2
+CITY OF FAIRFIELD BAY RECORDER/TREASURER
+    Count: 30
+    Counties: 2
+CITY OF FAIRFIELD CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF FARMINGTON CITY COUNCIL
+    Count: 72
+    Counties: 1
+CITY OF FAYETTEVILLE CITY COUNCIL
+    Count: 351
+    Counties: 1
+CITY OF FAYETTEVILLE CLERK/TREASURER
+    Count: 402
+    Counties: 1
+CITY OF FAYETTEVILLE MAYOR
+    Count: 804
+    Counties: 1
+CITY OF FAYETTEVILLE SPECIAL
+    Count: 402
+    Counties: 1
+CITY OF FELSENTHAL ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF FLIPPIN CITY COUNCIL
+    Count: 9
+    Counties: 1
+CITY OF FORDYCE ORDINANCE NO 2024-04
+    Count: 30
+    Counties: 1
+CITY OF FOREMAN ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF FORREST CITY ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF FORT SMITH DIRECTOR
+    Count: 162
+    Counties: 1
+CITY OF FULTON MAYOR
+    Count: 6
+    Counties: 1
+CITY OF GARFIELD CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF GARLAND CITY COUNCIL
+    Count: 8
+    Counties: 1
+CITY OF GATEWAY CITY COUNCIL
+    Count: 12
+    Counties: 1
+CITY OF GLENWOOD ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF GLENWOOD CITY COUNCIL
+    Count: 12
+    Counties: 1
+CITY OF GOSHEN ANNEXATION
+    Count: 24
+    Counties: 1
+CITY OF GOULD CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF GRADY CITY COUNCIL
+    Count: 15
+    Counties: 1
+CITY OF GRAVETTE CITY COUNCIL
+    Count: 72
+    Counties: 1
+CITY OF GREEN FOREST CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF GREENBRIER CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF GREENWOOD ALDERMAN
+    Count: 384
+    Counties: 1
+CITY OF GREERS FERRY CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF HAMBURG ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF HARDY ALDERMAN
+    Count: 42
+    Counties: 2
+CITY OF HARRISON CITY COUNCIL
+    Count: 112
+    Counties: 1
+CITY OF HARRISON LOCAL MEASURE NO 1
+    Count: 32
+    Counties: 1
+CITY OF HASKELL ORDINANCE NO 19-2023
+    Count: 6
+    Counties: 1
+CITY OF HASKELL RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF HAVANA CITY COUNCIL
+    Count: 15
+    Counties: 1
+CITY OF HELENA-WEST HELENA ALD
+    Count: 33
+    Counties: 1
+CITY OF HICKORY RIDGE 1% SALES AND USE TAX
+    Count: 6
+    Counties: 1
+CITY OF HIGHFILL CITY COUNCIL
+    Count: 72
+    Counties: 1
+CITY OF HOLIDAY ISLAND CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF HOLLAND RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF HOPE 0.125% SALES AND USE TAX
+    Count: 42
+    Counties: 1
+CITY OF HORSESHOE BEND ALDERMAN
+    Count: 96
+    Counties: 2
+CITY OF HORSESHOE BEND RECORDER/TREASURER
+    Count: 30
+    Counties: 2
+CITY OF HOXIE ALDERMAN
+    Count: 36
+    Counties: 1
+CITY OF HUGHES ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF HUMNOKE 0.5% SALES & USE TAX
+    Count: 6
+    Counties: 1
+CITY OF HUMNOKE CITY CLERK
+    Count: 3
+    Counties: 1
+CITY OF HUMPHERY CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF HUMPHREY CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF HUTTIG RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF JACKSONVILLE CITY COUNCIL
+    Count: 260
+    Counties: 1
+CITY OF JOHNSON CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF JONESBORO ALDERMAN
+    Count: 228
+    Counties: 1
+CITY OF JONESBORO MAYOR
+    Count: 456
+    Counties: 1
+CITY OF JUDSONIA CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF KENSETT CITY COUNCIL
+    Count: 27
+    Counties: 1
+CITY OF KNOXVILLE CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF LAKE CITY ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF LAKE VILLAGE CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF LAVACA ALDERMAN
+    Count: 135
+    Counties: 1
+CITY OF LEACHVILLE CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF LEAD HILL CITY COUNCIL
+    Count: 8
+    Counties: 1
+CITY OF LEPANTO CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF LESLIE CITY COUNCIL CIT
+    Count: 12
+    Counties: 1
+CITY OF LESLIE CITY COUNCILCIT
+    Count: 6
+    Counties: 1
+CITY OF LESLIE RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF LETONA CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF LITTLE FLOCK CITY COUNCIL
+    Count: 66
+    Counties: 1
+CITY OF LOUANN CLERK/TREASURER
+    Count: 3
+    Counties: 1
+CITY OF LOWELL CITY COUNCIL
+    Count: 312
+    Counties: 1
+CITY OF LUXORA CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF LYNN ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF MADISON ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF MADISON RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF MAGNOLIA CITY COUNCIL
+    Count: 9
+    Counties: 1
+CITY OF MAGNOLIA REFUNDING BONDS
+    Count: 24
+    Counties: 1
+CITY OF MAGNOLIA SEWER IMPROVEMENT BONDS BOND ELECTION
+    Count: 24
+    Counties: 1
+CITY OF MAGNOLIA STREET IMPROVEMENT BONDS
+    Count: 24
+    Counties: 1
+CITY OF MAGNOLIA WATER IMPROVEMENT BONDS BOND ELECTION
+    Count: 24
+    Counties: 1
+CITY OF MAMMOTH SPRING ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF MAMMOTH SPRING RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF MARIANNA CITY COUNCIL
+    Count: 96
+    Counties: 1
+CITY OF MARION CITY COUNCIL
+    Count: 42
+    Counties: 1
+CITY OF MARION HOTEL TAX
+    Count: 12
+    Counties: 1
+CITY OF MARKED TREE CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF MARSHALL CITY COUNCIL C
+    Count: 24
+    Counties: 1
+CITY OF MARVELL 1% LOCAL SALES AND USE TAX
+    Count: 6
+    Counties: 1
+CITY OF MAUMELLE CITY COUNCIL
+    Count: 48
+    Counties: 1
+CITY OF MCCRORY ALDERMAN
+    Count: 24
+    Counties: 1
+CITY OF MCGEHEE ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF MCRAE CITY COUNCIL
+    Count: 12
+    Counties: 1
+CITY OF MELBOURNE ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF MENA CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF MONTICELLO CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF MORRILTON CITY COUNCIL
+    Count: 48
+    Counties: 1
+CITY OF MOUNTAIN HOME CITY COUNCIL
+    Count: 60
+    Counties: 1
+CITY OF MOUNTAIN VIEW CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF MT PINE ALDERMAN
+    Count: 24
+    Counties: 1
+CITY OF MULBERRY CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF MURFREESBORO ALDERMAN
+    Count: 12
+    Counties: 1
+CITY OF NIMMONS MAYOR
+    Count: 3
+    Counties: 1
+CITY OF NORFORK CITY COUNCIL
+    Count: 30
+    Counties: 1
+CITY OF NORFORK RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF NORTH LITTLE ROCK CITY COUNCIL
+    Count: 152
+    Counties: 1
+CITY OF NORTH LITTLE ROCK MAYOR
+    Count: 108
+    Counties: 1
+CITY OF O'KEAN CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF OAKHAVEN MAYOR
+    Count: 3
+    Counties: 1
+CITY OF OPPELO ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF OSCEOLA CITY COUNCIL
+    Count: 12
+    Counties: 1
+CITY OF OZAN MAYOR
+    Count: 3
+    Counties: 1
+CITY OF PALESTINE ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF PANGBURN CITY COUNCIL
+    Count: 36
+    Counties: 1
+CITY OF PANGBURN RECORDER/TREASURER
+    Count: 27
+    Counties: 1
+CITY OF PARKIN ALDERMAN
+    Count: 18
+    Counties: 1
+CITY OF PARKIN MAYORAL RECALL
+    Count: 6
+    Counties: 1
+CITY OF PEA RIDGE CITY COUNCIL
+    Count: 150
+    Counties: 1
+CITY OF PERRY CITY TAX
+    Count: 6
+    Counties: 1
+CITY OF PINE BLUFF CITY COUNCIL
+    Count: 144
+    Counties: 1
+CITY OF PINE BLUFF MAYOR
+    Count: 582
+    Counties: 1
+CITY OF PLAINVIEW CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF PLEASANT PLAINS CITY COUNCIL
+    Count: 30
+    Counties: 1
+CITY OF PLEASANT PLAINS RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF PLEASANT VIEW VOLUNTEER FIRE DEPARTMENT
+    Count: 60
+    Counties: 1
+CITY OF POCAHONTAS CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF PORTLAND ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF POTTSVILLE CITY COUNCIL
+    Count: 24
+    Counties: 1
+CITY OF POWHATAN ORDINANCE NO 2024-002
+    Count: 6
+    Counties: 1
+CITY OF PRAIRIE GROVE CITY COUNCIL
+    Count: 105
+    Counties: 1
+CITY OF REDFIELD CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF REDFIELD RECORDER/TREASURER
+    Count: 18
+    Counties: 1
+CITY OF ROGERS CITY COUNCIL
+    Count: 1683
+    Counties: 1
+CITY OF ROGERS MAYOR
+    Count: 309
+    Counties: 2
+CITY OF RUSSELLVILLE CITY COUNCIL
+    Count: 54
+    Counties: 1
+CITY OF SCRANTON ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF SHERIDAN CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF SHERWOOD CITY COUNCIL
+    Count: 168
+    Counties: 1
+CITY OF SILOAM SPRINGS MAYOR
+    Count: 36
+    Counties: 1
+CITY OF SMACKOVER RECORDER/TREASURER
+    Count: 6
+    Counties: 1
+CITY OF SPRINGDALE MAYOR
+    Count: 159
+    Counties: 2
+CITY OF SPRINGTOWN CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF STAMPS CITY COUNCIL
+    Count: 90
+    Counties: 1
+CITY OF STAMPS RECORDER/TREASURER
+    Count: 18
+    Counties: 1
+CITY OF STEPHENS SALES AND USE TAX
+    Count: 6
+    Counties: 1
+CITY OF STUTTGART CITY COUNCIL
+    Count: 12
+    Counties: 1
+CITY OF SULPHUR SPRINGS CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF SUNSET CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF TEXARKANA CITY COUNCIL
+    Count: 96
+    Counties: 1
+CITY OF TONTITOWN CITY COUNCIL
+    Count: 126
+    Counties: 1
+CITY OF TRASKWOOD CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF TRUMANN CITY CLERK
+    Count: 6
+    Counties: 1
+CITY OF TRUMANN CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF TUCKERMAN MAYOR
+    Count: 9
+    Counties: 1
+CITY OF VILONIA CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF VIOLA ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF WABBASEKA CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF WALDO CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF WARD CITY COUNCIL
+    Count: 18
+    Counties: 1
+CITY OF WARREN SCHOOL TAX
+    Count: 42
+    Counties: 1
+CITY OF WEST MEMPHIS 0.25% SALES AND USE TAX
+    Count: 42
+    Counties: 1
+CITY OF WEST MEMPHIS CITY COUNCIL
+    Count: 48
+    Counties: 1
+CITY OF WEST MEMPHIS DRAINAGE IMPROVEMENT BONDS
+    Count: 42
+    Counties: 1
+CITY OF WEST MEMPHIS PARK AND RECREATIONAL IMPROVEMENT BONDS
+    Count: 42
+    Counties: 1
+CITY OF WEST MEMPHIS POLICE IMRPOVEMENT BONDS
+    Count: 42
+    Counties: 1
+CITY OF WILMAR 1 CENT SALES TAX
+    Count: 6
+    Counties: 1
+CITY OF WILMOT ALDERMAN
+    Count: 6
+    Counties: 1
+CITY OF WINSLOW CITY COUNCIL
+    Count: 6
+    Counties: 1
+CITY OF WRIGHTSVILLE CITY COUNCIL
+    Count: 16
+    Counties: 1
+CITY OF WYNNE ALDERMAN
+    Count: 24
+    Counties: 1
+CITY OF WYNNE MAYORAL RECALL
+    Count: 30
+    Counties: 1
+CITY OF YELLVILLE CITY COUNCIL
+    Count: 15
+    Counties: 1
+CITY OF YELLVILLE RECORDER
+    Count: 3
+    Counties: 1
+CONSTABLE
+    Count: 126
+    Counties: 2
+CONSTABLE BIG ROCK TOWNSHIP
+    Count: 640
+    Counties: 1
+CONSTABLE CAMPGROUND TOWNSHIP
+    Count: 6
+    Counties: 1
+CONSTABLE CHALF BLUFF-LIDDELL TOWNSHIP
+    Count: 6
+    Counties: 1
+CONSTABLE GRAY TOWNSHIP
+    Count: 96
+    Counties: 1
+CONSTABLE HILL TOWNSHIP
+    Count: 416
+    Counties: 1
+CONSTABLE JEFFERSON TOWNSHIP
+    Count: 18
+    Counties: 1
+CONSTABLE WASHINGTON TOWNSHIP
+    Count: 6
+    Counties: 1
+CONSTABLE WESTERN TOWNSHIP
+    Count: 18
+    Counties: 1
+COURT OF APPEALS ASSOCIATE JUDGE
+    Count: 1410
+    Counties: 3
+DIRECTOR
+    Count: 180
+    Counties: 1
+DISTRICT JUDGE
+    Count: 696
+    Counties: 4
+EASTERN DISTRICT DEPUTY SHERIFF
+    Count: 48
+    Counties: 1
+FIRE IMPROVEMENT BONDS CITY OF WEST MEMPHIS MEASU
+    Count: 42
+    Counties: 1
+FIRE IMPROVEMENT BONDS HOPE
+    Count: 42
+    Counties: 1
+GREENWAY SALES TAX GREENWAY
+    Count: 6
+    Counties: 1
+GSD 4090 MILL SCHOOL TAX
+    Count: 96
+    Counties: 2
+HAND MARKED HAND COUNTED PAPER BALLOT ORDINANCE
+    Count: 204
+    Counties: 1
+HICKORY CREEK VFD
+    Count: 12
+    Counties: 1
+HOSPITAL FACILITIES IMPROVEMENT BONDS
+    Count: 186
+    Counties: 1
+HOT SPRINGS HOT SPRINGS DIRECTOR
+    Count: 72
+    Counties: 1
+JUSTICE OF THE PEACE
+    Count: 5150
+    Counties: 45
+KIMZEY WATER DISTRICT BOARD MEMBER
+    Count: 12
+    Counties: 1
+LAWRENCE COUNTY LIBRARY MILLAGE REDUCTION
+    Count: 168
+    Counties: 1
+LITTLE ROCK CITY DIRECTOR
+    Count: 1168
+    Counties: 1
+LOCAL ISSUE #1 HOLIDAY ISLAND A&P
+    Count: 6
+    Counties: 1
+LOCAL ISSUE #3 EUREKA SPRINGS
+    Count: 6
+    Counties: 1
+MENIFEE ANNEXATION
+    Count: 6
+    Counties: 1
+N P C BOARD OF TRUSTEES
+    Count: 416
+    Counties: 1
+NWACC BOARD OF TRUSTEES
+    Count: 510
+    Counties: 1
+OFF-PREMISE SALE OF ALCOHOLIC BEVERAGES ON SUNDAY
+    Count: 6
+    Counties: 1
+ORDINANCE NO 2024-1 ROCKPORT
+    Count: 12
+    Counties: 1
+ORDINANCE NO 2024-23
+    Count: 186
+    Counties: 1
+OUACHITA COUNTY CIRCUIT CLERK
+    Count: 54
+    Counties: 1
+PARK AND RECREATIONAL IMPROVEMENT BONDS HOPE
+    Count: 42
+    Counties: 1
+PBSD SCHOOL BOARD
+    Count: 48
+    Counties: 1
+PCSSD 407 MILL SCHOOL TAX
+    Count: 6
+    Counties: 1
+PLEASURE HEIGHTS VFD
+    Count: 6
+    Counties: 1
+POLICE IMPROVEMENT BONDS TONTITOWN
+    Count: 36
+    Counties: 1
+PRAIRIE TOWNSHIP WET-DRY LOCAL OPTION
+    Count: 42
+    Counties: 1
+QSD 3600 MILLS SCHOOL TAX
+    Count: 36
+    Counties: 1
+QUESTION 1 CITY OF LITTLE ROCK
+    Count: 584
+    Counties: 1
+QUESTION 2 CITY OF LITTLE ROCK
+    Count: 584
+    Counties: 1
+REFERRED QUESTION TO ANNEX 479 ACRES TO THE CITY
+    Count: 102
+    Counties: 1
+REFUNDING BOND TONTITOWN
+    Count: 36
+    Counties: 1
+REPEAL ORDINANCE 2023-03 THAT PERMITS SHORT-TERM
+    Count: 6
+    Counties: 1
+SEWER IMPROVEMENT BONDS GREENLAND
+    Count: 12
+    Counties: 1
+SPECIAL ELECTION CITY OF DERMOTT 2% SALES AND USE TAX
+    Count: 12
+    Counties: 1
+SPECIAL ELECTION CITY OF PYATT SALES AND USE TAX
+    Count: 6
+    Counties: 1
+SPECIAL ELECTION FOR CITY OF CAMMACK VILLAGE
+    Count: 8
+    Counties: 1
+SPECIAL ELECTION FOR CITY OF TRUMANN
+    Count: 6
+    Counties: 1
+SPECIAL ELECTION FOR DEFUNCT GRAY TOWNSHIP
+    Count: 56
+    Counties: 1
+SPECIAL ELECTION FOR THE CITY OF PORTLAND
+    Count: 6
+    Counties: 1
+SPECIAL ELECTION JAIL TAX
+    Count: 378
+    Counties: 2
+ST JOE 1% SALES TAX
+    Count: 12
+    Counties: 1
+STATE HOUSE
+    Count: 13883
+    Counties: 75
+STATE ISSUE 1
+    Count: 17502
+    Counties: 75
+STATE ISSUE 2
+    Count: 17502
+    Counties: 75
+STATE SENATE
+    Count: 7001
+    Counties: 53
+STATE SUPREME COURT CHIEF JUSTICE
+    Count: 17502
+    Counties: 75
+STATE TREASURER
+    Count: 26253
+    Counties: 75
+STREET IMPROVEMENT BONDS TONTITOWN
+    Count: 36
+    Counties: 1
+SUNDAY ALCOHOL SALES SILOAM SPRINGS
+    Count: 72
+    Counties: 1
+TAX LEVY ORDINANCES 2024-5-9A-MCNEIL ARKANSAS MC
+    Count: 6
+    Counties: 1
+TONTITOWN AREA FIRE DISTRICT
+    Count: 24
+    Counties: 1
+TOWN OF TILLAR 2% SALES AND USE TAX
+    Count: 12
+    Counties: 2
+TOWN OF TONTITOWN PARK/REC IMPROVEMENT BONDS
+    Count: 36
+    Counties: 1
+TOWN OF TONTITOWN WATER IMPROVEMENT BONDS
+    Count: 36
+    Counties: 1
+US HOUSE
+    Count: 22227
+    Counties: 75
+US PRESIDENT
+    Count: 61257
+    Counties: 75
+WRIGHTSVILLE TREASURER
+    Count: 8
+    Counties: 1

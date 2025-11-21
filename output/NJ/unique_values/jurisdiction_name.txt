@@ -1,0 +1,65 @@
+UNIQUE VALUES — jurisdiction_name
+============================================================
+ATLANTIC
+    Count: 13620
+    Counties: 1
+BERGEN
+    Count: 106204
+    Counties: 1
+BURLINGTON
+    Count: 33210
+    Counties: 1
+CAMDEN
+    Count: 36649
+    Counties: 1
+CAPE MAY
+    Count: 8452
+    Counties: 1
+CUMBERLAND
+    Count: 9266
+    Counties: 1
+ESSEX
+    Count: 43981
+    Counties: 1
+GLOUCESTER
+    Count: 491
+    Counties: 1
+HUDSON
+    Count: 37663
+    Counties: 1
+HUNTERDON
+    Count: 6547
+    Counties: 1
+MERCER
+    Count: 16500
+    Counties: 1
+MIDDLESEX
+    Count: 98130
+    Counties: 1
+MONMOUTH
+    Count: 18783
+    Counties: 1
+MORRIS
+    Count: 98026
+    Counties: 1
+OCEAN
+    Count: 38013
+    Counties: 1
+PASSAIC
+    Count: 13316
+    Counties: 1
+SALEM
+    Count: 8524
+    Counties: 1
+SOMERSET
+    Count: 10362
+    Counties: 1
+SUSSEX
+    Count: 4598
+    Counties: 1
+UNION
+    Count: 33645
+    Counties: 1
+WARREN
+    Count: 5720
+    Counties: 1

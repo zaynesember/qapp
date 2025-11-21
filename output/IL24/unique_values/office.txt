@@ -1,0 +1,38 @@
+UNIQUE VALUES — office
+============================================================
+ADVISORY QUESTION 1
+    Count: 37621
+    Counties: 102
+ADVISORY QUESTION 2
+    Count: 37621
+    Counties: 102
+ADVISORY QUESTION 3
+    Count: 37621
+    Counties: 102
+APPELLATE COURT JUDGE
+    Count: 103633
+    Counties: 65
+BUREAU/HENRY/STARK - SUPERINTENDENT OF SCHOOLS
+    Count: 368
+    Counties: 8
+CIRCUIT COURT JUDGE
+    Count: 88766
+    Counties: 101
+COOK CIRCUIT COURT JUDGE
+    Count: 924236
+    Counties: 6
+PRAIRIE DUPONT LEVEE AND SANITARY DISTRICT
+    Count: 56
+    Counties: 2
+STATE HOUSE
+    Count: 35830
+    Counties: 102
+STATE SENATE
+    Count: 13038
+    Counties: 52
+US HOUSE
+    Count: 44663
+    Counties: 102
+US PRESIDENT
+    Count: 60615
+    Counties: 102

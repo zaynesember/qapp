@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 749
+office: 17
+party_detailed: 8
+party_simplified: 6
+mode: 5
+votes: 1551
+county_name: 24
+county_fips: 24
+jurisdiction_name: 24
+jurisdiction_fips: 24
+candidate: 275
+district: 24
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 2
+writein: 2
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 6
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: MD
+    Jurisdictions: 24
+    Counties: 24
+    Precincts: 749
+

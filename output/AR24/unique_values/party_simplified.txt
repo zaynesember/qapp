@@ -1,0 +1,17 @@
+UNIQUE VALUES — party_simplified
+============================================================
+DEMOCRAT
+    Count: 35361
+    Counties: 75
+LIBERTARIAN
+    Count: 24516
+    Counties: 75
+NONPARTISAN
+    Count: 73571
+    Counties: 75
+OTHER
+    Count: 39386
+    Counties: 75
+REPUBLICAN
+    Count: 41874
+    Counties: 75

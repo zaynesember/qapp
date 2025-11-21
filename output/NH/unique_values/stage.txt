@@ -1,0 +1,8 @@
+UNIQUE VALUES — stage
+============================================================
+GEN
+    Count: 21873
+    Counties: 10
+GEN RECOUNT
+    Count: 143
+    Counties: 4

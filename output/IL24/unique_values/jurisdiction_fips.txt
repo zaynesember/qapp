@@ -1,0 +1,326 @@
+UNIQUE VALUES — jurisdiction_fips
+============================================================
+17001
+    Count: 3717
+    Counties: 1
+17003
+    Count: 549
+    Counties: 1
+17005
+    Count: 978
+    Counties: 1
+17007
+    Count: 2218
+    Counties: 1
+17009
+    Count: 715
+    Counties: 1
+17011
+    Count: 3578
+    Counties: 1
+17013
+    Count: 258
+    Counties: 1
+17015
+    Count: 1051
+    Counties: 1
+17017
+    Count: 1269
+    Counties: 1
+17019
+    Count: 5892
+    Counties: 1
+17021
+    Count: 1135
+    Counties: 1
+17023
+    Count: 1280
+    Counties: 1
+17025
+    Count: 790
+    Counties: 1
+17027
+    Count: 1202
+    Counties: 1
+17029
+    Count: 2397
+    Counties: 1
+17031
+    Count: 559700
+    Counties: 1
+17033
+    Count: 1337
+    Counties: 1
+17035
+    Count: 796
+    Counties: 1
+17037
+    Count: 2231
+    Counties: 1
+17039
+    Count: 1272
+    Counties: 1
+17041
+    Count: 1003
+    Counties: 1
+17043
+    Count: 33845
+    Counties: 1
+17045
+    Count: 1683
+    Counties: 1
+17047
+    Count: 586
+    Counties: 1
+17049
+    Count: 1240
+    Counties: 1
+17051
+    Count: 992
+    Counties: 1
+17053
+    Count: 1378
+    Counties: 1
+17055
+    Count: 1742
+    Counties: 1
+17057
+    Count: 2692
+    Counties: 1
+17059
+    Count: 502
+    Counties: 1
+17061
+    Count: 1146
+    Counties: 1
+17063
+    Count: 3175
+    Counties: 1
+17065
+    Count: 762
+    Counties: 1
+1706613000
+    Count: 2951
+    Counties: 1
+17067
+    Count: 1630
+    Counties: 1
+17069
+    Count: 345
+    Counties: 1
+17071
+    Count: 664
+    Counties: 1
+17073
+    Count: 2176
+    Counties: 1
+17075
+    Count: 2248
+    Counties: 1
+17077
+    Count: 3935
+    Counties: 1
+17079
+    Count: 640
+    Counties: 1
+17081
+    Count: 1595
+    Counties: 1
+17083
+    Count: 903
+    Counties: 1
+17085
+    Count: 1076
+    Counties: 1
+17087
+    Count: 948
+    Counties: 1
+17089
+    Count: 19012
+    Counties: 1
+17091
+    Count: 3829
+    Counties: 1
+17093
+    Count: 2668
+    Counties: 1
+17095
+    Count: 1782
+    Counties: 1
+17097
+    Count: 24206
+    Counties: 1
+17099
+    Count: 7939
+    Counties: 1
+17101
+    Count: 411
+    Counties: 1
+17103
+    Count: 2370
+    Counties: 1
+17105
+    Count: 2849
+    Counties: 1
+17107
+    Count: 1670
+    Counties: 1
+17109
+    Count: 2730
+    Counties: 1
+17111
+    Count: 9977
+    Counties: 1
+17113
+    Count: 4087
+    Counties: 1
+17115
+    Count: 3662
+    Counties: 1
+17117
+    Count: 2537
+    Counties: 1
+17119
+    Count: 7587
+    Counties: 1
+17121
+    Count: 1314
+    Counties: 1
+17123
+    Count: 319
+    Counties: 1
+17125
+    Count: 1302
+    Counties: 1
+17127
+    Count: 1250
+    Counties: 1
+17129
+    Count: 349
+    Counties: 1
+17131
+    Count: 1254
+    Counties: 1
+17133
+    Count: 818
+    Counties: 1
+17135
+    Count: 1661
+    Counties: 1
+17137
+    Count: 1696
+    Counties: 1
+17139
+    Count: 793
+    Counties: 1
+1714000000
+    Count: 501839
+    Counties: 1
+17141
+    Count: 2458
+    Counties: 1
+17143
+    Count: 11048
+    Counties: 1
+17145
+    Count: 1136
+    Counties: 1
+17147
+    Count: 891
+    Counties: 1
+17149
+    Count: 1553
+    Counties: 1
+17151
+    Count: 399
+    Counties: 1
+17153
+    Count: 550
+    Counties: 1
+17155
+    Count: 480
+    Counties: 1
+17157
+    Count: 1194
+    Counties: 1
+17159
+    Count: 1229
+    Counties: 1
+17161
+    Count: 5916
+    Counties: 1
+17163
+    Count: 7052
+    Counties: 1
+17165
+    Count: 1736
+    Counties: 1
+17167
+    Count: 7413
+    Counties: 1
+17169
+    Count: 1023
+    Counties: 1
+17171
+    Count: 535
+    Counties: 1
+17173
+    Count: 1263
+    Counties: 1
+17175
+    Count: 450
+    Counties: 1
+17177
+    Count: 1720
+    Counties: 1
+17179
+    Count: 4500
+    Counties: 1
+17181
+    Count: 989
+    Counties: 1
+17183
+    Count: 2440
+    Counties: 1
+17185
+    Count: 777
+    Counties: 1
+1718563000
+    Count: 1180
+    Counties: 1
+17187
+    Count: 1783
+    Counties: 1
+17189
+    Count: 927
+    Counties: 1
+17191
+    Count: 1303
+    Counties: 1
+17193
+    Count: 1128
+    Counties: 1
+17195
+    Count: 3612
+    Counties: 1
+17197
+    Count: 29842
+    Counties: 1
+17199
+    Count: 2756
+    Counties: 1
+17201
+    Count: 4792
+    Counties: 1
+17203
+    Count: 1934
+    Counties: 1
+1722255000
+    Count: 625
+    Counties: 1
+1728326000
+    Count: 488
+    Counties: 1
+1765000000
+    Count: 4813
+    Counties: 1

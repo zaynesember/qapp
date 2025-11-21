@@ -1,0 +1,308 @@
+UNIQUE VALUES — county_name
+============================================================
+ADAMS
+    Count: 3717
+    Counties: 1
+ALEXANDER
+    Count: 549
+    Counties: 1
+BOND
+    Count: 978
+    Counties: 1
+BOONE
+    Count: 2218
+    Counties: 1
+BROWN
+    Count: 715
+    Counties: 1
+BUREAU
+    Count: 3578
+    Counties: 1
+CALHOUN
+    Count: 258
+    Counties: 1
+CARROLL
+    Count: 1051
+    Counties: 1
+CASS
+    Count: 1269
+    Counties: 1
+CHAMPAIGN
+    Count: 5892
+    Counties: 1
+CHRISTIAN
+    Count: 1135
+    Counties: 1
+CLARK
+    Count: 1280
+    Counties: 1
+CLAY
+    Count: 790
+    Counties: 1
+CLINTON
+    Count: 1202
+    Counties: 1
+COLES
+    Count: 2397
+    Counties: 1
+COOK
+    Count: 1061539
+    Counties: 1
+CRAWFORD
+    Count: 1337
+    Counties: 1
+CUMBERLAND
+    Count: 796
+    Counties: 1
+DEKALB
+    Count: 2231
+    Counties: 1
+DEWITT
+    Count: 1272
+    Counties: 1
+DOUGLAS
+    Count: 1003
+    Counties: 1
+DUPAGE
+    Count: 33845
+    Counties: 1
+EDGAR
+    Count: 1683
+    Counties: 1
+EDWARDS
+    Count: 586
+    Counties: 1
+EFFINGHAM
+    Count: 1240
+    Counties: 1
+FAYETTE
+    Count: 992
+    Counties: 1
+FORD
+    Count: 1378
+    Counties: 1
+FRANKLIN
+    Count: 1742
+    Counties: 1
+FULTON
+    Count: 2692
+    Counties: 1
+GALLATIN
+    Count: 502
+    Counties: 1
+GREENE
+    Count: 1146
+    Counties: 1
+GRUNDY
+    Count: 3175
+    Counties: 1
+HAMILTON
+    Count: 762
+    Counties: 1
+HANCOCK
+    Count: 1630
+    Counties: 1
+HARDIN
+    Count: 345
+    Counties: 1
+HENDERSON
+    Count: 664
+    Counties: 1
+HENRY
+    Count: 2176
+    Counties: 1
+IROQUOIS
+    Count: 2248
+    Counties: 1
+JACKSON
+    Count: 3935
+    Counties: 1
+JASPER
+    Count: 640
+    Counties: 1
+JEFFERSON
+    Count: 1595
+    Counties: 1
+JERSEY
+    Count: 903
+    Counties: 1
+JODAVIESS
+    Count: 1076
+    Counties: 1
+JOHNSON
+    Count: 948
+    Counties: 1
+KANE
+    Count: 19012
+    Counties: 1
+KANKAKEE
+    Count: 3829
+    Counties: 1
+KENDALL
+    Count: 2668
+    Counties: 1
+KNOX
+    Count: 2270
+    Counties: 1
+LAKE
+    Count: 24206
+    Counties: 1
+LASALLE
+    Count: 7939
+    Counties: 1
+LAWRENCE
+    Count: 411
+    Counties: 1
+LEE
+    Count: 2370
+    Counties: 1
+LIVINGSTON
+    Count: 2849
+    Counties: 1
+LOGAN
+    Count: 1670
+    Counties: 1
+MACON
+    Count: 3662
+    Counties: 1
+MACOUPIN
+    Count: 2537
+    Counties: 1
+MADISON
+    Count: 7587
+    Counties: 1
+MARION
+    Count: 1314
+    Counties: 1
+MARSHALL
+    Count: 319
+    Counties: 1
+MASON
+    Count: 1302
+    Counties: 1
+MASSAC
+    Count: 1250
+    Counties: 1
+MCDONOUGH
+    Count: 2730
+    Counties: 1
+MCHENRY
+    Count: 9977
+    Counties: 1
+MCLEAN
+    Count: 7038
+    Counties: 1
+MENARD
+    Count: 349
+    Counties: 1
+MERCER
+    Count: 1254
+    Counties: 1
+MONROE
+    Count: 818
+    Counties: 1
+MONTGOMERY
+    Count: 1661
+    Counties: 1
+MORGAN
+    Count: 1696
+    Counties: 1
+MOULTRIE
+    Count: 793
+    Counties: 1
+OGLE
+    Count: 2458
+    Counties: 1
+PEORIA
+    Count: 11048
+    Counties: 1
+PERRY
+    Count: 1136
+    Counties: 1
+PIATT
+    Count: 891
+    Counties: 1
+PIKE
+    Count: 1553
+    Counties: 1
+POPE
+    Count: 399
+    Counties: 1
+PULASKI
+    Count: 550
+    Counties: 1
+PUTNAM
+    Count: 480
+    Counties: 1
+RANDOLPH
+    Count: 1194
+    Counties: 1
+RICHLAND
+    Count: 1229
+    Counties: 1
+ROCK ISLAND
+    Count: 5916
+    Counties: 1
+SALINE
+    Count: 1736
+    Counties: 1
+SANGAMON
+    Count: 7413
+    Counties: 1
+SCHUYLER
+    Count: 1023
+    Counties: 1
+SCOTT
+    Count: 535
+    Counties: 1
+SHELBY
+    Count: 1263
+    Counties: 1
+ST. CLAIR
+    Count: 7677
+    Counties: 1
+STARK
+    Count: 450
+    Counties: 1
+STEPHENSON
+    Count: 1720
+    Counties: 1
+TAZEWELL
+    Count: 4500
+    Counties: 1
+UNION
+    Count: 989
+    Counties: 1
+VERMILION
+    Count: 3620
+    Counties: 1
+WABASH
+    Count: 777
+    Counties: 1
+WARREN
+    Count: 1783
+    Counties: 1
+WASHINGTON
+    Count: 927
+    Counties: 1
+WAYNE
+    Count: 1303
+    Counties: 1
+WHITE
+    Count: 1128
+    Counties: 1
+WHITESIDE
+    Count: 3612
+    Counties: 1
+WILL
+    Count: 29842
+    Counties: 1
+WILLIAMSON
+    Count: 2756
+    Counties: 1
+WINNEBAGO
+    Count: 9605
+    Counties: 1
+WOODFORD
+    Count: 1934
+    Counties: 1

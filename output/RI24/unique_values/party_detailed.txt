@@ -1,0 +1,26 @@
+UNIQUE VALUES — party_detailed
+============================================================
+DEMOCRAT
+    Count: 13740
+    Counties: 6
+GREEN
+    Count: 1988
+    Counties: 6
+INDEPENDENT
+    Count: 4752
+    Counties: 6
+LIBERTARIAN
+    Count: 1988
+    Counties: 6
+NONPARTISAN
+    Count: 47892
+    Counties: 6
+PARTY
+    Count: 1988
+    Counties: 6
+REPUBLICAN
+    Count: 9348
+    Counties: 6
+SOCIALISM AND LIBERATION
+    Count: 1988
+    Counties: 6

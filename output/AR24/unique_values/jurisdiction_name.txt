@@ -1,0 +1,227 @@
+UNIQUE VALUES — jurisdiction_name
+============================================================
+ARKANSAS
+    Count: 2019
+    Counties: 1
+ASHLEY
+    Count: 1932
+    Counties: 1
+BAXTER
+    Count: 834
+    Counties: 1
+BENTON
+    Count: 35586
+    Counties: 1
+BOONE
+    Count: 1200
+    Counties: 1
+BRADLEY
+    Count: 966
+    Counties: 1
+CALHOUN
+    Count: 486
+    Counties: 1
+CARROLL
+    Count: 804
+    Counties: 1
+CHICOT
+    Count: 492
+    Counties: 1
+CLARK
+    Count: 1374
+    Counties: 1
+CLAY
+    Count: 1035
+    Counties: 1
+CLEBURNE
+    Count: 2268
+    Counties: 1
+CLEVELAND
+    Count: 1098
+    Counties: 1
+COLUMBIA
+    Count: 999
+    Counties: 1
+CONWAY
+    Count: 2592
+    Counties: 1
+CRAIGHEAD
+    Count: 5259
+    Counties: 1
+CRAWFORD
+    Count: 1276
+    Counties: 1
+CRITTENDEN
+    Count: 1473
+    Counties: 1
+CROSS
+    Count: 972
+    Counties: 1
+DALLAS
+    Count: 582
+    Counties: 1
+DESHA
+    Count: 1389
+    Counties: 1
+DREW
+    Count: 1197
+    Counties: 1
+FAULKNER
+    Count: 4350
+    Counties: 1
+FRANKLIN
+    Count: 2445
+    Counties: 1
+FULTON
+    Count: 711
+    Counties: 1
+GARLAND
+    Count: 5040
+    Counties: 1
+GRANT
+    Count: 1116
+    Counties: 1
+GREENE
+    Count: 696
+    Counties: 1
+HEMPSTEAD
+    Count: 1845
+    Counties: 1
+HOT SPRING
+    Count: 1911
+    Counties: 1
+HOWARD
+    Count: 618
+    Counties: 1
+INDEPENDENCE
+    Count: 2490
+    Counties: 1
+IZARD
+    Count: 3102
+    Counties: 1
+JACKSON
+    Count: 3024
+    Counties: 1
+JEFFERSON
+    Count: 11265
+    Counties: 1
+JOHNSON
+    Count: 777
+    Counties: 1
+LAFAYETTE
+    Count: 666
+    Counties: 1
+LAWRENCE
+    Count: 2181
+    Counties: 1
+LEE
+    Count: 681
+    Counties: 1
+LINCOLN
+    Count: 1809
+    Counties: 1
+LITTLE RIVER
+    Count: 1338
+    Counties: 1
+LOGAN
+    Count: 2220
+    Counties: 1
+LONOKE
+    Count: 3654
+    Counties: 1
+MADISON
+    Count: 660
+    Counties: 1
+MARION
+    Count: 2196
+    Counties: 1
+MILLER
+    Count: 1816
+    Counties: 1
+MISSISSIPPI
+    Count: 1125
+    Counties: 1
+MONROE
+    Count: 1578
+    Counties: 1
+MONTGOMERY
+    Count: 1020
+    Counties: 1
+NEVADA
+    Count: 1446
+    Counties: 1
+NEWTON
+    Count: 1083
+    Counties: 1
+OUACHITA
+    Count: 1188
+    Counties: 1
+PERRY
+    Count: 1281
+    Counties: 1
+PHILLIPS
+    Count: 687
+    Counties: 1
+PIKE
+    Count: 696
+    Counties: 1
+POINSETT
+    Count: 834
+    Counties: 1
+POLK
+    Count: 1089
+    Counties: 1
+POPE
+    Count: 3894
+    Counties: 1
+PRAIRIE
+    Count: 1563
+    Counties: 1
+PULASKI
+    Count: 17240
+    Counties: 1
+RANDOLPH
+    Count: 1767
+    Counties: 1
+SALINE
+    Count: 3321
+    Counties: 1
+SCOTT
+    Count: 1560
+    Counties: 1
+SEARCY
+    Count: 960
+    Counties: 1
+SEBASTIAN
+    Count: 14748
+    Counties: 1
+SEVIER
+    Count: 630
+    Counties: 1
+SHARP
+    Count: 1743
+    Counties: 1
+ST FRANCIS
+    Count: 1053
+    Counties: 1
+STONE
+    Count: 1191
+    Counties: 1
+UNION
+    Count: 1752
+    Counties: 1
+VAN BUREN
+    Count: 1506
+    Counties: 1
+WASHINGTON
+    Count: 18087
+    Counties: 1
+WHITE
+    Count: 6093
+    Counties: 1
+WOODRUFF
+    Count: 1362
+    Counties: 1
+YELL
+    Count: 1767
+    Counties: 1
