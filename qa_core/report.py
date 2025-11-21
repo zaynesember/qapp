@@ -17,13 +17,20 @@ from qa_core import config
 # Utility functions
 # ---------------------------------------------------------------------
 
-def _flatten(value: Any) -> str:
-    """Convert listlike/dict/dataframe/scalar to concise string."""
+def _flatten(value: Any, show_empty_marker: bool = False) -> str:
+    """Convert listlike/dict/dataframe/scalar to concise string.
+
+    By default this returns empty strings for missing/blank inputs so that
+    report cells remain blank. Set `show_empty_marker=True` only when a
+    literal "<EMPTY>" marker is desired (currently the Unique sheet).
+    """
+    empty_marker = "<EMPTY>" if show_empty_marker else ""
+
     if isinstance(value, (list, tuple, set, pd.Series, np.ndarray)):
         value = list(value)
         if not value:
-            return "<EMPTY>"
-        normed = ["<EMPTY>" if (pd.isna(v) or str(v).strip() == "") else str(v).strip() for v in value]
+            return empty_marker
+        normed = [empty_marker if (pd.isna(v) or str(v).strip() == "") else str(v).strip() for v in value]
         uniq = list(set(normed))
         if len(uniq) == 1:
             val = uniq[0]
@@ -33,16 +40,16 @@ def _flatten(value: Any) -> str:
         return ", ".join(normed)
     if isinstance(value, dict):
         if not value:
-            return "<EMPTY>"
+            return empty_marker
         return "; ".join(
-            f"{k}={('<EMPTY>' if pd.isna(v) or (isinstance(v, str) and not v.strip()) else v)}"
+            f"{k}={(empty_marker if pd.isna(v) or (isinstance(v, str) and not v.strip()) else v)}"
             for k, v in value.items()
         )
     if isinstance(value, pd.DataFrame):
-        return "<EMPTY>" if value.empty else f"<DATAFRAME: {value.shape[0]} rows, {value.shape[1]} cols>"
+        return empty_marker if value.empty else f"<DATAFRAME: {value.shape[0]} rows, {value.shape[1]} cols>"
     try:
         if pd.isna(value) or (isinstance(value, str) and not value.strip()):
-            return "<EMPTY>"
+            return empty_marker
     except Exception:
         pass
     return str(value)
@@ -290,10 +297,11 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             "statewide_totals": "Vote Aggregation",
             "duplicates": "Duplicates",
             # Friendly sheet names
-            "zero_vote_precincts": "Zero Vote Precinct-offices",
-            "magnitude_offices_map": "Magnitude to Offices",
-            "offices_multiple_magnitudes": "Offices with Multiple Magnitudes",
-            "stage_invalid_rows": "Stage Invalid Values",
+            "zero_vote_precincts": "Zero Votes",
+            "unique_values": "Unique",
+            "magnitude_offices_map": "Mag Offices",
+            "offices_multiple_magnitudes": "Multi-Mag Offices",
+            "stage_invalid_rows": "Stage Issues",
         }
 
         def _autosize_sheet(sheet_name: str, df_table: pd.DataFrame):
@@ -368,9 +376,36 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
 
         # Write DataFrame sheets in alphabetical order
         df_sheets.sort(key=lambda x: x[0].lower())
+
+        # --- Table of Contents on QA Summary ---
+        try:
+            toc_start = banner_end + len(meta_items) + 2
+            ws.write(toc_start, 0, "Table of Contents", header_fmt)
+            link_fmt = wb.add_format({"font_color": "#0563C1", "underline": True})
+            # list each sheet with hyperlink and a short shape description
+            row_idx = toc_start + 1
+            for name, table in df_sheets:
+                sheet_name = name[:31]
+                # skip if somehow the name is the QA Summary itself
+                if sheet_name == "QA Summary":
+                    continue
+                # internal hyperlink to sheet's A1 (no size/shape column)
+                url = f"internal:'{sheet_name}'!A1"
+                ws.write_url(row_idx, 0, url, link_fmt, sheet_name)
+                row_idx += 1
+        except Exception:
+            pass
         for name, table in df_sheets:
             sheet_name = name[:31]
             table.to_excel(writer, index=False, sheet_name=sheet_name)
             _autosize_sheet(sheet_name, table)
+            # Freeze header row for the Unique Values sheet for easier browsing
+            try:
+                if sheet_name == "Unique Values":
+                    ws_uv = writer.sheets.get(sheet_name)
+                    if ws_uv is not None:
+                        ws_uv.freeze_panes(1, 0)
+            except Exception:
+                pass
 
     print(f"Excel report written to {path}")

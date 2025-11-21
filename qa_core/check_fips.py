@@ -6,6 +6,8 @@ Ensures internal consistency between detected state and file contents.
 import pandas as pd
 import logging
 from pathlib import Path
+from typing import Optional
+from qa_core import config
 
 
 def load_reference_files(help_dir: Path):
@@ -160,7 +162,62 @@ def run_fips_checks(df: pd.DataFrame, help_dir: Path, file_path: Path | None = N
     state_ref, county_ref = load_reference_files(help_dir)
     expected = detect_state_from_filename(file_path, state_ref) if file_path else {}
 
+    # Dataset-level `state_po` distribution analysis. This produces a
+    # concise summary describing the dominant `state_po` value in the
+    # dataset and a flag (`dataset_state_mismatch`) when the dominant
+    # value differs from the filename-inferred state and is sufficiently
+    # dominant (controlled by `config.STATE_PO_DOMINANCE_THRESHOLD`).
     results = {}
+    try:
+        if "state_po" in df.columns:
+            po_series = df["state_po"].dropna().astype(str).str.strip().str.upper()
+            po_series = po_series[po_series != ""]
+            vc = po_series.value_counts()
+            total_po = int(vc.sum()) if not vc.empty else 0
+            if total_po > 0:
+                top_po = vc.index[0]
+                top_count = int(vc.iloc[0])
+                top_share = float(top_count) / float(total_po)
+                state_counts = vc.to_dict()
+            else:
+                top_po = None
+                top_count = 0
+                top_share = 0.0
+                state_counts = {}
+
+            dataset_summary = {
+                "dominant_state_po": top_po,
+                "dominant_count": top_count,
+                "total_counted": total_po,
+                "dominant_share": round(top_share, 3),
+                "state_counts": {k: int(v) for k, v in state_counts.items()},
+                "detected_from_filename": expected.get("state_po") if expected else None,
+            }
+
+            threshold = getattr(config, "STATE_PO_DOMINANCE_THRESHOLD", 0.8)
+            dataset_summary["dataset_state_mismatch"] = (
+                True
+                if expected and top_po and expected.get("state_po") and top_po != expected.get("state_po") and top_share >= threshold
+                else False
+            )
+
+            results["state_po_dataset_summary"] = dataset_summary
+
+            # Provide row-level indicator for rows whose `state_po` is not the dominant value
+            if top_po:
+                mask = df["state_po"].astype(str).str.strip().str.upper().ne(top_po)
+                empty_mask = df["state_po"].astype(str).str.strip().eq("") | df["state_po"].isna()
+                mask = mask & ~empty_mask
+                rows = df.loc[mask].index.to_series().add(1).tolist()
+                vals = df.loc[mask, "state_po"].astype(str).tolist() if "state_po" in df.columns else []
+                results["state_po_not_dominant"] = {"issues": len(rows), "issue_values": vals, "issue_row_numbers": rows}
+            else:
+                results["state_po_not_dominant"] = {"issues": 0, "issue_values": [], "issue_row_numbers": []}
+        else:
+            results["state_po_dataset_summary"] = {"dominant_state_po": None, "dominant_count": 0, "total_counted": 0, "dominant_share": 0.0, "state_counts": {}, "detected_from_filename": expected.get("state_po") if expected else None, "dataset_state_mismatch": False}
+            results["state_po_not_dominant"] = {"issues": 0, "issue_values": [], "issue_row_numbers": []}
+    except Exception as e:
+        logging.warning(f"state_po dataset analysis failed: {e}")
     if expected:
         results.update(validate_state_identifiers(df, expected))
         # extra check: ensure county_fips prefixes align with expected state_fips
@@ -174,10 +231,15 @@ def run_fips_checks(df: pd.DataFrame, help_dir: Path, file_path: Path | None = N
     ]
     # include county->state prefix cross-check
     required.append("county_state_mismatch")
+    # row-level non-dominant `state_po` indicator (created by dataset analysis)
+    required.append("state_po_not_dominant")
     for k in required:
         results.setdefault(k, {"issues": 0, "issue_values": [], "issue_row_numbers": []})
 
-    total = sum(v["issues"] for v in results.values())
+    # Some entries in `results` (e.g., `state_po_dataset_summary`) are
+    # not per-row issue dicts and therefore do not contain an `issues`
+    # key. Sum only the `issues` values where present to avoid KeyError.
+    total = sum(v.get("issues", 0) for v in results.values())
     if total:
         logging.warning(f"State code validation found {total} issues.")
     else:

@@ -103,58 +103,18 @@ def export_unique_values(df: pd.DataFrame, output_dir: Path) -> None:
     Export a strict summary of unique jurisdiction, county, and precinct counts.
     All expected columns from the schema must be present.
     """
-    output_dir.mkdir(parents=True, exist_ok=True)
-    out_path = output_dir / "unique_values_summary.txt"
+    # Deprecated: previously wrote individual txt exports. Keep function
+    # for compatibility but no longer write files. Use `build_unique_values_df`
+    # to generate a DataFrame usable by the Excel report writer.
+    warnings.warn("export_unique_values no longer writes files; use build_unique_values_df()")
 
-    expected_cols = {
-        "state_po", "jurisdiction_name", "jurisdiction_fips",
-        "county_name", "county_fips", "precinct"
-    }
 
-    missing = expected_cols - set(df.columns)
-    if missing:
-        warnings.warn(
-            f"[QAPP] Missing expected columns in export_unique_values: {', '.join(sorted(missing))}"
-        )
-
-    with open(out_path, "w") as f:
-        f.write("Unique Values Summary\n")
-        f.write("=====================\n\n")
-
-        # Global unique counts
-        for col in df.columns:
-            n_unique = df[col].nunique(dropna=True)
-            f.write(f"{col}: {n_unique}\n")
-
-        f.write("\nDetailed Breakdown by State (Strict Schema)\n")
-        f.write("-------------------------------------------\n")
-
-        if "state_po" not in df.columns:
-            f.write("ERROR: Missing required column 'state_po'.\n")
-            return
-
-        # Compute strict per-state breakdown
-        counts = (
-            df.groupby("state_po", dropna=False)
-            .agg(
-                jurisdiction_count=("jurisdiction_name", lambda x: x.nunique(dropna=True)),
-                county_count=("county_name", lambda x: x.nunique(dropna=True)),
-                precinct_count=("precinct", lambda x: x.nunique(dropna=True))
-            )
-            .reset_index()
-        )
-
-        for _, row in counts.iterrows():
-            state_po = str(row["state_po"]) if pd.notna(row["state_po"]) else "<EMPTY>"
-            jurisdiction_count = int(row["jurisdiction_count"]) if pd.notna(row["jurisdiction_count"]) else 0
-            county_count = int(row["county_count"]) if pd.notna(row["county_count"]) else 0
-            precinct_count = int(row["precinct_count"]) if pd.notna(row["precinct_count"]) else 0
-
-            f.write(f"State: {state_po}\n")
-            f.write(f"    Jurisdictions: {jurisdiction_count}\n")
-            f.write(f"    Counties: {county_count}\n")
-            f.write(f"    Precincts: {precinct_count}\n\n")
-
-    print(f"Unique values summary written to {out_path}")
+def build_unique_values_df(df: pd.DataFrame) -> pd.DataFrame:
+    """Return a DataFrame where each column is an original column name and
+    rows list the unique values observed for that column (one unique value
+    per cell). Columns are padded with empty strings to form a rectangular
+    DataFrame suitable for writing as an Excel sheet.
+    """
+    raise NotImplementedError("build_unique_values_df has been removed; unique-values sheet is built in the runner")
 
 

@@ -1,6 +1,5 @@
 QAPP TO DO
 
-- Readd unique value txt reports or think of a better way to do so
 - Distinguish between empty values reported from the data (which should appear as <EMPTY>) from cells in the QA report that actually just don't have anything to report which should be left empty rather than have <EMPTY> within them
 - Check for correct column ordering matching the Precinct Project README
 - Vote totaller to not duplicate if there is a TOTAL `mode`

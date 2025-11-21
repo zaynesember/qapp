@@ -133,6 +133,13 @@ Edit `qa_core/config.py` for repo‑wide constants:
 - `REQUIRED_COLUMNS`: canonical column set used by column checks.
 - `OUTLIER_THRESHOLD`: MAD threshold for distributional checks.
 - `QA_OUTPUT_DIR`: top-level output folder (default `output/`).
+ - `AGGREGATE_MARKERS`: list of tokens that identify rows which are totals,
+    statistical adjustments, or other non‑candidate rows that should be
+    excluded from duplicate and mismatch detection. These markers typically
+    appear in the `candidate` column (e.g., `"COUNTY TOTALS"`,
+    `"MACHINE COUNT"`, `"OVERVOTES"`, `"UNDERVOTES"`, `"VOID"`,
+    `"BLANK"`) and are matched case-insensitively. Edit `qa_core/config.py`
+    to customize this list for your datasets.
 
 ## Samples & tests
 

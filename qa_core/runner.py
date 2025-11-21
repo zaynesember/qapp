@@ -19,6 +19,9 @@ from qa_core import (
     data_summary,
     check_fips,
 )
+import subprocess
+import platform
+import os
 
 
 # ---------------------------------------------------------------------
@@ -62,7 +65,31 @@ def run_qa(file_path: str | pathlib.Path) -> None:
         return
 
     logging.info(f"Loaded dataset with {len(df):,} rows and {len(df.columns)} columns.")
+    # Prepare original/ordered column lists and enforce canonical ordering when possible
+    try:
+        original_cols = list(df.columns)
+        # Desired canonical order: required columns first (in config.REQUIRED_COLUMNS),
+        # then any extra columns in their original order.
+        canonical_present = [c for c in config.REQUIRED_COLUMNS if c in df.columns]
+        extras = [c for c in original_cols if c not in config.REQUIRED_COLUMNS]
+        ordered_cols = canonical_present + extras
+        if ordered_cols != original_cols:
+            logging.info("Reordering columns to match canonical REQUIRED_COLUMNS where present.")
+            df = df.loc[:, ordered_cols]
+    except Exception as e:
+        logging.warning(f"Failed to compute/enforce column ordering: {e}")
     all_results: Dict[str, Any] = {}
+    # Expose original/ordered column lists for reporting
+    try:
+        all_results["original_columns"] = original_cols
+        all_results["column_order_enforced"] = {
+            "issues": 0,
+            "issue_values": [ordered_cols],
+            "note": "Columns reordered to place REQUIRED_COLUMNS first"
+        }
+    except Exception:
+        # already logged earlier if computing failed
+        pass
 
     # ------------------------------------------------------------------
     # Core QA checks
@@ -97,6 +124,16 @@ def run_qa(file_path: str | pathlib.Path) -> None:
         detected_state = check_fips.detect_state_from_filename(file_path, state_ref)
         all_results["detected_state"] = detected_state
         all_results["fips_checks"] = check_fips.run_fips_checks(df, help_dir, file_path)
+        # Surface dataset-level state_po mismatch into the top-level dataset_info
+        try:
+            ds_summary = all_results["fips_checks"].get("state_po_dataset_summary", {})
+            if ds_summary.get("dataset_state_mismatch"):
+                # Flag for QA Summary and include dominant state for context
+                all_results.setdefault("dataset_info", {})["state_po_dataset_mismatch"] = True
+                all_results.setdefault("dataset_info", {})["dominant_state_po"] = ds_summary.get("dominant_state_po")
+                all_results.setdefault("dataset_info", {})["dominant_share"] = ds_summary.get("dominant_share")
+        except Exception:
+            pass
     else:
         logging.warning("Help files directory not found; skipping FIPS validation.")
 
@@ -114,7 +151,32 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     # ------------------------------------------------------------------
     logging.info("Summarizing missingness and uniques...")
     all_results["missingness"] = data_summary.summarize_missingness(df)
-    logging.info("Unique values exported separately to unique_values/ folder.")
+    # Build unique-values DataFrame for inclusion in the Excel report.
+    # We place a single '<EMPTY>' marker in the first row of a column
+    # if that column contains any missing/blank values; subsequent rows
+    # list unique non-empty values.
+    try:
+        uniques = {}
+        for col in df.columns:
+            # compute unique non-empty values (as strings)
+            nonnull = df[col].dropna()
+            non_empty_vals = [str(x) for x in pd.Series(nonnull[nonnull.astype(str).str.strip() != ""]).unique().tolist()]
+            non_empty_sorted = sorted(non_empty_vals, key=lambda v: str(v))
+            has_empty = bool(df[col].isna().any() or df[col].astype(str).str.strip().eq("").any())
+            col_values = []
+            if has_empty:
+                col_values.append("<EMPTY>")
+            col_values.extend(non_empty_sorted)
+            uniques[col] = col_values
+
+        # Pad columns to same length (pad with empty strings so they appear blank)
+        max_len = max((len(v) for v in uniques.values()), default=0)
+        padded = {col: (vals + [""] * (max_len - len(vals))) for col, vals in uniques.items()}
+        unique_df = pd.DataFrame(padded)
+        if not unique_df.empty:
+            all_results["unique_values"] = unique_df
+    except Exception as e:
+        logging.warning(f"Failed to build unique-values sheet: {e}")
 
     logging.info("Computing statewide totals...")
     totals = data_summary.compute_statewide_totals(df)
@@ -220,7 +282,25 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     # ------------------------------------------------------------------
     logging.info(f"Writing Excel report to {xlsx_path} ...")
     report.write_excel_report(all_results, xlsx_path)
-    data_summary.export_unique_values(df, qa_dir)
+
+    # Optionally open the report using the system default application.
+    try:
+        if getattr(config, "AUTO_OPEN_REPORT", False):
+            system = platform.system()
+            logging.info("AUTO_OPEN_REPORT enabled — attempting to open report with system default viewer.")
+            if system == "Darwin":
+                subprocess.Popen(["open", str(xlsx_path)])
+            elif system == "Windows":
+                try:
+                    os.startfile(str(xlsx_path))
+                except Exception:
+                    # Fallback to start via cmd
+                    subprocess.Popen(["cmd", "/c", "start", "", str(xlsx_path)])
+            else:
+                # Assume Linux/Unix
+                subprocess.Popen(["xdg-open", str(xlsx_path)])
+    except Exception as e:
+        logging.warning(f"Failed to open report automatically: {e}")
 
     logging.info("==============================================")
     logging.info(f"QA completed successfully for {file_path.name}")

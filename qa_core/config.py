@@ -30,3 +30,31 @@ VALID_MODES = ["TOTAL","ELECTION DAY","ABSENTEE","PROVISIONAL","ONE-STOP"]
 VALID_DATAVERSES = ["PRESIDENT","SENATE","HOUSE","STATE","LOCAL",""]
 VALID_PARTY_SIMPLIFIED = ["DEMOCRAT","REPUBLICAN","LIBERTARIAN","OTHER","NONPARTISAN",""]
 VALID_SPECIAL = ["TRUE","FALSE",""]
+
+# When a single `state_po` value accounts for at least this fraction
+# of non-empty `state_po` rows, consider it the dataset's dominant state
+# for the purpose of detecting misfiled datasets. Default: 80%.
+STATE_PO_DOMINANCE_THRESHOLD = 0.8
+
+# Configurable markers that identify aggregate/summary rows which should be
+# excluded from duplicate/mismatch detection. These are matched case-insensitively
+# against text fields like `precinct`, `candidate`, and `office`. You can edit
+# this list to add or remove markers specific to your datasets.
+#
+# Defaults include common markers and the tokens you requested.
+AGGREGATE_MARKERS = [
+    "COUNTY TOTALS",
+    "COUNTY TOTAL",
+    "MACHINE COUNT",
+    "TOTAL",
+    "OVERVOTES",
+    "UNDERVOTES",
+    "VOID",
+    "BLANK",
+    "BLANKS",
+]
+
+# If True, attempt to open the generated Excel report using the OS default
+# application after the report is written. Default False to avoid surprises
+# in CI or headless environments. Set to True in local development if desired.
+AUTO_OPEN_REPORT = True

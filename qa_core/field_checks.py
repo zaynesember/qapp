@@ -100,14 +100,11 @@ def validate_field_regexes(df: pd.DataFrame) -> tuple[Dict[str, Any], Dict[str, 
             # Provide a small DataFrame of invalid rows for context
             details["stage_invalid_rows"] = df.loc[invalid_mask, [c for c in ["precinct", "office", "candidate", "stage"] if c in df.columns]].head(500).reset_index(drop=True)
 
-    # --- magnitude checks: offices with multiple magnitudes and magnitude->office map ---
+    # --- magnitude checks: produce a single 'Magnitude' sheet mapping magnitude -> offices ---
     if "magnitude" in df.columns and "office" in df.columns:
         mag_map = df.groupby("office")["magnitude"].unique().reset_index()
         mag_map["magnitude"] = mag_map["magnitude"].apply(lambda x: list(x))
-        # offices with multiple magnitudes
-        offices_multi = mag_map[mag_map["magnitude"].map(lambda v: len(v) > 1)].copy()
-        if not offices_multi.empty:
-            details["offices_multiple_magnitudes"] = offices_multi.rename(columns={"magnitude": "magnitudes"})
+
         # magnitude -> offices map: pivot so each detected magnitude is a column
         mag_series = df.groupby("magnitude")["office"].unique()
         mag_to_offices = {str(mag): list(offices) for mag, offices in mag_series.items()}
@@ -126,6 +123,7 @@ def validate_field_regexes(df: pd.DataFrame) -> tuple[Dict[str, Any], Dict[str, 
         padded = {mag: (mag_to_offices.get(mag, []) + [""] * (max_len - len(mag_to_offices.get(mag, [])))) for mag in sorted_mags}
         # Create DataFrame with one column per magnitude; column names show the magnitude value
         mag_df = pd.DataFrame(padded)
-        details["magnitude_offices_map"] = mag_df
+        # Export as a single, user-facing sheet named 'Magnitude'
+        details["Magnitude"] = mag_df
 
     return results, details

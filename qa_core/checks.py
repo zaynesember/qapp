@@ -128,9 +128,34 @@ def find_duplicate_rows(df: pd.DataFrame) -> pd.DataFrame:
 
     out = []
 
-    # 1) Exact duplicates
-    exact_mask = df.duplicated(keep=False)
-    exact_dups = df.loc[exact_mask].copy()
+    # Exclude obvious aggregate/summary rows from duplicate detection. These
+    # often contain markers like 'COUNTY TOTALS' or 'MACHINE COUNT' in key
+    # text fields and should not be treated as duplicates.
+    # Use configurable aggregate markers from config. Normalize to uppercase
+    # for case-insensitive matching.
+    markers = set([str(m).strip().upper() for m in getattr(config, "AGGREGATE_MARKERS", [])])
+    def _is_aggregate_row(df):
+        # These markers typically appear in the `candidate` column to indicate
+        # that a row is an aggregated total or statistical adjustment. Use the
+        # `candidate` column by default; if it's missing, fall back to `office`.
+        cols_to_check = [c for c in ("candidate", "office") if c in df.columns]
+        if not cols_to_check:
+            return pd.Series([False] * len(df), index=df.index)
+        masks = []
+        for c in cols_to_check:
+            # normalize cell values to uppercase and strip before membership test
+            masks.append(df[c].astype(str).str.strip().str.upper().isin(markers))
+        combined = masks[0]
+        for m in masks[1:]:
+            combined = combined | m
+        return combined
+
+    agg_mask = _is_aggregate_row(df)
+    df_work = df.loc[~agg_mask].copy()
+
+    # 1) Exact duplicates (excluding aggregate rows)
+    exact_mask = df_work.duplicated(keep=False)
+    exact_dups = df_work.loc[exact_mask].copy()
     if not exact_dups.empty:
         exact_dups["dup_type"] = "exact_duplicate"
         out.append(exact_dups)
@@ -138,18 +163,50 @@ def find_duplicate_rows(df: pd.DataFrame) -> pd.DataFrame:
     # 2) All-but-votes duplicates
     if "votes" in df.columns and len(df.columns) > 1:
         cols_no_votes = [c for c in df.columns if c != "votes"]
-        no_votes_mask = df.duplicated(subset=cols_no_votes, keep=False)
+        no_votes_mask = df_work.duplicated(subset=cols_no_votes, keep=False)
         only_no_votes_mask = no_votes_mask & ~exact_mask
         if only_no_votes_mask.any():
-            no_votes_dups = df.loc[only_no_votes_mask].copy()
+            no_votes_dups = df_work.loc[only_no_votes_mask].copy()
             # Ensure same precinct across group
-            if "precinct" in df.columns:
+            if "precinct" in df_work.columns:
                 g = no_votes_dups.groupby(cols_no_votes, dropna=False)
                 keep_idx = g.filter(lambda x: x["precinct"].astype(str).fillna("").nunique() == 1).index
                 no_votes_dups = no_votes_dups.loc[keep_idx]
             if not no_votes_dups.empty:
                 no_votes_dups["dup_type"] = "all_but_votes_duplicate"
                 out.append(no_votes_dups)
+
+    # 3) Precincts with conflicting county identifiers (same precinct, different county_fips or county_name)
+    if "precinct" in df_work.columns and ("county_fips" in df_work.columns or "county_name" in df_work.columns):
+        group_cols = ["precinct"]
+        g = df_work.groupby(group_cols, dropna=False)
+        conflict_idx = []
+        for name, grp in g:
+            if "county_fips" in grp.columns and grp["county_fips"].astype(str).nunique(dropna=True) > 1:
+                conflict_idx.extend(grp.index.tolist())
+            elif "county_name" in grp.columns and grp["county_name"].astype(str).nunique(dropna=True) > 1:
+                conflict_idx.extend(grp.index.tolist())
+        if conflict_idx:
+            pc_conf = df_work.loc[sorted(set(conflict_idx))].copy()
+            pc_conf["dup_type"] = "precinct_county_mismatch"
+            out.append(pc_conf)
+
+    # 4) Same candidate appearing under multiple office/dataverse combinations
+    if "candidate" in df_work.columns and ("office" in df_work.columns or "dataverse" in df_work.columns):
+        cg = df_work.groupby("candidate", dropna=False)
+        cand_conf_idx = []
+        for name, grp in cg:
+            # skip empty candidate labels
+            if str(name).strip() == "":
+                continue
+            if "office" in grp.columns and grp["office"].astype(str).nunique(dropna=True) > 1:
+                cand_conf_idx.extend(grp.index.tolist())
+            elif "dataverse" in grp.columns and grp["dataverse"].astype(str).nunique(dropna=True) > 1:
+                cand_conf_idx.extend(grp.index.tolist())
+        if cand_conf_idx:
+            cand_conf = df_work.loc[sorted(set(cand_conf_idx))].copy()
+            cand_conf["dup_type"] = "candidate_office_dataverse_mismatch"
+            out.append(cand_conf)
 
     if not out:
         return pd.DataFrame()
