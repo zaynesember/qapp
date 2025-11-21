@@ -1,0 +1,18 @@
+~ output/qa/mo24_cleaned/SUMMARY.txt on 2025-10-16, begun at 09:17:06 ~
+
+SIMILARITY CHECK found potential issues in stage1_field_precinct.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SPECIAL CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SPECIAL CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+SIMILARITY CHECK found potential issues in stage1_field_county_name.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_dataverse.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

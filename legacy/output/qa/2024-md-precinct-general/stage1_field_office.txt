@@ -1,0 +1,588 @@
+---------------------------
+---------------------------
+OFFICE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY NAMED PRESIDENT (MUST BE US PRESIDENT)
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO PRESIDENT: 
+    US PRESIDENT ||| [[PRES]]
+    PRESIDENT CITY COUNCIL ||| [[PRES]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US SENATE: 
+    US SENATE ||| [[US SENAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US HOUSE: 
+    US HOUSE ||| [[US HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE SENATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE HOUSE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIEUTENANT GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY OF STATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUDITOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TREASURER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CORONER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SURVEYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER OF DEEDS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER OF WILL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMMISSIONER OR COMMITTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEMBER: 
+    MEMBER CITY COUNCIL ||| [[MEMBER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ADMINISTRATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSESSOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERVISOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COLLECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INSPECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXECUTIVE: 
+    COUNTY EXECUTIVE ||| [[EXECUTIVE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHIEF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERINTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMPTROLLER: 
+    COMPTROLLER ||| [[COMPTROLLER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DIRECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SHERIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSTABLE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ATTORNEY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPREME COURT: 
+    RETENTION STATE SUPREME COURT ||| [[SUPREME COURT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERIOR COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CIRCUIT COURT: 
+    JUDGE OF THE CIRCUIT COURT ||| [[CIRCUIT COURT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO APPELLATE COURT: 
+    RETENTION JUDGE SPECIAL APPEALS ||| [[APPEAL]]
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE ||| [[APPEAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO JUSTICE OF THE PEACE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUDGE: 
+    JUDGE OF THE CIRCUIT COURT ||| [[JUDGE]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[JUDGE]]
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE ||| [[JUDGE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CLERK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BAILIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGISTRATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAYOR: 
+    MAYOR ||| [[MAYOR]]
+    MAYOR OF HAGERSTOWN ||| [[MAYOR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNCIL: 
+    COUNTY COUNCIL ||| [[COUNCIL]]
+    MEMBER CITY COUNCIL ||| [[COUNCIL]]
+    PRESIDENT CITY COUNCIL ||| [[COUNCIL]]
+    COUNTY COUNCIL AT LARGE ||| [[COUNCIL]]
+    COUNCIL - CITY OF CUMBERLAND ||| [[COUNCIL]]
+    COUNCIL - CITY OF HAGERSTOWN ||| [[COUNCIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHAIR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DELEGATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ALDERMAN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODERATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SERGEANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MARSHALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUTHORITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNIVERSITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO HOSPITAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEDICAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SCHOOL DISTRICT: 
+    BOARD OF EDUCATION ||| [[EDUCATION]]
+    BOARD OF EDUCATION AT LARGE ||| [[EDUCATION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TV DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO FIRE DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DEVELOPMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSERVATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO IMPROVEMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UTILITY DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NAVIGATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BOARD: 
+    BOARD OF EDUCATION ||| [[BOARD]]
+    BOARD OF EDUCATION AT LARGE ||| [[BOARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TRUSTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSISTANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STRAIGHT TICKET: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    MAYOR OF HAGERSTOWN ||| [[TOWN]]
+    MEMBER CITY COUNCIL ||| [[CITY]]
+    PRESIDENT CITY COUNCIL ||| [[CITY]]
+    COUNCIL - CITY OF CUMBERLAND ||| [[CITY]]
+    COUNCIL - CITY OF HAGERSTOWN ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    COMPTROLLER ||| [[CO ]]
+    COUNTY COUNCIL ||| [[COUNTY]]
+    COUNTY EXECUTIVE ||| [[COUNTY]]
+    COUNTY COUNCIL AT LARGE ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    RETENTION STATE SUPREME COURT ||| [[RETENTION]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[RETENTION]]
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE ||| [[RETENTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    COUNTY COUNCIL AT LARGE ||| [[AT-LARGE]]
+    BOARD OF EDUCATION AT LARGE ||| [[AT-LARGE]]
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE ||| [[AT-LARGE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    US PRESIDENT ||| [[PRES]]
+    PRESIDENT CITY COUNCIL ||| [[PRES]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[SPECIAL]]
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE ||| [[SPECIAL]]
+------
+
+------
+VALUES IN office WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN office: 
+    MAYOR ||| [[MAYOR OF HAGERSTOWN]]
+    COUNTY COUNCIL ||| [[COUNTY COUNCIL AT LARGE]]
+    BOARD OF EDUCATION ||| [[BOARD OF EDUCATION AT LARGE]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[RETENTION JUDGE SPECIAL APPEALS AT LARGE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE OFFICES:
+    WRITEIN: ['US PRESIDENT' 'US SENATE' 'US HOUSE' 'BOARD OF EDUCATION'
+ 'JUDGE OF THE CIRCUIT COURT' 'MAYOR' 'PRESIDENT CITY COUNCIL'
+ 'COMPTROLLER' 'MEMBER CITY COUNCIL' 'COUNTY EXECUTIVE' 'COUNTY COUNCIL'
+ 'BOARD OF EDUCATION AT LARGE' 'COUNTY COUNCIL AT LARGE'
+ 'MAYOR OF HAGERSTOWN' 'COUNCIL - CITY OF HAGERSTOWN']
+------
+
+---------
+------
+ALL VALUES:
+    BOARD OF EDUCATION
+    BOARD OF EDUCATION AT LARGE
+    COMPTROLLER
+    COUNCIL - CITY OF CUMBERLAND
+    COUNCIL - CITY OF HAGERSTOWN
+    COUNTY COUNCIL
+    COUNTY COUNCIL AT LARGE
+    COUNTY EXECUTIVE
+    JUDGE OF THE CIRCUIT COURT
+    MAYOR
+    MAYOR OF HAGERSTOWN
+    MEMBER CITY COUNCIL
+    PRESIDENT CITY COUNCIL
+    RETENTION JUDGE SPECIAL APPEALS
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE
+    RETENTION STATE SUPREME COURT
+    US HOUSE
+    US PRESIDENT
+    US SENATE
+------
+

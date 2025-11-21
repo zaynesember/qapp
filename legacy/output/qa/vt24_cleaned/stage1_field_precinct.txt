@@ -1,0 +1,489 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    Moretown ||| [[TOWN]]
+    Townshend ||| [[TOWN]]
+    Barre City ||| [[CITY]]
+    Barre Town ||| [[TOWN]]
+    Morristown ||| [[TOWN]]
+    Newport City ||| [[CITY]]
+    Newport Town ||| [[TOWN]]
+    Rutland City ||| [[CITY]]
+    Rutland Town ||| [[TOWN]]
+    Williamstown ||| [[TOWN]]
+    St. Albans City ||| [[CITY]]
+    St. Albans Town ||| [[TOWN]]
+    Middletown Springs ||| [[TOWN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    Concord ||| [[CO ]]
+    Corinth ||| [[CO ]]
+    Hancock ||| [[CO ]]
+    Lincoln ||| [[CO ]]
+    Wolcott ||| [[CO ]]
+    Cornwall ||| [[CO ]]
+    Coventry ||| [[CO ]]
+    Colchester ||| [[CO ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    Wardsboro ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    Wardsboro ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    Windham ||| [[IND]]
+    Windsor ||| [[IND]]
+    Windham 7 ||| [[IND]]
+    Windham 8 ||| [[IND]]
+    Windham 9 ||| [[IND]]
+    Windsor 4 ||| [[IND]]
+    Windsor 6 ||| [[IND]]
+    Greensboro ||| [[GREEN]]
+    W. Windsor ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    Addison
+    Addison 1
+    Addison 3
+    Addison 5
+    Albany
+    Alburgh
+    Andover
+    Arlington
+    Athens
+    Bakersfield
+    Baltimore
+    Barnard
+    Barnet
+    Barre City
+    Barre Town
+    Barton
+    Belvidere
+    Bennington
+    Bennington 1
+    Bennington 2
+    Bennington 3
+    Bennington 4
+    Bennington 5
+    Benson
+    Berkshire
+    Berlin
+    Bethel
+    Bloomfield
+    Bolton
+    Bradford
+    Braintree
+    Brandon
+    Brattleboro
+    Bridgewater
+    Bridport
+    Brighton
+    Bristol
+    Brookfield
+    Brookline
+    Brownington
+    Brunswick
+    Burke
+    Burlington
+    Cabot
+    Calais
+    Cambridge
+    Canaan
+    Castleton
+    Cavendish
+    Charleston
+    Charlotte
+    Chelsea
+    Chester
+    Chittenden
+    Chittenden 10
+    Chittenden 11
+    Chittenden 12
+    Chittenden 13
+    Chittenden 14
+    Chittenden 15
+    Chittenden 16
+    Chittenden 17
+    Chittenden 18
+    Chittenden 2
+    Chittenden 22
+    Chittenden 23
+    Chittenden 24
+    Chittenden 25
+    Chittenden 4
+    Chittenden 5
+    Chittenden 6
+    Chittenden 7
+    Chittenden 8
+    Chittenden 9
+    Chittenden Franklin
+    Chittenden-19 Gi 1
+    Chittenden-20 Chi Ct 1
+    Chittenden-20 Gi 1
+    Clarendon
+    Colchester
+    Concord
+    Corinth
+    Cornwall
+    Coventry
+    Craftsbury
+    Danby
+    Danville
+    Derby
+    Dorset
+    Dover
+    Dummerston
+    Duxbury
+    E. Haven
+    E. Montpelier
+    Eden
+    Elmore
+    Enosburgh
+    Essex
+    Fair Haven
+    Fairfax
+    Fairfield
+    Fairlee
+    Fayston
+    Ferrisburgh
+    Fletcher
+    Franklin
+    Franklin 1
+    Franklin 2
+    Franklin 3
+    Franklin 8
+    Georgia
+    Glover
+    Goshen
+    Grafton
+    Granby
+    Grand Isle
+    Grand Isle Chittenden
+    Granville
+    Greensboro
+    Groton
+    Guildhall
+    Guilford
+    Halifax
+    Hancock
+    Hardwick
+    Hartford
+    Hartland
+    Highgate
+    Hinesburg
+    Holland
+    Hubbardton
+    Huntington
+    Hyde Park
+    Ira
+    Irasburg
+    Isle La Motte
+    Jamaica
+    Jay
+    Jericho
+    Johnson
+    Killington
+    Kirby
+    Lamoille 1
+    Lamoille Washington
+    Landgrove
+    Leicester
+    Lemington
+    Lincoln
+    Londonderry
+    Lowell
+    Ludlow
+    Lunenburg
+    Lyndon
+    Maidstone
+    Manchester
+    Marlboro
+    Marshfield
+    Mendon
+    Middlebury
+    Middlesex
+    Middletown Springs
+    Milton
+    Monkton
+    Montgomery
+    Montpelier
+    Moretown
+    Morgan
+    Morristown
+    Mount Holly
+    Mount Tabor
+    N. Hero
+    New Haven
+    Newark
+    Newbury
+    Newfane
+    Newport City
+    Newport Town
+    Northfield
+    Norton
+    Norwich
+    Orange
+    Orange 3
+    Orwell
+    Panton
+    Pawlet
+    Peacham
+    Peru
+    Pittsfield
+    Pittsford
+    Plainfield
+    Plymouth
+    Pomfret
+    Poultney
+    Pownal
+    Proctor
+    Putney
+    Randolph
+    Reading
+    Readsboro
+    Richford
+    Richmond
+    Ripton
+    Rochester
+    Rockingham
+    Roxbury
+    Royalton
+    Rupert
+    Rutland 1
+    Rutland 2
+    Rutland 4
+    Rutland 5
+    Rutland 6
+    Rutland 7
+    Rutland Bennington
+    Rutland City
+    Rutland Town
+    Ryegate
+    S. Burlington
+    S. Hero
+    Salisbury
+    Sandgate
+    Searsburg
+    Shaftsbury
+    Sharon
+    Sheffield
+    Shelburne
+    Sheldon
+    Shoreham
+    Shrewsbury
+    Springfield
+    St. Albans City
+    St. Albans Town
+    St. George
+    St. Johnsbury
+    Stamford
+    Stannard
+    Starksboro
+    Stockbridge
+    Stowe
+    Strafford
+    Stratton
+    Sudbury
+    Sunderland
+    Sutton
+    Swanton
+    Thetford
+    Tinmouth
+    Topsham
+    Townshend
+    Troy
+    Tunbridge
+    Underhill
+    Vergennes
+    Vernon
+    Vershire
+    Victory
+    W. Fairlee
+    W. Haven
+    W. Rutland
+    W. Windsor
+    Waitsfield
+    Walden
+    Wallingford
+    Waltham
+    Wardsboro
+    Warren
+    Washington
+    Washington Orange
+    Waterbury
+    Waterford
+    Waterville
+    Weathersfield
+    Wells
+    Westfield
+    Westford
+    Westminster
+    Westmore
+    Weston
+    Weybridge
+    Wheelock
+    Whiting
+    Whitingham
+    Williamstown
+    Williston
+    Wilmington
+    Windham
+    Windham 7
+    Windham 8
+    Windham 9
+    Windsor
+    Windsor 4
+    Windsor 6
+    Winhall
+    Winooski
+    Wolcott
+    Woodbury
+    Woodford
+    Woodstock
+    Worcester
+------
+

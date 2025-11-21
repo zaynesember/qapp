@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+COUNTY_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+FIPS TOO LONG
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+COUNTY FIPS FOR COUNTY CHECK:
+    The following county name <-> fips matches do not match the official mapping:
+ {'FAIRFIELD': [9001, 39045, 45039], 'MIDDLESEX': [9007, 25017, 34023, 51119], 'WINDHAM': [9015, 50025]}
+------
+
+---------
+------
+ALL VALUES:
+    09001
+    09003
+    09005
+    09007
+    09009
+    09011
+    09013
+    09015
+    25017
+    34023
+    39045
+    45039
+    50025
+    51119
+------
+

@@ -1,0 +1,256 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '39001')
+    ('ALLEN', '39003')
+    ('ASHLAND', '39005')
+    ('ASHTABULA', '39007')
+    ('ATHENS', '39009')
+    ('AUGLAIZE', '39011')
+    ('BELMONT', '39013')
+    ('BROWN', '39015')
+    ('BUTLER', '39017')
+    ('CARROLL', '39019')
+    ('CHAMPAIGN', '39021')
+    ('CLARK', '39023')
+    ('CLERMONT', '39025')
+    ('CLINTON', '39027')
+    ('COLUMBIANA', '39029')
+    ('COSHOCTON', '39031')
+    ('CRAWFORD', '39033')
+    ('CUYAHOGA', '39035')
+    ('DARKE', '39037')
+    ('DEFIANCE', '39039')
+    ('DELAWARE', '39041')
+    ('ERIE', '39043')
+    ('FAIRFIELD', '39045')
+    ('FAYETTE', '39047')
+    ('FRANKLIN', '39049')
+    ('FULTON', '39051')
+    ('GALLIA', '39053')
+    ('GEAUGA', '39055')
+    ('GREENE', '39057')
+    ('GUERNSEY', '39059')
+    ('HAMILTON', '39061')
+    ('HANCOCK', '39063')
+    ('HARDIN', '39065')
+    ('HARRISON', '39067')
+    ('HENRY', '39069')
+    ('HIGHLAND', '39071')
+    ('HOCKING', '39073')
+    ('HOLMES', '39075')
+    ('HURON', '39077')
+    ('JACKSON', '39079')
+    ('JEFFERSON', '39081')
+    ('KNOX', '39083')
+    ('LAKE', '39085')
+    ('LAWRENCE', '39087')
+    ('LICKING', '39089')
+    ('LOGAN', '39091')
+    ('LORAIN', '39093')
+    ('LUCAS', '39095')
+    ('MADISON', '39097')
+    ('MAHONING', '39099')
+    ('MARION', '39101')
+    ('MEDINA', '39103')
+    ('MEIGS', '39105')
+    ('MERCER', '39107')
+    ('MIAMI', '39109')
+    ('MONROE', '39111')
+    ('MONTGOMERY', '39113')
+    ('MORGAN', '39115')
+    ('MORROW', '39117')
+    ('MUSKINGUM', '39119')
+    ('NOBLE', '39121')
+    ('OTTAWA', '39123')
+    ('PAULDING', '39125')
+    ('PERRY', '39127')
+    ('PICKAWAY', '39129')
+    ('PIKE', '39131')
+    ('PORTAGE', '39133')
+    ('PREBLE', '39135')
+    ('PUTNAM', '39137')
+    ('RICHLAND', '39139')
+    ('ROSS', '39141')
+    ('SANDUSKY', '39143')
+    ('SCIOTO', '39145')
+    ('SENECA', '39147')
+    ('SHELBY', '39149')
+    ('STARK', '39151')
+    ('SUMMIT', '39153')
+    ('TRUMBULL', '39155')
+    ('TUSCARAWAS', '39157')
+    ('UNION', '39159')
+    ('VAN WERT', '39161')
+    ('VINTON', '39163')
+    ('WARREN', '39165')
+    ('WASHINGTON', '39167')
+    ('WAYNE', '39169')
+    ('WILLIAMS', '39171')
+    ('WOOD', '39173')
+    ('WYANDOT', '39175')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALLEN
+    ASHLAND
+    ASHTABULA
+    ATHENS
+    AUGLAIZE
+    BELMONT
+    BROWN
+    BUTLER
+    CARROLL
+    CHAMPAIGN
+    CLARK
+    CLERMONT
+    CLINTON
+    COLUMBIANA
+    COSHOCTON
+    CRAWFORD
+    CUYAHOGA
+    DARKE
+    DEFIANCE
+    DELAWARE
+    ERIE
+    FAIRFIELD
+    FAYETTE
+    FRANKLIN
+    FULTON
+    GALLIA
+    GEAUGA
+    GREENE
+    GUERNSEY
+    HAMILTON
+    HANCOCK
+    HARDIN
+    HARRISON
+    HENRY
+    HIGHLAND
+    HOCKING
+    HOLMES
+    HURON
+    JACKSON
+    JEFFERSON
+    KNOX
+    LAKE
+    LAWRENCE
+    LICKING
+    LOGAN
+    LORAIN
+    LUCAS
+    MADISON
+    MAHONING
+    MARION
+    MEDINA
+    MEIGS
+    MERCER
+    MIAMI
+    MONROE
+    MONTGOMERY
+    MORGAN
+    MORROW
+    MUSKINGUM
+    NOBLE
+    OTTAWA
+    PAULDING
+    PERRY
+    PICKAWAY
+    PIKE
+    PORTAGE
+    PREBLE
+    PUTNAM
+    RICHLAND
+    ROSS
+    SANDUSKY
+    SCIOTO
+    SENECA
+    SHELBY
+    STARK
+    SUMMIT
+    TRUMBULL
+    TUSCARAWAS
+    UNION
+    VAN WERT
+    VINTON
+    WARREN
+    WASHINGTON
+    WAYNE
+    WILLIAMS
+    WOOD
+    WYANDOT
+------
+

@@ -1,0 +1,61 @@
+---------------------------
+---------------------------
+JURISDICTION_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    56001
+    56003
+    56005
+    56007
+    56009
+    56011
+    56013
+    56015
+    56017
+    56019
+    56021
+    56023
+    56025
+    56027
+    56029
+    56031
+    56033
+    56035
+    56037
+    56039
+    56041
+    56043
+    56045
+------
+

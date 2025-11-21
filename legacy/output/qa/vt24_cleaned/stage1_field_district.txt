@@ -1,0 +1,1450 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    WINDHAM ||| [[IND]]
+    WINDSOR ||| [[IND]]
+    WINDHAM 1 ||| [[IND]]
+    WINDHAM 2 ||| [[IND]]
+    WINDHAM 3 ||| [[IND]]
+    WINDHAM 4 ||| [[IND]]
+    WINDHAM 5 ||| [[IND]]
+    WINDHAM 6 ||| [[IND]]
+    WINDHAM 7 ||| [[IND]]
+    WINDHAM 8 ||| [[IND]]
+    WINDHAM 9 ||| [[IND]]
+    WINDSOR 1 ||| [[IND]]
+    WINDSOR 2 ||| [[IND]]
+    WINDSOR 3 ||| [[IND]]
+    WINDSOR 4 ||| [[IND]]
+    WINDSOR 5 ||| [[IND]]
+    WINDSOR 6 ||| [[IND]]
+    RUTLAND-WINDSOR ||| [[IND]]
+    WINDSOR-ADDISON ||| [[IND]]
+    WINDSOR-WINDHAM ||| [[IND]]
+    WINDSOR-ORANGE 1 ||| [[IND]]
+    WINDSOR-ORANGE 2 ||| [[IND]]
+    WINDHAM-WINDSOR-BENNINGTON ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+    ESSEX ||| [[ESSEX-CALEDONIA]]
+    ORANGE ||| [[ORANGE-WASHINGTON-ADDISON]]
+    ADDISON ||| [[ORANGE-WASHINGTON-ADDISON]]
+    ORLEANS ||| [[ORLEANS-LAMOILLE]]
+    RUTLAND ||| [[RUTLAND-BENNINGTON]]
+    WINDHAM ||| [[WINDHAM-WINDSOR-BENNINGTON]]
+    WINDSOR ||| [[WINDHAM-WINDSOR-BENNINGTON]]
+    FRANKLIN ||| [[CHITTENDEN-FRANKLIN]]
+    LAMOILLE ||| [[LAMOILLE-WASHINGTON]]
+    ORANGE 1 ||| [[WINDSOR-ORANGE 1]]
+    ORANGE 2 ||| [[WINDSOR-ORANGE 2]]
+    CALEDONIA ||| [[CALEDONIA-WASHINGTON]]
+    RUTLAND 1 ||| [[RUTLAND 10]]
+    BENNINGTON ||| [[WINDHAM-WINDSOR-BENNINGTON]]
+    FRANKLIN 1 ||| [[FRANKLIN 8]]
+    FRANKLIN 2 ||| [[FRANKLIN 8]]
+    FRANKLIN 3 ||| [[FRANKLIN 8]]
+    FRANKLIN 4 ||| [[FRANKLIN 8]]
+    FRANKLIN 5 ||| [[FRANKLIN 8]]
+    FRANKLIN 6 ||| [[FRANKLIN 8]]
+    FRANKLIN 7 ||| [[FRANKLIN 8]]
+    GRAND ISLE ||| [[GRAND ISLE-CHITTENDEN]]
+    LAMOILLE 1 ||| [[LAMOILLE 3]]
+    LAMOILLE 2 ||| [[LAMOILLE 3]]
+    WASHINGTON ||| [[ORANGE-WASHINGTON-ADDISON]]
+    CALEDONIA 1 ||| [[CALEDONIA 3]]
+    CALEDONIA 2 ||| [[CALEDONIA 3]]
+    BENNINGTON 1 ||| [[BENNINGTON 5]]
+    BENNINGTON 2 ||| [[BENNINGTON 5]]
+    BENNINGTON 3 ||| [[BENNINGTON 5]]
+    BENNINGTON 4 ||| [[BENNINGTON 5]]
+    CHITTENDEN 1 ||| [[CHITTENDEN 19]]
+    CHITTENDEN 2 ||| [[CHITTENDEN 25]]
+    CHITTENDEN 3 ||| [[CHITTENDEN 9]]
+    CHITTENDEN 4 ||| [[CHITTENDEN 14]]
+    CHITTENDEN 5 ||| [[CHITTENDEN 25]]
+    CHITTENDEN 6 ||| [[CHITTENDEN 16]]
+    CHITTENDEN 7 ||| [[CHITTENDEN 17]]
+    CHITTENDEN 8 ||| [[CHITTENDEN 18]]
+    CHITTENDEN 9 ||| [[CHITTENDEN 19]]
+    WASHINGTON 1 ||| [[WASHINGTON 6]]
+    WASHINGTON 2 ||| [[WASHINGTON 6]]
+    WASHINGTON 3 ||| [[WASHINGTON 6]]
+    WASHINGTON 4 ||| [[WASHINGTON 6]]
+    WASHINGTON 5 ||| [[WASHINGTON 6]]
+    CHITTENDEN 10 ||| [[CHITTENDEN 20]]
+    CHITTENDEN 14 ||| [[CHITTENDEN 19]]
+    CHITTENDEN 15 ||| [[CHITTENDEN 25]]
+    CHITTENDEN 16 ||| [[CHITTENDEN 19]]
+    CHITTENDEN 17 ||| [[CHITTENDEN 19]]
+    CHITTENDEN 18 ||| [[CHITTENDEN 19]]
+    CHITTENDEN 20 ||| [[CHITTENDEN 25]]
+    CALEDONIA-ESSEX ||| [[ESSEX-CALEDONIA]]
+    WINDSOR-ORANGE 1 ||| [[WINDSOR-ORANGE 2]]
+    BENNINGTON-RUTLAND ||| [[RUTLAND-BENNINGTON]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('STATEWIDE',)
+        ('Addison', 'ADDISON HIGH BAILIFF', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'ADDISON HIGH BAILIFF', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'ADDISON HIGH BAILIFF', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20675 elements)
+        ('Worcester', 'WASHINGTON HIGH BAILIFF', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'WASHINGTON HIGH BAILIFF', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'WASHINGTON HIGH BAILIFF', 'DEMOCRAT', 'WASHINGTON', 'SHAWN M MCMANIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 3',)
+        ('Addison', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('Waltham', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'MATT BIRONG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waltham', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'JOSEPH "JOE" BAKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waltham', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'ROB NORTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON',)
+        ('Addison', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Addison', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 202 elements)
+        ('Whiting', 'STATE SENATE', 'DEMOCRAT', 'ADDISON', 'RUTH HARDY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Whiting', 'STATE SENATE', 'REPUBLICAN', 'ADDISON', 'LANDEL JAMES COCHRAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Whiting', 'STATE SENATE', 'REPUBLICAN', 'ADDISON', 'STEVEN HEFFERNAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS 4',)
+        ('Albany', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Albany', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Albany', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Greensboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Greensboro', 'STATE HOUSE', 'DEMOCRAT', 'ORLEANS', 'LEANNE HARPLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Greensboro', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'ANTHONY "TONY" DANIELS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS',)
+        ('Albany', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Albany', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Albany', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('Westmore', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westmore', 'STATE SENATE', 'DEMOCRAT', 'ORLEANS', 'KATHERINE SIMS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westmore', 'STATE SENATE', 'REPUBLICAN', 'ORLEANS', 'SAMUEL A DOUGLASS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('GRAND ISLE-CHITTENDEN',)
+        ('Alburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Alburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Alburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('S. Hero', 'STATE HOUSE', 'DEMOCRAT', 'GRAND ISLE', 'LUKE RICHTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Hero', 'STATE HOUSE', 'REPUBLICAN', 'GRAND ISLE', 'LELAND J MORGAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Hero', 'STATE HOUSE', 'REPUBLICAN', 'GRAND ISLE', 'MICHAEL R MORGAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN',)
+        ('Alburgh', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Alburgh', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Alburgh', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('Swanton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Swanton', 'STATE SENATE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'RANDY BROCK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Swanton', 'STATE SENATE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'ROBERT W NORRIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM-WINDSOR-BENNINGTON',)
+        ('Andover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Andover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Andover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Winhall', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winhall', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'CHRIS MORROW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winhall', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'JANET "JAN" PAYNE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR',)
+        ('Andover', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Andover', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Andover', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 280 elements)
+        ('Woodstock', 'STATE SENATE', 'REPUBLICAN', 'WINDSOR', 'ANDREA MURRAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstock', 'STATE SENATE', 'REPUBLICAN', 'WINDSOR', 'JACK WILLIAMS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstock', 'STATE SENATE', 'REPUBLICAN', 'WINDSOR', 'JONATHAN GLEASON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 4',)
+        ('Arlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Arlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Arlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 14 elements)
+        ('Sandgate', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'ROBERT HUNTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'KATHLEEN JAMES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'ROBERT HUNTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON',)
+        ('Arlington', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Arlington', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Arlington', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 204 elements)
+        ('Woodford', 'STATE SENATE', 'INDEPENDENT', 'BENNINGTON', 'LAWRENCE "SPIKE" WHITMIRE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodford', 'STATE SENATE', 'INDEPENDENT', 'BENNINGTON', 'STEVE BERRY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodford', 'STATE SENATE', 'REPUBLICAN', 'BENNINGTON', 'JOSEPH "JOE" GERVAIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR-WINDHAM',)
+        ('Athens', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Athens', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Athens', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Windham', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windham', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'HEATHER CHASE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windham', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'THOMAS F CHARLTON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM',)
+        ('Athens', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Athens', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Athens', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 183 elements)
+        ('Windham 9', 'STATE SENATE', 'INDEPENDENT', 'WINDHAM', 'KEN FAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windham 9', 'STATE SENATE', 'REPUBLICAN', 'WINDHAM', 'DALE L GASSETT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windham 9', 'STATE SENATE', 'REPUBLICAN', 'WINDHAM', 'RICHARD "RICK" MORTON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 6',)
+        ('Bakersfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bakersfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bakersfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 9 elements)
+        ('Fletcher', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Fletcher', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Fletcher', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'JAMES GREGOIRE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 2',)
+        ('Baltimore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Baltimore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Baltimore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Weathersfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Weathersfield', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'MARK D YUENGLING', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Weathersfield', 'STATE HOUSE', 'REPUBLICAN', 'WINDSOR', 'VL COFFIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 4',)
+        ('Barnard', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnard', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnard', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('Pomfret', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pomfret', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pomfret', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'HEATHER SURPRENANT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA 1',)
+        ('Barnet', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnet', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnet', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Waterford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterford', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'BOBBY FARLICE-RUBIO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterford', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'DEBRA LYNN POWERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA',)
+        ('Barnet', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnet', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnet', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('Wheelock', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheelock', 'STATE SENATE', 'DEMOCRAT', 'CALEDONIA', 'AMANDA COCHRANE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheelock', 'STATE SENATE', 'REPUBLICAN', 'CALEDONIA', 'SCOTT BECK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 3',)
+        ('Barre City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Barre City', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'JONATHAN WILLIAMS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE HOUSE', 'INDEPENDENT', 'WASHINGTON', 'CAROL DAWES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'MICHAEL BOUTIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON',)
+        ('Barre City', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre City', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 234 elements)
+        ('Worcester', 'STATE SENATE', 'REPUBLICAN', 'WASHINGTON', 'DONALD T KOCH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'STATE SENATE', 'REPUBLICAN', 'WASHINGTON', 'MICHAEL "MIKE" DOYLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'STATE SENATE', 'REPUBLICAN', 'WASHINGTON', 'MICHAEL DEERING II', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON-ORANGE',)
+        ('Barre Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barre Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4 elements)
+        ('Williamstown', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', 'MELISSA BATTAH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'ORANGE', 'FRANCIS "TOPPER" MCFAUN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'GINA GALFETTI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS 3',)
+        ('Barton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Barton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 9 elements)
+        ('Westmore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westmore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westmore', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'KEN WELLS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE 2',)
+        ('Belvidere', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Belvidere', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Belvidere', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 26 elements)
+        ('Wolcott', 'STATE HOUSE', 'DEMOCRAT', 'LAMOILLE', 'JIM RYAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolcott', 'STATE HOUSE', 'REPUBLICAN', 'LAMOILLE', 'MALCOLM "MAC" TEALE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolcott', 'STATE HOUSE', 'REPUBLICAN', 'LAMOILLE', 'RICHARD J BAILEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE',)
+        ('Belvidere', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Belvidere', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Belvidere', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('Wolcott', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolcott', 'STATE SENATE', 'DEMOCRAT/REPUBLICAN', 'LAMOILLE', 'RICHARD A WESTMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolcott', 'STATE SENATE', 'INDEPENDENT', 'LAMOILLE', 'MAUREEN A HECK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 2', 'BENNINGTON 5')
+        ('Bennington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 5',)
+        ('Bennington', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'JIM CARROLL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'MICHAEL NIGRO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'MARY A MORRISSEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'JIM CARROLL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'MICHAEL NIGRO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'MARY A MORRISSEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 2',)
+        ('Bennington', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'TIMOTHY R CORCORAN II', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'WILLIAM "WILL" GREER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bennington', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'ANTHONY A COOK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 10',)
+        ('Benson', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benson', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benson', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 9 elements)
+        ('W. Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('W. Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('W. Haven', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'WILLIAM "BILL" CANFIELD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND',)
+        ('Benson', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benson', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benson', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 304 elements)
+        ('Wallingford', 'STATE SENATE', 'REPUBLICAN', 'RUTLAND', 'BRIAN "BC" COLLAMORE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wallingford', 'STATE SENATE', 'REPUBLICAN', 'RUTLAND', 'DAVID WEEKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wallingford', 'STATE SENATE', 'REPUBLICAN', 'RUTLAND', 'TERRY K WILLIAMS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 5',)
+        ('Berkshire', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Berkshire', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Berkshire', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Richford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richford', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'LISA A HANGO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richford', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'WAYNE A LAROCHE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 1',)
+        ('Berlin', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Berlin', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Berlin', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('Northfield', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'LUCAS J HERRING', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Northfield', 'STATE HOUSE', 'INDEPENDENT', 'WASHINGTON', 'ANNE B DONAHUE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Northfield', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'KENNETH W GOSLANT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR-ADDISON',)
+        ('Bethel', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bethel', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bethel', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 14 elements)
+        ('Stockbridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stockbridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stockbridge', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'KIRK WHITE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ESSEX-CALEDONIA',)
+        ('Bloomfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 39 elements)
+        ('Victory', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Victory', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Victory', 'STATE HOUSE', 'REPUBLICAN', 'ESSEX', 'JOHN R KASCENSKA II', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ESSEX',)
+        ('Bloomfield', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomfield', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomfield', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 89 elements)
+        ('Victory', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Victory', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Victory', 'STATE SENATE', 'REPUBLICAN', 'ESSEX', 'RUSS INGALLS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON-CHITTENDEN',)
+        ('Bolton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bolton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bolton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Waterbury', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'THOMAS STEVENS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterbury', 'STATE HOUSE', 'INDEPENDENT', 'WASHINGTON', 'JAMES R HADDAD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterbury', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'JONATHAN GRIFFIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN SOUTHEAST',)
+        ('Bolton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bolton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bolton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 164 elements)
+        ('Underhill', 'STATE SENATE', 'INDEPENDENT', 'CHITTENDEN', 'TAYLOR CRAVEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Underhill', 'STATE SENATE', 'REPUBLICAN', 'CHITTENDEN', 'BRUCE ROY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Underhill', 'STATE SENATE', 'REPUBLICAN', 'CHITTENDEN', 'ROHAN ST MARTHES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE 2',)
+        ('Bradford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bradford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bradford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('W. Fairlee', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('W. Fairlee', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', 'MONIQUE PRIESTLEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('W. Fairlee', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'ZACHARY MICHAEL LANG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE',)
+        ('Bradford', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bradford', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bradford', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 78 elements)
+        ('Washington Orange', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Orange', 'STATE SENATE', 'DEMOCRAT', 'ORANGE', 'MARK A MACDONALD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Orange', 'STATE SENATE', 'REPUBLICAN', 'ORANGE', 'LARRY HART SR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE-WASHINGTON-ADDISON',)
+        ('Braintree', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Braintree', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Braintree', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 34 elements)
+        ('Roxbury', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'LARRY SATCOWITZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Roxbury', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'KENNETH "ROB" SIKORA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Roxbury', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'WAYNE TOWNSEND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 9',)
+        ('Brandon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brandon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brandon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brandon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brandon', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'STEPHANIE ZAK JEROME', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brandon', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'TOD NIELSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 7', 'WINDHAM 8', 'WINDHAM 9')
+        ('Brattleboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 7',)
+        ('Brattleboro', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'EMILIE KORNHEISER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'SUSAN MURRAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 9',)
+        ('Brattleboro', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'IAN GOODNOW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 8',)
+        ('Brattleboro', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'MOLLIE S BURKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', 'INDEPENDENT', 'WINDHAM', 'KEN FAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brattleboro', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'WILLIAM "BILL" HARVEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 5',)
+        ('Bridport', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bridport', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bridport', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('Weybridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Weybridge', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'JUBILEE MCGILL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Weybridge', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'DEL THOMPSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ESSEX-ORLEANS',)
+        ('Brighton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brighton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brighton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 29 elements)
+        ('Norton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Norton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Norton', 'STATE HOUSE', 'REPUBLICAN', 'ESSEX', 'LARRY LABOR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 4',)
+        ('Bristol', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bristol', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Bristol', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 26 elements)
+        ('Starksboro', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'MARI CORDES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Starksboro', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'CHANIN HILL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Starksboro', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'RENEE MCGUINNESS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 3',)
+        ('Brookline', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookline', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookline', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Westminster', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'MICHELLE BOS-LUN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westminster', 'STATE HOUSE', 'INDEPENDENT', 'WINDHAM', 'CASEY K COTA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westminster', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'RYAN COYNE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 14', 'CHITTENDEN 18', 'CHITTENDEN 17', 'CHITTENDEN 15', 'CHITTENDEN 16')
+        ('Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 17',)
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'ABBEY DUKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', 'PROGRESSIVE', 'CHITTENDEN', 'MISSA ALOISI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 18',)
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'CAROL ODE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'ROBERT J HOOPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 16',)
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'JILL KROWINSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', 'PROGRESSIVE/DEMOCRAT', 'CHITTENDEN', 'KATE LOGAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 14',)
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'MARY-KATHERINE STONE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', 'DEMOCRAT/PROGRESSIVE', 'CHITTENDEN', 'BARBARA RACHELSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 15',)
+        ('Burlington', 'STATE HOUSE', 'PROGRESSIVE/DEMOCRAT', 'CHITTENDEN', 'BRIAN CINA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Burlington', 'STATE HOUSE', 'PROGRESSIVE/DEMOCRAT', 'CHITTENDEN', 'TROY HEADRICK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA-WASHINGTON',)
+        ('Cabot', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cabot', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cabot', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Peacham', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Peacham', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'THOMAS "TOMZ" ZIOBROWSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Peacham', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'GREG BURTT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 6',)
+        ('Calais', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Calais', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Calais', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 9 elements)
+        ('Plainfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Plainfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Plainfield', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'MARC MIHALY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE 3',)
+        ('Cambridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cambridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cambridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Waterville', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterville', 'STATE HOUSE', 'DEMOCRAT', 'LAMOILLE', 'LUCY BOYDEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterville', 'STATE HOUSE', 'REPUBLICAN', 'LAMOILLE', 'PAUL SCIORTINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 3',)
+        ('Castleton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Castleton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Castleton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Castleton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Castleton', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRIS BROWN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 5',)
+        ('Charlotte', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Charlotte', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Charlotte', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Charlotte', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Charlotte', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'CHEA WATERS EVANS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hinesburg', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'CHEA WATERS EVANS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE 3',)
+        ('Chelsea', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chelsea', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chelsea', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chelsea', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chelsea', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'JOSHUA DOBROVICH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'JOSHUA DOBROVICH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN CENTRAL',)
+        ('Chittenden 14', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden 14', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden 14', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('Winooski', 'STATE SENATE', 'DEMOCRAT', 'CHITTENDEN', 'MARTINE LAROCQUE GULICK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winooski', 'STATE SENATE', 'DEMOCRAT/PROGRESSIVE', 'CHITTENDEN', 'PHIL BARUTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winooski', 'STATE SENATE', 'PROGRESSIVE/DEMOCRAT', 'CHITTENDEN', 'TANYA VYHOVSKY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN NORTH',)
+        ('Chittenden 25', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden 25', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden 25', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 26 elements)
+        ('Westford', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westford', 'STATE SENATE', 'DEMOCRAT', 'CHITTENDEN', 'IRENE WRENNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westford', 'STATE SENATE', 'REPUBLICAN', 'CHITTENDEN', 'CHRIS MATTOS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('GRAND ISLE',)
+        ('Chittenden-19 Gi 1', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-19 Gi 1', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-19 Gi 1', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('S. Hero', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'GRAND ISLE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Hero', 'STATE SENATE', 'DEMOCRAT', 'GRAND ISLE', 'ANDY JULOW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Hero', 'STATE SENATE', 'REPUBLICAN', 'GRAND ISLE', 'PAT BRENNAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 20',)
+        ('Chittenden-20 Chi Ct 1', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-20 Chi Ct 1', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-20 Chi Ct 1', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('Chittenden-20 Gi 1', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'GAYLE PEZZO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-20 Gi 1', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'DOUG WOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Chittenden-20 Gi 1', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'JOSHUA CROPP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 2',)
+        ('Clarendon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Clarendon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Clarendon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Wallingford', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'DAVE POTTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wallingford', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'DAVID "DAVE" BOSCH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wallingford', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'THOMAS "TOM" BURDITT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 19',)
+        ('Colchester', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Colchester', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Colchester', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Colchester', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'WENDY CRITCHLOW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Colchester', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'LELAND GAZO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Colchester', 'STATE HOUSE', 'REPUBLICAN/LIBERTARIAN', 'CHITTENDEN', 'SPENCER SHERMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA-ESSEX',)
+        ('Concord', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Concord', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Concord', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 15 elements)
+        ('St. Johnsbury', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'FRANK EMPSALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Johnsbury', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'R SCOTT CAMPBELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Johnsbury', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'DEBORAH CORDZ DOLGIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE 1',)
+        ('Corinth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Corinth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Corinth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('Washington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', 'CARL DEMROW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'MICHAEL TAGLIAVIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 2',)
+        ('Cornwall', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cornwall', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Cornwall', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('Salisbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Salisbury', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'PETER CONLON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Salisbury', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'CHRISTINE STONE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS-LAMOILLE',)
+        ('Coventry', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Coventry', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Coventry', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('Westfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westfield', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'MARK A HIGLEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westfield', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'MICHAEL J MARCOTTE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON-RUTLAND',)
+        ('Danby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Danby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Danby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('Peru', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Peru', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'MIKE RICE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Peru', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'SANDRA "SANDY" PINSONAULT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS 1',)
+        ('Derby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Derby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Derby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Derby', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Derby', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'RICHARD M NELSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 2',)
+        ('Dover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Dover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Dover', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 14 elements)
+        ('Wardsboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wardsboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wardsboro', 'STATE HOUSE', 'INDEPENDENT', 'WINDHAM', 'LAURA SIBILIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 4',)
+        ('Dummerston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Dummerston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Dummerston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Putney', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Putney', 'STATE HOUSE', 'DEMOCRAT/PROGRESSIVE', 'WINDHAM', 'MIKE MROWICKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Putney', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'LYNNE WILKINS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 2',)
+        ('Duxbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Duxbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Duxbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 34 elements)
+        ('Warren', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'CANDICE WHITE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Warren', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'DARA TORRE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Warren', 'STATE HOUSE', 'INDEPENDENT', 'WASHINGTON', 'JOHN J BURNS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 5',)
+        ('E. Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('E. Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('E. Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4 elements)
+        ('Middlesex', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlesex', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlesex', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'ELANOR "ELA" CHAPIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE-WASHINGTON',)
+        ('Elmore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmore', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('Worcester', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'SAUDIA LAMONT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'CHARLES BURNHAM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Worcester', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'NICK LOPEZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 7',)
+        ('Enosburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Enosburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Enosburgh', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Montgomery', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montgomery', 'STATE HOUSE', 'PROGRESSIVE/DEMOCRAT', 'FRANKLIN', 'HEATHER MOORE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montgomery', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'ALLEN "PENNY" DEMAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN NORTH', 'CHITTENDEN CENTRAL')
+        ('Essex', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Essex', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Essex', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Essex', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 1',)
+        ('Fairfax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Fairfax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Fairfax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Fairfax', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'CAROLYN WHITNEY BRANAGAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'ASHLEY R BARTLEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'CAROLYN WHITNEY BRANAGAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 1', 'CHITTENDEN-FRANKLIN')
+        ('Georgia', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN-FRANKLIN',)
+        ('Georgia', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'HENRY A BONGES III', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'LONNIE POLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Georgia', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'ANTHONY "TONY" MICKLUS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Milton', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'LONNIE POLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'ANTHONY "TONY" MICKLUS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'CHRIS TAYLOR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORANGE-CALEDONIA',)
+        ('Groton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Groton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Groton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Topsham', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Topsham', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', 'JAMES P MERRIAM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Topsham', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'JOE PARSONS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 1',)
+        ('Guilford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Guilford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Guilford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Vernon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Vernon', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'ZON EASTES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Vernon', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'NANCY GASSETT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 6',)
+        ('Halifax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Halifax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Halifax', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Wilmington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilmington', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'EMILY CARRIS-DUNCAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilmington', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'PAM BAKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA 2',)
+        ('Hardwick', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hardwick', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hardwick', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Walden', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Walden', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'SABRINA MORRISON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Walden', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'MICHAEL "MIKE" SOUTHWORTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 6', 'WINDSOR 4')
+        ('Hartford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 6',)
+        ('Hartford', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'KEVIN "COACH" CHRISTIE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartford', 'STATE HOUSE', 'DEMOCRAT/PROGRESSIVE', 'WINDSOR', 'ESME COLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartford', 'STATE HOUSE', 'REPUBLICAN', 'WINDSOR', 'JOE TROTTIER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 1',)
+        ('Hartland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hartland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Windsor', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windsor', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'ELIZABETH BURROWS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Windsor', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'JOHN BARTHOLOMEW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 4', 'CHITTENDEN 5')
+        ('Hinesburg', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hinesburg', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hinesburg', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hinesburg', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 4',)
+        ('Hinesburg', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'PHIL POUECH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON-RUTLAND',)
+        ('Hubbardton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hubbardton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Hubbardton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 19 elements)
+        ('Whiting', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Whiting', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Whiting', 'STATE HOUSE', 'REPUBLICAN', 'ADDISON', 'JIM CASEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 1',)
+        ('Ira', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ira', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ira', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5 elements)
+        ('Poultney', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Poultney', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'PATRICIA A MCCOY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'PATRICIA A MCCOY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 3',)
+        ('Jericho', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Jericho', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Jericho', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Underhill', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Underhill', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'EDYE GRANING', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Underhill', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'TREVOR SQUIRRELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND-WINDSOR',)
+        ('Ludlow', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ludlow', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ludlow', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Shrewsbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shrewsbury', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'ADRIENNE RAYMOND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shrewsbury', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'KEVIN C WINTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CALEDONIA 3',)
+        ('Lyndon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Lyndon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Lyndon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CALEDONIA', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 34 elements)
+        ('Wheelock', 'STATE HOUSE', 'DEMOCRAT', 'CALEDONIA', 'EILEEN BOLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheelock', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'BETH M QUIMBY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheelock', 'STATE HOUSE', 'REPUBLICAN', 'CALEDONIA', 'MARTHA "MARTY" FELTUS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDHAM 5',)
+        ('Marlboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Marlboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Marlboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 9 elements)
+        ('Townshend', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Townshend', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDHAM', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Townshend', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'EMILY LONG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 1', 'ADDISON 5')
+        ('Middlebury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlebury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlebury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlebury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 1',)
+        ('Middlebury', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'AMY SHELDON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middlebury', 'STATE HOUSE', 'DEMOCRAT', 'ADDISON', 'ROBIN SCHEU', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND-BENNINGTON',)
+        ('Middletown Springs', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middletown Springs', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Middletown Springs', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20 elements)
+        ('Tinmouth', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRIS PRITCHARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'ROBIN CHESNUT-TANGERMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRIS PRITCHARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('GRAND ISLE-CHITTENDEN', 'CHITTENDEN 25', 'CHITTENDEN-FRANKLIN')
+        ('Milton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 25',)
+        ('Milton', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'JULIA ANDREWS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Milton', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'BRENDA TURNER STEADY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Westford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westford', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'JULIA ANDREWS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westford', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'BRENDA TURNER STEADY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON 4',)
+        ('Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montpelier', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montpelier', 'STATE HOUSE', 'DEMOCRAT/PROGRESSIVE', 'WASHINGTON', 'CONOR CASEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Montpelier', 'STATE HOUSE', 'DEMOCRAT/PROGRESSIVE', 'WASHINGTON', 'KATE MCCANN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ADDISON 5', 'ADDISON 3')
+        ('New Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('New Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('New Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('New Haven', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ADDISON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ORLEANS 2',)
+        ('Newport City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Newport City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Newport City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Newport City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORLEANS', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Newport City', 'STATE HOUSE', 'REPUBLICAN', 'ORLEANS', 'WOODMAN H "WOODY" PAGE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR-ORANGE 2',)
+        ('Norwich', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Norwich', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Norwich', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 26 elements)
+        ('Thetford', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', 'REBECCA HOLCOMBE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Thetford', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'KEVIN BLAKEMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Thetford', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'LISA FLANDERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 8',)
+        ('Pittsford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pittsford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pittsford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4 elements)
+        ('Proctor', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Proctor', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Proctor', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'RUTLAND', 'ALICIA MALAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 5',)
+        ('Plymouth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Plymouth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Plymouth', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('Woodstock', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstock', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'CHARLIE KIMBELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstock', 'STATE HOUSE', 'REPUBLICAN', 'WINDSOR', 'STEVE RADONIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 1', 'BENNINGTON 5')
+        ('Pownal', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 1',)
+        ('Pownal', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'JONATHAN COOPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Pownal', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'BRUCE BUSA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Readsboro', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20 elements)
+        ('Woodford', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodford', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'JONATHAN COOPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodford', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'BRUCE BUSA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 1',)
+        ('Richmond', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richmond', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richmond', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richmond', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Richmond', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'JANA BROWN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR-ORANGE 1',)
+        ('Royalton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Royalton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Royalton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Tunbridge', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Tunbridge', 'STATE HOUSE', 'DEMOCRAT', 'ORANGE', "JOHN O'BRIEN", 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Tunbridge', 'STATE HOUSE', 'REPUBLICAN', 'ORANGE', 'BRUCE V POST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 4', 'RUTLAND 5', 'RUTLAND 7', 'RUTLAND 6')
+        ('Rutland City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 4',)
+        ('Rutland City', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'ANNA TADIO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRISTOPHER HOWLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland Town', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'ANNA TADIO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland Town', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRISTOPHER HOWLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 6',)
+        ('Rutland City', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'MARY E HOWARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CINDY LASKEVICH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 7',)
+        ('Rutland City', 'STATE HOUSE', 'DEMOCRAT', 'RUTLAND', 'WILLIAM NOTTE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland City', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'CHRIS KEYSER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 5',)
+        ('Rutland City', 'STATE HOUSE', 'REPUBLICAN', 'RUTLAND', 'ERIC MAGUIRE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 4', 'RUTLAND 2')
+        ('Rutland Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Rutland Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 8', 'CHITTENDEN 10', 'CHITTENDEN 9')
+        ('S. Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('S. Burlington', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 8',)
+        ('S. Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'BRIDGET MARIE BURKHARDT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williston', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'BRIDGET MARIE BURKHARDT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 9',)
+        ('S. Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'EMILIE KRASNOW', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 10',)
+        ('S. Burlington', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'KATE NUGENT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 3',)
+        ('Shaftsbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shaftsbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shaftsbury', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Shaftsbury', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'VICTOR K HARWOOD JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', 'DEMOCRAT', 'BENNINGTON', 'DAVID K DURFEE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', 'REPUBLICAN', 'BENNINGTON', 'VICTOR K HARWOOD JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 6', 'CHITTENDEN 7')
+        ('Shelburne', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shelburne', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shelburne', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shelburne', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 6',)
+        ('Shelburne', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'KATE LALLEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Shelburne', 'STATE HOUSE', 'REPUBLICAN', 'CHITTENDEN', 'DEB MAYFIELD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 7',)
+        ('Shelburne', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'SHAWN SWEENEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. George', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. George', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. George', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. George', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. George', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'SHAWN SWEENEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 4',)
+        ('Sheldon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sheldon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sheldon', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Swanton', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Swanton', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'MATTHEW E WALKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Swanton', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'THOMAS "TOM" OLIVER JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WINDSOR 3',)
+        ('Springfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Springfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Springfield', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WINDSOR', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Springfield', 'STATE HOUSE', 'DEMOCRAT', 'WINDSOR', 'KRISTI C MORRIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Springfield', 'STATE HOUSE', 'REPUBLICAN', 'WINDSOR', 'JUDITH STERN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Springfield', 'STATE HOUSE', 'REPUBLICAN', 'WINDSOR', 'KEITH STERN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 8', 'FRANKLIN 3')
+        ('St. Albans City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans City', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 3',)
+        ('St. Albans City', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'MIKE MCCARTHY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans City', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'JOE LUNEAU', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 8',)
+        ('St. Albans City', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'ZACH SCHEFFLER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans City', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'CASEY J TOOF', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans Town', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'ZACH SCHEFFLER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans Town', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'CASEY J TOOF', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 8', 'FRANKLIN 2')
+        ('St. Albans Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('St. Albans Town', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FRANKLIN 2',)
+        ('St. Albans Town', 'STATE HOUSE', 'DEMOCRAT/REPUBLICAN', 'FRANKLIN', 'EILEEN "LYNN" DICKINSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE-WASHINGTON', 'LAMOILLE 1')
+        ('Stowe', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stowe', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stowe', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stowe', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LAMOILLE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('LAMOILLE 1',)
+        ('Stowe', 'STATE HOUSE', 'INDEPENDENT', 'LAMOILLE', 'JED LIPSKY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('BENNINGTON 3', 'BENNINGTON 4')
+        ('Sunderland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Sunderland', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BENNINGTON', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('RUTLAND 1', 'RUTLAND-BENNINGTON')
+        ('Wells', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wells', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'RUTLAND', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('WASHINGTON-ORANGE', 'ORANGE 3')
+        ('Williamstown', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamstown', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ORANGE', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 8', 'CHITTENDEN 2')
+        ('Williston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'BLANKS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'SPOILED', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'TOTAL VOTES CAST', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williston', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CHITTENDEN', 'WRITE-IN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('CHITTENDEN 2',)
+        ('Williston', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'ANGELA ARSENAULT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Williston', 'STATE HOUSE', 'DEMOCRAT', 'CHITTENDEN', 'ERIN BRADY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ADDISON
+    ADDISON 1
+    ADDISON 2
+    ADDISON 3
+    ADDISON 4
+    ADDISON 5
+    ADDISON-RUTLAND
+    BENNINGTON
+    BENNINGTON 1
+    BENNINGTON 2
+    BENNINGTON 3
+    BENNINGTON 4
+    BENNINGTON 5
+    BENNINGTON-RUTLAND
+    CALEDONIA
+    CALEDONIA 1
+    CALEDONIA 2
+    CALEDONIA 3
+    CALEDONIA-ESSEX
+    CALEDONIA-WASHINGTON
+    CHITTENDEN 1
+    CHITTENDEN 10
+    CHITTENDEN 14
+    CHITTENDEN 15
+    CHITTENDEN 16
+    CHITTENDEN 17
+    CHITTENDEN 18
+    CHITTENDEN 19
+    CHITTENDEN 2
+    CHITTENDEN 20
+    CHITTENDEN 25
+    CHITTENDEN 3
+    CHITTENDEN 4
+    CHITTENDEN 5
+    CHITTENDEN 6
+    CHITTENDEN 7
+    CHITTENDEN 8
+    CHITTENDEN 9
+    CHITTENDEN CENTRAL
+    CHITTENDEN NORTH
+    CHITTENDEN SOUTHEAST
+    CHITTENDEN-FRANKLIN
+    ESSEX
+    ESSEX-CALEDONIA
+    ESSEX-ORLEANS
+    FRANKLIN
+    FRANKLIN 1
+    FRANKLIN 2
+    FRANKLIN 3
+    FRANKLIN 4
+    FRANKLIN 5
+    FRANKLIN 6
+    FRANKLIN 7
+    FRANKLIN 8
+    GRAND ISLE
+    GRAND ISLE-CHITTENDEN
+    LAMOILLE
+    LAMOILLE 1
+    LAMOILLE 2
+    LAMOILLE 3
+    LAMOILLE-WASHINGTON
+    ORANGE
+    ORANGE 1
+    ORANGE 2
+    ORANGE 3
+    ORANGE-CALEDONIA
+    ORANGE-WASHINGTON-ADDISON
+    ORLEANS
+    ORLEANS 1
+    ORLEANS 2
+    ORLEANS 3
+    ORLEANS 4
+    ORLEANS-LAMOILLE
+    RUTLAND
+    RUTLAND 1
+    RUTLAND 10
+    RUTLAND 2
+    RUTLAND 3
+    RUTLAND 4
+    RUTLAND 5
+    RUTLAND 6
+    RUTLAND 7
+    RUTLAND 8
+    RUTLAND 9
+    RUTLAND-BENNINGTON
+    RUTLAND-WINDSOR
+    STATEWIDE
+    WASHINGTON
+    WASHINGTON 1
+    WASHINGTON 2
+    WASHINGTON 3
+    WASHINGTON 4
+    WASHINGTON 5
+    WASHINGTON 6
+    WASHINGTON-CHITTENDEN
+    WASHINGTON-ORANGE
+    WINDHAM
+    WINDHAM 1
+    WINDHAM 2
+    WINDHAM 3
+    WINDHAM 4
+    WINDHAM 5
+    WINDHAM 6
+    WINDHAM 7
+    WINDHAM 8
+    WINDHAM 9
+    WINDHAM-WINDSOR-BENNINGTON
+    WINDSOR
+    WINDSOR 1
+    WINDSOR 2
+    WINDSOR 3
+    WINDSOR 4
+    WINDSOR 5
+    WINDSOR 6
+    WINDSOR-ADDISON
+    WINDSOR-ORANGE 1
+    WINDSOR-ORANGE 2
+    WINDSOR-WINDHAM
+------
+

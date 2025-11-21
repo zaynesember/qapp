@@ -1,0 +1,545 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in mode!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    ELECTION DAY ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    TOTAL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    TOTAL ||| [[TOTAL]]
+    MAIL-IN ||| [[MAIL]]
+    ABSENTEE ||| [[ABS]]
+    PROVISIONAL ||| [[PROV]]
+    EARLY VOTING ||| [[EARLY]]
+    ELECTION DAY ||| [[ELECTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('<<<EC: VALUE WAS EMPTY>>>',)
+        ('11TH CD STATE/FED', 'BALLOTS CAST', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'REGISTERED VOTERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'TOTAL ABSENTEE VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 21062 elements)
+        ('Woodstown District 2', 'WOODSTOWN SCHOOL BOARD', '<<<EC: VALUE WAS EMPTY>>>', 'SALEM', 'ABSTAIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstown District 2', 'WOODSTOWN SCHOOL BOARD', '<<<EC: VALUE WAS EMPTY>>>', 'SALEM', 'COLLEEN PRATER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodstown District 2', 'WOODSTOWN SCHOOL BOARD', '<<<EC: VALUE WAS EMPTY>>>', 'SALEM', 'MARICIA E CHIARELLI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('STATE/FED', 'MAIL-IN', 'EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'EMERGENCY')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'DEBORAH SMITH', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'JOHN KRICKUS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'JONATHAN SACKETT', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 15797 elements)
+        ('Wharton Borough District 5', 'US SENATE', 'REPUBLICAN', 'MORRIS', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wharton Borough District 5', 'US SENATE', 'SOCIALIST WORKERS PARTY', 'MORRIS', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wharton Borough District 5', 'US SENATE', 'VOTE BETTER', 'MORRIS', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FEDERAL/OVERSEAS',)
+        ('2ND CD State/Fed Absentee', 'US HOUSE', 'DEMOCRAT', 'CAPE MAY', 'JOSEPH F SALERNO', '002', 'GEN', 'FALSE', '2024-11-05')
+        ('2ND CD State/Fed Absentee', 'US HOUSE', 'DEMOCRAT', 'CAPE MAY', 'THOMAS CANNAVO', '002', 'GEN', 'FALSE', '2024-11-05')
+        ('2ND CD State/Fed Absentee', 'US HOUSE', 'REPUBLICAN', 'CAPE MAY', 'JEFF VAN DREW', '002', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 93 elements)
+        ('Lakewood District 05', 'US SENATE', 'INDEPENDENT', 'OCEAN', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Lakewood District 27', 'US PRESIDENT', 'DEMOCRAT', 'OCEAN', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('North Bergen Ward 2 District 2', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'HUDSON', 'CLAUDIA DE LA CRUZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL',)
+        ('3rd Congressional Federal', 'MONMOUTH COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'MONMOUTH', 'DANIELLE MASTROPIERO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('3rd Congressional Federal', 'MONMOUTH COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'MONMOUTH', 'SUSAN M KILEY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('3rd Congressional Federal', 'MONMOUTH COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'MONMOUTH', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 104281 elements)
+        ('Wyckoff', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'MAE Y BOGDANSKY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'THOMAS J MADIGAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'EARLY VOTING', 'ELECTION DAY', 'ABSENTEE')
+        ('Absecon W1 D1', 'ATLANTIC COUNTY COMMISSIONER', 'DEMOCRAT', 'ATLANTIC', 'JOANNE FAMULARO', '2', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'COUNCIL - ABSECON', 'DEMOCRAT', 'ATLANTIC', 'BRENDAN SANTANGELO', '1', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'MAYOR - ABSECON', 'REPUBLICAN', 'ATLANTIC', 'THOMAS MARRONE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20712 elements)
+        ('Woodbine District 2', 'US PRESIDENT', 'REPUBLICAN', 'CAPE MAY', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbine District 2', 'US SENATE', 'DEMOCRAT', 'CAPE MAY', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbine District 2', 'US SENATE', 'REPUBLICAN', 'CAPE MAY', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'ABSENTEE')
+        ('Absecon W1 D1', 'ATLANTIC COUNTY COMMISSIONER', 'DEMOCRAT', 'ATLANTIC', 'KIM OBRIEN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'ATLANTIC COUNTY COMMISSIONER', 'REPUBLICAN', 'ATLANTIC', 'MAUREEN KERN', '2', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'ATLANTIC COUNTY COMMISSIONER', 'REPUBLICAN', 'ATLANTIC', 'MICHAEL RUFFU', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 22462 elements)
+        ('Wrightstown Borough Election District 1', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough Election District 1', 'WRIGHTSTOWN BOROUGH - BROUGH COUNCIL', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'JASON R BUSHNELL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough Election District 1', 'WRIGHTSTOWN BOROUGH - MAYOR', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'DONALD COTTRELL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY')
+        ('Absecon W1 D1', 'US HOUSE', 'DEMOCRAT', 'ATLANTIC', 'THOMAS CANNAVO', '002', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'US PRESIDENT', 'GREEN', 'ATLANTIC', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'US PRESIDENT', 'LIBERTARIAN', 'ATLANTIC', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6530 elements)
+        ('Woodbine District 1', 'BOARD OF EDUCATIONBOROUGH OF WOODBINE', '<<<EC: VALUE WAS EMPTY>>>', 'CAPE MAY', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbine District 2', 'CAPE MAY COUNTY COMMISSIONER', 'REPUBLICAN', 'CAPE MAY', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodland Township Election District 1', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY',)
+        ('Absecon W1 D1', 'US HOUSE', 'DEMOCRAT', 'ATLANTIC', 'WRITE-IN', '002', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 13750 elements)
+        ('Wrightstown Borough Election District 1', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough Election District 1', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough Election District 1', 'WRIGHTSTOWN BOROUGH - BROUGH COUNCIL', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY', 'ABSENTEE')
+        ('Absecon W1 D1', 'US PRESIDENT', 'INDEPENDENT', 'ATLANTIC', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D1', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W2 D1', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8286 elements)
+        ('Woodland Township Election District 1', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodland Township Election District 1', 'WOODLAND TOWNSHIP - TOWNSHIP COMMITTEE', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough Election District 1', 'BOARD OF EDUCATION NEW HANOVER TOWNSHIP/WRIGHTSTOWN BOROUGH', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING',)
+        ('Absecon W1 D2', 'COUNCIL - ABSECON', 'REPUBLICAN', 'ATLANTIC', 'WRITE-IN', '1', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D2', 'US HOUSE', 'DEMOCRAT', 'ATLANTIC', 'WRITE-IN', '002', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D2', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'WRITE-IN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2898 elements)
+        ('Willingboro Township Election District 9', 'US PRESIDENT', 'SOCIALIST WORKERS', 'BURLINGTON', 'RACHELE FRUIT', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Winfield District 2', 'UNION COUNTY COMMISSIONER', 'REPUBLICAN', 'UNION', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodland Township Election District 1', 'BURLINGTON COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL')
+        ('Absecon W1 D2', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'ATLANTIC', 'CLAUDIA DE LA CRUZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W2 D3', 'US PRESIDENT', 'LIBERTARIAN', 'ATLANTIC', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W1 D3', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 791 elements)
+        ('West Orange 5-4', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 5-5', 'US HOUSE', 'REPUBLICAN', 'ESSEX', 'CYNTHIA A JOHNSON', '10', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 5-5', 'WEST ORANGE - COUNCILMEMBER AT-LARGE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'JOE KRAKOVIAK', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY', 'PROVISIONAL')
+        ('Absecon W1 D2', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D2', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W2 D1', 'US HOUSE', 'DEMOCRAT', 'ATLANTIC', 'THOMAS CANNAVO', '002', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 485 elements)
+        ('West Orange 5-2', 'US HOUSE', 'REPUBLICAN', 'ESSEX', 'CYNTHIA A JOHNSON', '10', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 5-2', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Weymouth D02', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ABSENTEE')
+        ('Absecon W1 D3', 'US PRESIDENT', 'GREEN', 'ATLANTIC', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W1 D3', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'WRITE-IN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W1 D1', 'MEMBERS OF THE LOCAL BOARD OF EDUCATIONATLANTIC CITY', '<<<EC: VALUE WAS EMPTY>>>', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 650 elements)
+        ('Winfield District 2', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'UNION', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Winfield District 2', 'US SENATE', 'REPUBLICAN', 'UNION', 'WRITE-IN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodland Township Election District 1', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'DOUGLAS ANTHONY WYNN', '3', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ABSENTEE',)
+        ('Absecon W2 D1', 'US PRESIDENT', 'CONSTITUTION', 'ATLANTIC', 'RANDALL TERRY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W2 D2', 'US PRESIDENT', 'INDEPENDENT', 'ATLANTIC', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W1 D1', 'ATLANTIC COUNTY COMMISSIONER', 'REPUBLICAN', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3017 elements)
+        ('Woodbine District 2', 'US PRESIDENT', 'CONSTITUTION', 'CAPE MAY', 'RANDALL TERRY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbine District 2', 'US PRESIDENT', 'GREEN', 'CAPE MAY', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbine District 2', 'US SENATE', 'DEMOCRAT', 'CAPE MAY', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'ELECTION DAY', 'ABSENTEE')
+        ('Absecon W2 D1', 'US PRESIDENT', 'GREEN', 'ATLANTIC', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Absecon W2 D3', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W1 D3', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 194 elements)
+        ('West Orange 4-4', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 4-9', 'US HOUSE', 'REPUBLICAN', 'ESSEX', 'JON CARLOS SERRANO', '10', 'GEN', 'FALSE', '2024-11-05')
+        ('Wildwood Crest District 1', 'CAPE MAY COUNTY COMMISSIONER', 'REPUBLICAN', 'CAPE MAY', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('MAIL-IN', 'EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'TOTAL')
+        ('Allendale 1', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'ELIZABETH C HOMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Allendale 1', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'SUSANNE C LOVISOLO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Allendale 1', 'ALLENDALE LOCAL BOE', 'NONPARTISAN', 'BERGEN', 'DAVID VERBEL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 19730 elements)
+        ('Wyckoff 9', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'MAE Y BOGDANSKY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff 9', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'THOMAS J MADIGAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff 9', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'PROVISIONAL')
+        ('Allendale Provisional', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'ELIZABETH C HOMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Allendale Provisional', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'SUSANNE C LOVISOLO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Allendale Provisional', 'ALLENDALE LOCAL BOE', 'NONPARTISAN', 'BERGEN', 'DAVID VERBEL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2535 elements)
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'MAE Y BOGDANSKY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'THOMAS J MADIGAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'PROVISIONAL')
+        ('Atlantic City W1 D3', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W2 D2', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W4 D4', 'ATLANTIC COUNTY COMMISSIONER', 'REPUBLICAN', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 83 elements)
+        ('West New York Ward 2 District 6', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 4-2', 'US HOUSE', 'REPUBLICAN', 'ESSEX', 'MICHELLE MIDDLETON', '10', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 5-3', 'US HOUSE', 'REPUBLICAN', 'ESSEX', 'MICHELLE MIDDLETON', '10', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL',)
+        ('Atlantic City W3 D2', 'US SENATE', 'REPUBLICAN', 'ATLANTIC', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W4 D1', 'US PRESIDENT', 'SOCIALIST WORKERS', 'ATLANTIC', 'RACHELE FRUIT', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W4 D4', 'MEMBER OF THE LOCAL BOARD OF EDUCATION2YUXP ATLANTIC CITY', '<<<EC: VALUE WAS EMPTY>>>', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'TRUE', '2024-11-05')
+        ...(skipping 3012 elements)
+        ('Wrightstown Borough (Provisional)', 'US SENATE', 'REPUBLICAN', 'BURLINGTON', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough (Provisional)', 'WRIGHTSTOWN BOROUGH - BROUGH COUNCIL', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'JASON R BUSHNELL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Wrightstown Borough (Provisional)', 'WRIGHTSTOWN BOROUGH - MAYOR', '<<<EC: VALUE WAS EMPTY>>>', 'BURLINGTON', 'DONALD COTTRELL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'ABSENTEE')
+        ('Atlantic City W4 D3', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic City W4 D4', 'MEMBERS OF THE LOCAL BOARD OF EDUCATIONATLANTIC CITY', '<<<EC: VALUE WAS EMPTY>>>', 'ATLANTIC', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomfield 2-2', 'US PRESIDENT', 'LIBERTARIAN', 'ESSEX', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 32 elements)
+        ('West Caldwell 1', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'LILY BENAVIDES', '11', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 2 District 5', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West Orange 4-8', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'ESSEX', 'CLAUDIA DE LA CRUZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'FEDERAL/OVERSEAS', 'PROVISIONAL', 'ABSENTEE')
+        ('Barnegat District 01', 'US HOUSE', 'DEMOCRAT', 'OCEAN', 'JOSEPH F SALERNO', '2', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnegat District 01', 'US PRESIDENT', 'DEMOCRAT', 'OCEAN', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnegat District 01', 'US SENATE', 'DEMOCRAT', 'OCEAN', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2824 elements)
+        ('West New York Ward 3 District 9', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'ROB MENENDEZ', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 9', 'US PRESIDENT', 'DEMOCRAT', 'HUDSON', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 9', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'ABSENTEE', 'FEDERAL/OVERSEAS')
+        ('Barnegat District 09', 'US PRESIDENT', 'DEMOCRAT', 'OCEAN', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnegat District 09', 'US SENATE', 'DEMOCRAT', 'OCEAN', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Barnegat District 15', 'US PRESIDENT', 'DEMOCRAT', 'OCEAN', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 201 elements)
+        ('West New York Ward 1 District 6', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 4', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 7', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'LEA SHERMAN', '8', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'FEDERAL/OVERSEAS')
+        ('Bayonne Ward 2 District 11', 'BOARD OF EDUCATION BAYONNE - 3 YEARS', '<<<EC: VALUE WAS EMPTY>>>', 'HUDSON', 'MICHAEL J ALONSO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'TRUE', '2024-11-05')
+        ('Jersey City Ward B District 25', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CARMEN BUCCO', '10', 'GEN', 'FALSE', '2024-11-05')
+        ('Jersey City Ward B District 25', 'US PRESIDENT', 'REPUBLICAN', 'HUDSON', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 13 elements)
+        ('Union City Ward 5 District 1', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 1', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 1', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FEDERAL/OVERSEAS', 'ELECTION DAY')
+        ('Bayonne Ward 2 District 5', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('Bayonne Ward 3 District 17', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Bayonne Ward 3 District 6', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 32 elements)
+        ('Union City Ward 5 District 1', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Weehawken Ward 2 District 1', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'WRITE-IN', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 10', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'FEDERAL/OVERSEAS')
+        ('Berkeley District 14', 'US PRESIDENT', 'LIBERTARIAN', 'OCEAN', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Hoboken Ward 1 District 4', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Hoboken Ward 3 District 7', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'WRITE-IN', '8', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1 elements)
+        ('Jersey City Ward F District 30', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'LEA SHERMAN', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('Toms River District 03', 'US HOUSE', 'INDEPENDENT', 'OCEAN', 'BARRY BENDAR', '4', 'GEN', 'FALSE', '2024-11-05')
+        ('Toms River District 03', 'US SENATE', 'INDEPENDENT', 'OCEAN', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'EARLY VOTING', 'ABSENTEE')
+        ('Berkeley District 17', 'US PRESIDENT', 'CONSTITUTION', 'OCEAN', 'RANDALL TERRY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Brick District 16', 'US HOUSE', 'INDEPENDENT', 'OCEAN', 'BARRY BENDAR', '4', 'GEN', 'FALSE', '2024-11-05')
+        ('Brick District 16', 'US SENATE', 'INDEPENDENT', 'OCEAN', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 22 elements)
+        ('Weehawken Ward 2 District 1', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Weehawken Ward 3 District 2', 'US PRESIDENT', 'LIBERTARIAN', 'HUDSON', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('West Caldwell 5', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FEDERAL/OVERSEAS', 'ELECTION DAY', 'ABSENTEE')
+        ('Brick District 27', 'US SENATE', 'INDEPENDENT', 'OCEAN', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Hoboken Ward 2 District 3', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('Hoboken Ward 2 District 3', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('Kearny Ward 4 District 2', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Lakewood District 36', 'US HOUSE', 'DEMOCRAT', 'OCEAN', 'MATTHEW JENKINS', '4', 'GEN', 'FALSE', '2024-11-05')
+        ('Secaucus Ward 1 District 4', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'FEDERAL/OVERSEAS')
+        ('Brick District 42', 'US PRESIDENT', 'INDEPENDENT', 'OCEAN', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Guttenberg Ward 1 District 3', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Guttenberg Ward 1 District 3', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 44 elements)
+        ('Weehawken Ward 1 District 1', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'PATRICIA G MOONEYHAM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Weehawken Ward 2 District 1', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Weehawken Ward 2 District 3', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'MAIL-IN', 'PROVISIONAL')
+        ('CD 12', 'MIDDLESEX COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'JOHN J MCCONVILLE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('CD 12', 'MIDDLESEX COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'PETER PEDRO PISAR', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('CD 12', 'MIDDLESEX COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'RONALD G RIOS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 23301 elements)
+        ('Woodbridge 5-9', 'WOODBRIDGE BOARD OF EDUCATION', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'JENNY PEREZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbridge 5-9', 'WOODBRIDGE BOARD OF EDUCATION', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'SUE BOURDIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Woodbridge 5-9', 'WOODBRIDGE BOARD OF EDUCATION', '<<<EC: VALUE WAS EMPTY>>>', 'MIDDLESEX', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'ABSENTEE', 'EMERGENCY')
+        ('Downe 1', 'CUMBERLAND COUNTY CLERK', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'CELESTE M RILEY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Downe 1', 'CUMBERLAND COUNTY CLERK', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'VICTORIA K LODS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Downe 1', 'CUMBERLAND COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'ANTONIO F ROMERO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 96 elements)
+        ('Vineland W2 D4', 'US PRESIDENT', 'REPUBLICAN', 'CUMBERLAND', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Vineland W2 D4', 'US SENATE', 'REPUBLICAN', 'CUMBERLAND', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Vineland W2 D4', 'US SENATE', 'REPUBLICAN', 'CUMBERLAND', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'ABSENTEE', 'EMERGENCY')
+        ('East Orange 3-7', 'ESSEX REGISTER', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'JEFFREY M POLEWKA', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('East Orange 3-7', 'ESSEX REGISTER', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'JUAN M RIVERA JR', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('East Orange 3-7', 'ESSEX SHERIFF', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'AMIR JONES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 64 elements)
+        ('Verona 6', 'US PRESIDENT', 'REPUBLICAN', 'ESSEX', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Verona 6', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'ANDY KIM', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Verona 6', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'CURTIS BASHAW', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'TOTAL', 'PROVISIONAL')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'DEMOCRAT', 'BERGEN', 'SANDRA BALISTRIERI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'REPUBLICAN', 'BERGEN', 'ERIC H SAIMSON', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'REPUBLICAN', 'BERGEN', 'THERESA SHERIDAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1 elements)
+        ('Elmwood Park Provisional', 'ELMWOOD PARK LOCAL BOE', 'NONPARTISAN', 'BERGEN', 'BRIAN KNOBLOCH', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK LOCAL BOE', 'NONPARTISAN', 'BERGEN', 'CHAKIB FAKHOURY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK LOCAL BOE', 'NONPARTISAN', 'BERGEN', 'KAREN PENA', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'ELECTION DAY', 'MAIL-IN', 'PROVISIONAL')
+        ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'DEMOCRAT', 'BERGEN', 'TANISHA DENNIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'EMERGENCY')
+        ('Fairfield 2', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'LILY BENAVIDES', '11', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY', 'EMERGENCY')
+        ('Fairfield 2', 'US PRESIDENT', 'INDEPENDENT', 'ESSEX', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('North Caldwell 5', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ESSEX', 'LILY BENAVIDES', '11', 'GEN', 'FALSE', '2024-11-05')
+        ('North Caldwell 5', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ABSENTEE', 'FEDERAL/OVERSEAS')
+        ('Guttenberg Ward 1 District 1', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Hoboken Ward 5 District 5', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'WRITE-IN', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('Jersey City Ward E District 10', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('Union City Ward 5 District 2', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'PABLO R OLIVERA', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 1 District 7', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('West New York Ward 3 District 11', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'PABLO R OLIVERA', '8', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'FEDERAL/OVERSEAS', 'ELECTION DAY', 'ABSENTEE')
+        ('Harrison Ward 1 District 1', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FEDERAL/OVERSEAS', 'ELECTION DAY', 'PROVISIONAL')
+        ('Hoboken Ward 6 District 7', 'US PRESIDENT', 'INDEPENDENT', 'HUDSON', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Jersey City Ward C District 4', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'CHRISTINA KHALIL', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('North Bergen Ward 3 District 3', 'US HOUSE', 'REPUBLICAN', 'HUDSON', 'CHRISTIAN J ROBBINS', '8', 'GEN', 'FALSE', '2024-11-05')
+        ('Weehawken Ward 3 District 1', 'US SENATE', 'REPUBLICAN', 'HUDSON', 'JOANNE KUNIANSKY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('PROVISIONAL', 'FEDERAL/OVERSEAS', 'ABSENTEE')
+        ('Jersey City Ward C District 16', 'US PRESIDENT', 'INDEPENDENT', 'HUDSON', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('FEDERAL/OVERSEAS', 'ABSENTEE')
+        ('Kearny Ward 4 District 2', 'US PRESIDENT', 'GREEN', 'HUDSON', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('Lakewood District 36', 'US PRESIDENT', 'DEMOCRAT', 'OCEAN', 'KAMALA D HARRIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY', 'EMERGENCY')
+        ('North Caldwell 5', 'US PRESIDENT', 'GREEN', 'ESSEX', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY', 'ABSENTEE', 'EMERGENCY')
+        ('North Caldwell 5', 'US PRESIDENT', 'INDEPENDENT', 'ESSEX', 'ROBERT F KENNEDY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('North Caldwell 5', 'US SENATE', 'REPUBLICAN', 'ESSEX', 'KENNETH R KAPLAN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    ('MAIL-IN', 'EARLY VOTING', 'ELECTION DAY', 'PROVISIONAL', 'TOTAL'): ('Allendale 1', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'ELIZABETH C HOMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'PROVISIONAL'): ('Allendale Provisional', 'ALLENDALE COUNCIL', 'REPUBLICAN', 'BERGEN', 'ELIZABETH C HOMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+    ('EARLY VOTING', 'ELECTION DAY', 'TOTAL', 'PROVISIONAL'): ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'DEMOCRAT', 'BERGEN', 'SANDRA BALISTRIERI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'ELECTION DAY', 'MAIL-IN', 'PROVISIONAL'): ('Elmwood Park Provisional', 'ELMWOOD PARK COUNCIL', 'DEMOCRAT', 'BERGEN', 'TANISHA DENNIS', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    ABSENTEE
+    EARLY VOTING
+    ELECTION DAY
+    EMERGENCY
+    FEDERAL/OVERSEAS
+    MAIL-IN
+    PROVISIONAL
+    STATE/FED
+    TOTAL
+------
+

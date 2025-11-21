@@ -1,0 +1,251 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 39001, ['39001']])
+    ('ALLEN', ['ALLEN', 39003, ['39003']])
+    ('ASHLAND', ['ASHLAND', 39005, ['39005']])
+    ('ASHTABULA', ['ASHTABULA', 39007, ['39007']])
+    ('ATHENS', ['ATHENS', 39009, ['39009']])
+    ('AUGLAIZE', ['AUGLAIZE', 39011, ['39011']])
+    ('BELMONT', ['BELMONT', 39013, ['39013']])
+    ('BROWN', ['BROWN', 39015, ['39015']])
+    ('BUTLER', ['BUTLER', 39017, ['39017']])
+    ('CARROLL', ['CARROLL', 39019, ['39019']])
+    ('CHAMPAIGN', ['CHAMPAIGN', 39021, ['39021']])
+    ('CLARK', ['CLARK', 39023, ['39023']])
+    ('CLERMONT', ['CLERMONT', 39025, ['39025']])
+    ('CLINTON', ['CLINTON', 39027, ['39027']])
+    ('COLUMBIANA', ['COLUMBIANA', 39029, ['39029']])
+    ('COSHOCTON', ['COSHOCTON', 39031, ['39031']])
+    ('CRAWFORD', ['CRAWFORD', 39033, ['39033']])
+    ('CUYAHOGA', ['CUYAHOGA', 39035, ['39035']])
+    ('DARKE', ['DARKE', 39037, ['39037']])
+    ('DEFIANCE', ['DEFIANCE', 39039, ['39039']])
+    ('DELAWARE', ['DELAWARE', 39041, ['39041']])
+    ('ERIE', ['ERIE', 39043, ['39043']])
+    ('FAIRFIELD', ['FAIRFIELD', 39045, ['39045']])
+    ('FAYETTE', ['FAYETTE', 39047, ['39047']])
+    ('FRANKLIN', ['FRANKLIN', 39049, ['39049']])
+    ('FULTON', ['FULTON', 39051, ['39051']])
+    ('GALLIA', ['GALLIA', 39053, ['39053']])
+    ('GEAUGA', ['GEAUGA', 39055, ['39055']])
+    ('GREENE', ['GREENE', 39057, ['39057']])
+    ('GUERNSEY', ['GUERNSEY', 39059, ['39059']])
+    ('HAMILTON', ['HAMILTON', 39061, ['39061']])
+    ('HANCOCK', ['HANCOCK', 39063, ['39063']])
+    ('HARDIN', ['HARDIN', 39065, ['39065']])
+    ('HARRISON', ['HARRISON', 39067, ['39067']])
+    ('HENRY', ['HENRY', 39069, ['39069']])
+    ('HIGHLAND', ['HIGHLAND', 39071, ['39071']])
+    ('HOCKING', ['HOCKING', 39073, ['39073']])
+    ('HOLMES', ['HOLMES', 39075, ['39075']])
+    ('HURON', ['HURON', 39077, ['39077']])
+    ('JACKSON', ['JACKSON', 39079, ['39079']])
+    ('JEFFERSON', ['JEFFERSON', 39081, ['39081']])
+    ('KNOX', ['KNOX', 39083, ['39083']])
+    ('LAKE', ['LAKE', 39085, ['39085']])
+    ('LAWRENCE', ['LAWRENCE', 39087, ['39087']])
+    ('LICKING', ['LICKING', 39089, ['39089']])
+    ('LOGAN', ['LOGAN', 39091, ['39091']])
+    ('LORAIN', ['LORAIN', 39093, ['39093']])
+    ('LUCAS', ['LUCAS', 39095, ['39095']])
+    ('MADISON', ['MADISON', 39097, ['39097']])
+    ('MAHONING', ['MAHONING', 39099, ['39099']])
+    ('MARION', ['MARION', 39101, ['39101']])
+    ('MEDINA', ['MEDINA', 39103, ['39103']])
+    ('MEIGS', ['MEIGS', 39105, ['39105']])
+    ('MERCER', ['MERCER', 39107, ['39107']])
+    ('MIAMI', ['MIAMI', 39109, ['39109']])
+    ('MONROE', ['MONROE', 39111, ['39111']])
+    ('MONTGOMERY', ['MONTGOMERY', 39113, ['39113']])
+    ('MORGAN', ['MORGAN', 39115, ['39115']])
+    ('MORROW', ['MORROW', 39117, ['39117']])
+    ('MUSKINGUM', ['MUSKINGUM', 39119, ['39119']])
+    ('NOBLE', ['NOBLE', 39121, ['39121']])
+    ('OTTAWA', ['OTTAWA', 39123, ['39123']])
+    ('PAULDING', ['PAULDING', 39125, ['39125']])
+    ('PERRY', ['PERRY', 39127, ['39127']])
+    ('PICKAWAY', ['PICKAWAY', 39129, ['39129']])
+    ('PIKE', ['PIKE', 39131, ['39131']])
+    ('PORTAGE', ['PORTAGE', 39133, ['39133']])
+    ('PREBLE', ['PREBLE', 39135, ['39135']])
+    ('PUTNAM', ['PUTNAM', 39137, ['39137']])
+    ('RICHLAND', ['RICHLAND', 39139, ['39139']])
+    ('ROSS', ['ROSS', 39141, ['39141']])
+    ('SANDUSKY', ['SANDUSKY', 39143, ['39143']])
+    ('SCIOTO', ['SCIOTO', 39145, ['39145']])
+    ('SENECA', ['SENECA', 39147, ['39147']])
+    ('SHELBY', ['SHELBY', 39149, ['39149']])
+    ('STARK', ['STARK', 39151, ['39151']])
+    ('SUMMIT', ['SUMMIT', 39153, ['39153']])
+    ('TRUMBULL', ['TRUMBULL', 39155, ['39155']])
+    ('TUSCARAWAS', ['TUSCARAWAS', 39157, ['39157']])
+    ('UNION', ['UNION', 39159, ['39159']])
+    ('VAN WERT', ['VAN WERT', 39161, ['39161']])
+    ('VINTON', ['VINTON', 39163, ['39163']])
+    ('WARREN', ['WARREN', 39165, ['39165']])
+    ('WASHINGTON', ['WASHINGTON', 39167, ['39167']])
+    ('WAYNE', ['WAYNE', 39169, ['39169']])
+    ('WILLIAMS', ['WILLIAMS', 39171, ['39171']])
+    ('WOOD', ['WOOD', 39173, ['39173']])
+    ('WYANDOT', ['WYANDOT', 39175, ['39175']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALLEN
+    ASHLAND
+    ASHTABULA
+    ATHENS
+    AUGLAIZE
+    BELMONT
+    BROWN
+    BUTLER
+    CARROLL
+    CHAMPAIGN
+    CLARK
+    CLERMONT
+    CLINTON
+    COLUMBIANA
+    COSHOCTON
+    CRAWFORD
+    CUYAHOGA
+    DARKE
+    DEFIANCE
+    DELAWARE
+    ERIE
+    FAIRFIELD
+    FAYETTE
+    FRANKLIN
+    FULTON
+    GALLIA
+    GEAUGA
+    GREENE
+    GUERNSEY
+    HAMILTON
+    HANCOCK
+    HARDIN
+    HARRISON
+    HENRY
+    HIGHLAND
+    HOCKING
+    HOLMES
+    HURON
+    JACKSON
+    JEFFERSON
+    KNOX
+    LAKE
+    LAWRENCE
+    LICKING
+    LOGAN
+    LORAIN
+    LUCAS
+    MADISON
+    MAHONING
+    MARION
+    MEDINA
+    MEIGS
+    MERCER
+    MIAMI
+    MONROE
+    MONTGOMERY
+    MORGAN
+    MORROW
+    MUSKINGUM
+    NOBLE
+    OTTAWA
+    PAULDING
+    PERRY
+    PICKAWAY
+    PIKE
+    PORTAGE
+    PREBLE
+    PUTNAM
+    RICHLAND
+    ROSS
+    SANDUSKY
+    SCIOTO
+    SENECA
+    SHELBY
+    STARK
+    SUMMIT
+    TRUMBULL
+    TUSCARAWAS
+    UNION
+    VAN WERT
+    VINTON
+    WARREN
+    WASHINGTON
+    WAYNE
+    WILLIAMS
+    WOOD
+    WYANDOT
+------
+

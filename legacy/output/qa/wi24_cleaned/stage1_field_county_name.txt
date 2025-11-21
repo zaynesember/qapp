@@ -1,0 +1,224 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    GREEN ||| [[GREEN LAKE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '55001')
+    ('ASHLAND', '55003')
+    ('BARRON', '55005')
+    ('BAYFIELD', '55007')
+    ('BROWN', '55009')
+    ('BUFFALO', '55011')
+    ('BURNETT', '55013')
+    ('CALUMET', '55015')
+    ('CHIPPEWA', '55017')
+    ('CLARK', '55019')
+    ('COLUMBIA', '55021')
+    ('CRAWFORD', '55023')
+    ('DANE', '55025')
+    ('DODGE', '55027')
+    ('DOOR', '55029')
+    ('DOUGLAS', '55031')
+    ('DUNN', '55033')
+    ('EAU CLAIRE', '55035')
+    ('FLORENCE', '55037')
+    ('FOND DU LAC', '55039')
+    ('FOREST', '55041')
+    ('GRANT', '55043')
+    ('GREEN', '55045')
+    ('GREEN LAKE', '55047')
+    ('IOWA', '55049')
+    ('IRON', '55051')
+    ('JACKSON', '55053')
+    ('JEFFERSON', '55055')
+    ('JUNEAU', '55057')
+    ('KENOSHA', '55059')
+    ('KEWAUNEE', '55061')
+    ('LA CROSSE', '55063')
+    ('LAFAYETTE', '55065')
+    ('LANGLADE', '55067')
+    ('LINCOLN', '55069')
+    ('MANITOWOC', '55071')
+    ('MARATHON', '55073')
+    ('MARINETTE', '55075')
+    ('MARQUETTE', '55077')
+    ('MENOMINEE', '55078')
+    ('MILWAUKEE', '55079')
+    ('MONROE', '55081')
+    ('OCONTO', '55083')
+    ('ONEIDA', '55085')
+    ('OUTAGAMIE', '55087')
+    ('OZAUKEE', '55089')
+    ('PEPIN', '55091')
+    ('PIERCE', '55093')
+    ('POLK', '55095')
+    ('PORTAGE', '55097')
+    ('PRICE', '55099')
+    ('RACINE', '55101')
+    ('RICHLAND', '55103')
+    ('ROCK', '55105')
+    ('RUSK', '55107')
+    ('SAUK', '55111')
+    ('SAWYER', '55113')
+    ('SHAWANO', '55115')
+    ('SHEBOYGAN', '55117')
+    ('ST CROIX', '55109')
+    ('TAYLOR', '55119')
+    ('TREMPEALEAU', '55121')
+    ('VERNON', '55123')
+    ('VILAS', '55125')
+    ('WALWORTH', '55127')
+    ('WASHBURN', '55129')
+    ('WASHINGTON', '55131')
+    ('WAUKESHA', '55133')
+    ('WAUPACA', '55135')
+    ('WAUSHARA', '55137')
+    ('WINNEBAGO', '55139')
+    ('WOOD', '55141')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ASHLAND
+    BARRON
+    BAYFIELD
+    BROWN
+    BUFFALO
+    BURNETT
+    CALUMET
+    CHIPPEWA
+    CLARK
+    COLUMBIA
+    CRAWFORD
+    DANE
+    DODGE
+    DOOR
+    DOUGLAS
+    DUNN
+    EAU CLAIRE
+    FLORENCE
+    FOND DU LAC
+    FOREST
+    GRANT
+    GREEN
+    GREEN LAKE
+    IOWA
+    IRON
+    JACKSON
+    JEFFERSON
+    JUNEAU
+    KENOSHA
+    KEWAUNEE
+    LA CROSSE
+    LAFAYETTE
+    LANGLADE
+    LINCOLN
+    MANITOWOC
+    MARATHON
+    MARINETTE
+    MARQUETTE
+    MENOMINEE
+    MILWAUKEE
+    MONROE
+    OCONTO
+    ONEIDA
+    OUTAGAMIE
+    OZAUKEE
+    PEPIN
+    PIERCE
+    POLK
+    PORTAGE
+    PRICE
+    RACINE
+    RICHLAND
+    ROCK
+    RUSK
+    SAUK
+    SAWYER
+    SHAWANO
+    SHEBOYGAN
+    ST CROIX
+    TAYLOR
+    TREMPEALEAU
+    VERNON
+    VILAS
+    WALWORTH
+    WASHBURN
+    WASHINGTON
+    WAUKESHA
+    WAUPACA
+    WAUSHARA
+    WINNEBAGO
+    WOOD
+------
+

@@ -1,0 +1,588 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    GRAY ||| [[GRAYSON]]
+    HILL ||| [[HEMPHILL]]
+    JACK ||| [[JACKSON]]
+    WARD ||| [[EDWARDS]]
+    SMITH ||| [[DEAF SMITH]]
+    COLLIN ||| [[COLLINGSWORTH]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ANDERSON', ['ANDERSON', 48001, ['48001']])
+    ('ANDREWS', ['ANDREWS', 48003, ['48003']])
+    ('ANGELINA', ['ANGELINA', 48005, ['48005']])
+    ('ARANSAS', ['ARANSAS', 48007, ['48007']])
+    ('ARCHER', ['ARCHER', 48009, ['48009']])
+    ('ARMSTRONG', ['ARMSTRONG', 48011, ['48011']])
+    ('ATASCOSA', ['ATASCOSA', 48013, ['48013']])
+    ('AUSTIN', ['AUSTIN', 48015, ['48015']])
+    ('BAILEY', ['BAILEY', 48017, ['48017']])
+    ('BANDERA', ['BANDERA', 48019, ['48019']])
+    ('BASTROP', ['BASTROP', 48021, ['48021']])
+    ('BAYLOR', ['BAYLOR', 48023, ['48023']])
+    ('BEE', ['BEE', 48025, ['48025']])
+    ('BELL', ['BELL', 48027, ['48027']])
+    ('BEXAR', ['BEXAR', 48029, ['48029']])
+    ('BLANCO', ['BLANCO', 48031, ['48031']])
+    ('BORDEN', ['BORDEN', 48033, ['48033']])
+    ('BOSQUE', ['BOSQUE', 48035, ['48035']])
+    ('BOWIE', ['BOWIE', 48037, ['48037']])
+    ('BRAZORIA', ['BRAZORIA', 48039, ['48039']])
+    ('BRAZOS', ['BRAZOS', 48041, ['48041']])
+    ('BREWSTER', ['BREWSTER', 48043, ['48043']])
+    ('BRISCOE', ['BRISCOE', 48045, ['48045']])
+    ('BROOKS', ['BROOKS', 48047, ['48047']])
+    ('BROWN', ['BROWN', 48049, ['48049']])
+    ('BURLESON', ['BURLESON', 48051, ['48051']])
+    ('BURNET', ['BURNET', 48053, ['48053']])
+    ('CALDWELL', ['CALDWELL', 48055, ['48055']])
+    ('CALHOUN', ['CALHOUN', 48057, ['48057']])
+    ('CALLAHAN', ['CALLAHAN', 48059, ['48059']])
+    ('CAMERON', ['CAMERON', 48061, ['48061']])
+    ('CAMP', ['CAMP', 48063, ['48063']])
+    ('CARSON', ['CARSON', 48065, ['48065']])
+    ('CASS', ['CASS', 48067, ['48067']])
+    ('CASTRO', ['CASTRO', 48069, ['48069']])
+    ('CHAMBERS', ['CHAMBERS', 48071, ['48071']])
+    ('CHEROKEE', ['CHEROKEE', 48073, ['48073']])
+    ('CHILDRESS', ['CHILDRESS', 48075, ['48075']])
+    ('CLAY', ['CLAY', 48077, ['48077']])
+    ('COCHRAN', ['COCHRAN', 48079, ['48079']])
+    ('COKE', ['COKE', 48081, ['48081']])
+    ('COLEMAN', ['COLEMAN', 48083, ['48083']])
+    ('COLLIN', ['COLLIN', 48085, ['48085']])
+    ('COLLINGSWORTH', ['COLLINGSWORTH', 48087, ['48087']])
+    ('COLORADO', ['COLORADO', 48089, ['48089']])
+    ('COMAL', ['COMAL', 48091, ['48091']])
+    ('COMANCHE', ['COMANCHE', 48093, ['48093']])
+    ('CONCHO', ['CONCHO', 48095, ['48095']])
+    ('COOKE', ['COOKE', 48097, ['48097']])
+    ('CORYELL', ['CORYELL', 48099, ['48099']])
+    ('COTTLE', ['COTTLE', 48101, ['48101']])
+    ('CRANE', ['CRANE', 48103, ['48103']])
+    ('CROCKETT', ['CROCKETT', 48105, ['48105']])
+    ('CROSBY', ['CROSBY', 48107, ['48107']])
+    ('CULBERSON', ['CULBERSON', 48109, ['48109']])
+    ('DALLAM', ['DALLAM', 48111, ['48111']])
+    ('DALLAS', ['DALLAS', 48113, ['48113']])
+    ('DAWSON', ['DAWSON', 48115, ['48115']])
+    ('DEAF SMITH', ['DEAF SMITH', 48117, ['48117']])
+    ('DELTA', ['DELTA', 48119, ['48119']])
+    ('DENTON', ['DENTON', 48121, ['48121']])
+    ('DEWITT', ['DEWITT', 48123, ['48123']])
+    ('DICKENS', ['DICKENS', 48125, ['48125']])
+    ('DIMMIT', ['DIMMIT', 48127, ['48127']])
+    ('DONLEY', ['DONLEY', 48129, ['48129']])
+    ('DUVAL', ['DUVAL', 48131, ['48131']])
+    ('EASTLAND', ['EASTLAND', 48133, ['48133']])
+    ('ECTOR', ['ECTOR', 48135, ['48135']])
+    ('EDWARDS', ['EDWARDS', 48137, ['48137']])
+    ('EL PASO', ['EL PASO', 48141, ['48141']])
+    ('ELLIS', ['ELLIS', 48139, ['48139']])
+    ('ERATH', ['ERATH', 48143, ['48143']])
+    ('FALLS', ['FALLS', 48145, ['48145']])
+    ('FANNIN', ['FANNIN', 48147, ['48147']])
+    ('FAYETTE', ['FAYETTE', 48149, ['48149']])
+    ('FISHER', ['FISHER', 48151, ['48151']])
+    ('FLOYD', ['FLOYD', 48153, ['48153']])
+    ('FOARD', ['FOARD', 48155, ['48155']])
+    ('FORT BEND', ['FORT BEND', 48157, ['48157']])
+    ('FRANKLIN', ['FRANKLIN', 48159, ['48159']])
+    ('FREESTONE', ['FREESTONE', 48161, ['48161']])
+    ('FRIO', ['FRIO', 48163, ['48163']])
+    ('GAINES', ['GAINES', 48165, ['48165']])
+    ('GALVESTON', ['GALVESTON', 48167, ['48167']])
+    ('GARZA', ['GARZA', 48169, ['48169']])
+    ('GILLESPIE', ['GILLESPIE', 48171, ['48171']])
+    ('GLASSCOCK', ['GLASSCOCK', 48173, ['48173']])
+    ('GOLIAD', ['GOLIAD', 48175, ['48175']])
+    ('GONZALES', ['GONZALES', 48177, ['48177']])
+    ('GRAY', ['GRAY', 48179, ['48179']])
+    ('GRAYSON', ['GRAYSON', 48181, ['48181']])
+    ('GREGG', ['GREGG', 48183, ['48183']])
+    ('GRIMES', ['GRIMES', 48185, ['48185']])
+    ('GUADALUPE', ['GUADALUPE', 48187, ['48187']])
+    ('HALE', ['HALE', 48189, ['48189']])
+    ('HALL', ['HALL', 48191, ['48191']])
+    ('HAMILTON', ['HAMILTON', 48193, ['48193']])
+    ('HANSFORD', ['HANSFORD', 48195, ['48195']])
+    ('HARDEMAN', ['HARDEMAN', 48197, ['48197']])
+    ('HARDIN', ['HARDIN', 48199, ['48199']])
+    ('HARRIS', ['HARRIS', 48201, ['48201']])
+    ('HARRISON', ['HARRISON', 48203, ['48203']])
+    ('HARTLEY', ['HARTLEY', 48205, ['48205']])
+    ('HASKELL', ['HASKELL', 48207, ['48207']])
+    ('HAYS', ['HAYS', 48209, ['48209']])
+    ('HEMPHILL', ['HEMPHILL', 48211, ['48211']])
+    ('HENDERSON', ['HENDERSON', 48213, ['48213']])
+    ('HIDALGO', ['HIDALGO', 48215, ['48215']])
+    ('HILL', ['HILL', 48217, ['48217']])
+    ('HOCKLEY', ['HOCKLEY', 48219, ['48219']])
+    ('HOOD', ['HOOD', 48221, ['48221']])
+    ('HOPKINS', ['HOPKINS', 48223, ['48223']])
+    ('HOUSTON', ['HOUSTON', 48225, ['48225']])
+    ('HOWARD', ['HOWARD', 48227, ['48227']])
+    ('HUDSPETH', ['HUDSPETH', 48229, ['48229']])
+    ('HUNT', ['HUNT', 48231, ['48231']])
+    ('HUTCHINSON', ['HUTCHINSON', 48233, ['48233']])
+    ('IRION', ['IRION', 48235, ['48235']])
+    ('JACK', ['JACK', 48237, ['48237']])
+    ('JACKSON', ['JACKSON', 48239, ['48239']])
+    ('JASPER', ['JASPER', 48241, ['48241']])
+    ('JEFF DAVIS', ['JEFF DAVIS', 48243, ['48243']])
+    ('JEFFERSON', ['JEFFERSON', 48245, ['48245']])
+    ('JIM HOGG', ['JIM HOGG', 48247, ['48247']])
+    ('JIM WELLS', ['JIM WELLS', 48249, ['48249']])
+    ('JOHNSON', ['JOHNSON', 48251, ['48251']])
+    ('JONES', ['JONES', 48253, ['48253']])
+    ('KARNES', ['KARNES', 48255, ['48255']])
+    ('KAUFMAN', ['KAUFMAN', 48257, ['48257']])
+    ('KENDALL', ['KENDALL', 48259, ['48259']])
+    ('KENEDY', ['KENEDY', 48261, ['48261']])
+    ('KENT', ['KENT', 48263, ['48263']])
+    ('KERR', ['KERR', 48265, ['48265']])
+    ('KIMBLE', ['KIMBLE', 48267, ['48267']])
+    ('KING', ['KING', 48269, ['48269']])
+    ('KINNEY', ['KINNEY', 48271, ['48271']])
+    ('KLEBERG', ['KLEBERG', 48273, ['48273']])
+    ('KNOX', ['KNOX', 48275, ['48275']])
+    ('LA SALLE', ['LA SALLE', 48283, ['48283']])
+    ('LAMAR', ['LAMAR', 48277, ['48277']])
+    ('LAMB', ['LAMB', 48279, ['48279']])
+    ('LAMPASAS', ['LAMPASAS', 48281, ['48281']])
+    ('LAVACA', ['LAVACA', 48285, ['48285']])
+    ('LEE', ['LEE', 48287, ['48287']])
+    ('LEON', ['LEON', 48289, ['48289']])
+    ('LIBERTY', ['LIBERTY', 48291, ['48291']])
+    ('LIMESTONE', ['LIMESTONE', 48293, ['48293']])
+    ('LIPSCOMB', ['LIPSCOMB', 48295, ['48295']])
+    ('LIVE OAK', ['LIVE OAK', 48297, ['48297']])
+    ('LLANO', ['LLANO', 48299, ['48299']])
+    ('LOVING', ['LOVING', 48301, ['48301']])
+    ('LUBBOCK', ['LUBBOCK', 48303, ['48303']])
+    ('LYNN', ['LYNN', 48305, ['48305']])
+    ('MADISON', ['MADISON', 48313, ['48313']])
+    ('MARION', ['MARION', 48315, ['48315']])
+    ('MARTIN', ['MARTIN', 48317, ['48317']])
+    ('MASON', ['MASON', 48319, ['48319']])
+    ('MATAGORDA', ['MATAGORDA', 48321, ['48321']])
+    ('MAVERICK', ['MAVERICK', 48323, ['48323']])
+    ('MCCULLOCH', ['MCCULLOCH', 48307, ['48307']])
+    ('MCLENNAN', ['MCLENNAN', 48309, ['48309']])
+    ('MCMULLEN', ['MCMULLEN', 48311, ['48311']])
+    ('MEDINA', ['MEDINA', 48325, ['48325']])
+    ('MENARD', ['MENARD', 48327, ['48327']])
+    ('MIDLAND', ['MIDLAND', 48329, ['48329']])
+    ('MILAM', ['MILAM', 48331, ['48331']])
+    ('MILLS', ['MILLS', 48333, ['48333']])
+    ('MITCHELL', ['MITCHELL', 48335, ['48335']])
+    ('MONTAGUE', ['MONTAGUE', 48337, ['48337']])
+    ('MONTGOMERY', ['MONTGOMERY', 48339, ['48339']])
+    ('MOORE', ['MOORE', 48341, ['48341']])
+    ('MORRIS', ['MORRIS', 48343, ['48343']])
+    ('MOTLEY', ['MOTLEY', 48345, ['48345']])
+    ('NACOGDOCHES', ['NACOGDOCHES', 48347, ['48347']])
+    ('NAVARRO', ['NAVARRO', 48349, ['48349']])
+    ('NEWTON', ['NEWTON', 48351, ['48351']])
+    ('NOLAN', ['NOLAN', 48353, ['48353']])
+    ('NUECES', ['NUECES', 48355, ['48355']])
+    ('OCHILTREE', ['OCHILTREE', 48357, ['48357']])
+    ('OLDHAM', ['OLDHAM', 48359, ['48359']])
+    ('ORANGE', ['ORANGE', 48361, ['48361']])
+    ('PALO PINTO', ['PALO PINTO', 48363, ['48363']])
+    ('PANOLA', ['PANOLA', 48365, ['48365']])
+    ('PARKER', ['PARKER', 48367, ['48367']])
+    ('PARMER', ['PARMER', 48369, ['48369']])
+    ('PECOS', ['PECOS', 48371, ['48371']])
+    ('POLK', ['POLK', 48373, ['48373']])
+    ('POTTER', ['POTTER', 48375, ['48375']])
+    ('PRESIDIO', ['PRESIDIO', 48377, ['48377']])
+    ('RAINS', ['RAINS', 48379, ['48379']])
+    ('RANDALL', ['RANDALL', 48381, ['48381']])
+    ('REAGAN', ['REAGAN', 48383, ['48383']])
+    ('REAL', ['REAL', 48385, ['48385']])
+    ('RED RIVER', ['RED RIVER', 48387, ['48387']])
+    ('REEVES', ['REEVES', 48389, ['48389']])
+    ('REFUGIO', ['REFUGIO', 48391, ['48391']])
+    ('ROBERTS', ['ROBERTS', 48393, ['48393']])
+    ('ROBERTSON', ['ROBERTSON', 48395, ['48395']])
+    ('ROCKWALL', ['ROCKWALL', 48397, ['48397']])
+    ('RUNNELS', ['RUNNELS', 48399, ['48399']])
+    ('RUSK', ['RUSK', 48401, ['48401']])
+    ('SABINE', ['SABINE', 48403, ['48403']])
+    ('SAN AUGUSTINE', ['SAN AUGUSTINE', 48405, ['48405']])
+    ('SAN JACINTO', ['SAN JACINTO', 48407, ['48407']])
+    ('SAN PATRICIO', ['SAN PATRICIO', 48409, ['48409']])
+    ('SAN SABA', ['SAN SABA', 48411, ['48411']])
+    ('SCHLEICHER', ['SCHLEICHER', 48413, ['48413']])
+    ('SCURRY', ['SCURRY', 48415, ['48415']])
+    ('SHACKELFORD', ['SHACKELFORD', 48417, ['48417']])
+    ('SHELBY', ['SHELBY', 48419, ['48419']])
+    ('SHERMAN', ['SHERMAN', 48421, ['48421']])
+    ('SMITH', ['SMITH', 48423, ['48423']])
+    ('SOMERVELL', ['SOMERVELL', 48425, ['48425']])
+    ('STARR', ['STARR', 48427, ['48427']])
+    ('STEPHENS', ['STEPHENS', 48429, ['48429']])
+    ('STERLING', ['STERLING', 48431, ['48431']])
+    ('STONEWALL', ['STONEWALL', 48433, ['48433']])
+    ('SUTTON', ['SUTTON', 48435, ['48435']])
+    ('SWISHER', ['SWISHER', 48437, ['48437']])
+    ('TARRANT', ['TARRANT', 48439, ['48439']])
+    ('TAYLOR', ['TAYLOR', 48441, ['48441']])
+    ('TERRELL', ['TERRELL', 48443, ['48443']])
+    ('TERRY', ['TERRY', 48445, ['48445']])
+    ('THROCKMORTON', ['THROCKMORTON', 48447, ['48447']])
+    ('TITUS', ['TITUS', 48449, ['48449']])
+    ('TOM GREEN', ['TOM GREEN', 48451, ['48451']])
+    ('TRAVIS', ['TRAVIS', 48453, ['48453']])
+    ('TRINITY', ['TRINITY', 48455, ['48455']])
+    ('TYLER', ['TYLER', 48457, ['48457']])
+    ('UPSHUR', ['UPSHUR', 48459, ['48459']])
+    ('UPTON', ['UPTON', 48461, ['48461']])
+    ('UVALDE', ['UVALDE', 48463, ['48463']])
+    ('VAL VERDE', ['VAL VERDE', 48465, ['48465']])
+    ('VAN ZANDT', ['VAN ZANDT', 48467, ['48467']])
+    ('VICTORIA', ['VICTORIA', 48469, ['48469']])
+    ('WALKER', ['WALKER', 48471, ['48471']])
+    ('WALLER', ['WALLER', 48473, ['48473']])
+    ('WARD', ['WARD', 48475, ['48475']])
+    ('WASHINGTON', ['WASHINGTON', 48477, ['48477']])
+    ('WEBB', ['WEBB', 48479, ['48479']])
+    ('WHARTON', ['WHARTON', 48481, ['48481']])
+    ('WHEELER', ['WHEELER', 48483, ['48483']])
+    ('WICHITA', ['WICHITA', 48485, ['48485']])
+    ('WILBARGER', ['WILBARGER', 48487, ['48487']])
+    ('WILLACY', ['WILLACY', 48489, ['48489']])
+    ('WILLIAMSON', ['WILLIAMSON', 48491, ['48491']])
+    ('WILSON', ['WILSON', 48493, ['48493']])
+    ('WINKLER', ['WINKLER', 48495, ['48495']])
+    ('WISE', ['WISE', 48497, ['48497']])
+    ('WOOD', ['WOOD', 48499, ['48499']])
+    ('YOAKUM', ['YOAKUM', 48501, ['48501']])
+    ('YOUNG', ['YOUNG', 48503, ['48503']])
+    ('ZAPATA', ['ZAPATA', 48505, ['48505']])
+    ('ZAVALA', ['ZAVALA', 48507, ['48507']])
+------
+
+---------
+------
+ALL VALUES:
+    ANDERSON
+    ANDREWS
+    ANGELINA
+    ARANSAS
+    ARCHER
+    ARMSTRONG
+    ATASCOSA
+    AUSTIN
+    BAILEY
+    BANDERA
+    BASTROP
+    BAYLOR
+    BEE
+    BELL
+    BEXAR
+    BLANCO
+    BORDEN
+    BOSQUE
+    BOWIE
+    BRAZORIA
+    BRAZOS
+    BREWSTER
+    BRISCOE
+    BROOKS
+    BROWN
+    BURLESON
+    BURNET
+    CALDWELL
+    CALHOUN
+    CALLAHAN
+    CAMERON
+    CAMP
+    CARSON
+    CASS
+    CASTRO
+    CHAMBERS
+    CHEROKEE
+    CHILDRESS
+    CLAY
+    COCHRAN
+    COKE
+    COLEMAN
+    COLLIN
+    COLLINGSWORTH
+    COLORADO
+    COMAL
+    COMANCHE
+    CONCHO
+    COOKE
+    CORYELL
+    COTTLE
+    CRANE
+    CROCKETT
+    CROSBY
+    CULBERSON
+    DALLAM
+    DALLAS
+    DAWSON
+    DEAF SMITH
+    DELTA
+    DENTON
+    DEWITT
+    DICKENS
+    DIMMIT
+    DONLEY
+    DUVAL
+    EASTLAND
+    ECTOR
+    EDWARDS
+    EL PASO
+    ELLIS
+    ERATH
+    FALLS
+    FANNIN
+    FAYETTE
+    FISHER
+    FLOYD
+    FOARD
+    FORT BEND
+    FRANKLIN
+    FREESTONE
+    FRIO
+    GAINES
+    GALVESTON
+    GARZA
+    GILLESPIE
+    GLASSCOCK
+    GOLIAD
+    GONZALES
+    GRAY
+    GRAYSON
+    GREGG
+    GRIMES
+    GUADALUPE
+    HALE
+    HALL
+    HAMILTON
+    HANSFORD
+    HARDEMAN
+    HARDIN
+    HARRIS
+    HARRISON
+    HARTLEY
+    HASKELL
+    HAYS
+    HEMPHILL
+    HENDERSON
+    HIDALGO
+    HILL
+    HOCKLEY
+    HOOD
+    HOPKINS
+    HOUSTON
+    HOWARD
+    HUDSPETH
+    HUNT
+    HUTCHINSON
+    IRION
+    JACK
+    JACKSON
+    JASPER
+    JEFF DAVIS
+    JEFFERSON
+    JIM HOGG
+    JIM WELLS
+    JOHNSON
+    JONES
+    KARNES
+    KAUFMAN
+    KENDALL
+    KENEDY
+    KENT
+    KERR
+    KIMBLE
+    KING
+    KINNEY
+    KLEBERG
+    KNOX
+    LA SALLE
+    LAMAR
+    LAMB
+    LAMPASAS
+    LAVACA
+    LEE
+    LEON
+    LIBERTY
+    LIMESTONE
+    LIPSCOMB
+    LIVE OAK
+    LLANO
+    LOVING
+    LUBBOCK
+    LYNN
+    MADISON
+    MARION
+    MARTIN
+    MASON
+    MATAGORDA
+    MAVERICK
+    MCCULLOCH
+    MCLENNAN
+    MCMULLEN
+    MEDINA
+    MENARD
+    MIDLAND
+    MILAM
+    MILLS
+    MITCHELL
+    MONTAGUE
+    MONTGOMERY
+    MOORE
+    MORRIS
+    MOTLEY
+    NACOGDOCHES
+    NAVARRO
+    NEWTON
+    NOLAN
+    NUECES
+    OCHILTREE
+    OLDHAM
+    ORANGE
+    PALO PINTO
+    PANOLA
+    PARKER
+    PARMER
+    PECOS
+    POLK
+    POTTER
+    PRESIDIO
+    RAINS
+    RANDALL
+    REAGAN
+    REAL
+    RED RIVER
+    REEVES
+    REFUGIO
+    ROBERTS
+    ROBERTSON
+    ROCKWALL
+    RUNNELS
+    RUSK
+    SABINE
+    SAN AUGUSTINE
+    SAN JACINTO
+    SAN PATRICIO
+    SAN SABA
+    SCHLEICHER
+    SCURRY
+    SHACKELFORD
+    SHELBY
+    SHERMAN
+    SMITH
+    SOMERVELL
+    STARR
+    STEPHENS
+    STERLING
+    STONEWALL
+    SUTTON
+    SWISHER
+    TARRANT
+    TAYLOR
+    TERRELL
+    TERRY
+    THROCKMORTON
+    TITUS
+    TOM GREEN
+    TRAVIS
+    TRINITY
+    TYLER
+    UPSHUR
+    UPTON
+    UVALDE
+    VAL VERDE
+    VAN ZANDT
+    VICTORIA
+    WALKER
+    WALLER
+    WARD
+    WASHINGTON
+    WEBB
+    WHARTON
+    WHEELER
+    WICHITA
+    WILBARGER
+    WILLACY
+    WILLIAMSON
+    WILSON
+    WINKLER
+    WISE
+    WOOD
+    YOAKUM
+    YOUNG
+    ZAPATA
+    ZAVALA
+------
+

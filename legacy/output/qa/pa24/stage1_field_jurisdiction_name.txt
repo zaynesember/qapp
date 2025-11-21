@@ -1,0 +1,209 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 42001, ['42001']])
+    ('ALLEGHENY', ['ALLEGHENY', 42003, ['42003']])
+    ('ARMSTRONG', ['ARMSTRONG', 42005, ['42005']])
+    ('BEAVER', ['BEAVER', 42007, ['42007']])
+    ('BEDFORD', ['BEDFORD', 42009, ['42009']])
+    ('BERKS', ['BERKS', 42011, ['42011']])
+    ('BLAIR', ['BLAIR', 42013, ['42013']])
+    ('BRADFORD', ['BRADFORD', 42015, ['42015']])
+    ('BUCKS', ['BUCKS', 42017, ['42017']])
+    ('BUTLER', ['BUTLER', 42019, ['42019']])
+    ('CAMBRIA', ['CAMBRIA', 42021, ['42021']])
+    ('CAMERON', ['CAMERON', 42023, ['42023']])
+    ('CARBON', ['CARBON', 42025, ['42025']])
+    ('CENTRE', ['CENTRE', 42027, ['42027']])
+    ('CHESTER', ['CHESTER', 42029, ['42029']])
+    ('CLARION', ['CLARION', 42031, ['42031']])
+    ('CLEARFIELD', ['CLEARFIELD', 42033, ['42033']])
+    ('CLINTON', ['CLINTON', 42035, ['42035']])
+    ('COLUMBIA', ['COLUMBIA', 42037, ['42037']])
+    ('CRAWFORD', ['CRAWFORD', 42039, ['42039']])
+    ('CUMBERLAND', ['CUMBERLAND', 42041, ['42041']])
+    ('DAUPHIN', ['DAUPHIN', 42043, ['42043']])
+    ('DELAWARE', ['DELAWARE', 42045, ['42045']])
+    ('ELK', ['ELK', 42047, ['42047']])
+    ('ERIE', ['ERIE', 42049, ['42049']])
+    ('FAYETTE', ['FAYETTE', 42051, ['42051']])
+    ('FOREST', ['FOREST', 42053, ['42053']])
+    ('FRANKLIN', ['FRANKLIN', 42055, ['42055']])
+    ('FULTON', ['FULTON', 42057, ['42057']])
+    ('GREENE', ['GREENE', 42059, ['42059']])
+    ('HUNTINGDON', ['HUNTINGDON', 42061, ['42061']])
+    ('INDIANA', ['INDIANA', 42063, ['42063']])
+    ('JEFFERSON', ['JEFFERSON', 42065, ['42065']])
+    ('JUNIATA', ['JUNIATA', 42067, ['42067']])
+    ('LACKAWANNA', ['LACKAWANNA', 42069, ['42069']])
+    ('LANCASTER', ['LANCASTER', 42071, ['42071']])
+    ('LAWRENCE', ['LAWRENCE', 42073, ['42073']])
+    ('LEBANON', ['LEBANON', 42075, ['42075']])
+    ('LEHIGH', ['LEHIGH', 42077, ['42077']])
+    ('LUZERNE', ['LUZERNE', 42079, ['42079']])
+    ('LYCOMING', ['LYCOMING', 42081, ['42081']])
+    ('MCKEAN', ['MCKEAN', 42083, ['42083']])
+    ('MERCER', ['MERCER', 42085, ['42085']])
+    ('MIFFLIN', ['MIFFLIN', 42087, ['42087']])
+    ('MONROE', ['MONROE', 42089, ['42089']])
+    ('MONTGOMERY', ['MONTGOMERY', 42091, ['42091']])
+    ('MONTOUR', ['MONTOUR', 42093, ['42093']])
+    ('NORTHAMPTON', ['NORTHAMPTON', 42095, ['42095']])
+    ('NORTHUMBERLAND', ['NORTHUMBERLAND', 42097, ['42097']])
+    ('PERRY', ['PERRY', 42099, ['42099']])
+    ('PHILADELPHIA', ['PHILADELPHIA', 42101, ['42101']])
+    ('PIKE', ['PIKE', 42103, ['42103']])
+    ('POTTER', ['POTTER', 42105, ['42105']])
+    ('SCHUYLKILL', ['SCHUYLKILL', 42107, ['42107']])
+    ('SNYDER', ['SNYDER', 42109, ['42109']])
+    ('SOMERSET', ['SOMERSET', 42111, ['42111']])
+    ('SULLIVAN', ['SULLIVAN', 42113, ['42113']])
+    ('SUSQUEHANNA', ['SUSQUEHANNA', 42115, ['42115']])
+    ('TIOGA', ['TIOGA', 42117, ['42117']])
+    ('UNION', ['UNION', 42119, ['42119']])
+    ('VENANGO', ['VENANGO', 42121, ['42121']])
+    ('WARREN', ['WARREN', 42123, ['42123']])
+    ('WASHINGTON', ['WASHINGTON', 42125, ['42125']])
+    ('WAYNE', ['WAYNE', 42127, ['42127']])
+    ('WESTMORELAND', ['WESTMORELAND', 42129, ['42129']])
+    ('WYOMING', ['WYOMING', 42131, ['42131']])
+    ('YORK', ['YORK', 42133, ['42133']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALLEGHENY
+    ARMSTRONG
+    BEAVER
+    BEDFORD
+    BERKS
+    BLAIR
+    BRADFORD
+    BUCKS
+    BUTLER
+    CAMBRIA
+    CAMERON
+    CARBON
+    CENTRE
+    CHESTER
+    CLARION
+    CLEARFIELD
+    CLINTON
+    COLUMBIA
+    CRAWFORD
+    CUMBERLAND
+    DAUPHIN
+    DELAWARE
+    ELK
+    ERIE
+    FAYETTE
+    FOREST
+    FRANKLIN
+    FULTON
+    GREENE
+    HUNTINGDON
+    INDIANA
+    JEFFERSON
+    JUNIATA
+    LACKAWANNA
+    LANCASTER
+    LAWRENCE
+    LEBANON
+    LEHIGH
+    LUZERNE
+    LYCOMING
+    MCKEAN
+    MERCER
+    MIFFLIN
+    MONROE
+    MONTGOMERY
+    MONTOUR
+    NORTHAMPTON
+    NORTHUMBERLAND
+    PERRY
+    PHILADELPHIA
+    PIKE
+    POTTER
+    SCHUYLKILL
+    SNYDER
+    SOMERSET
+    SULLIVAN
+    SUSQUEHANNA
+    TIOGA
+    UNION
+    VENANGO
+    WARREN
+    WASHINGTON
+    WAYNE
+    WESTMORELAND
+    WYOMING
+    YORK
+------
+

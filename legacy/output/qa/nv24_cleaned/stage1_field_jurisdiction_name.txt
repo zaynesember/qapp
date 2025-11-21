@@ -1,0 +1,109 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('CARSON CITY', ['CARSON CITY', 32510, ['32510']])
+    ('CHURCHILL', ['CHURCHILL', 32001, ['32001']])
+    ('CLARK', ['CLARK', 32003, ['32003']])
+    ('DOUGLAS', ['DOUGLAS', 32005, ['32005']])
+    ('ELKO', ['ELKO', 32007, ['32007']])
+    ('ESMERALDA', ['ESMERALDA', 32009, ['32009']])
+    ('EUREKA', ['EUREKA', 32011, ['32011']])
+    ('HUMBOLDT', ['HUMBOLDT', 32013, ['32013']])
+    ('LANDER', ['LANDER', 32015, ['32015']])
+    ('LINCOLN', ['LINCOLN', 32017, ['32017']])
+    ('LYON', ['LYON', 32019, ['32019']])
+    ('MINERAL', ['MINERAL', 32021, ['32021']])
+    ('NYE', ['NYE', 32023, ['32023']])
+    ('PERSHING', ['PERSHING', 32027, ['32027']])
+    ('STOREY', ['STOREY', 32029, ['32029']])
+    ('WASHOE', ['WASHOE', 32031, ['32031']])
+    ('WHITE PINE', ['WHITE PINE', 32033, ['32033']])
+------
+
+---------
+------
+ALL VALUES:
+    CARSON CITY
+    CHURCHILL
+    CLARK
+    DOUGLAS
+    ELKO
+    ESMERALDA
+    EUREKA
+    HUMBOLDT
+    LANDER
+    LINCOLN
+    LYON
+    MINERAL
+    NYE
+    PERSHING
+    STOREY
+    WASHOE
+    WHITE PINE
+------
+

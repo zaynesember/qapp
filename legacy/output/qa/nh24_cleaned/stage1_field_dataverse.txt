@@ -1,0 +1,128 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in dataverse!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    No Problems Found :) 
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    <<<EC: VALUE WAS EMPTY>>>
+        ATTORNEY
+        BALLOTS CAST
+        COUNTY ATTORNEY
+        COUNTY COMMISSIONER
+        REGISTER OF DEEDS
+        REGISTER OF PROBATE
+        SHERIFF
+        TREASURER
+    HOUSE
+        US HOUSE
+    PRESIDENT
+        US PRESIDENT
+    STATE
+        EXECUTIVE COUNCIL
+        GOVERNOR
+        QUESTION NO. 1
+        STATE HOUSE
+        STATE SENATE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ATTORNEY
+        8 counties for this office
+    BALLOTS CAST
+        10 counties for this office
+    COUNTY ATTORNEY
+        1 counties for this office
+    COUNTY COMMISSIONER
+        10 counties for this office
+    EXECUTIVE COUNCIL
+        10 counties for this office
+    GOVERNOR
+        10 counties for this office
+    QUESTION NO. 1
+        10 counties for this office
+    REGISTER OF DEEDS
+        9 counties for this office
+    REGISTER OF PROBATE
+        9 counties for this office
+    SHERIFF
+        9 counties for this office
+    STATE HOUSE
+        10 counties for this office
+    STATE SENATE
+        10 counties for this office
+    TREASURER
+        9 counties for this office
+    US HOUSE
+        10 counties for this office
+    US PRESIDENT
+        10 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    HOUSE
+    PRESIDENT
+    STATE
+------
+

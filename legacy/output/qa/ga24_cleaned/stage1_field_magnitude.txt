@@ -1,0 +1,74 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+   No Problems Found :) 
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['SPLOST' 'HANCOCK COUNTY COMMISSION'
+ 'MONTGOMERY COUNTY BOARD OF EDUCATION' ... 'HENRY COUNTY CORONER'
+ 'WILKINSON COUNTY BOARD OF EDUCATION CHAIRMAN'
+ 'BOARD OF EDUCATION REPRESENTATIVE']
+    2: ['CULLODEN CITY COUNCIL']
+    3: ['ASHBURN CITY COUNCIL']
+------
+
+---------
+------
+ALL VALUES:
+    1
+    2
+    3
+------
+

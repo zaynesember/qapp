@@ -19,11 +19,13 @@ def summarize_missingness(df: pd.DataFrame) -> Dict[str, Any]:
     summary = {}
     n_rows = len(df)
     for col in df.columns:
-        empty_pct = (df[col].astype(str).eq("").sum() / n_rows) * 100
-        alt_missing = df[col].astype(str).isin(MISSING_TOKENS).sum()
+        empty_count = int(df[col].astype(str).eq("").sum())
+        empty_pct = (empty_count / n_rows) * 100 if n_rows > 0 else 0.0
+        alt_missing = int(df[col].astype(str).isin(MISSING_TOKENS).sum())
         summary[col] = {
+            "missing_count": empty_count,
             "percent_empty": round(empty_pct, 2),
-            "alt_missing_values": int(alt_missing)
+            "alt_missing_values": alt_missing,
         }
     return summary
 
@@ -42,6 +44,9 @@ def compute_statewide_totals(df: pd.DataFrame) -> pd.DataFrame:
 
     if "writein" in subset.columns:
         subset = subset.loc[~subset["writein"].astype(str).str.strip().str.upper().eq("TRUE")]
+
+    # Also exclude obvious write-in candidates (e.g., WRITE-IN, WRITE IN, SCATTERING)
+    subset = subset.loc[~subset["candidate"].astype(str).str.strip().str.upper().str.contains(r"WRITE[- ]?IN|SCATTER", na=False)]
 
     bad_candidates = {
         "UNDERVOTES", "UNDERVOTE", "UNDER VOTE", "OVER VOTE", "OVERVOTE", "OVER VOTES", "OVERVOTES",

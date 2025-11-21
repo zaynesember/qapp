@@ -1,0 +1,293 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    FORD ||| [[CITY OF ROCKFORD]]
+    WILL ||| [[WILLIAMSON]]
+    WHITE ||| [[WHITESIDE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 17001, ['17001']])
+    ('ALEXANDER', ['ALEXANDER', 17003, ['17003']])
+    ('BOND', ['BOND', 17005, ['17005']])
+    ('BOONE', ['BOONE', 17007, ['17007']])
+    ('BROWN', ['BROWN', 17009, ['17009']])
+    ('BUREAU', ['BUREAU', 17011, ['17011']])
+    ('CALHOUN', ['CALHOUN', 17013, ['17013']])
+    ('CARROLL', ['CARROLL', 17015, ['17015']])
+    ('CASS', ['CASS', 17017, ['17017']])
+    ('CHAMPAIGN', ['CHAMPAIGN', 17019, ['17019']])
+    ('CHRISTIAN', ['CHRISTIAN', 17021, ['17021']])
+    ('CITY OF BLOOMINGTON', ['MCLEAN', 17113, ['1706613000']])
+    ('CITY OF CHICAGO', ['COOK', 17031, ['1714000000']])
+    ('CITY OF DANVILLE', ['VERMILION', 17183, ['1718563000']])
+    ('CITY OF EAST ST. LOUIS', ['ST. CLAIR', 17163, ['1722255000']])
+    ('CITY OF GALESBURG', ['KNOX', 17095, ['1728326000']])
+    ('CITY OF ROCKFORD', ['WINNEBAGO', 17201, ['1765000000']])
+    ('CLARK', ['CLARK', 17023, ['17023']])
+    ('CLAY', ['CLAY', 17025, ['17025']])
+    ('CLINTON', ['CLINTON', 17027, ['17027']])
+    ('COLES', ['COLES', 17029, ['17029']])
+    ('COOK', ['COOK', 17031, ['17031']])
+    ('CRAWFORD', ['CRAWFORD', 17033, ['17033']])
+    ('CUMBERLAND', ['CUMBERLAND', 17035, ['17035']])
+    ('DEKALB', ['DEKALB', 17037, ['17037']])
+    ('DEWITT', ['DEWITT', 17039, ['17039']])
+    ('DOUGLAS', ['DOUGLAS', 17041, ['17041']])
+    ('DUPAGE', ['DUPAGE', 17043, ['17043']])
+    ('EDGAR', ['EDGAR', 17045, ['17045']])
+    ('EDWARDS', ['EDWARDS', 17047, ['17047']])
+    ('EFFINGHAM', ['EFFINGHAM', 17049, ['17049']])
+    ('FAYETTE', ['FAYETTE', 17051, ['17051']])
+    ('FORD', ['FORD', 17053, ['17053']])
+    ('FRANKLIN', ['FRANKLIN', 17055, ['17055']])
+    ('FULTON', ['FULTON', 17057, ['17057']])
+    ('GALLATIN', ['GALLATIN', 17059, ['17059']])
+    ('GREENE', ['GREENE', 17061, ['17061']])
+    ('GRUNDY', ['GRUNDY', 17063, ['17063']])
+    ('HAMILTON', ['HAMILTON', 17065, ['17065']])
+    ('HANCOCK', ['HANCOCK', 17067, ['17067']])
+    ('HARDIN', ['HARDIN', 17069, ['17069']])
+    ('HENDERSON', ['HENDERSON', 17071, ['17071']])
+    ('HENRY', ['HENRY', 17073, ['17073']])
+    ('IROQUOIS', ['IROQUOIS', 17075, ['17075']])
+    ('JACKSON', ['JACKSON', 17077, ['17077']])
+    ('JASPER', ['JASPER', 17079, ['17079']])
+    ('JEFFERSON', ['JEFFERSON', 17081, ['17081']])
+    ('JERSEY', ['JERSEY', 17083, ['17083']])
+    ('JODAVIESS', ['JODAVIESS', 17085, ['17085']])
+    ('JOHNSON', ['JOHNSON', 17087, ['17087']])
+    ('KANE', ['KANE', 17089, ['17089']])
+    ('KANKAKEE', ['KANKAKEE', 17091, ['17091']])
+    ('KENDALL', ['KENDALL', 17093, ['17093']])
+    ('KNOX', ['KNOX', 17095, ['17095']])
+    ('LAKE', ['LAKE', 17097, ['17097']])
+    ('LASALLE', ['LASALLE', 17099, ['17099']])
+    ('LAWRENCE', ['LAWRENCE', 17101, ['17101']])
+    ('LEE', ['LEE', 17103, ['17103']])
+    ('LIVINGSTON', ['LIVINGSTON', 17105, ['17105']])
+    ('LOGAN', ['LOGAN', 17107, ['17107']])
+    ('MACON', ['MACON', 17115, ['17115']])
+    ('MACOUPIN', ['MACOUPIN', 17117, ['17117']])
+    ('MADISON', ['MADISON', 17119, ['17119']])
+    ('MARION', ['MARION', 17121, ['17121']])
+    ('MARSHALL', ['MARSHALL', 17123, ['17123']])
+    ('MASON', ['MASON', 17125, ['17125']])
+    ('MASSAC', ['MASSAC', 17127, ['17127']])
+    ('MCDONOUGH', ['MCDONOUGH', 17109, ['17109']])
+    ('MCHENRY', ['MCHENRY', 17111, ['17111']])
+    ('MCLEAN', ['MCLEAN', 17113, ['17113']])
+    ('MENARD', ['MENARD', 17129, ['17129']])
+    ('MERCER', ['MERCER', 17131, ['17131']])
+    ('MONROE', ['MONROE', 17133, ['17133']])
+    ('MONTGOMERY', ['MONTGOMERY', 17135, ['17135']])
+    ('MORGAN', ['MORGAN', 17137, ['17137']])
+    ('MOULTRIE', ['MOULTRIE', 17139, ['17139']])
+    ('OGLE', ['OGLE', 17141, ['17141']])
+    ('PEORIA', ['PEORIA', 17143, ['17143']])
+    ('PERRY', ['PERRY', 17145, ['17145']])
+    ('PIATT', ['PIATT', 17147, ['17147']])
+    ('PIKE', ['PIKE', 17149, ['17149']])
+    ('POPE', ['POPE', 17151, ['17151']])
+    ('PULASKI', ['PULASKI', 17153, ['17153']])
+    ('PUTNAM', ['PUTNAM', 17155, ['17155']])
+    ('RANDOLPH', ['RANDOLPH', 17157, ['17157']])
+    ('RICHLAND', ['RICHLAND', 17159, ['17159']])
+    ('ROCK ISLAND', ['ROCK ISLAND', 17161, ['17161']])
+    ('SALINE', ['SALINE', 17165, ['17165']])
+    ('SANGAMON', ['SANGAMON', 17167, ['17167']])
+    ('SCHUYLER', ['SCHUYLER', 17169, ['17169']])
+    ('SCOTT', ['SCOTT', 17171, ['17171']])
+    ('SHELBY', ['SHELBY', 17173, ['17173']])
+    ('ST. CLAIR', ['ST. CLAIR', 17163, ['17163']])
+    ('STARK', ['STARK', 17175, ['17175']])
+    ('STEPHENSON', ['STEPHENSON', 17177, ['17177']])
+    ('TAZEWELL', ['TAZEWELL', 17179, ['17179']])
+    ('UNION', ['UNION', 17181, ['17181']])
+    ('VERMILION', ['VERMILION', 17183, ['17183']])
+    ('WABASH', ['WABASH', 17185, ['17185']])
+    ('WARREN', ['WARREN', 17187, ['17187']])
+    ('WASHINGTON', ['WASHINGTON', 17189, ['17189']])
+    ('WAYNE', ['WAYNE', 17191, ['17191']])
+    ('WHITE', ['WHITE', 17193, ['17193']])
+    ('WHITESIDE', ['WHITESIDE', 17195, ['17195']])
+    ('WILL', ['WILL', 17197, ['17197']])
+    ('WILLIAMSON', ['WILLIAMSON', 17199, ['17199']])
+    ('WINNEBAGO', ['WINNEBAGO', 17201, ['17201']])
+    ('WOODFORD', ['WOODFORD', 17203, ['17203']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALEXANDER
+    BOND
+    BOONE
+    BROWN
+    BUREAU
+    CALHOUN
+    CARROLL
+    CASS
+    CHAMPAIGN
+    CHRISTIAN
+    CITY OF BLOOMINGTON
+    CITY OF CHICAGO
+    CITY OF DANVILLE
+    CITY OF EAST ST. LOUIS
+    CITY OF GALESBURG
+    CITY OF ROCKFORD
+    CLARK
+    CLAY
+    CLINTON
+    COLES
+    COOK
+    CRAWFORD
+    CUMBERLAND
+    DEKALB
+    DEWITT
+    DOUGLAS
+    DUPAGE
+    EDGAR
+    EDWARDS
+    EFFINGHAM
+    FAYETTE
+    FORD
+    FRANKLIN
+    FULTON
+    GALLATIN
+    GREENE
+    GRUNDY
+    HAMILTON
+    HANCOCK
+    HARDIN
+    HENDERSON
+    HENRY
+    IROQUOIS
+    JACKSON
+    JASPER
+    JEFFERSON
+    JERSEY
+    JODAVIESS
+    JOHNSON
+    KANE
+    KANKAKEE
+    KENDALL
+    KNOX
+    LAKE
+    LASALLE
+    LAWRENCE
+    LEE
+    LIVINGSTON
+    LOGAN
+    MACON
+    MACOUPIN
+    MADISON
+    MARION
+    MARSHALL
+    MASON
+    MASSAC
+    MCDONOUGH
+    MCHENRY
+    MCLEAN
+    MENARD
+    MERCER
+    MONROE
+    MONTGOMERY
+    MORGAN
+    MOULTRIE
+    OGLE
+    PEORIA
+    PERRY
+    PIATT
+    PIKE
+    POPE
+    PULASKI
+    PUTNAM
+    RANDOLPH
+    RICHLAND
+    ROCK ISLAND
+    SALINE
+    SANGAMON
+    SCHUYLER
+    SCOTT
+    SHELBY
+    ST. CLAIR
+    STARK
+    STEPHENSON
+    TAZEWELL
+    UNION
+    VERMILION
+    WABASH
+    WARREN
+    WASHINGTON
+    WAYNE
+    WHITE
+    WHITESIDE
+    WILL
+    WILLIAMSON
+    WINNEBAGO
+    WOODFORD
+------
+

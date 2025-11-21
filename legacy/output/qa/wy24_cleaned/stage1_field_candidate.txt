@@ -1,0 +1,203 @@
+---------------------------
+---------------------------
+CANDIDATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID BEGINNING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID ENDING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) EXTRANEOUS SINGLE QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX NOT AT THE END
+    JR RIGGINS
+------
+
+------
+(POSSIBLY) INITIAL/MIDDLE NAME AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN candidate WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN candidate: 
+   No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    ABBY ANGELOS
+    AGAINST
+    ANDREW P BYRON
+    ANN LUCAS
+    ART WASHUT
+    BARRY CRAGO
+    BILL ALLEMAND
+    BOB DAVIS
+    BOB NICHOLAS
+    BOB RAY
+    BRIAN BONER
+    CARMEN WHITEHEAD
+    CHARLES K SCOTT
+    CHARLES RANDOLPH
+    CHASE OLIVER
+    CHIP NEIMAN
+    CHRIS LOWRY
+    CHRISTOPHER R KNAPP
+    CLARENCE STYVAR
+    CODY WYLIE
+    DALTON BANKS
+    DAN DOCKSTADER
+    DANIEL J SINGH
+    DARIN M MCCANN
+    DARIN SMITH
+    DONALD J TRUMP
+    ED COOPER
+    ELISSA CAMPBELL
+    FOR
+    GARY BROWN
+    GARY E CRUM
+    HARRIET HAGEMAN
+    IVAN D POSEY
+    JACOB WASSERBURGER
+    JAMES A WILSON
+    JARED OLSEN
+    JAYME LIEN
+    JD WILLIAMS
+    JEFFREY HAGGIT
+    JEN SOLIS
+    JEREMY HAROLDSON
+    JIM ANDERSON
+    JOE GIUSTOZZI
+    JOE WEBB
+    JOEL GUGGENMOS
+    JOHN BARRASSO
+    JOHN EKLUND
+    JOHN K KOLB
+    JOHN R WINTER
+    JOHN W BEAR
+    JORDAN EVANS
+    JR RIGGINS
+    JT LARSON
+    JULIE JARVIS
+    KAMALA D HARRIS
+    KARLEE PROVENZA
+    KEN CHESTEK
+    KEN L CLOUSTON
+    KEN PENDERGRAFT
+    KENILYNN S ZANETTI
+    KEVIN CAMPBELL
+    KYLE G CAMERON
+    LANDON J BROWN
+    LARRY ALWIN
+    LAURA TALIAFERRO PEARSON
+    LAURIE BRATTEN
+    LEE FILER
+    LIZ STORER
+    LLOYD CHARLES LARSEN
+    MARGUERITE HERMAN
+    MARILYN CONNOLY
+    MARLENE BRADY
+    MARTHA J WRIGHT
+    MARTHA LAWLEY
+    MCKAY L ERICKSON
+    MIKE SCHMID
+    MIKE SELMER
+    MIKE YIN
+    NINA WEBBER
+    NO
+    OCEAN ANDREW
+    OVERVOTES
+    PAMELA THAYER
+    PAUL CROUCH
+    PAUL HOEFT
+    PEPPER L OTTMAN
+    RACHEL RODRIGUEZ-WILLIAMS
+    REUBEN TARVER
+    RICHARD BRUBAKER
+    ROB GERINGER
+    ROBERT WHARFF
+    SARA BURLINGAME
+    SARAH PENN
+    SCOTT D MORROW
+    SCOTT HEINER
+    SCOTT SMITH
+    SHANE SWETT
+    STEVE HARSHMAN
+    STEVE JOHNSON
+    TARA NETHERCOTT
+    TIM A FRENCH
+    TIM SALAZAR
+    TOM KELLY
+    TOMI STROCK
+    TONY LOCKE
+    TREY SHERWOOD
+    TROY D MCKEOWN
+    UNDERVOTES
+    WRITE-IN
+    YES
+------
+

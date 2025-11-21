@@ -1,0 +1,3458 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    Oak City 6 ||| [[CITY]]
+    Wales Town ||| [[TOWN]]
+    39 WESTWOOD ||| [[TW]]
+    Moroni City ||| [[CITY]]
+    Spring City ||| [[CITY]]
+    Fayette Town ||| [[TOWN]]
+    Manti City 1 ||| [[CITY]]
+    Manti City 2 ||| [[CITY]]
+    Manti City 3 ||| [[CITY]]
+    330 Park City ||| [[CITY]]
+    331 Park City ||| [[CITY]]
+    Fairview City ||| [[CITY]]
+    Gunnison City ||| [[CITY]]
+    Mayfield Town ||| [[TOWN]]
+    Sterling Town ||| [[TOWN]]
+    Ephraim City 1 ||| [[CITY]]
+    Ephraim City 2 ||| [[CITY]]
+    Ephraim City 3 ||| [[CITY]]
+    Vernal City #8 ||| [[CITY]]
+    Vernal City #9 ||| [[CITY]]
+    520 Daniel Town ||| [[TOWN]]
+    Brigham City 01 ||| [[CITY]]
+    Brigham City 02 ||| [[CITY]]
+    Brigham City 03 ||| [[CITY]]
+    Brigham City 04 ||| [[CITY]]
+    Brigham City 05 ||| [[CITY]]
+    Brigham City 06 ||| [[CITY]]
+    Brigham City 07 ||| [[CITY]]
+    Brigham City 08 ||| [[CITY]]
+    Brigham City 09 ||| [[CITY]]
+    Brigham City 10 ||| [[CITY]]
+    Brigham City 11 ||| [[CITY]]
+    Brigham City 12 ||| [[CITY]]
+    Brigham City 13 ||| [[CITY]]
+    Brigham City 14 ||| [[CITY]]
+    Brigham City 15 ||| [[CITY]]
+    Vernal City #10 ||| [[CITY]]
+    Vernal City #11 ||| [[CITY]]
+    Vernal City #12 ||| [[CITY]]
+    Vernal City #13 ||| [[CITY]]
+    Vernal City #14 ||| [[CITY]]
+    201 Heber City W ||| [[CITY]]
+    202 Heber City W ||| [[CITY]]
+    204 Heber City E ||| [[CITY]]
+    206 Heber City E ||| [[CITY]]
+    207 Heber City E ||| [[CITY]]
+    Centerfield City ||| [[CITY]]
+    100 Heber City NW ||| [[CITY]]
+    101 Heber City NW ||| [[CITY]]
+    102 Heber City NE ||| [[CITY]]
+    103 Heber City NE ||| [[CITY]]
+    104 Heber City NE ||| [[CITY]]
+    200 Heber City SW ||| [[CITY]]
+    504 Heber City SE ||| [[CITY]]
+    550 Wallsburg Town ||| [[TOWN]]
+    Mt Pleasant City 1 ||| [[CITY]]
+    Mt Pleasant City 2 ||| [[CITY]]
+    530 Charleston Town ||| [[TOWN]]
+    Fountain Green City ||| [[CITY]]
+    Bryce Canyon City 11 ||| [[CITY]]
+    305 Midway City Center ||| [[CITY]]
+    306 Midway City Valais ||| [[CITY]]
+    500 Heber City Airport ||| [[CITY]]
+    Spring City U, Wales U ||| [[CITY]]
+    203 Heber City W Center ||| [[CITY]]
+    205 Heber City E Center ||| [[CITY]]
+    Brigham City North West ||| [[CITY]]
+    208 Heber City SE Center ||| [[CITY]]
+    503 Heber City Wheeler E ||| [[CITY]]
+    106 Heber City Red Ledges ||| [[CITY]]
+    301 Midway City Homestead ||| [[CITY]]
+    303 Midway City Michie Ln ||| [[CITY]]
+    300 Midway City Stringtown ||| [[CITY]]
+    105 Heber City Valley Hills ||| [[CITY]]
+    302 Midway City Lime Canyon ||| [[CITY]]
+    307 Midway City Dutch Fields ||| [[CITY]]
+    304 Midway City Memorial Hill ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    COGL ||| [[CO ]]
+    COVE ||| [[CO ]]
+    COWH ||| [[CO ]]
+    CODAV ||| [[CO ]]
+    CODIV ||| [[CO ]]
+    CONCF ||| [[CO ]]
+    COR:I ||| [[CO ]]
+    COR:U ||| [[CO ]]
+    COV01 ||| [[CO ]]
+    COV02 ||| [[CO ]]
+    COV03 ||| [[CO ]]
+    COV04 ||| [[CO ]]
+    COV05 ||| [[CO ]]
+    COV06 ||| [[CO ]]
+    COV:U ||| [[CO ]]
+    COCDSR ||| [[CO ]]
+    COCNBR ||| [[CO ]]
+    CODXDR ||| [[CO ]]
+    COHS72 ||| [[CO ]]
+    COHS74 ||| [[CO ]]
+    COHS75 ||| [[CO ]]
+    COHV28 ||| [[CO ]]
+    COLEED ||| [[CO ]]
+    CONH27 ||| [[CO ]]
+    CONH28 ||| [[CO ]]
+    COP001 ||| [[CO ]]
+    COPINE ||| [[CO ]]
+    COT001 ||| [[CO ]]
+    COT002 ||| [[CO ]]
+    COT003 ||| [[CO ]]
+    COT004 ||| [[CO ]]
+    COT005 ||| [[CO ]]
+    COT006 ||| [[CO ]]
+    COT007 ||| [[CO ]]
+    COT008 ||| [[CO ]]
+    COT009 ||| [[CO ]]
+    COT010 ||| [[CO ]]
+    COT011 ||| [[CO ]]
+    COT012 ||| [[CO ]]
+    COT013 ||| [[CO ]]
+    COT014 ||| [[CO ]]
+    COT015 ||| [[CO ]]
+    COT016 ||| [[CO ]]
+    COT017 ||| [[CO ]]
+    COT018 ||| [[CO ]]
+    COT019 ||| [[CO ]]
+    COT020 ||| [[CO ]]
+    COT021 ||| [[CO ]]
+    COT022 ||| [[CO ]]
+    COT023 ||| [[CO ]]
+    COT024 ||| [[CO ]]
+    COT025 ||| [[CO ]]
+    COT026 ||| [[CO ]]
+    COT027 ||| [[CO ]]
+    COT028 ||| [[CO ]]
+    COT029 ||| [[CO ]]
+    COT030 ||| [[CO ]]
+    COT031 ||| [[CO ]]
+    COT032 ||| [[CO ]]
+    COT033 ||| [[CO ]]
+    COT034 ||| [[CO ]]
+    COT035 ||| [[CO ]]
+    COT036 ||| [[CO ]]
+    COT037 ||| [[CO ]]
+    COT038 ||| [[CO ]]
+    COT039 ||| [[CO ]]
+    COT901 ||| [[CO ]]
+    COUN06 ||| [[CO ]]
+    COV:U2 ||| [[CO ]]
+    COV01:X ||| [[CO ]]
+    COV03:X ||| [[CO ]]
+    COV04:X ||| [[CO ]]
+    COV05:X ||| [[CO ]]
+    COV06:X ||| [[CO ]]
+    COLN56:10 ||| [[CO ]]
+    Corinne 1 ||| [[CO ]]
+    ECOR46:10 ||| [[CO ]]
+    ECOR46:50 ||| [[CO ]]
+    02 SCOFIELD ||| [[CO ]]
+    120 County NE ||| [[COUNTY]]
+    415 County NE ||| [[COUNTY]]
+    22 EAST COUNTY ||| [[COUNTY]]
+    36 SOUTH COUNTY ||| [[COUNTY]]
+    561 County South ||| [[COUNTY]]
+    350 Midway County ||| [[COUNTY]]
+    121 Commons County ||| [[COUNTY]]
+    411 County Wild Mare ||| [[COUNTY]]
+    562 Wallsburg County ||| [[COUNTY]]
+    563 County Strawberry ||| [[COUNTY]]
+    410 County Cobblestone ||| [[COUNTY]]
+    414 County Timberlakes ||| [[COUNTY]]
+    416 County Jordanelle W ||| [[COUNTY]]
+    417 County Jordanelle N ||| [[COUNTY]]
+    560 County South Fields ||| [[COUNTY]]
+    413 County Lake Creek Farms ||| [[COUNTY]]
+    340 County Midway Sanitation ||| [[COUNTY]]
+    412 County Lake Creek Crossing ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    CH ||| [[CHARTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    AL ||| [[BALLOTS]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    CH ||| [[CHOOSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    HYR01:I ||| [[YR]]
+    HYR01:U ||| [[YR]]
+    HYR02:I ||| [[YR]]
+    HYR03:I ||| [[YR]]
+    HYR03:U ||| [[YR]]
+    HYR04:I ||| [[YR]]
+    HYR05:I ||| [[YR]]
+    HYR02:U1 ||| [[YR]]
+    HYR02:U2 ||| [[YR]]
+    HYR04:U1 ||| [[YR]]
+    HYR04:U2 ||| [[YR]]
+    HYR04:U3 ||| [[YR]]
+    HYR05:U1 ||| [[YR]]
+    HYR05:U2 ||| [[YR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    AL ||| [[RECALL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    COCDSR ||| [[CD]]
+    FA25:UBCD ||| [[CD]]
+    Federal District 2 ||| [[DISTRICT]]
+    Federal District 4 ||| [[DISTRICT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    CODIV ||| [[DIV ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    CNP01 ||| [[NP]]
+    CNP02 ||| [[NP]]
+    CNP03 ||| [[NP]]
+    CNP04 ||| [[NP]]
+    CNP05 ||| [[NP]]
+    NPA401 ||| [[NP]]
+    NPR308 ||| [[NP]]
+    NPR321 ||| [[NP]]
+    NPR364 ||| [[NP]]
+    Greenwich ||| [[GREEN]]
+    GREENVILLE 1 ||| [[GREEN]]
+    12 GREEN RIVER ||| [[GREEN]]
+    South Sanpete U ||| [[NP]]
+    540 Independence ||| [[IND]]
+    Fountain Green U ||| [[GREEN]]
+    Fountain Green City ||| [[GREEN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    AL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    AL ||| [[TOTAL]]
+    CH ||| [[MACHINE]]
+    Centerfield City ||| [[CENTER]]
+    305 Midway City Center ||| [[CENTER]]
+    203 Heber City W Center ||| [[CENTER]]
+    205 Heber City E Center ||| [[CENTER]]
+    208 Heber City SE Center ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    AL ||| [[SPECIAL]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    02 SCOFIELD
+    03 PLEASANT VALLEY
+    07 EAST HELPER
+    1
+    1 EMERY
+    1-1
+    1-1-S
+    1-C
+    1-M
+    1-T
+    1-U1
+    1-U2
+    1-U3
+    1-U3:FD
+    10 CLEVELAND
+    10-3
+    100 Heber City NW
+    101 Heber City NW
+    102 Heber City NE
+    103 Heber City NE
+    104 Heber City NE
+    105 Heber City Valley Hills
+    106 Heber City Red Ledges
+    11 ELMO
+    11-2
+    11-2-MC
+    12 GREEN RIVER
+    12-2-MC
+    120 County NE
+    121 Commons County
+    13-2-MC
+    14-2
+    14-2-MC
+    15-3
+    15-3-MC
+    16 SOUTH PRICE
+    16-2
+    17 EAST PRICE
+    17-3-MC
+    19 WELLINGTON
+    1A
+    1B
+    1_1
+    1_1_M
+    1_2
+    1_2_B
+    1_3_B
+    1_4
+    1_4_B
+    1_5
+    1_S1
+    1_S5
+    2
+    2 FERRON SOUTH
+    2-1
+    2-1-S
+    2-M1
+    2-M2
+    2-M3
+    2-U
+    20 EAST CARBON
+    200 Heber City SW
+    201 Heber City W
+    202 Heber City W
+    203 Heber City W Center
+    204 Heber City E
+    205 Heber City E Center
+    206 Heber City E
+    207 Heber City E
+    208 Heber City SE Center
+    21 WEST HELPER
+    22 EAST COUNTY
+    27 FAIRGROUNDS
+    2A
+    2_2
+    2_2_B
+    2_3
+    2_3_B
+    2_5
+    2_5_A
+    2_5_B
+    3
+    3 FERRON NORTH
+    3-1
+    3-1-S
+    3-M1
+    3-M2
+    3-M3
+    3-M4
+    3-U
+    30 CASTLE HEIGHTS NORTH
+    300 Midway City Stringtown
+    301 Midway City Homestead
+    302 Midway City Lime Canyon
+    303 Midway City Michie Ln
+    304 Midway City Memorial Hill
+    305 Midway City Center
+    306 Midway City Valais
+    307 Midway City Dutch Fields
+    31 CENTRAL PRICE
+    32 NORTHEAST PRICE
+    320 Interlaken
+    33 NORTH PRICE
+    330 Park City
+    331 Park City
+    34 CASTLE HEIGHTS
+    340 County Midway Sanitation
+    350 Midway County
+    36 SOUTH COUNTY
+    37 SPRING GLEN
+    38 CARBONVILLE
+    39 WESTWOOD
+    3A
+    3PK
+    3_1
+    3_2
+    3_3
+    3_3_BF
+    3_4
+    3_4_A
+    3_5
+    4
+    4 CLAWSON
+    4-1-S
+    4-M1
+    4-M2
+    4-U
+    40 MILLER CREEK
+    400 Hideout
+    410 County Cobblestone
+    411 County Wild Mare
+    412 County Lake Creek Crossing
+    413 County Lake Creek Farms
+    414 County Timberlakes
+    415 County NE
+    416 County Jordanelle W
+    417 County Jordanelle N
+    4A
+    5
+    5 ORANGEVILLE
+    5-1
+    5-1-S
+    5-M
+    5-U1
+    5-U2
+    5-U3
+    500 Heber City Airport
+    501 Heber S
+    502 Heber - Wheeler Park
+    503 Heber City Wheeler E
+    504 Heber City SE
+    520 Daniel Town
+    530 Charleston Town
+    540 Independence
+    550 Wallsburg Town
+    560 County South Fields
+    561 County South
+    562 Wallsburg County
+    563 County Strawberry
+    5A
+    6 CASTLE DALE WEST
+    6-3
+    7 CASTLE DALE EAST
+    7-3
+    8 HUNTINGTON EAST
+    8-3
+    9 HUNTINGTON WEST
+    9-3
+    AB11
+    AB11:CWNR
+    AB11:CWUR
+    AB11:UR
+    AB11:UWUR
+    AF301
+    AF302
+    AF303
+    AF304
+    AF305
+    AF306
+    AF307
+    AF308
+    AF310
+    AF311
+    AF312
+    AF314
+    AF316
+    AF317
+    AF318
+    AF319
+    AF320
+    AF321
+    AF322
+    AF323
+    AF324
+    AF401
+    AF402
+    AF403
+    AF404
+    AL
+    AL12:UR
+    AL301
+    AL302
+    AL303
+    AL304
+    AL305
+    AL306
+    AL307
+    AL308
+    ALT001
+    ALT002
+    AM11
+    AM11:DW
+    AM11:DWUR
+    AM11:GR
+    AM11:JW1
+    AM11:JW3
+    AM11:JW4
+    AMA:I
+    AMA:U1
+    AMA:U2
+    AMA:U3
+    APV01
+    AR11:CWUR
+    AR11:DWGR
+    AR11:DWUR
+    AR11:GR
+    AR11:J1UR
+    AR11:UR
+    AR11:UWUR
+    Abraham 14
+    Annabella 1
+    Antimony 01
+    Ashley East #15
+    Ashley West #22
+    Aurora 2
+    Avalon Willows #16
+    Axtell SSD
+    BEAVER 1
+    BEAVER 2
+    BEAVER 3
+    BEAVER 4
+    BEN:U
+    BGC001
+    BGC002
+    BH
+    BLF001
+    BLF002
+    BLF003
+    BLF004
+    BLF005
+    BLF006
+    BLF007
+    BLF008
+    BLF009
+    BLF010
+    BLF011
+    BLF012
+    BLF013
+    BO01:I-S-
+    BO02:I-S-
+    BO03:I-S-
+    BO04:I-S-
+    BO05:I-S-
+    BO05:U-S-
+    BO06:I-S-
+    BO07:I-S-
+    BO08:I-S-
+    BO09:I-S-
+    BO10:I-S-
+    BO11:I-S-
+    BO12:I-S-
+    BO13:I-S-
+    BO14:I-S-
+    BO15:I-S-
+    BO16:I-S-
+    BO17:I-S-
+    BO18:I-S-
+    BO19:I-S-
+    BO20:I-S-
+    BO21:I-S-
+    BO22:I-S-
+    BO23:I-S-
+    BO24:I-S-
+    BO25:I-S-
+    BO26:I-S-
+    BO27:I-S-
+    BO28:I-S-
+    BO29:I-S-
+    BO30:I-S-
+    BO31:I-S-
+    BO32:I-S-
+    BO33:IDS-
+    BO34:IDS-
+    BO35:IDS-
+    BO36:I-S-
+    BO37:I-S-
+    BO38:I-S-
+    BO39:I-S-
+    BO40:I-S-
+    BO40:IDS-
+    BO41:IDS-
+    BO42:I-S-
+    BO43:I-S-
+    BO43:IDS-
+    BO44:I-S-
+    BRT001
+    BRYL
+    BTNN34:25
+    BTNS34:10
+    BU
+    BW
+    Ballard #19
+    Bear River
+    Beaver Dam/Collinston
+    Bicknell Inside/Outside
+    Boulder 02
+    Box Elder West
+    Brigham City 01
+    Brigham City 02
+    Brigham City 03
+    Brigham City 04
+    Brigham City 05
+    Brigham City 06
+    Brigham City 07
+    Brigham City 08
+    Brigham City 09
+    Brigham City 10
+    Brigham City 11
+    Brigham City 12
+    Brigham City 13
+    Brigham City 14
+    Brigham City 15
+    Brigham City North West
+    Brown's Park
+    Bryce Canyon City 11
+    CBL001
+    CBL002
+    CC 1
+    CC 10
+    CC 11
+    CC 12
+    CC 13
+    CC 14
+    CC 15
+    CC 16
+    CC 17
+    CC 18
+    CC 19
+    CC 2
+    CC 20
+    CC 21
+    CC 22
+    CC 23
+    CC 24
+    CC 25
+    CC 26
+    CC 27
+    CC 28
+    CC 29
+    CC 3
+    CC 4
+    CC 5
+    CC 6
+    CC 7
+    CC 8
+    CC 9
+    CCRK20:10
+    CE01:I-S-
+    CE02:I-S-
+    CE03:I-S-
+    CE04:I-S-
+    CE05:I-S-
+    CE06:I-S-
+    CE07:I-S-
+    CE08:I-S-
+    CE09:I-S-
+    CE10:I-S-
+    CE11:I-S-
+    CE12:I-S-
+    CE13:I-S-
+    CE14:I-S-
+    CE15:I-S-
+    CE16:I-S-
+    CE17:I-S-
+    CE18:I-SA
+    CE18:I-SB
+    CE18:U-S-
+    CF01:I-N-
+    CF02:I-N-
+    CF02:U-N-
+    CF03:I-N-
+    CF04:I-N-
+    CF05:I-N-
+    CF06:I-N-
+    CF07:I-N-
+    CF08:I-N-
+    CF09:I-N-
+    CF10:I-N-
+    CF11:I-N-
+    CF12:I-N-
+    CF13:I-N-
+    CF14:I-N-
+    CF15:I-N-
+    CF16:I-N-
+    CF17:I-N-
+    CF18:I-N-
+    CF19:I-N-
+    CF20:I-N-
+    CF21:I-N-
+    CF22:I-N-
+    CF23:I-N-
+    CF24:I-N-
+    CF401
+    CH
+    CH301
+    CH302
+    CH304
+    CH305
+    CH306
+    CH307
+    CH308
+    CL01:I-N-
+    CL02:I-N-
+    CL03:I-N-
+    CL04:I-N-
+    CL05:I-N-
+    CL06:I-N-
+    CL06:IHN-
+    CL07:I-N-
+    CL08:I-N-
+    CL09:I-N-
+    CL10:I-N-
+    CL11:I-N-
+    CL12:I-N-
+    CL13:I-N-
+    CL14:I-N-
+    CL15:I-N-
+    CL16:I-N-
+    CL17:I-N-
+    CL18:I-N-
+    CL19:I-N-
+    CL20:I-N-
+    CL21:I-N-
+    CL22:I-N-
+    CLK:I
+    CLK:U1
+    CLK:U2
+    CLN19:10
+    CLS19:25
+    CM
+    CNP01
+    CNP02
+    CNP03
+    CNP04
+    CNP05
+    COCDSR
+    COCNBR
+    CODAV
+    CODIV
+    CODXDR
+    COGL
+    COHS72
+    COHS74
+    COHS75
+    COHV28
+    COLEED
+    COLN56:10
+    CONCF
+    CONH27
+    CONH28
+    COP001
+    COPINE
+    COR:I
+    COR:U
+    COT001
+    COT002
+    COT003
+    COT004
+    COT005
+    COT006
+    COT007
+    COT008
+    COT009
+    COT010
+    COT011
+    COT012
+    COT013
+    COT014
+    COT015
+    COT016
+    COT017
+    COT018
+    COT019
+    COT020
+    COT021
+    COT022
+    COT023
+    COT024
+    COT025
+    COT026
+    COT027
+    COT028
+    COT029
+    COT030
+    COT031
+    COT032
+    COT033
+    COT034
+    COT035
+    COT036
+    COT037
+    COT038
+    COT039
+    COT901
+    COUN06
+    COV01
+    COV01:X
+    COV02
+    COV03
+    COV03:X
+    COV04
+    COV04:X
+    COV05
+    COV05:X
+    COV06
+    COV06:X
+    COV:U
+    COV:U2
+    COVE
+    COWH
+    CSU01
+    CSU02
+    CV
+    CW
+    CWS01
+    CWS02
+    CWS03
+    CWS04
+    CWS05
+    CWS06
+    CWS07
+    CWS08
+    CWS09
+    CY:U
+    Callao #1
+    Cannonville 03
+    Centerfield City
+    Central Valley 4
+    Circleville
+    Corinne 1
+    DG01
+    DG02
+    DR301
+    DR302
+    DRP001
+    DRP002
+    DRP003
+    DRP004
+    DRP005
+    DRP006
+    DRP007
+    DRP008
+    DRP009
+    DRP010
+    DRP011
+    DRP012
+    DRP013
+    DRP014
+    DRP015
+    DRP016
+    DRP017
+    DRP018
+    DRP019
+    DRP020
+    DRP021
+    DRP022
+    DRP023
+    DRP024
+    DRP025
+    DRP026
+    DRP027
+    DRP028
+    DRP029
+    DRP901
+    DU11
+    DU11:DW
+    DU11:DWGR
+    DU11:GR
+    DU11:PWGR
+    DU11:PWTR
+    DU11:TR
+    DU12:DWGR
+    DU12:GR
+    DVN1:1
+    DVS31:1
+    Davis East #2
+    Davis North #24
+    Davis West #3
+    Delta 17
+    Delta 18
+    Deseret-Oasis 5
+    Deweyville
+    Dry Fork #7
+    Dutch John
+    EC01
+    EC02:1
+    EC02:2
+    EC03:1
+    EC03:2
+    EC04:1
+    EC04:2
+    EC05
+    ECOR46:10
+    ECOR46:50
+    EM401
+    EM402
+    EM403
+    EM404
+    EM405
+    EM406
+    EM407
+    EM408
+    EM409
+    EM410
+    EM411
+    EM412
+    EM413
+    EM414
+    EM415
+    EM416
+    EM417
+    EM418
+    EM419
+    EM420
+    EM421
+    EM422
+    EM423
+    EM424
+    EM425
+    EM426
+    EM427
+    EM428
+    EM429
+    EMG001
+    ENO 1
+    ENO 2
+    ENO 3
+    ENO 4
+    ENO 5
+    ENO 6
+    ENT01
+    ER401
+    ER402
+    ER403
+    Elsinore 5
+    Elwood
+    Ephraim City 1
+    Ephraim City 2
+    Ephraim City 3
+    Ephraim U
+    Escalante 04
+    Eureka #1
+    Eureka #2
+    Eureka #3
+    Eureka #4
+    Eureka #5
+    Eureka #6
+    FA01:IBC-
+    FA01:UBC-
+    FA02:IBC-
+    FA03:I-C-
+    FA03:IBC-
+    FA04:IBC-
+    FA05:IBC-
+    FA06:IBC-
+    FA07:I-C-
+    FA08:IBC-
+    FA09:IBC-
+    FA10:I-C-
+    FA11:I-C-
+    FA12:I-C-
+    FA12:U-C-
+    FA13:I-C-
+    FA14:I-C-
+    FA14:U-C-
+    FA15:I-C-
+    FA16:IBC-
+    FA17:IBC-
+    FA18:IBC-
+    FA19:IBC-
+    FA20:IBC-
+    FA21:IBC-
+    FA22:IBC-
+    FA23:IBC-
+    FA24:U-C-
+    FA24:UBC-
+    FA25:U-C-
+    FA25:UBCA
+    FA25:UBCB
+    FA25:UBCC
+    FA25:UBCD
+    FED001
+    FED002
+    FED003
+    FED004
+    FED01
+    FED1
+    FED3
+    FED301
+    FED401
+    FEDERAL
+    FF401
+    FH01:I-C-
+    FH01:I-N-
+    FH01:U-CA
+    FH01:U-CB
+    FH02:I-C-
+    FH03:I-C-
+    FH04:I-C-
+    FH05:I-C-
+    FH06:I-C-
+    FH07:I-C-
+    FH08:IBC-
+    FR11:FWGR
+    FR11:GR
+    FR11:HWTR
+    FR11:PWGR
+    FR11:PWTR
+    FR11:TR
+    FRAE28:25
+    FRAW28:10
+    FRW01
+    FRW02
+    FRW03
+    FRW04
+    FRW05
+    Fairview City
+    Fairview U
+    Fayette Town
+    Federal
+    Federal District 2
+    Federal District 4
+    Fielding 1
+    Fielding 2
+    Fillmore 1
+    Fillmore 2
+    Flowell 25
+    Fort Duchesne #18
+    Fountain Green City
+    Fountain Green U
+    Fremont
+    GARF58:10
+    GE401
+    GE402
+    GL
+    GNT001
+    GNT002
+    GNT003
+    GNT004
+    GNT005
+    GNT006
+    GNT007
+    GNT008
+    GNT009
+    GO401
+    GREENVILLE 1
+    GSL001
+    GV01:1
+    GV01:2U
+    GV01:3U
+    GV02:1
+    GV02:2
+    GV02:3
+    GV02:4
+    GV03
+    GV04:1
+    GV04:2U
+    GV04:3U
+    GV05
+    GV06
+    GV07
+    GV08
+    GV09
+    GV10
+    Garland 1
+    Garland 2
+    Garland East
+    Garrison 16
+    Glenwood 6
+    Glines North #23
+    Glines South #17
+    Greenwich
+    Gunnison City
+    HA01:U-N-
+    HAR01
+    HAR02
+    HAR03
+    HAR04
+    HEE38:32
+    HEN25:1
+    HER001
+    HER002
+    HER003
+    HER004
+    HER005
+    HER006
+    HER007
+    HER008
+    HER009
+    HER010
+    HER011
+    HER012
+    HER013
+    HER014
+    HER015
+    HER016
+    HER017
+    HER018
+    HER019
+    HER020
+    HER021
+    HER022
+    HER023
+    HER024
+    HER025
+    HER026
+    HER027
+    HER028
+    HER029
+    HER030
+    HER031
+    HER032
+    HER033
+    HER034
+    HER035
+    HER901
+    HER902
+    HER903
+    HER904
+    HEW23:32
+    HI301
+    HI302
+    HI304
+    HI305
+    HI306
+    HI307
+    HI308
+    HI309
+    HI310
+    HI311
+    HI312
+    HI313
+    HI314
+    HI315
+    HI316
+    HIL01
+    HOL001
+    HOL002
+    HOL003
+    HOL004
+    HOL005
+    HOL006
+    HOL007
+    HOL008
+    HOL009
+    HOL010
+    HOL011
+    HOL012
+    HOL013
+    HOL014
+    HOL015
+    HOL016
+    HOL017
+    HOL018
+    HOL019
+    HOL020
+    HOL021
+    HOL022
+    HOL023
+    HOL024
+    HOL025
+    HOL026
+    HOL027
+    HOL028
+    HOL029
+    HOL030
+    HOL031
+    HOYT18:10
+    HPR10
+    HPR11
+    HPR12
+    HPR20
+    HPR21
+    HPR22
+    HPR30
+    HPR31
+    HUN01
+    HUR01
+    HUR02
+    HUR03
+    HUR04
+    HUR05
+    HUR06
+    HUR07
+    HUR08
+    HUR09
+    HUR10
+    HUR11
+    HUR12
+    HUR13
+    HYD01:I
+    HYD01:U
+    HYD02:I
+    HYD02:U1
+    HYD02:U2
+    HYD03:I
+    HYD03:U
+    HYR01:I
+    HYR01:U
+    HYR02:I
+    HYR02:U1
+    HYR02:U2
+    HYR03:I
+    HYR03:U
+    HYR04:I
+    HYR04:U1
+    HYR04:U2
+    HYR04:U3
+    HYR05:I
+    HYR05:U1
+    HYR05:U2
+    Hanksville Inside/Outside
+    Hatch 05
+    Henrieville 06
+    Hinckley 11
+    Holden 8
+    Honeyville
+    Honeyville 1
+    Honeyville 2
+    Howell
+    IB01
+    IFOR49:10
+    ISL001
+    IVN01
+    IVN02
+    IVN03
+    IVN04
+    IVN05
+    IVN06
+    IVN07
+    JERE37:32
+    JERW27:32
+    Jensen #1
+    Joseph 7
+    Junction
+    KA01:I-C-
+    KA01:I-N-
+    KA02:I-C-
+    KA02:I-NA
+    KA02:I-NB
+    KA03:I-N-
+    KA04:I-N-
+    KA05:I-N-
+    KA05:U-NT
+    KA06:I-N-
+    KA06:U-NA
+    KA06:U-NB
+    KA07:I---
+    KA07:I-N-
+    KA07:U-N-
+    KA08:I-N-
+    KA08:U-N-
+    KA09:I-C-
+    KA1
+    KA10:I-C-
+    KA11:I-C-
+    KA12:I-C-
+    KA12:I-N-
+    KA13:I-C-
+    KA14:I-C-
+    KA15:I-C-
+    KA16:I-C-
+    KA17:I-C-
+    KA18:I-C-
+    KA19:I-C-
+    KA2
+    KA20:I-C-
+    KA21:I-C-
+    KA22:I-C-
+    KA23:I-C-
+    KA24:I-C-
+    KA25:I-C-
+    KA26:I-C-
+    KA27:I-C-
+    KA28:I-C-
+    KA29:I-C-
+    KA29:IBC-
+    KA3
+    KA30:I-C-
+    KA30:IBCA
+    KA30:IBCB
+    KA31:I-C-
+    KA31:IBC-
+    KA32:IBC-
+    KA33:IBC-
+    KA34:IBC-
+    KA35:IBC-
+    KA36:I-C-
+    KA36:IBC-
+    KA4
+    KAMN12:10
+    KAMS12:25
+    KAN
+    KCYN43:32
+    KRN001
+    KRN002
+    KRN003
+    KRN004
+    KRN005
+    KRN006
+    KRN007
+    KRN008
+    KRN009
+    KRN010
+    KRN011
+    KRN012
+    KRN013
+    KRN014
+    KRN015
+    KRN016
+    KRN017
+    KRN018
+    KRN019
+    KRN901
+    Kanosh 4
+    Kingston
+    Koosharem 17
+    LA01:I-N-
+    LA02:I-N-
+    LA02:U-N-
+    LA03:I-N-
+    LA04:I-N-
+    LA05:I-N-
+    LA06:I-NA
+    LA06:I-NB
+    LA06:U-NA
+    LA06:U-NB
+    LA06:U-NC
+    LA07:I-N-
+    LA08:I-N-
+    LA09:I-N-
+    LA10:I-N-
+    LA10:U-N-
+    LA11:I-N-
+    LA12:I-N-
+    LA13:I-N-
+    LA14:I-N-
+    LA15:I-N-
+    LA16:I-N-
+    LA17:I-N-
+    LA18:I-N-
+    LA19:I-N-
+    LA20:I-N-
+    LA21:I-N-
+    LA22:I-N-
+    LA23:I-N-
+    LA24:I-N-
+    LA25:I-N-
+    LA26:I-N-
+    LA27:I-N-
+    LA28:I-N-
+    LA29:I-N-
+    LA30:I-N-
+    LA31:I-N-
+    LA32:I-N-
+    LA33:I-N-
+    LA34:I-N-
+    LA35:I-N-
+    LA36:I-N-
+    LA37:I-N-
+    LA38:I-N-
+    LA39:I-N-
+    LA40:I-N-
+    LA41:I-N-
+    LA42:I-N-
+    LA43:I-N-
+    LA44:I-N-
+    LA45:I-N-
+    LA46:I-N-
+    LA47:I-N-
+    LA48:I-N-
+    LA49:I-N-
+    LA50:I-N-
+    LA51:I-N-
+    LA52:I-N-
+    LA53:I-N-
+    LA54:I-N-
+    LA55:I-N-
+    LA56:I-N-
+    LA57:I-N-
+    LA58:I-N-
+    LA59:I-N-
+    LA59:U-N-
+    LA60:I-N-
+    LA60:U-NA
+    LA60:U-NB
+    LA61:I-N-
+    LA61:U-N-
+    LA62:I-N-
+    LA63:I-N-
+    LA64:I-N-
+    LA65:I-N-
+    LA66:I-N-
+    LA67:I-N-
+    LA68:I-N-
+    LA68:U-N-
+    LA69:I-N-
+    LA70:I-N-
+    LA70:U-N-
+    LA70:U-NT
+    LA71:I-N-
+    LA71:U-NA
+    LA71:U-NC
+    LA72:I-C-
+    LA72:I-N-
+    LA72:U-N-
+    LA73:I-N-
+    LA74:I-C-
+    LA74:I-N-
+    LA75:I-N-
+    LA75:U-N-
+    LA76:I-C-
+    LA76:I-N-
+    LA76:U-NA
+    LA76:U-NB
+    LA77:I-N-
+    LAV01
+    LAV02
+    LAV03
+    LC01
+    LE301
+    LE302
+    LE304
+    LE305
+    LE306
+    LE308
+    LE309
+    LE310
+    LE311
+    LE312
+    LE314
+    LE315
+    LE316
+    LE317
+    LE318
+    LE319
+    LE320
+    LE321
+    LE401
+    LE402
+    LE403
+    LE404
+    LE405
+    LE406
+    LE407
+    LE408
+    LE409
+    LE410
+    LE411
+    LE412
+    LE413
+    LE414
+    LE415
+    LE416
+    LE417
+    LE418
+    LE419
+    LE420
+    LE421
+    LE422
+    LE423
+    LE424
+    LE425
+    LE426
+    LE427
+    LE428
+    LE429
+    LEED01
+    LEW00:I
+    LEW01:I
+    LEW01:U1
+    LEW01:U2
+    LEW01:U3
+    LEW01:U4
+    LI301
+    LI302
+    LI304
+    LI305
+    LI306
+    LI307
+    LI308
+    LI309
+    LI310
+    LOG01:I
+    LOG02:I
+    LOG03:I
+    LOG04:I
+    LOG05:I
+    LOG06:I
+    LOG07:I
+    LOG08:I
+    LOG09:I
+    LOG10:I
+    LOG11:I
+    LOG12:I
+    LOG13:I
+    LOG13:U
+    LOG14:I
+    LOG14:U1
+    LOG14:U2
+    LOG14:U3
+    LOG15:I
+    LOG16:I
+    LOG17:I
+    LOG18:CSD
+    LOG18:IA
+    LOG18:IB
+    LOG19:I
+    LOG20:I
+    LOG21:CSD
+    LOG21:IA
+    LOG21:IB
+    LOG21:IC
+    LOG22:CSD
+    LOG22:I
+    LOG23:I
+    LOG24:17C1
+    LOG24:17C2
+    LOG24:CSD1
+    LOG24:CSD2
+    LOG24:CSD3
+    LOG24:I
+    LOG24:U
+    LOG25:I
+    LP01:1
+    LP01:2
+    LP02
+    LPNE9:15
+    LPNW9:3
+    LTC001
+    LTC002
+    LTC003
+    Lapoint/Tridell #21
+    Leamington 7
+    Levan #1
+    Levan #1:U
+    Loa Inside/Outside
+    Lyman Inside/Outside
+    Lynndyl 19
+    MA401
+    MA402
+    MA403
+    MA404
+    MA405
+    MA406
+    MA407
+    MA408
+    MA409
+    MA410
+    MAG001
+    MAG002
+    MAG003
+    MAG004
+    MAG005
+    MAG006
+    MAG007
+    MAG008
+    MAG009
+    MAG010
+    MAG011
+    MAG012
+    MAG013
+    MAG014
+    MAG015
+    MAG016
+    MAG901
+    MEN01:U
+    MEN02:I
+    MEN02:U
+    MH11
+    MH11:DWGR
+    MH11:GR
+    MH11:TR
+    MH11:UR
+    MH11:UWUR
+    MHW40:32
+    MID001
+    MID002
+    MID003
+    MID004
+    MID005
+    MID006
+    MID007
+    MID008
+    MID009
+    MID010
+    MID011
+    MID012
+    MID013
+    MID014
+    MID015
+    MID016
+    MID017
+    MID018
+    MID019
+    MID020
+    MID021
+    MID022
+    MID023
+    MID024
+    MID025
+    MID026
+    MID027
+    MID028
+    MID029
+    MID030
+    MID031
+    MID032
+    MID033
+    MID034
+    MIDV
+    MIL001
+    MIL002
+    MIL003
+    MIL004
+    MIL005
+    MIL006
+    MIL007
+    MIL008
+    MIL009
+    MIL010
+    MIL011
+    MIL012
+    MIL013
+    MIL014
+    MIL015
+    MIL016
+    MIL017
+    MIL018
+    MIL019
+    MIL01:I
+    MIL01:U
+    MIL020
+    MIL021
+    MIL022
+    MIL023
+    MIL024
+    MIL025
+    MIL026
+    MIL027
+    MIL028
+    MIL029
+    MIL02:I
+    MIL02:U1
+    MIL02:U2
+    MIL030
+    MIL031
+    MIL032
+    MIL033
+    MIL034
+    MIL035
+    MIL036
+    MIL037
+    MIL038
+    MIL039
+    MIL040
+    MIL041
+    MIL042
+    MIL043
+    MIL044
+    MIL045
+    MIL046
+    MIL047
+    MIL048
+    MIL049
+    MIL050
+    MIL051
+    MIL901
+    MILFORD 1
+    MILFORD 2
+    MILFORD 3
+    MINERSVILLE 1
+    MOL001
+    MOL002
+    MSC01
+    MSC02
+    MSC03
+    MSC04
+    MTCR59:10
+    MTRS55:25
+    MUR001
+    MUR002
+    MUR003
+    MUR004
+    MUR005
+    MUR006
+    MUR007
+    MUR008
+    MUR009
+    MUR010
+    MUR011
+    MUR012
+    MUR013
+    MUR014
+    MUR015
+    MUR016
+    MUR017
+    MUR018
+    MUR019
+    MUR020
+    MUR021
+    MUR022
+    MUR023
+    MUR024
+    MUR025
+    MUR026
+    MUR027
+    MUR028
+    MUR029
+    MUR030
+    MUR031
+    MUR032
+    MUR033
+    MUR034
+    MUR035
+    MUR036
+    MUR037
+    MUR038
+    MUR039
+    MUR040
+    MUR041
+    MUR042
+    MUR043
+    MUR044
+    MUR045
+    MUR046
+    MUR047
+    MUR048
+    MUR049
+    MUR050
+    MUR051
+    MUR052
+    MUR053
+    MY12
+    MY12:JW1
+    MY12:JW4
+    Maeser East #6
+    Maeser North #27
+    Maeser West #25
+    Manila
+    Manti City 1
+    Manti City 2
+    Manti City 3
+    Mantua
+    Marysvale
+    Mayfield Town
+    Meadow 3
+    Mona #1
+    Mona #1:U
+    Mona #2
+    Mona #2:U
+    Monroe 8
+    Monroe 9
+    Moroni City
+    Moroni U
+    Mt Pleasant 1 U
+    Mt Pleasant 2 U
+    Mt Pleasant City 1
+    Mt Pleasant City 2
+    NAF401
+    NAL306
+    NBL401
+    NCH308
+    NDR302
+    NE11
+    NE11:CW
+    NE11:CWNR
+    NE11:NR
+    NE11:NW
+    NE11:NWNR
+    NE11:UR
+    NEW:I
+    NEW:U
+    NEW:U2
+    NHT01
+    NIB01:IA
+    NIB01:IB
+    NIB01:U1
+    NIB01:U2
+    NIB01:U3
+    NIB02:I
+    NIB03:I
+    NIB04:I
+    NIB04:U
+    NLE301
+    NLE305
+    NLE307
+    NLE309
+    NLE401
+    NLE402
+    NLE407
+    NLE409
+    NLG01:I
+    NLG02:I
+    NLG03:I
+    NLG03:U
+    NLG04:I
+    NLG04:U
+    NLG05:I
+    NLG06:I
+    NOG01
+    NOG02
+    NOG03
+    NOG04
+    NOG05
+    NOG06
+    NOG07
+    NOG08
+    NOG09
+    NOG10
+    NOG11
+    NOG12
+    NOG13
+    NOG14
+    NPA401
+    NPR308
+    NPR321
+    NPR364
+    NRV901
+    NRV902
+    NRV903
+    NRV904
+    NRV905
+    NRV906
+    NRV907
+    NRV908
+    NRV909
+    NRV910
+    NRV911
+    NRV912
+    NRV913
+    NRV914
+    NRV915
+    NRV916
+    NRV917
+    NRV918
+    NRV919
+    NRV920
+    NS01:I-S-
+    NS02:I-S-
+    NS03:I-S-
+    NS04:I-S-
+    NS05:I-S-
+    NS06:I-S-
+    NS07:I-S-
+    NS07:IDSA
+    NS07:IDSB
+    NS07:IDSC
+    NS07:UDS-
+    NS08:I-S-
+    NS09:I-S-
+    NS10:IDS-
+    NS11:IDS-
+    NS12:IDS-
+    NS13:I-S-
+    NS14:I-S-
+    NS15:IDS-
+    NS16:I-S-
+    NS17:I-S-
+    NS18:I-S-
+    NS19:I-S-
+    NS20:I-S-
+    NSA403
+    NSF401
+    NSF410
+    NSN24:10
+    NSP406
+    NSP414
+    NSR409
+    NSR417
+    NSR424
+    NUL303
+    NUL401
+    NUL402
+    Naples East #4
+    Naples West #28
+    Nephi #1
+    Nephi #2
+    Nephi #3
+    Nephi #3:U
+    Nephi #4
+    Nephi #4:U1
+    Nephi #5
+    Nephi #5:U1
+    Nephi #5:U2
+    Nephi #6
+    Nephi #6:U
+    Nephi #7
+    OAKN14:10
+    OAKS14:25
+    OBR001
+    OGD01
+    OGD02
+    OGD03
+    OGD04
+    OGD05
+    OGD06
+    OGD07
+    OGD08
+    OGD09
+    OGD10
+    OGD11
+    OGD12
+    OGD13
+    OGD14
+    OGD15
+    OGD16
+    OGD17
+    OGD18
+    OGD19
+    OGD20
+    OGD21
+    OGD22
+    OGD23
+    OGD24
+    OGD25
+    OGD26
+    OGD27
+    OGD28
+    OGD29
+    OGD30
+    OGD31
+    OGD32
+    OGD33
+    OGD34
+    OGD35
+    OGD36
+    OGD37
+    OGD38
+    OGD39
+    OGD40
+    OGD41
+    OLDN32:1
+    OLDS2:1
+    OQR001
+    OQR002
+    OR
+    OR301
+    OR302
+    OR303
+    OR304
+    OR305
+    OR306
+    OR308
+    OR309
+    OR310
+    OR311
+    OR312
+    OR314
+    OR316
+    OR317
+    OR318
+    OR320
+    OR321
+    OR322
+    OR323
+    OR324
+    OR326
+    OR327
+    OR328
+    OR329
+    OR330
+    OR332
+    OR333
+    OR334
+    OR335
+    OR336
+    OR337
+    OR338
+    OR340
+    OR341
+    OR342
+    OR344
+    OR345
+    OR346
+    OR348
+    OR349
+    OR350
+    OR352
+    OR353
+    OR354
+    OR356
+    OR357
+    OR358
+    OR359
+    OR360
+    OR361
+    OR362
+    OR363
+    Oak City 6
+    PA401
+    PA402
+    PA403
+    PA404
+    PA405
+    PA406
+    PA407
+    PA408
+    PA409
+    PA410
+    PA411
+    PA412
+    PA413
+    PA414
+    PAR:I
+    PAR:U
+    PARE
+    PARG
+    PARN
+    PARS
+    PARS7:25
+    PARV
+    PARW7:32
+    PCN001
+    PEOA15:20
+    PEW51:10
+    PEW51:NS5
+    PG301
+    PG302
+    PG303
+    PG304
+    PG306
+    PG307
+    PG308
+    PG309
+    PG310
+    PG311
+    PG312
+    PG313
+    PG314
+    PG316
+    PG317
+    PG318
+    PG319
+    PG320
+    PG321
+    PG322
+    PG323
+    PG324
+    PG325
+    PG326
+    PINN39:32
+    PKMN35:1
+    PKMS5:1
+    PLC01
+    PLC02
+    PLC03
+    PLC04
+    PLC05
+    PLV01
+    PLV02
+    PLV03
+    PLV04
+    PLV05
+    PLV06
+    PLV07
+    PLV08
+    PLV09
+    PLV10
+    PLV11
+    PR301
+    PR302
+    PR304
+    PR305
+    PR306
+    PR307
+    PR308
+    PR310
+    PR311
+    PR312
+    PR313
+    PR314
+    PR315
+    PR316
+    PR317
+    PR318
+    PR319
+    PR320
+    PR321
+    PR322
+    PR324
+    PR325
+    PR326
+    PR327
+    PR328
+    PR329
+    PR330
+    PR331
+    PR332
+    PR333
+    PR334
+    PR335
+    PR336
+    PR338
+    PR339
+    PR340
+    PR341
+    PR342
+    PR343
+    PR344
+    PR345
+    PR346
+    PR348
+    PR349
+    PR350
+    PR352
+    PR353
+    PR354
+    PR355
+    PR356
+    PR358
+    PR359
+    PR360
+    PR362
+    PR363
+    PR364
+    PR365
+    PR366
+    PR367
+    PR368
+    PR369
+    PRG45:32
+    PRG45:S4A
+    PRG45:S4B
+    PRG45:S4C
+    PRM48:10
+    PRM48:N5A
+    PRM48:N5B
+    PRO01:IA
+    PRO01:IB
+    PRO01:IC
+    PRO02:IA
+    PRO02:IB
+    PRO03:I
+    PRO03:U1
+    PRO03:U2
+    PRO03:U3
+    PRO04:I
+    PRO04:U
+    PRO05:I
+    PRO06:I
+    PROS3:1
+    Panguitch 07
+    Panguitch 08
+    Perry 1
+    Perry 2
+    Perry 3
+    Perry 4
+    Plymouth
+    Portage
+    QUAR6:1
+    RANS36:32
+    RCH01:I
+    RCH01:U1
+    RCH01:U2
+    RCH01:U3
+    RCH02:I
+    RCH02:U1
+    RCH02:U2
+    RCH03:I
+    RCK01
+    RIV001
+    RIV002
+    RIV003
+    RIV004
+    RIV005
+    RIV006
+    RIV007
+    RIV008
+    RIV009
+    RIV01
+    RIV010
+    RIV011
+    RIV012
+    RIV013
+    RIV014
+    RIV015
+    RIV016
+    RIV017
+    RIV018
+    RIV019
+    RIV02
+    RIV020
+    RIV021
+    RIV022
+    RIV023
+    RIV024
+    RIV025
+    RIV026
+    RIV027
+    RIV028
+    RIV029
+    RIV03
+    RIV030
+    RIV031
+    RIV032
+    RIV033
+    RIV034
+    RIV035
+    RIV04
+    RNDV47:10
+    RO11:S3J2
+    RO11:SBD2
+    RO11:SBD3
+    RO12
+    RO12:JW2
+    RO21
+    RO21:CW
+    RO22
+    RO31
+    RO32
+    RO32:JW1
+    RO32:JW2
+    RO41
+    RO41:CW
+    RO42
+    RO51
+    RO51:CW
+    RO51:DWUR
+    RO51:J1UR
+    RO51:JW1
+    RO51:JW2
+    RO51:JW3
+    RO51:UR
+    ROCP54:10
+    ROCP54:S4
+    ROY01
+    ROY02
+    ROY03
+    ROY04
+    ROY05
+    ROY06
+    ROY07
+    ROY08
+    ROY09
+    ROY10
+    ROY11
+    ROY12
+    ROY13
+    ROY14
+    ROY15
+    ROY16
+    ROY17
+    ROY18
+    ROY19
+    ROY20
+    ROY21
+    ROY22
+    ROY23
+    RPL26:32
+    RV01:1
+    RV01:2U
+    RVH01:I
+    RVH01:U
+    RVH01:U2
+    RVH02:I
+    RVH02:U2
+    RVH02:U3
+    RVH02:U4
+    Redmond 10
+    Richfield 11
+    Richfield 12
+    Richfield 13
+    Richfield 20
+    Richfield 21
+    Richfield 22
+    Richfield 23
+    Richfield 24
+    Riverside
+    Rocky Ridge #1
+    Rocky Ridge #1:U
+    Rocky Ridge #1:U2
+    Rocky Ridge #1:USQ
+    SA401
+    SA401:S
+    SA402
+    SA403
+    SA404
+    SA405
+    SA406
+    SA407
+    SAN001
+    SAN002
+    SAN003
+    SAN004
+    SAN005
+    SAN006
+    SAN007
+    SAN008
+    SAN009
+    SAN010
+    SAN011
+    SAN012
+    SAN013
+    SAN014
+    SAN015
+    SAN016
+    SAN017
+    SAN018
+    SAN019
+    SAN020
+    SAN021
+    SAN022
+    SAN023
+    SAN024
+    SAN025
+    SAN026
+    SAN027
+    SAN028
+    SAN029
+    SAN030
+    SAN031
+    SAN032
+    SAN033
+    SAN034
+    SAN035
+    SAN036
+    SAN037
+    SAN038
+    SAN039
+    SAN040
+    SAN041
+    SAN042
+    SAN043
+    SAN044
+    SAN045
+    SAN046
+    SAN047
+    SAN048
+    SAN049
+    SAN050
+    SAN051
+    SAN052
+    SAN053
+    SAN054
+    SAN055
+    SAN056
+    SAN057
+    SAN058
+    SAN059
+    SAN060
+    SAN061
+    SAN062
+    SAN063
+    SAN064
+    SAN065
+    SAN066
+    SAN067
+    SAN068
+    SAN069
+    SAN070
+    SAN071
+    SAN072
+    SAN073
+    SAN074
+    SAN075
+    SAN076
+    SAN077
+    SAN078
+    SAN079
+    SAN080
+    SAN081
+    SAN082
+    SAN083
+    SAN084
+    SAN085
+    SAN086
+    SAN087
+    SAN088
+    SAN089
+    SAN090
+    SAN091
+    SAN092
+    SAN901
+    SAN902
+    SAN903
+    SAN904
+    SAN905
+    SAN906
+    SAN907
+    SAN908
+    SAN909
+    SAN910
+    SC01
+    SC02
+    SC03
+    SC04
+    SC05
+    SCRL44:31
+    SCRU8:31
+    SCRU8:NS5
+    SF301
+    SF401
+    SF402
+    SF403
+    SF404
+    SF405
+    SF406
+    SF407
+    SF408
+    SF409
+    SF410
+    SF411
+    SF412
+    SF413
+    SF414
+    SF415
+    SF416
+    SF417
+    SF418
+    SF419
+    SF420
+    SF421
+    SF422
+    SF423
+    SF424
+    SF425
+    SF426
+    SFCC57:10
+    SHL001
+    SHL002
+    SHL003
+    SHL004
+    SHL005
+    SIDE33:1
+    SIL001
+    SIL002
+    SIL003
+    SIL004
+    SIL005
+    SIL006
+    SIL007
+    SIL008
+    SIL009
+    SIL010
+    SIL011
+    SIL012
+    SJD001
+    SJD002
+    SJD003
+    SJD004
+    SJD005
+    SJD006
+    SJD007
+    SJD008
+    SJD009
+    SJD010
+    SJD011
+    SJD012
+    SJD013
+    SJD014
+    SJD015
+    SJD016
+    SJD017
+    SJD018
+    SJD019
+    SJD020
+    SJD021
+    SJD022
+    SJD023
+    SJD024
+    SJD025
+    SJD026
+    SJD027
+    SJD028
+    SJD029
+    SJD030
+    SJD031
+    SJD032
+    SJD033
+    SJD034
+    SJD035
+    SJD036
+    SJD037
+    SJD038
+    SJD039
+    SJD040
+    SJD041
+    SJD042
+    SJD043
+    SJD044
+    SJD045
+    SJD046
+    SJD047
+    SJD048
+    SJD049
+    SJD050
+    SJD051
+    SJD052
+    SJD053
+    SJD054
+    SJD055
+    SJD056
+    SJD057
+    SJD058
+    SJD059
+    SJD060
+    SJD061
+    SJD062
+    SJD063
+    SJD064
+    SJD901
+    SLC001
+    SLC002
+    SLC003
+    SLC004
+    SLC005
+    SLC006
+    SLC007
+    SLC008
+    SLC009
+    SLC010
+    SLC011
+    SLC012
+    SLC013
+    SLC014
+    SLC015
+    SLC016
+    SLC017
+    SLC018
+    SLC019
+    SLC020
+    SLC021
+    SLC022
+    SLC023
+    SLC024
+    SLC025
+    SLC026
+    SLC027
+    SLC028
+    SLC029
+    SLC030
+    SLC031
+    SLC032
+    SLC033
+    SLC034
+    SLC035
+    SLC036
+    SLC037
+    SLC038
+    SLC039
+    SLC040
+    SLC041
+    SLC042
+    SLC043
+    SLC044
+    SLC045
+    SLC046
+    SLC047
+    SLC048
+    SLC049
+    SLC050
+    SLC051
+    SLC052
+    SLC053
+    SLC054
+    SLC055
+    SLC056
+    SLC057
+    SLC058
+    SLC059
+    SLC060
+    SLC061
+    SLC062
+    SLC063
+    SLC064
+    SLC065
+    SLC066
+    SLC067
+    SLC068
+    SLC069
+    SLC070
+    SLC071
+    SLC072
+    SLC073
+    SLC074
+    SLC075
+    SLC076
+    SLC077
+    SLC078
+    SLC079
+    SLC080
+    SLC081
+    SLC082
+    SLC083
+    SLC084
+    SLC085
+    SLC086
+    SLC087
+    SLC088
+    SLC089
+    SLC090
+    SLC091
+    SLC092
+    SLC093
+    SLC094
+    SLC095
+    SLC096
+    SLC097
+    SLC098
+    SLC099
+    SLC100
+    SLC101
+    SLC102
+    SLC103
+    SLC104
+    SLC105
+    SLC106
+    SLC107
+    SLC108
+    SLC109
+    SLC110
+    SLC111
+    SLC112
+    SLC113
+    SLC114
+    SLC115
+    SLC116
+    SLC117
+    SLC118
+    SLC119
+    SLC120
+    SLC121
+    SLC122
+    SLC123
+    SLC124
+    SLC125
+    SLC126
+    SLC127
+    SLC128
+    SLC129
+    SLC130
+    SLC131
+    SLC132
+    SLC133
+    SLC134
+    SLC136
+    SLC137
+    SLC138
+    SLC139
+    SLC140
+    SLC141
+    SLC142
+    SLC901
+    SLC902
+    SLC903
+    SLVR16:32
+    SMI01:I
+    SMI01:U1
+    SMI01:U2
+    SMI02:I
+    SMI02:U
+    SMI03:I
+    SMI03:U
+    SMI04:I
+    SMI04:U
+    SMI05:I
+    SMI05:U
+    SMI06:I
+    SMI06:U
+    SMI07:I
+    SMI07:U
+    SMI08:I
+    SML42:32
+    SOG01
+    SOG02
+    SOG03
+    SOG04
+    SOG05
+    SOG06
+    SOG07
+    SOG08
+    SOG09
+    SOG10
+    SOG11
+    SP01
+    SP02
+    SP03:1
+    SP03:2
+    SP04:1
+    SP04:2
+    SP05
+    SP06
+    SP07
+    SP08
+    SP09:1
+    SP09:2
+    SP09:3
+    SP10
+    SP301
+    SP302
+    SP304
+    SP305
+    SP306
+    SP307
+    SP308
+    SP310
+    SP401
+    SP402
+    SP403
+    SP404
+    SP405
+    SP406
+    SP408
+    SP409
+    SP410
+    SP411
+    SP412
+    SP413
+    SP414
+    SP415
+    SP416
+    SPR01
+    SQ401
+    SQ402
+    SQ404
+    SQ405
+    SQ406
+    SQ407
+    SQ408
+    SQ409
+    SQ410
+    SQ411
+    SR401
+    SR402
+    SR403
+    SR404
+    SR405
+    SR406
+    SR407
+    SR408
+    SR409
+    SR410
+    SR411
+    SR412
+    SR413
+    SR414
+    SR415
+    SR416
+    SR417
+    SR418
+    SR419
+    SR420
+    SR421
+    SR422
+    SR423
+    SR424
+    SR425
+    SR426
+    SSE13:20
+    SSL001
+    SSL002
+    SSL003
+    SSL004
+    SSL005
+    SSL006
+    SSL007
+    SSL008
+    SSL009
+    SSL010
+    SSL011
+    SSL012
+    SSL013
+    SSL014
+    SSL015
+    SSL016
+    SSL017
+    SSL018
+    SSL019
+    SSL020
+    SSL901
+    SSS11:20
+    SSW22:20
+    ST01:1
+    ST01:2U
+    ST01:3U
+    ST02:1
+    ST02:2U
+    ST02:3U
+    STG01
+    STG02
+    STG03
+    STG04
+    STG05
+    STG06
+    STG07
+    STG08
+    STG09
+    STG10
+    STG11
+    STG12
+    STG13
+    STG14
+    STG15
+    STG16
+    STG17
+    STG18
+    STG19
+    STG20
+    STG21
+    STG22
+    STG23
+    STG24
+    STG25
+    STG26
+    STG27
+    STG28
+    STG29
+    STG30
+    STG31
+    STG32
+    STG33
+    STG34
+    STG35
+    STG36
+    STG37
+    STG38
+    STG39
+    STG40
+    STG41
+    STG42
+    STG43
+    STG44
+    STG45
+    STG46
+    STG47
+    STG48
+    STG49
+    STG50
+    STG51
+    STG52
+    STG53
+    STG54
+    STG55
+    STG56
+    STG57
+    STG58
+    STG59
+    SU01:I-N-
+    SU02:I-N-
+    SU03:I-N-
+    SU04:I-N-
+    SUM
+    SUME30:32
+    SUMW10:32
+    SW01:I---
+    SW02:I---
+    SW02:IW--
+    SW02:IW-A
+    SW03:IW--
+    SW04:IW--
+    SW05:IW--
+    SW06:IW--
+    SW07:I---
+    SW08:I---
+    SW09:IW--
+    SW10:I---
+    SW11:U---
+    SWT001
+    SWT002
+    SY01:I-N-
+    SY02:I-N-
+    SY03:I-N-
+    SY04:I-N-
+    SY05:I-N-
+    SY06:I-N-
+    SY07:I-N-
+    SY08:I-N-
+    SY08:U-N-
+    SY09:I-N-
+    SY10:I-N-
+    SY11:I-N-
+    SY12:I-N-
+    SY13:I-N-
+    SY14:I-N-
+    SY15:I-N-
+    SY15:U---
+    SY15:U-N-
+    SY16:I-N-
+    SY17:I-N-
+    SY18:I-N-
+    SY19:I-N-
+    SY20:I-N-
+    SY21:I-N-
+    SY22:I-N-
+    SY23:I-N-
+    SY24:I-N-
+    SY25:I-N-
+    SY26:I-N-
+    SY27:I-N-
+    SY28:I-N-
+    SY29:U-N-
+    SY30:I-N-
+    SY31:I-N-
+    SY32:I-N-
+    SY33:I-N-
+    SY34:I-N-
+    SY35:I---
+    SY35:I-N-
+    SY36:I-N-
+    SY37:I---
+    SY37:I-N-
+    SY37:U-N-
+    SY38:U-N-
+    Salina 14
+    Salina 15
+    Salina 25
+    Scipio 9
+    Sigurd 16
+    Snowville
+    South #5
+    South East #29
+    South Sanpete U
+    South Willard 1
+    South Willard 2
+    Southwest #26
+    Spring City
+    Spring City U, Wales U
+    Sterling Town
+    Sterling U
+    Sutherland 20
+    TA11
+    TA11:FWTR
+    TA11:HWTR
+    TA11:PWTR
+    TA11:TR
+    TA12:TR
+    TAY001
+    TAY002
+    TAY003
+    TAY004
+    TAY005
+    TAY006
+    TAY007
+    TAY008
+    TAY009
+    TAY010
+    TAY011
+    TAY012
+    TAY013
+    TAY014
+    TAY015
+    TAY016
+    TAY017
+    TAY018
+    TAY019
+    TAY020
+    TAY021
+    TAY022
+    TAY023
+    TAY024
+    TAY025
+    TAY026
+    TAY027
+    TAY028
+    TAY029
+    TAY030
+    TAY031
+    TAY032
+    TAY033
+    TAY034
+    TAY035
+    TAY036
+    TAY037
+    TAY038
+    TAY039
+    TAY040
+    TAY041
+    TAY042
+    TAY043
+    TAY044
+    TC01
+    TC02
+    TC03:1
+    TC03:2U
+    TC04
+    TC05
+    TC06
+    TC07
+    TC08
+    TC09
+    TC10
+    TC11
+    TC12
+    TC13
+    TC14
+    TC15
+    TC16
+    TC17
+    TC18
+    TC19
+    TC20
+    TC21
+    TC22
+    TE01
+    THAY4:1
+    TOQ01
+    TOQ02
+    TRE:I
+    Teasdale
+    Ticaboo 09
+    Torrey Inside/Outside
+    Tremonton 1
+    Tremonton 2
+    Tremonton 3
+    Tremonton 4
+    Tremonton 5
+    Tremonton 6
+    Tremonton South
+    Tremonton West
+    Tropic 10
+    UAF301
+    UAF307
+    UAF308
+    UAF310
+    UAF317
+    UAF323
+    UAF324
+    UAF401
+    UAL301
+    UBE401
+    UBN401
+    UBN403
+    UCB401
+    UCB402
+    UCV401
+    UEL401
+    UER401
+    UER403
+    UFF401
+    UGO402
+    UHC301
+    UHC402
+    UHI310
+    UIN01
+    UIN02
+    UINT52:10
+    ULE317
+    ULE410
+    ULE420
+    ULE421
+    ULS401
+    ULS402
+    ULV301
+    ULV302
+    UMA406
+    UNINHC:1
+    UNINHC:2
+    UOR350
+    UOR360
+    UPA401
+    UPA408
+    UPC301
+    UPC302
+    UPIN41:32
+    UPM301
+    UPM402
+    UPR304
+    UPR364
+    USA401
+    USA402
+    USF402
+    USF411
+    USF421
+    USL401
+    USL401:S1
+    USL401:S2
+    USQ401
+    UWM401
+    UWM402
+    UWM402:S1
+    VI301
+    VI302
+    VI303
+    VI304
+    VI305
+    VI306
+    VI307
+    VI308
+    VIR01
+    VR01:1
+    VR01:2U
+    Venice 18
+    Vernal City #10
+    Vernal City #11
+    Vernal City #12
+    Vernal City #13
+    Vernal City #14
+    Vernal City #8
+    Vernal City #9
+    WAGN29:32
+    WANE17:10
+    WANE17:S4
+    WAS01
+    WAS02
+    WAS03
+    WAS04
+    WAS05
+    WAS06
+    WAS07
+    WAS08
+    WAS09
+    WAS10
+    WAS11
+    WAS12
+    WAS13
+    WAS14
+    WAS15
+    WAS16
+    WAS17
+    WAS18
+    WAS19
+    WAS20
+    WAT01
+    WAT02
+    WAT03
+    WAT04
+    WAT05
+    WB01:I-S-
+    WB02:I-S-
+    WB03:I-S-
+    WB04:I-S-
+    WB05:I-S-
+    WB05:U---
+    WB05:U-S-
+    WB06:I-S-
+    WCN001
+    WCN002
+    WCR001
+    WCR002
+    WCR003
+    WE01:1
+    WE01:2U
+    WE01:3U
+    WEBC21:20
+    WEL01:I
+    WEL01:U1
+    WEL01:U2
+    WEL01:U3
+    WEL02:I
+    WEL02:U
+    WEL03:I
+    WEL03:U
+    WH401
+    WHT001
+    WHT002
+    WHT003
+    WHT004
+    WHV01
+    WHV02
+    WHV03
+    WHV04
+    WHV05
+    WHV06
+    WHV07
+    WHV08
+    WHV09
+    WHV10
+    WHV11
+    WHV12
+    WHV13
+    WHV14
+    WJD001
+    WJD002
+    WJD003
+    WJD004
+    WJD005
+    WJD006
+    WJD007
+    WJD008
+    WJD009
+    WJD010
+    WJD011
+    WJD012
+    WJD013
+    WJD014
+    WJD015
+    WJD016
+    WJD017
+    WJD018
+    WJD019
+    WJD020
+    WJD021
+    WJD022
+    WJD023
+    WJD024
+    WJD025
+    WJD026
+    WJD027
+    WJD028
+    WJD029
+    WJD030
+    WJD031
+    WJD032
+    WJD033
+    WJD034
+    WJD035
+    WJD036
+    WJD037
+    WJD038
+    WJD039
+    WJD040
+    WJD041
+    WJD042
+    WJD043
+    WJD044
+    WJD045
+    WJD046
+    WJD047
+    WJD048
+    WJD049
+    WJD050
+    WJD051
+    WJD052
+    WJD053
+    WJD054
+    WJD055
+    WJD056
+    WJD057
+    WJD058
+    WJD059
+    WJD060
+    WJD061
+    WJD062
+    WJD063
+    WJD064
+    WJD065
+    WJD066
+    WJD067
+    WJD068
+    WJD069
+    WJD070
+    WJD071
+    WJD072
+    WJD073
+    WJD074
+    WJD075
+    WJD076
+    WJD077
+    WJD078
+    WJD079
+    WJD080
+    WJD081
+    WJD082
+    WJD901
+    WJD902
+    WJD903
+    WJD904
+    WJD905
+    WJD906
+    WJD907
+    WJD908
+    WJD909
+    WJD910
+    WNW17:2
+    WNW17:P4A
+    WNW17:P4B
+    WP01:I-NA
+    WP01:I-NB
+    WP01:IHN-
+    WP01:U---
+    WP01:UH-A
+    WP01:UH-B
+    WP02:IHN-
+    WP03:IHN-
+    WP04:I-N-
+    WP05:I-N-
+    WP06:I-N-
+    WP07:IHN-
+    WP07:UH--
+    WP08:IHN-
+    WP09:I-N-
+    WP10:I-N-
+    WP11:I-N-
+    WP12:I-N-
+    WP13:I-N-
+    WP14:I-N-
+    WP15:I-N-
+    WSTV
+    WVC001
+    WVC002
+    WVC003
+    WVC004
+    WVC005
+    WVC006
+    WVC007
+    WVC008
+    WVC009
+    WVC010
+    WVC011
+    WVC012
+    WVC013
+    WVC014
+    WVC015
+    WVC016
+    WVC017
+    WVC018
+    WVC019
+    WVC020
+    WVC021
+    WVC022
+    WVC023
+    WVC024
+    WVC025
+    WVC026
+    WVC027
+    WVC028
+    WVC029
+    WVC030
+    WVC031
+    WVC032
+    WVC033
+    WVC034
+    WVC035
+    WVC036
+    WVC037
+    WVC038
+    WVC039
+    WVC040
+    WVC041
+    WVC042
+    WVC043
+    WVC044
+    WVC045
+    WVC046
+    WVC047
+    WVC048
+    WVC049
+    WVC050
+    WVC051
+    WVC052
+    WVC053
+    WVC054
+    WVC055
+    WVC056
+    WVC057
+    WVC058
+    WVC059
+    WVC060
+    WVC061
+    WVC062
+    WVC063
+    WVC064
+    WVC065
+    WVC066
+    WVC901
+    WVC902
+    WVC903
+    WVC904
+    WX01:I-S-
+    WX02:I-S-
+    WX03:I-S-
+    WX04:I-S-
+    WX04:U-S-
+    WX05:I-S-
+    WX06:I-S-
+    WX07:I-S-
+    WX08:I-S-
+    WX09:I-S-
+    WX10:I-S-
+    WX11:I-S-
+    WX11:IDS-
+    Wales Town
+    Whiterocks #20
+    Willard 1
+    Willard 2
+------
+

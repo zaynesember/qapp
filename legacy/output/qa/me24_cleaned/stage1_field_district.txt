@@ -1,0 +1,1181 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in district!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('<<<EC: VALUE WAS EMPTY>>>',)
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'NO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'YES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 9198 elements)
+        ('York', 'YORK REGISTER OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'YORK REGISTER OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'YORK REGISTER OF PROBATE', 'REPUBLICAN', 'YORK', 'CAROL J LOVEJOY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('030',)
+        ('ABBOT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ABBOT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ABBOT', 'STATE HOUSE', 'DEMOCRAT', 'PISCATAQUIS', 'W LOUIS SIDELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 23 elements)
+        ('WELLINGTON', 'STATE HOUSE', 'REPUBLICAN', 'PISCATAQUIS', 'JAMES L WHITE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WILLIMANTIC', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WILLIMANTIC', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('144',)
+        ('ACTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ACTON', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'JEFFREY SEAN ADAMS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('001',)
+        ('ACTON', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ACTON', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ACTON', 'US HOUSE', 'DEMOCRAT', 'YORK', 'CHELLIE PINGREE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 783 elements)
+        ('YORK', 'US HOUSE', 'DEMOCRAT', 'YORK', 'CHELLIE PINGREE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('YORK', 'US HOUSE', 'REPUBLICAN', 'YORK', 'RONALD C RUSSELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('YORK', 'US HOUSE', 'UNENROLLED/INDEPENDENT', 'YORK', 'ETHAN WELD ALCORN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('011',)
+        ('ADDISON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ADDISON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ADDISON', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'ROLAND EBEN ROGERS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 72 elements)
+        ('Waldo', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Waldo', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Waldo', 'STATE SENATE', 'DEMOCRAT', 'WALDO', 'GLENN CHIP CURRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('081',)
+        ('ALBANY TOWNSHIP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ALBANY TOWNSHIP', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'JOAN S BEAL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MASON TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 2 elements)
+        ('STONEHAM', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'JOAN S BEAL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SWEDEN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SWEDEN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('063',)
+        ('ALBION', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'PAUL R FLYNN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WINSLOW', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WINSLOW', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'LEE A TRAHAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('010',)
+        ('ALEXANDER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ALEXANDER', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'PETER G COLMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Brewer', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 39 elements)
+        ('WESLEY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WESLEY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WESLEY', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'WILLIAM R TUELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('136',)
+        ('ALFRED', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'MICHELLE KATHRYN CONNERS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LYMAN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LYMAN', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'JOHN M EDER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('047',)
+        ('ALNA', 'STATE HOUSE', 'DEMOCRAT', 'LINCOLN', 'WAYNE K FARRIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ALNA', 'STATE HOUSE', 'REPUBLICAN', 'LINCOLN', 'EDWARD J POLEWARCZYK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WHITEFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('027',)
+        ('ALTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ALTON', 'STATE HOUSE', 'DEMOCRAT', 'PENOBSCOT', 'PETER ALAN CROCKETT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HUDSON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 1 elements)
+        ('HUDSON', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'GARY A DRINKWATER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Portland', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Portland', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'JILL C DUSON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('018',)
+        ('AMHERST', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AMHERST', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AMHERST', 'STATE HOUSE', 'REPUBLICAN', 'HANCOCK', 'MATHEW DAVID MCINTYRE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 48 elements)
+        ('T3 ND TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('T3 ND TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('T7 SD TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('008',)
+        ('AMITY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'AROOSTOOK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AMITY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'AROOSTOOK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AMITY', 'STATE HOUSE', 'DEMOCRAT', 'AROOSTOOK', 'NICOLE J COLLINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 107 elements)
+        ('Webster Plt', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Webster Plt', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Webster Plt', 'STATE SENATE', 'DEMOCRAT', 'PENOBSCOT', 'MICHAEL TIPPING', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('073',)
+        ('ANDOVER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ANDOVER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ANDOVER', 'STATE HOUSE', 'COMMON SENSE INDEPENDENT', 'OXFORD', 'TIFFANY BOND', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 48 elements)
+        ('WEST FORKS PLANTATION', 'STATE HOUSE', 'COMMON SENSE INDEPENDENT', 'SOMERSET', 'TIFFANY BOND', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WEST FORKS PLANTATION', 'STATE HOUSE', 'REPUBLICAN', 'SOMERSET', 'MICHAEL A SOBOLESKI', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WYMAN TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('072',)
+        ('ANSON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ANSON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ANSON', 'STATE HOUSE', 'REPUBLICAN', 'SOMERSET', 'ELIZABETH M CARUSO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 18 elements)
+        ('ROCKWOOD STRIP TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOLON/CONCORD TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOLON/CONCORD TWP', 'STATE HOUSE', 'NON PARTY CANDIDATE', 'SOMERSET', 'CYNTHIA J SOMA-HERNANDEZ', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('040',)
+        ('APPLETON', 'STATE HOUSE', 'REPUBLICAN', 'KNOX', 'JOSEPH M MCLAUGHLIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ISLESBORO', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LINCOLNVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LINCOLNVILLE', 'STATE HOUSE', 'DEMOCRAT', 'WALDO', 'D MICHAEL RAY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MONTVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MONTVILLE', 'STATE HOUSE', 'REPUBLICAN', 'WALDO', 'JOSEPH M MCLAUGHLIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('049',)
+        ('ARROWSIC', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ARROWSIC', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'VINCENT E BROWN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WEST BATH', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WOOLWICH', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'VINCENT E BROWN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('140',)
+        ('ARUNDEL', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'JASON NEDEAU', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('DAYTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('DAYTON', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'WAYNE R PARRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('031',)
+        ('ATKINSON TOWNSHIP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ATKINSON TOWNSHIP', 'STATE HOUSE', 'DEMOCRAT', 'PISCATAQUIS', 'JOSEPH THOMAS BROWN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Buxton', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'DONNA BAILEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 2 elements)
+        ('MEDFORD', 'STATE HOUSE', 'REPUBLICAN', 'PISCATAQUIS', 'CHAD R PERKINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Old Orchard Beach', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Old Orchard Beach', 'STATE SENATE', 'UNENROLLED', 'YORK', 'CRAIG A PENDLETON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('090',)
+        ('AUBURN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AUBURN', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'DANIEL E CAMPBELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('089',)
+        ('AUBURN', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'JOHN G JANELLE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('088',)
+        ('AUBURN', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'QUENTIN J CHAPMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('060',)
+        ('AUGUSTA', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'WILLIAM R BRIDGEO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('059',)
+        ('AUGUSTA', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'MARCUS E EMERSON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('074',)
+        ('AVON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('AVON', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'RANDALL C HALL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CARTHAGE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 4 elements)
+        ('TEMPLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WILTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('004',)
+        ('Abbot', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Abbot', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Alfred', 'YORK COUNTY COMMISIONER', 'REPUBLICAN', 'YORK', 'DONNA L RING', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 89 elements)
+        ('Willimantic', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wyman Twp', 'FRANKLIN COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wyman Twp', 'FRANKLIN COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('002',)
+        ('Abbot', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'OTHERS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Abbot', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Abbot', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 2224 elements)
+        ('Wyman Twp', 'US HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wyman Twp', 'US HOUSE', 'DEMOCRAT', 'FRANKLIN', 'JARED FORREST GOLDEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wyman Twp', 'US HOUSE', 'REPUBLICAN', 'FRANKLIN', 'AUSTIN THERIAULT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('STATEWIDE',)
+        ('Abbot', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'OTHERS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Abbot', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Abbot', 'US PRESIDENT', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 7070 elements)
+        ('York', 'US SENATE', 'INDEPENDENT', 'YORK', 'ANGUS S KING JR', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'US SENATE', 'INDEPENDENT', 'YORK', 'JASON S CHERRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'US SENATE', 'REPUBLICAN', 'YORK', 'DEMI KOUZOUNAS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('022',)
+        ('Acton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Acton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BANGOR', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', "COLLEEN T O'NEAL", 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 13 elements)
+        ('Porter', 'STATE SENATE', 'DEMOCRAT', 'OXFORD', 'ANNE MARIE MCMAHON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Sebago', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Standish', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('006',)
+        ('Addison', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Addison', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Addison', 'STATE SENATE', 'REPUBLICAN', 'WASHINGTON', 'MARIANNE MOORE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 259 elements)
+        ('Winter Harbor', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Winter Harbor', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Winter Harbor', 'STATE SENATE', 'REPUBLICAN', 'HANCOCK', 'MARIANNE MOORE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('019',)
+        ('Albany Township', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Andover', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Andover', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 101 elements)
+        ('Woodstock/Milton Twp', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woodstock/Milton Twp', 'STATE SENATE', 'DEMOCRAT', 'OXFORD', 'BRUCE S BRYANT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woodstock/Milton Twp', 'STATE SENATE', 'REPUBLICAN', 'OXFORD', 'JOSEPH E MARTIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('016',)
+        ('Albion', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Albion', 'STATE SENATE', 'REPUBLICAN', 'KENNEBEC', 'SCOTT WYNN CYRWAY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BLUE HILL', 'STATE HOUSE', 'DEMOCRAT', 'HANCOCK', 'NINA AZELLA MILLIKEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 1 elements)
+        ('SURRY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SURRY', 'STATE HOUSE', 'DEMOCRAT', 'HANCOCK', 'NINA AZELLA MILLIKEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Winslow', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('003',)
+        ('Albion/Unity Twp', 'KENNEBEC COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Albion/Unity Twp', 'KENNEBEC COUNTY COMMISIONER', 'DEMOCRAT', 'KENNEBEC', 'GEORGE M JABAR II', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Allagash', 'AROOSTOOK COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'AROOSTOOK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 193 elements)
+        ('Woodland', 'AROOSTOOK COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'AROOSTOOK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woodland', 'AROOSTOOK COUNTY COMMISIONER', 'DEMOCRAT', 'AROOSTOOK', 'NORMAN FOURNIER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woodland', 'AROOSTOOK COUNTY COMMISIONER', 'REPUBLICAN', 'AROOSTOOK', 'DANIEL VICTOR DEVEAU', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('033',)
+        ('Alfred', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'DANIEL J LAUZON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Alfred', 'STATE SENATE', 'REPUBLICAN', 'YORK', 'MATTHEW A HARRINGTON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CORINNA', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CORINNA', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'KENNETH WADE FREDETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PLYMOUTH', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'KENNETH WADE FREDETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Sanford', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('013',)
+        ('Alna', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Alna', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Alna', 'STATE SENATE', 'DEMOCRAT', 'LINCOLN', 'CAMERON D RENY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 37 elements)
+        ('Windsor', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Windsor', 'STATE SENATE', 'REPUBLICAN', 'KENNEBEC', 'DALE C HARMON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wiscasset', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('005',)
+        ('Anson', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Anson', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Anson', 'STATE SENATE', 'DEMOCRAT', 'SOMERSET', "KATHLEEN B O'DONNELL", 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 132 elements)
+        ('York', 'YORK COUNTY COMMISIONER', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'YORK COUNTY COMMISIONER', 'DEMOCRAT', 'YORK', 'RICHARD CLARK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'YORK COUNTY COMMISIONER', 'REPUBLICAN', 'YORK', 'SUSAN JANE WISWELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('012',)
+        ('Appleton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Appleton', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Appleton', 'STATE SENATE', 'DEMOCRAT', 'KNOX', 'ANNE H BEEBE-CENTER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 27 elements)
+        ('Vinalhaven', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Vinalhaven', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Vinalhaven', 'STATE SENATE', 'REPUBLICAN', 'KNOX', 'WILLIAM SCOTT ROCKNAK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('024',)
+        ('Arrowsic', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Arrowsic', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BANGOR', 'STATE HOUSE', 'DEMOCRAT', 'PENOBSCOT', 'JOSEPH C PERRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 18 elements)
+        ('Woolwich', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woolwich', 'STATE SENATE', 'DEMOCRAT', 'SAGADAHOC', 'DENISE TEPLER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Woolwich', 'STATE SENATE', 'UNENROLLED', 'SAGADAHOC', 'SUZANNE ANDRESEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('032',)
+        ('Arundel', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Arundel', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'HENRY L INGWERSEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BRADFORD', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'STEVEN D FOSTER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 1 elements)
+        ('GARLAND', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'STEVEN D FOSTER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Hollis', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Lyman', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'HENRY L INGWERSEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('020',)
+        ('Auburn', 'STATE SENATE', 'DEMOCRAT', 'ANDROSCOGGIN', 'BETTYANN W SHEATS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Auburn', 'STATE SENATE', 'REPUBLICAN', 'ANDROSCOGGIN', 'BRUCE BICKFORD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BREWER', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'PATRICK JUDE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Poland', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Poland', 'STATE SENATE', 'UNENROLLED', 'ANDROSCOGGIN', 'DUSTIN R WARD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('015',)
+        ('Augusta', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Augusta', 'STATE SENATE', 'REPUBLICAN', 'KENNEBEC', 'RICHARD T BRADSTREET', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BROOKLIN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 9 elements)
+        ('Sidney', 'STATE SENATE', 'DEMOCRAT', 'KENNEBEC', 'RAEGAN FRENCH LAROCHELLE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Sidney', 'STATE SENATE', 'REPUBLICAN', 'KENNEBEC', 'RICHARD T BRADSTREET', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('TREMONT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('009',)
+        ('BAILEYVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BAILEYVILLE', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'DARIN L MCGAW', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BAILEYVILLE', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'ARTHUR KEVIN MINGO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 8 elements)
+        ('PERRY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PLEASANT POINT VOTING DISTRICT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WASHINGTON', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PLEASANT POINT VOTING DISTRICT', 'STATE HOUSE', 'REPUBLICAN', 'WASHINGTON', 'ARTHUR KEVIN MINGO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('084',)
+        ('BALDWIN', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'CASSANDRA ANNE DOVE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BALDWIN', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'MARK WALKER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SEBAGO', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('021',)
+        ('BANGOR', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BANGOR', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'REDA H EDELMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Lewiston', 'STATE SENATE', 'DEMOCRAT', 'ANDROSCOGGIN', 'MARGARET R ROTUNDO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('023',)
+        ('BANGOR', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'JUSTIN P CARTIER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Brunswick', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Brunswick', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'MATTHEA ELISABETH DAUGHTRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Pownal', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Pownal', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'MATTHEA ELISABETH DAUGHTRY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Pownal', 'STATE SENATE', 'REPUBLICAN', 'CUMBERLAND', 'MICHAEL J LAWLER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('014',)
+        ('BAR HARBOR', 'STATE HOUSE', 'DEMOCRAT', 'HANCOCK', 'GARY FRIEDMANN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BAR HARBOR', 'STATE HOUSE', 'REPUBLICAN', 'HANCOCK', 'SANDRA J GRAY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Chelsea', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 13 elements)
+        ('West Gardiner', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('West Gardiner', 'STATE SENATE', 'DEMOCRAT', 'KENNEBEC', 'CRAIG V HICKMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('West Gardiner', 'STATE SENATE', 'REPUBLICAN', 'KENNEBEC', 'SHANNON MCDONNELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('050',)
+        ('BATH', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'HAROLD ALFRED EAMES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('039',)
+        ('BELFAST', 'STATE HOUSE', 'DEMOCRAT', 'WALDO', 'JANICE S DODGE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BELMONT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BELMONT', 'STATE HOUSE', 'REPUBLICAN', 'WALDO', 'STEPHEN J HEMENWAY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('067',)
+        ('BENTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BENTON', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'SHELLEY J RUDNICKI', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('148',)
+        ('BERWICK', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BERWICK', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'THOMAS ARTHUR LAVIGNE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('078',)
+        ('BETHEL', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BETHEL', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'ERIC LEE GIROUX', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROXBURY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROXBURY', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'ERIC LEE GIROUX', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROXBURY', 'STATE HOUSE', 'REPUBLICAN', 'OXFORD', 'RACHEL A HENDERSON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('133',)
+        ('BIDDEFORD', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'MARC G MALON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('132',)
+        ('BIDDEFORD', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'RYAN M FECTEAU', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('134',)
+        ('BIDDEFORD', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'TRACI GERE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('KENNEBUNK', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('KENNEBUNK', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'ELIZABETH A JORDAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('048',)
+        ('BOOTHBAY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BOOTHBAY', 'STATE HOUSE', 'REPUBLICAN', 'LINCOLN', 'JAMES WILLIAM HUNT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOUTHPORT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOUTHPORT', 'STATE HOUSE', 'DEMOCRAT', 'LINCOLN', 'HOLLY B STOVER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOUTHPORT', 'STATE HOUSE', 'REPUBLICAN', 'LINCOLN', 'JAMES WILLIAM HUNT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('098',)
+        ('BOWDOIN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('DURHAM', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('DURHAM', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'GUY M LEBIDA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('TOPSHAM', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'GUY M LEBIDA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('052',)
+        ('BOWDOIN', 'STATE HOUSE', 'DEMOCRAT', 'SAGADAHOC', 'SALLY JEANE CLUCHEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BOWDOINHAM', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SAGADAHOC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BOWDOINHAM', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'DAVID W GUILMETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('026',)
+        ('BRADLEY', 'STATE HOUSE', 'DEMOCRAT', 'PENOBSCOT', 'JAMES F DILL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Casco', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Casco', 'STATE SENATE', 'REPUBLICAN', 'CUMBERLAND', 'KENNETH J CIANCHETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 1 elements)
+        ('OLD TOWN', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'CHRISTINA M OUELLETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Westbrook', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Windham', 'STATE SENATE', 'REPUBLICAN', 'CUMBERLAND', 'KENNETH J CIANCHETTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('083',)
+        ('BRIDGTON', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'CARRYE L CASTLEMAN-ROSS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HARRISON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HARRISON', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'MARYGRACE CAROLINE CIMINO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('046',)
+        ('BRISTOL', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BRISTOL', 'STATE HOUSE', 'DEMOCRAT', 'LINCOLN', 'LYDIA V CRAFTS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('NEWCASTLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('NOBLEBORO', 'STATE HOUSE', 'DEMOCRAT', 'LINCOLN', 'LYDIA V CRAFTS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('038',)
+        ('BROOKS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BROOKS', 'STATE HOUSE', 'DEMOCRAT', 'WALDO', 'STEPHEN B ELLIS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('FRANKFORT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 4 elements)
+        ('SWANVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('THORNDIKE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('UNITY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('082',)
+        ('BROWNFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BROWNFIELD', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'NICHOLE SEKERA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LOVELL', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PORTER', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'NICHOLE SEKERA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('099',)
+        ('BRUNSWICK', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BRUNSWICK', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'CHERYL A GOLEK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('100',)
+        ('BRUNSWICK', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'DANIEL J ANKELES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('101',)
+        ('BRUNSWICK', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'POPPY T ARFORD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('080',)
+        ('BUCKFIELD', 'STATE HOUSE', 'DEMOCRAT', 'OXFORD', 'ROBERTA J HILL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BUCKFIELD', 'STATE HOUSE', 'REPUBLICAN', 'OXFORD', 'CALDWELL JACKSON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('OTISFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('017',)
+        ('BUCKSPORT', 'STATE HOUSE', 'DEMOCRAT', 'HANCOCK', 'RONALD B RUSSELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BUCKSPORT', 'STATE HOUSE', 'REPUBLICAN', 'HANCOCK', 'STEVEN M BISHOP', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Fayette', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 9 elements)
+        ('PENOBSCOT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Turner', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wales', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('068',)
+        ('BURNHAM', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CLINTON', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'BRIAN J BLAKE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CLINTON', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'AMANDA NOELLE COLLAMORE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('137',)
+        ('BUXTON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BUXTON', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'NATHAN M CARLOW', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('138',)
+        ('BUXTON', 'STATE HOUSE', 'A TRUE INDEPENDENT', 'YORK', 'MICHAEL THOMAS BARDEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('BUXTON', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'MARK JOHN BLIER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HOLLIS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HOLLIS', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'MICHAEL ANTHONY MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('007',)
+        ('Bar Harbor', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Bar Harbor', 'STATE SENATE', 'DEMOCRAT', 'HANCOCK', 'NICOLE C GROHOSKI', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Bar Harbor', 'STATE SENATE', 'REPUBLICAN', 'HANCOCK', 'SHERMAN HUTCHINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 44 elements)
+        ('Verona Island', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Verona Island', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Verona Island', 'STATE SENATE', 'REPUBLICAN', 'HANCOCK', 'SHERMAN HUTCHINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('034',)
+        ('Berwick', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Berwick', 'STATE SENATE', 'REPUBLICAN', 'YORK', 'BRADLEY SCOTT DUCHARME', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('GLENBURN', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'ABIGAIL W GRIFFIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('KENDUSKEAG', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('North Berwick', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Wells', 'STATE SENATE', 'REPUBLICAN', 'YORK', 'BRADLEY SCOTT DUCHARME', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('041',)
+        ('CAMDEN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CAMDEN', 'STATE HOUSE', 'DEMOCRAT', 'KNOX', 'VICTORIA W DOUDERA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('069',)
+        ('CANAAN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CANAAN', 'STATE HOUSE', 'DEMOCRAT', 'SOMERSET', 'JESSICA B BLANCHARD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PALMYRA', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SAINT ALBANS', 'STATE HOUSE', 'DEMOCRAT', 'SOMERSET', 'JESSICA B BLANCHARD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('121',)
+        ('CAPE ELIZABETH', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CAPE ELIZABETH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'CHRISTOPHER J KESSLER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('123',)
+        ('CAPE ELIZABETH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'MICHELLE NICOLE BOYER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('035',)
+        ('CARMEL', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CARMEL', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'JAMES E THORNE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Eliot', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Eliot', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'MARK W LAWRENCE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('South Berwick', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('York', 'STATE SENATE', 'DEMOCRAT', 'YORK', 'MARK W LAWRENCE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('110',)
+        ('CHEBEAGUE ISLAND', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'SCOTT WILLIAM JORDAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CUMBERLAND', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CUMBERLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'CHRISTINA RC MITCHELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('053',)
+        ('CHELSEA', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'JUDY E TUNKLE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CHELSEA', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'MICHAEL H LEMELIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('RANDOLPH', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('029',)
+        ('CHESTER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CHESTER', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'KATHY IRENE JAVNER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Cape Elizabeth', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'ANNE M CARNEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 5 elements)
+        ('PATTEN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Scarborough', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Scarborough', 'STATE SENATE', 'REPUBLICAN', 'CUMBERLAND', 'CHRISTOPHER M HOWELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('075',)
+        ('CHESTERVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CHESTERVILLE', 'STATE HOUSE', 'DEMOCRAT', 'FRANKLIN', 'STEPHAN M BUNKER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('062',)
+        ('CHINA', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'PAMELA JO SWIFT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CHINA', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'KATRINA J SMITH', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SOMERVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('071',)
+        ('CORNVILLE', 'STATE HOUSE', 'DEMOCRAT', 'SOMERSET', 'ANN E DORNEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MADISON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MADISON', 'STATE HOUSE', 'REPUBLICAN', 'SOMERSET', 'JOHN E DUCHARME', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('043',)
+        ('CUSHING', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('CUSHING', 'STATE HOUSE', 'DEMOCRAT', 'KNOX', 'ANN H MATLACK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ST. GEORGE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('THOMASTON', 'STATE HOUSE', 'DEMOCRAT', 'KNOX', 'ANN H MATLACK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('025',)
+        ('Cumberland', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Cumberland', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'TERESA S PIERCE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('North Yarmouth', 'STATE SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('North Yarmouth', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'TERESA S PIERCE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('North Yarmouth', 'STATE SENATE', 'REPUBLICAN', 'CUMBERLAND', 'JAMES READ', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ORONO', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'THOMAS J CASEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('028',)
+        ('EDINBURG', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('EDINBURG', 'STATE HOUSE', 'DEMOCRAT', 'PENOBSCOT', 'NATALIE D DIPENTINO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ENFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ...(skipping 5 elements)
+        ('MAXFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('Portland', 'STATE SENATE', 'DEMOCRAT', 'CUMBERLAND', 'RACHEL TALBOT ROSS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SEBOEIS PLANTATION', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('150',)
+        ('ELIOT', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'MICHELE MEYER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('KITTERY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('KITTERY', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'MARK FREDERICK ZIMMER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('112',)
+        ('FALMOUTH', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('FALMOUTH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'W EDWARD CROCKETT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('111',)
+        ('FALMOUTH', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'JOHN L JONES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('054',)
+        ('FARMINGDALE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('FARMINGDALE', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'KAREN L MONTELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('037',)
+        ('FRANKFORT', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('FRANKFORT', 'STATE HOUSE', 'DEMOCRAT', 'WALDO', 'SCOTT WILLIAM CUDDY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('STOCKTON SPRINGS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'WALDO', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WINTERPORT', 'STATE HOUSE', 'DEMOCRAT', 'WALDO', 'SCOTT WILLIAM CUDDY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('102',)
+        ('FREEPORT', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'JAMES J FINEGAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('045',)
+        ('FRIENDSHIP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('FRIENDSHIP', 'STATE HOUSE', 'REPUBLICAN', 'KNOX', 'ABDEN S SIMMONS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LOUDS ISLAND TWP', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'LINCOLN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WALDOBORO', 'STATE HOUSE', 'REPUBLICAN', 'LINCOLN', 'ABDEN S SIMMONS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('086',)
+        ('FRYE ISLAND', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('POLAND', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'CRAIG ROBERT MESSINGER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('POLAND', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'ROLF A OLSEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('109',)
+        ('GORHAM', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'ALAN R LIVINGSTON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('108',)
+        ('GORHAM', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'M THAD MOODY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('104', '105')
+        ('GRAY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('104',)
+        ('GRAY', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'AMY B ARATA', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('105',)
+        ('GRAY', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'SUSAN M AUSTIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('092',)
+        ('GREENE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('GREENE', 'STATE HOUSE', 'MAINE INDEPENDENT', 'ANDROSCOGGIN', 'SCOTT GIRARDIN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('055',)
+        ('HALLOWELL', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'JOE N BOYD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MANCHESTER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MANCHESTER', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'DANIEL JOSEPH SHAGOURY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('036',)
+        ('HAMPDEN', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'PENOBSCOT', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('HAMPDEN', 'STATE HOUSE', 'REPUBLICAN', 'PENOBSCOT', 'KIMBERLY M HAGGAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('044',)
+        ('HOPE', 'STATE HOUSE', 'INDEPENDENT FOR MAINE', 'KNOX', 'WILLIAM D PLUECKER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('UNION', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('UNION', 'STATE HOUSE', 'REPUBLICAN', 'KNOX', 'RAY A THOMBS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('135',)
+        ('KENNEBUNK', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'SCOTT E CRAIG', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('151',)
+        ('KITTERY', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'SUZANNE C JOHNSON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('091',)
+        ('LEEDS', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'JOSHUA K MORRIS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('TURNER', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('093',)
+        ('LEWISTON', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'JULIA AG MCCABE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('094',)
+        ('LEWISTON', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'KRISTEN SARAH CLOUTIER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('095',)
+        ('LEWISTON', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'MANA HARED ABDI', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('096',)
+        ('LEWISTON', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'KERRYL LEE CLEMENT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('139',)
+        ('LIMERICK', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'CLIFFORD T KROLICK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PARSONSFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PARSONSFIELD', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'DAVID C WOODSOME', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('097',)
+        ('LISBON', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'RICHARD G MASON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('056',)
+        ('LITCHFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LITCHFIELD', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'RANDALL ADAM GREENWOOD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WALES', 'STATE HOUSE', 'WICKED THRIFTY INDEPENDENT', 'ANDROSCOGGIN', 'KENT F ACKLEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('076',)
+        ('LIVERMORE', 'STATE HOUSE', 'DEMOCRAT', 'ANDROSCOGGIN', 'TAMARA HOKE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LIVERMORE FALLS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('LIVERMORE FALLS', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'SHEILA A LYMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('077',)
+        ('LIVERMORE', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'TAMMY L SCHMERSAL-BURGESS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MEXICO', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MEXICO', 'STATE HOUSE', 'REPUBLICAN', 'OXFORD', 'TAMMY L SCHMERSAL-BURGESS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('042',)
+        ('MATINICUS ISLE PLANTATION', 'STATE HOUSE', 'DEMOCRAT', 'KNOX', 'VALLI D GEIGER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MATINICUS ISLE PLANTATION', 'STATE HOUSE', 'REPUBLICAN', 'KNOX', 'JAMIE L HOPKINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('OWLS HEAD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KNOX', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('087',)
+        ('MECHANIC FALLS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'ANDROSCOGGIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('MECHANIC FALLS', 'STATE HOUSE', 'REPUBLICAN', 'ANDROSCOGGIN', 'DAVID W BOYER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('058',)
+        ('NEW SHARON', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'FRANKLIN', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('NEW SHARON', 'STATE HOUSE', 'UNENROLLED', 'FRANKLIN', 'SHARON C FROST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROME', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROME', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'DANIEL J NEWMAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('ROME', 'STATE HOUSE', 'UNENROLLED', 'KENNEBEC', 'SHARON C FROST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('141',)
+        ('NEWFIELD', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'PATRICIA E KIDDER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SANFORD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SANFORD', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'LUCAS JOHN LANIGAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('149',)
+        ('NORTH BERWICK', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('NORTH BERWICK', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'KELLY A DAVIS-ROUILLARD', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('066',)
+        ('OAKLAND', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('OAKLAND', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'ALICIA BARNES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SMITHFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'SOMERSET', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('STARKS', 'STATE HOUSE', 'DEMOCRAT', 'SOMERSET', 'ALICIA BARNES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('146',)
+        ('OGUNQUIT', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'BRADLEY S MOULTON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WELLS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WELLS', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'WALTER GERARD RUNTE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('131',)
+        ('OLD ORCHARD BEACH', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'SCOTT BENEDETTO ECCLESTON', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('079',)
+        ('PARIS', 'STATE HOUSE', 'INDEPENDENT FOR MAINE', 'OXFORD', 'CHARLOTTE NUTT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('PARIS', 'STATE HOUSE', 'REPUBLICAN', 'OXFORD', 'MICHAEL J LANCE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WEST PARIS', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'OXFORD', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('114',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'DYLAN R PUGH', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('113',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'GRAYSON B LOOKNER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('117',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'MATTHEW MOONEN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('115',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'MICHAEL F BRENNAN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('116',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'SAMUEL LEWIS ZAGER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('118',)
+        ('PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'YUSUF M YUSUF', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('119',)
+        ('PORTLAND', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'PETER IGNATIUS DOYLE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('057',)
+        ('READFIELD', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('READFIELD', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'TAVIS ROCK HASENFUS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('130',)
+        ('SACO', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'LYNN HOLLAND COPELAND', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('129',)
+        ('SACO', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'MARSHALL F ARCHER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('142',)
+        ('SANFORD', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'AMY C BELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('143',)
+        ('SANFORD', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'ANN MARIE FREDERICKS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('126',)
+        ('SCARBOROUGH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'ANDREW M GATTINE', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WESTBROOK', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('125',)
+        ('SCARBOROUGH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'KELLY NOONAN MURPHY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('124',)
+        ('SCARBOROUGH', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'ANNALEE Z ROSENBLATT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('061',)
+        ('SIDNEY', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('SIDNEY', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'ALICIA CAROL COLLINS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('070',)
+        ('SKOWHEGAN', 'STATE HOUSE', 'DEMOCRAT', 'SOMERSET', 'CECIL R GRAY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('120',)
+        ('SOUTH PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'DEQA ABDI DHALAC', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('122',)
+        ('SOUTH PORTLAND', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'MATTHEW D BECK', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('085',)
+        ('STANDISH', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'KIMBERLY POMERLEAU', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('051',)
+        ('TOPSHAM', 'STATE HOUSE', 'REPUBLICAN', 'SAGADAHOC', 'LEON C BRILLANT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('065',)
+        ('WATERVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WATERVILLE', 'STATE HOUSE', 'REPUBLICAN', 'KENNEBEC', 'TAMMY BROWN', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('064',)
+        ('WATERVILLE', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'KENNEBEC', 'UNDERVOTES', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WATERVILLE', 'STATE HOUSE', 'DEMOCRAT', 'KENNEBEC', 'FLAVIA M DEBRITO', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('145',)
+        ('WELLS', 'STATE HOUSE', 'REPUBLICAN', 'YORK', 'ROBERT ALAN FOLEY', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('128',)
+        ('WESTBROOK', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'CHARLES WILLIAM ELLIS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('127',)
+        ('WESTBROOK', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'RYAN C POITRAS', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('107',)
+        ('WINDHAM', 'STATE HOUSE', '<<<EC: VALUE WAS EMPTY>>>', 'CUMBERLAND', 'TOTAL BALLOTS CAST', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+        ('WINDHAM', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'MARK C COOPER', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('106',)
+        ('WINDHAM', 'STATE HOUSE', 'REPUBLICAN', 'CUMBERLAND', 'BARBARA A BAGSHAW', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('103',)
+        ('YARMOUTH', 'STATE HOUSE', 'DEMOCRAT', 'CUMBERLAND', 'ARTHUR L BELL', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+    ('147',)
+        ('YORK', 'STATE HOUSE', 'DEMOCRAT', 'YORK', 'HOLLY T SARGENT', 'TOTAL', 'GEN', 'FALSE', '11/5/24')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    001
+    002
+    003
+    004
+    005
+    006
+    007
+    008
+    009
+    010
+    011
+    012
+    013
+    014
+    015
+    016
+    017
+    018
+    019
+    020
+    021
+    022
+    023
+    024
+    025
+    026
+    027
+    028
+    029
+    030
+    031
+    032
+    033
+    034
+    035
+    036
+    037
+    038
+    039
+    040
+    041
+    042
+    043
+    044
+    045
+    046
+    047
+    048
+    049
+    050
+    051
+    052
+    053
+    054
+    055
+    056
+    057
+    058
+    059
+    060
+    061
+    062
+    063
+    064
+    065
+    066
+    067
+    068
+    069
+    070
+    071
+    072
+    073
+    074
+    075
+    076
+    077
+    078
+    079
+    080
+    081
+    082
+    083
+    084
+    085
+    086
+    087
+    088
+    089
+    090
+    091
+    092
+    093
+    094
+    095
+    096
+    097
+    098
+    099
+    100
+    101
+    102
+    103
+    104
+    105
+    106
+    107
+    108
+    109
+    110
+    111
+    112
+    113
+    114
+    115
+    116
+    117
+    118
+    119
+    120
+    121
+    122
+    123
+    124
+    125
+    126
+    127
+    128
+    129
+    130
+    131
+    132
+    133
+    134
+    135
+    136
+    137
+    138
+    139
+    140
+    141
+    142
+    143
+    144
+    145
+    146
+    147
+    148
+    149
+    150
+    151
+    <<<EC: VALUE WAS EMPTY>>>
+    STATEWIDE
+------
+

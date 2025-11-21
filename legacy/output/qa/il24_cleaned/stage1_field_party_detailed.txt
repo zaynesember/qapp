@@ -1,0 +1,119 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in party_detailed!
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NONPARTISAN ||| [[NONPARTISAN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NONPARTISAN ||| [[PARTISAN]]
+    WORKING CLASS PARTY ||| [[PARTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    DEMOCRAT
+    INDEPENDENT
+    NONPARTISAN
+    REPUBLICAN
+    WORKING CLASS PARTY
+------
+

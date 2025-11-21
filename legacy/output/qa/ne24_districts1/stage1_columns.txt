@@ -1,0 +1,1 @@
+*Dataset lacks expected columns {'votes', 'date', 'county_fips', 'precinct', 'jurisdiction_fips', 'writein', 'magnitude', 'stage', 'mode', 'county_name', 'special', 'jurisdiction_name', 'state_fips', 'year', 'state', 'dataverse', 'state_cen', 'state_po', 'state_ic', 'party_simplified'}

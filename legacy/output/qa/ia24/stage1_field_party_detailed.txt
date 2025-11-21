@@ -1,0 +1,132 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    HELP MAKE HARRISON COUNTY GREAT ||| [[GRE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+    PARTY FOR SOCIALISM AND LIBERATION ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT ||| [[IND]]
+    FREE AND INDEPENDENT PARTY ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NO PARTY ||| [[NO]]
+    NOMINATED BY PETITION ||| [[NO]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NO PARTY ||| [[PARTY]]
+    SOCIALIST PARTY USA ||| [[PARTY]]
+    FREE AND INDEPENDENT PARTY ||| [[PARTY]]
+    PARTY FOR SOCIALISM AND LIBERATION ||| [[PARTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+    INDEPENDENT ||| [[FREE AND INDEPENDENT PARTY]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+    KIM WYNN: ['""' 'DEMOCRAT']
+    KYLE ROHLK: ['""' 'REPUBLICAN']
+    NORLIN MOMMSEN: ['""' 'REPUBLICAN']
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    DEMOCRAT
+    FREE AND INDEPENDENT PARTY
+    FREEDOM
+    HELP MAKE HARRISON COUNTY GREAT
+    INDEPENDENT
+    LIBERTARIAN
+    NO PARTY
+    NOMINATED BY PETITION
+    PARTY FOR SOCIALISM AND LIBERATION
+    REPUBLICAN
+    SOCIALIST PARTY USA
+    WE THE PEOPLE
+------
+

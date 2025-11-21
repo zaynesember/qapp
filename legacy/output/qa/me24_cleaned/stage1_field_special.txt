@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'NO', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'UNDERVOTES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+        ('ABBOT', 'QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'PISCATAQUIS', 'YES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+        ...(skipping 21086 elements)
+        ('York', 'YORK REGISTER OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'TOTAL BALLOTS CAST', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+        ('York', 'YORK REGISTER OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'YORK', 'UNDERVOTES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+        ('York', 'YORK REGISTER OF PROBATE', 'REPUBLICAN', 'YORK', 'CAROL J LOVEJOY', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '11/5/24')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+------
+

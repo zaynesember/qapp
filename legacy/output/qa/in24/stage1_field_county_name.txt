@@ -1,0 +1,164 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '18001')
+    ('BARTHOLOMEW', '18005')
+    ('CLINTON', '18023')
+    ('CRAWFORD', '18025')
+    ('DEARBORN', '18029')
+    ('DECATUR', '18031')
+    ('DELAWARE', '18035')
+    ('ELKHART', '18039')
+    ('FAYETTE', '18041')
+    ('FRANKLIN', '18047')
+    ('GRANT', '18053')
+    ('GREENE', '18055')
+    ('HAMILTON', '18057')
+    ('HARRISON', '18061')
+    ('HENRY', '18065')
+    ('HOWARD', '18067')
+    ('HUNTINGTON', '18069')
+    ('JEFFERSON', '18077')
+    ('JENNINGS', '18079')
+    ('JOHNSON', '18081')
+    ('KNOX', '18083')
+    ('KOSCIUSKO', '18085')
+    ('LAGRANGE', '18087')
+    ('LAKE', '18089')
+    ('MARION', '18097')
+    ('MARTIN', '18101')
+    ('MONTGOMERY', '18107')
+    ('MORGAN', '18109')
+    ('OHIO', '18115')
+    ('ORANGE', '18117')
+    ('PARKE', '18121')
+    ('PIKE', '18125')
+    ('POSEY', '18129')
+    ('PUTNAM', '18133')
+    ('RUSH', '18139')
+    ('SPENCER', '18147')
+    ('ST JOSEPH', '18141')
+    ('SULLIVAN', '18153')
+    ('VANDERBURGH', '18163')
+    ('VIGO', '18167')
+    ('WELLS', '18179')
+    ('WHITLEY', '18183')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    BARTHOLOMEW
+    CLINTON
+    CRAWFORD
+    DEARBORN
+    DECATUR
+    DELAWARE
+    ELKHART
+    FAYETTE
+    FRANKLIN
+    GRANT
+    GREENE
+    HAMILTON
+    HARRISON
+    HENRY
+    HOWARD
+    HUNTINGTON
+    JEFFERSON
+    JENNINGS
+    JOHNSON
+    KNOX
+    KOSCIUSKO
+    LAGRANGE
+    LAKE
+    MARION
+    MARTIN
+    MONTGOMERY
+    MORGAN
+    OHIO
+    ORANGE
+    PARKE
+    PIKE
+    POSEY
+    PUTNAM
+    RUSH
+    SPENCER
+    ST JOSEPH
+    SULLIVAN
+    VANDERBURGH
+    VIGO
+    WELLS
+    WHITLEY
+------
+

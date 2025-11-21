@@ -1,0 +1,19 @@
+~ output/qa/vt24_cleaned/SUMMARY.txt on 2025-10-27, begun at 10:49:25 ~
+
+SIMILARITY CHECK found potential issues in stage1_field_precinct.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SPECIAL CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_magnitude.txt
+CHARACTER CHECK found potential issues in stage1_field_writein.txt
+SIMILARITY CHECK found potential issues in stage1_field_writein.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+CHARACTER CHECK found potential issues in stage1_field_state_ic.txt
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

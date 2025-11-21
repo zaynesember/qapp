@@ -1,0 +1,193 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in dataverse!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    No Problems Found :) 
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    <<<EC: VALUE WAS EMPTY>>>
+        1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE
+        2 HAWAI'I: MAYORAL APPOINTMENT OF DEPARTMENT HEADS
+        3 HAWAI'I: TERM OF OFFICE FOR THE COST OF GOVERNMENT COMMISSION
+        CHARTER QUESTION #1
+        CHARTER QUESTION #2
+        CHARTER QUESTION #3
+        CHARTER QUESTION #4
+        COUNCILMEMBER
+        COUNCILMEMBER (EAST MAUI)
+        COUNCILMEMBER (KAHULUI)
+        COUNCILMEMBER (LANAI)
+        COUNCILMEMBER (MAKAWAO-HAIKU-PAIA)
+        COUNCILMEMBER (MOLOKAI)
+        COUNCILMEMBER (SOUTH MAUI)
+        COUNCILMEMBER (UPCOUNTRY)
+        COUNCILMEMBER (WAILUKU-WAIHEE-WAIKAPU)
+        COUNCILMEMBER (WEST MAUI)
+        MAUI: BOARD AND COMMISSION TERMS
+        MAUI: INDEPENDENT STAFFING FOR BOARD OF ETHICS
+        MAUI: SALARY COMMISSION
+        MAYOR
+        QUESTION #1
+        QUESTION #2
+        RELATING TO COST CONTROL COMMISSION REPORTS
+        RELATING TO EX-OFFICIO YOUTH POSITION ON COUNTY BOARDS AND COMMISSIONS
+        RELATING TO POLICE COMMISSION INVESTIGATIONS
+        RELATING TO SURETY BONDS
+        RELATING TO THE PUBLIC ACCESS, OPEN SPACE & NATURAL RESOURCES PRESERVATION FUND
+    HOUSE
+        US HOUSE
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        AT-LARGE TRUSTEE
+        KAUAI RESIDENT TRUSTEE
+        MOLOKAI RESIDENT TRUSTEE
+        STATE HOUSE
+        STATE SENATE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE
+        1 counties for this office
+    2 HAWAI'I: MAYORAL APPOINTMENT OF DEPARTMENT HEADS
+        1 counties for this office
+    3 HAWAI'I: TERM OF OFFICE FOR THE COST OF GOVERNMENT COMMISSION
+        1 counties for this office
+    AT-LARGE TRUSTEE
+        4 counties for this office
+    CHARTER QUESTION #1
+        1 counties for this office
+    CHARTER QUESTION #2
+        1 counties for this office
+    CHARTER QUESTION #3
+        1 counties for this office
+    CHARTER QUESTION #4
+        1 counties for this office
+    COUNCILMEMBER
+        2 counties for this office
+    COUNCILMEMBER (EAST MAUI)
+        1 counties for this office
+    COUNCILMEMBER (KAHULUI)
+        1 counties for this office
+    COUNCILMEMBER (LANAI)
+        1 counties for this office
+    COUNCILMEMBER (MAKAWAO-HAIKU-PAIA)
+        1 counties for this office
+    COUNCILMEMBER (MOLOKAI)
+        1 counties for this office
+    COUNCILMEMBER (SOUTH MAUI)
+        1 counties for this office
+    COUNCILMEMBER (UPCOUNTRY)
+        1 counties for this office
+    COUNCILMEMBER (WAILUKU-WAIHEE-WAIKAPU)
+        1 counties for this office
+    COUNCILMEMBER (WEST MAUI)
+        1 counties for this office
+    KAUAI RESIDENT TRUSTEE
+        4 counties for this office
+    MAUI: BOARD AND COMMISSION TERMS
+        1 counties for this office
+    MAUI: INDEPENDENT STAFFING FOR BOARD OF ETHICS
+        1 counties for this office
+    MAUI: SALARY COMMISSION
+        1 counties for this office
+    MAYOR
+        1 counties for this office
+    MOLOKAI RESIDENT TRUSTEE
+        4 counties for this office
+    QUESTION #1
+        4 counties for this office
+    QUESTION #2
+        4 counties for this office
+    RELATING TO COST CONTROL COMMISSION REPORTS
+        1 counties for this office
+    RELATING TO EX-OFFICIO YOUTH POSITION ON COUNTY BOARDS AND COMMISSIONS
+        1 counties for this office
+    RELATING TO POLICE COMMISSION INVESTIGATIONS
+        1 counties for this office
+    RELATING TO SURETY BONDS
+        1 counties for this office
+    RELATING TO THE PUBLIC ACCESS, OPEN SPACE & NATURAL RESOURCES PRESERVATION FUND
+        1 counties for this office
+    STATE HOUSE
+        4 counties for this office
+    STATE SENATE
+        3 counties for this office
+    US HOUSE
+        4 counties for this office
+    US PRESIDENT
+        4 counties for this office
+    US SENATE
+        4 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    HOUSE
+    PRESIDENT
+    SENATE
+    STATE
+------
+

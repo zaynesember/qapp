@@ -1,0 +1,123 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    BALTIMORE ||| [[BALTIMORE CITY]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ALLEGANY', ['ALLEGANY', 24001, ['24001']])
+    ('ANNE ARUNDEL', ['ANNE ARUNDEL', 24003, ['24003']])
+    ('BALTIMORE', ['BALTIMORE', 24005, ['24005']])
+    ('BALTIMORE CITY', ['BALTIMORE CITY', 24510, ['24510']])
+    ('CALVERT', ['CALVERT', 24009, ['24009']])
+    ('CAROLINE', ['CAROLINE', 24011, ['24011']])
+    ('CARROLL', ['CARROLL', 24013, ['24013']])
+    ('CECIL', ['CECIL', 24015, ['24015']])
+    ('CHARLES', ['CHARLES', 24017, ['24017']])
+    ('DORCHESTER', ['DORCHESTER', 24019, ['24019']])
+    ('FREDERICK', ['FREDERICK', 24021, ['24021']])
+    ('GARRETT', ['GARRETT', 24023, ['24023']])
+    ('HARFORD', ['HARFORD', 24025, ['24025']])
+    ('HOWARD', ['HOWARD', 24027, ['24027']])
+    ('KENT', ['KENT', 24029, ['24029']])
+    ('MONTGOMERY', ['MONTGOMERY', 24031, ['24031']])
+    ("PRINCE GEORGE'S", ["PRINCE GEORGE'S", 24033, ['24033']])
+    ("QUEEN ANNE'S", ["QUEEN ANNE'S", 24035, ['24035']])
+    ("SAINT MARY'S", ["SAINT MARY'S", 24037, ['24037']])
+    ('SOMERSET', ['SOMERSET', 24039, ['24039']])
+    ('TALBOT', ['TALBOT', 24041, ['24041']])
+    ('WASHINGTON', ['WASHINGTON', 24043, ['24043']])
+    ('WICOMICO', ['WICOMICO', 24045, ['24045']])
+    ('WORCESTER', ['WORCESTER', 24047, ['24047']])
+------
+
+---------
+------
+ALL VALUES:
+    ALLEGANY
+    ANNE ARUNDEL
+    BALTIMORE
+    BALTIMORE CITY
+    CALVERT
+    CAROLINE
+    CARROLL
+    CECIL
+    CHARLES
+    DORCHESTER
+    FREDERICK
+    GARRETT
+    HARFORD
+    HOWARD
+    KENT
+    MONTGOMERY
+    PRINCE GEORGE'S
+    QUEEN ANNE'S
+    SAINT MARY'S
+    SOMERSET
+    TALBOT
+    WASHINGTON
+    WICOMICO
+    WORCESTER
+------
+

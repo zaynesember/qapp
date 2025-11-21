@@ -1,0 +1,7 @@
+~ output/qa/ne24_districts1/SUMMARY.txt on 2025-10-15, begun at 09:54:05 ~
+
+COLUMN CHECK found potential issues in stage1_columns.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+CHARACTER CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+CHARACTER CHECK found potential issues in stage1_field_district.txt

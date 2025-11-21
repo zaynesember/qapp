@@ -1,0 +1,35 @@
+Unique Values Summary
+=====================
+
+precinct: 6590
+office: 1354
+party_detailed: 14
+party_simplified: 6
+mode: 10
+county_name: 21
+county_fips: 21
+jurisdiction_name: 21
+jurisdiction_fips: 21
+candidate: 6482
+district: 27
+dataverse: 5
+year: 1
+stage: 1
+state: 1
+special: 2
+writein: 3
+state_po: 1
+state_fips: 1
+state_cen: 1
+state_ic: 1
+date: 1
+magnitude: 6
+votes: 3604
+
+Detailed Breakdown by State (Strict Schema)
+-------------------------------------------
+State: NJ
+    Jurisdictions: 21
+    Counties: 21
+    Precincts: 6590
+

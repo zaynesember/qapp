@@ -1,0 +1,214 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '42001')
+    ('ALLEGHENY', '42003')
+    ('ARMSTRONG', '42005')
+    ('BEAVER', '42007')
+    ('BEDFORD', '42009')
+    ('BERKS', '42011')
+    ('BLAIR', '42013')
+    ('BRADFORD', '42015')
+    ('BUCKS', '42017')
+    ('BUTLER', '42019')
+    ('CAMBRIA', '42021')
+    ('CAMERON', '42023')
+    ('CARBON', '42025')
+    ('CENTRE', '42027')
+    ('CHESTER', '42029')
+    ('CLARION', '42031')
+    ('CLEARFIELD', '42033')
+    ('CLINTON', '42035')
+    ('COLUMBIA', '42037')
+    ('CRAWFORD', '42039')
+    ('CUMBERLAND', '42041')
+    ('DAUPHIN', '42043')
+    ('DELAWARE', '42045')
+    ('ELK', '42047')
+    ('ERIE', '42049')
+    ('FAYETTE', '42051')
+    ('FOREST', '42053')
+    ('FRANKLIN', '42055')
+    ('FULTON', '42057')
+    ('GREENE', '42059')
+    ('HUNTINGDON', '42061')
+    ('INDIANA', '42063')
+    ('JEFFERSON', '42065')
+    ('JUNIATA', '42067')
+    ('LACKAWANNA', '42069')
+    ('LANCASTER', '42071')
+    ('LAWRENCE', '42073')
+    ('LEBANON', '42075')
+    ('LEHIGH', '42077')
+    ('LUZERNE', '42079')
+    ('LYCOMING', '42081')
+    ('MCKEAN', '42083')
+    ('MERCER', '42085')
+    ('MIFFLIN', '42087')
+    ('MONROE', '42089')
+    ('MONTGOMERY', '42091')
+    ('MONTOUR', '42093')
+    ('NORTHAMPTON', '42095')
+    ('NORTHUMBERLAND', '42097')
+    ('PERRY', '42099')
+    ('PHILADELPHIA', '42101')
+    ('PIKE', '42103')
+    ('POTTER', '42105')
+    ('SCHUYLKILL', '42107')
+    ('SNYDER', '42109')
+    ('SOMERSET', '42111')
+    ('SULLIVAN', '42113')
+    ('SUSQUEHANNA', '42115')
+    ('TIOGA', '42117')
+    ('UNION', '42119')
+    ('VENANGO', '42121')
+    ('WARREN', '42123')
+    ('WASHINGTON', '42125')
+    ('WAYNE', '42127')
+    ('WESTMORELAND', '42129')
+    ('WYOMING', '42131')
+    ('YORK', '42133')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALLEGHENY
+    ARMSTRONG
+    BEAVER
+    BEDFORD
+    BERKS
+    BLAIR
+    BRADFORD
+    BUCKS
+    BUTLER
+    CAMBRIA
+    CAMERON
+    CARBON
+    CENTRE
+    CHESTER
+    CLARION
+    CLEARFIELD
+    CLINTON
+    COLUMBIA
+    CRAWFORD
+    CUMBERLAND
+    DAUPHIN
+    DELAWARE
+    ELK
+    ERIE
+    FAYETTE
+    FOREST
+    FRANKLIN
+    FULTON
+    GREENE
+    HUNTINGDON
+    INDIANA
+    JEFFERSON
+    JUNIATA
+    LACKAWANNA
+    LANCASTER
+    LAWRENCE
+    LEBANON
+    LEHIGH
+    LUZERNE
+    LYCOMING
+    MCKEAN
+    MERCER
+    MIFFLIN
+    MONROE
+    MONTGOMERY
+    MONTOUR
+    NORTHAMPTON
+    NORTHUMBERLAND
+    PERRY
+    PHILADELPHIA
+    PIKE
+    POTTER
+    SCHUYLKILL
+    SNYDER
+    SOMERSET
+    SULLIVAN
+    SUSQUEHANNA
+    TIOGA
+    UNION
+    VENANGO
+    WARREN
+    WASHINGTON
+    WAYNE
+    WESTMORELAND
+    WYOMING
+    YORK
+------
+

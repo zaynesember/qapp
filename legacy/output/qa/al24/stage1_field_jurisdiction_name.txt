@@ -1,0 +1,209 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    DALE ||| [[LAUDERDALE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('AUTAUGA', ['AUTAUGA', 1001, ['1001']])
+    ('BALDWIN', ['BALDWIN', 1003, ['1003']])
+    ('BARBOUR', ['BARBOUR', 1005, ['1005']])
+    ('BIBB', ['BIBB', 1007, ['1007']])
+    ('BLOUNT', ['BLOUNT', 1009, ['1009']])
+    ('BULLOCK', ['BULLOCK', 1011, ['1011']])
+    ('BUTLER', ['BUTLER', 1013, ['1013']])
+    ('CALHOUN', ['CALHOUN', 1015, ['1015']])
+    ('CHAMBERS', ['CHAMBERS', 1017, ['1017']])
+    ('CHEROKEE', ['CHEROKEE', 1019, ['1019']])
+    ('CHILTON', ['CHILTON', 1021, ['1021']])
+    ('CHOCTAW', ['CHOCTAW', 1023, ['1023']])
+    ('CLARKE', ['CLARKE', 1025, ['1025']])
+    ('CLAY', ['CLAY', 1027, ['1027']])
+    ('CLEBURNE', ['CLEBURNE', 1029, ['1029']])
+    ('COFFEE', ['COFFEE', 1031, ['1031']])
+    ('COLBERT', ['COLBERT', 1033, ['1033']])
+    ('CONECUH', ['CONECUH', 1035, ['1035']])
+    ('COOSA', ['COOSA', 1037, ['1037']])
+    ('COVINGTON', ['COVINGTON', 1039, ['1039']])
+    ('CRENSHAW', ['CRENSHAW', 1041, ['1041']])
+    ('CULLMAN', ['CULLMAN', 1043, ['1043']])
+    ('DALE', ['DALE', 1045, ['1045']])
+    ('DALLAS', ['DALLAS', 1047, ['1047']])
+    ('DEKALB', ['DEKALB', 1049, ['1049']])
+    ('ELMORE', ['ELMORE', 1051, ['1051']])
+    ('ESCAMBIA', ['ESCAMBIA', 1053, ['1053']])
+    ('ETOWAH', ['ETOWAH', 1055, ['1055']])
+    ('FAYETTE', ['FAYETTE', 1057, ['1057']])
+    ('FRANKLIN', ['FRANKLIN', 1059, ['1059']])
+    ('GENEVA', ['GENEVA', 1061, ['1061']])
+    ('GREENE', ['GREENE', 1063, ['1063']])
+    ('HALE', ['HALE', 1065, ['1065']])
+    ('HENRY', ['HENRY', 1067, ['1067']])
+    ('HOUSTON', ['HOUSTON', 1069, ['1069']])
+    ('JACKSON', ['JACKSON', 1071, ['1071']])
+    ('JEFFERSON', ['JEFFERSON', 1073, ['1073']])
+    ('LAMAR', ['LAMAR', 1075, ['1075']])
+    ('LAUDERDALE', ['LAUDERDALE', 1077, ['1077']])
+    ('LAWRENCE', ['LAWRENCE', 1079, ['1079']])
+    ('LEE', ['LEE', 1081, ['1081']])
+    ('LIMESTONE', ['LIMESTONE', 1083, ['1083']])
+    ('LOWNDES', ['LOWNDES', 1085, ['1085']])
+    ('MACON', ['MACON', 1087, ['1087']])
+    ('MADISON', ['MADISON', 1089, ['1089']])
+    ('MARENGO', ['MARENGO', 1091, ['1091']])
+    ('MARION', ['MARION', 1093, ['1093']])
+    ('MARSHALL', ['MARSHALL', 1095, ['1095']])
+    ('MOBILE', ['MOBILE', 1097, ['1097']])
+    ('MONROE', ['MONROE', 1099, ['1099']])
+    ('MONTGOMERY', ['MONTGOMERY', 1101, ['1101']])
+    ('MORGAN', ['MORGAN', 1103, ['1103']])
+    ('PERRY', ['PERRY', 1105, ['1105']])
+    ('PICKENS', ['PICKENS', 1107, ['1107']])
+    ('PIKE', ['PIKE', 1109, ['1109']])
+    ('RANDOLPH', ['RANDOLPH', 1111, ['1111']])
+    ('RUSSELL', ['RUSSELL', 1113, ['1113']])
+    ('SHELBY', ['SHELBY', 1117, ['1117']])
+    ('ST. CLAIR', ['ST. CLAIR', 1115, ['1115']])
+    ('SUMTER', ['SUMTER', 1119, ['1119']])
+    ('TALLADEGA', ['TALLADEGA', 1121, ['1121']])
+    ('TALLAPOOSA', ['TALLAPOOSA', 1123, ['1123']])
+    ('TUSCALOOSA', ['TUSCALOOSA', 1125, ['1125']])
+    ('WALKER', ['WALKER', 1127, ['1127']])
+    ('WASHINGTON', ['WASHINGTON', 1129, ['1129']])
+    ('WILCOX', ['WILCOX', 1131, ['1131']])
+    ('WINSTON', ['WINSTON', 1133, ['1133']])
+------
+
+---------
+------
+ALL VALUES:
+    AUTAUGA
+    BALDWIN
+    BARBOUR
+    BIBB
+    BLOUNT
+    BULLOCK
+    BUTLER
+    CALHOUN
+    CHAMBERS
+    CHEROKEE
+    CHILTON
+    CHOCTAW
+    CLARKE
+    CLAY
+    CLEBURNE
+    COFFEE
+    COLBERT
+    CONECUH
+    COOSA
+    COVINGTON
+    CRENSHAW
+    CULLMAN
+    DALE
+    DALLAS
+    DEKALB
+    ELMORE
+    ESCAMBIA
+    ETOWAH
+    FAYETTE
+    FRANKLIN
+    GENEVA
+    GREENE
+    HALE
+    HENRY
+    HOUSTON
+    JACKSON
+    JEFFERSON
+    LAMAR
+    LAUDERDALE
+    LAWRENCE
+    LEE
+    LIMESTONE
+    LOWNDES
+    MACON
+    MADISON
+    MARENGO
+    MARION
+    MARSHALL
+    MOBILE
+    MONROE
+    MONTGOMERY
+    MORGAN
+    PERRY
+    PICKENS
+    PIKE
+    RANDOLPH
+    RUSSELL
+    SHELBY
+    ST. CLAIR
+    SUMTER
+    TALLADEGA
+    TALLAPOOSA
+    TUSCALOOSA
+    WALKER
+    WASHINGTON
+    WILCOX
+    WINSTON
+------
+

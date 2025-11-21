@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('001 Harbins A', 'GWINNETT COUNTY COMMISSION', 'DEMOCRAT', 'GWINNETT', 'JASPER WATKINS III', 'TOTAL', '003', 'GEN', '2024-11-05')
+        ('001 Harbins A', 'GWINNETT COUNTY COMMISSION', 'REPUBLICAN', 'GWINNETT', 'BOBBY HOWARD', 'TOTAL', '003', 'GEN', '2024-11-05')
+        ('001 Harbins A', 'GWINNETT COUNTY COMMISSION CHAIR', 'DEMOCRAT', 'GWINNETT', 'NICOLE LOVE HENDRICKSON', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 202090 elements)
+        ('Zetto', 'US PRESIDENT', 'REPUBLICAN', 'CLAY', 'DONALD J TRUMP', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('Zetto', 'US PRESIDENT', 'REPUBLICAN', 'CLAY', 'DONALD J TRUMP', 'PROVISIONAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('Zetto', 'US PRESIDENT', 'REPUBLICAN', 'CLAY', 'DONALD J TRUMP', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('008 Duncans A', 'MOBILITY SPLOST', 'DEMOCRAT', 'GWINNETT', 'NICOLE LOVE HENDRICKSON', 'ABSENTEE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('008 Duncans A', 'MOBILITY SPLOST', 'DEMOCRAT', 'GWINNETT', 'NICOLE LOVE HENDRICKSON', 'EARLY VOTING', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('008 Duncans A', 'MOBILITY SPLOST', 'DEMOCRAT', 'GWINNETT', 'NICOLE LOVE HENDRICKSON', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 7963 elements)
+        ('Young Road', 'DEKALB COUNTY COMMISSION', 'DEMOCRAT', 'DEKALB', 'LADENA BOLTON', 'TOTAL', '007', 'GEN', '2024-11-05')
+        ('Youth Center', 'HANCOCK SPLOST', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'NO', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('Youth Center', 'HANCOCK SPLOST', '<<<EC: VALUE WAS EMPTY>>>', 'HANCOCK', 'YES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

@@ -1,188 +1,148 @@
 # Quality Assurance for the Precinct Project (QAPP)
 
-Original QA engine by sbaltz.  
-Refactored and extended by Zayne (2025).
+Original QA engine by sbaltz. Refactored and extended by Zayne (2025).
 
-This repository contains a modular, PEP 8–compliant rewrite of the automated QA engine for the Precinct Project. It performs checks for precinct-level election results datasets, flagging potential issues in data structure, formatting, and vote totals.
+This repository contains a modular, PEP‑8–compliant QA engine for precinct‑level
+election results. It runs a sequence of structural, field, numeric, and FIPS
+validation checks and emits human‑readable text/csv summaries plus a single
+Excel workbook per run.
 
-## Overview
+## Quick start
 
-QAPP validates and summarizes precinct-level election results data
-using a sequence of reproducible, transparent checks:
-
-1. Structural QA – verifies required columns, detects duplicates and empties.  
-2. Field QA – flags zero-vote races, empty candidate names, and malformed values.  
-3. Numerical QA – tests for negative or non-numeric vote totals.  
-4. Distributional QA [UNDER DEVELOPMENT] – identifies states or precincts with implausible vote
-   distributions using median absolute deviation (MAD) outlier detection.  
-5. FIPS and State Code Validation – verifies state and county identifiers against
-   canonical reference tables.  
-6. Reporting – produces clear `.txt`, `.csv`, and `.xlsx` summaries of all results.
-
-## Directory Structure
-
-```
-qa_engine/
-│
-├── qa_core/
-│   ├── runner.py         # main orchestrator
-│   ├── checks.py         # column + field checks
-│   ├── stats_utils.py    # quantitative and distributional checks
-│   ├── io_utils.py       # data loading utilities
-│   ├── report.py         # human-readable report output
-│   ├── check_fips.py     # validates FIPS and state codes
-│   ├── config.py         # global constants and thresholds
-│   └── __init__.py
-│
-├── qa_core/help_files/   # reference tables for FIPS and state codes
-│   ├── merge_on_statecodes.csv
-│   └── county-fips-codes.csv
-│
-├── output/
-│   └── qa/               # auto-generated QA results
-└── README.md
-```
-
-## Installation
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-Requirements: Python ≥ 3.8, pandas, numpy
-
-## Usage
-
-Run the engine directly on a precinct-level dataset (CSV or TSV):
+Create a virtual environment, install dependencies, and run a sample file:
 
 ```bash
-python -m qa_core.runner path/to/STATE_precincts.csv
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python qapp.py tests/nh_test.csv
 ```
 
-Example output structure:
+Or run the module directly:
 
-```
-output/qa/STATE_precincts/
-├── QA_Report_IL24.txt
-├── QA_Report_IL24.csv
-├── QA_Report_IL24.xlsx
-└── qa_run.log
+```bash
+python -m qa_core.runner path/to/STATE_file.csv
 ```
 
-## Example Checks Performed
+## What it does (high level)
 
-| Category | Check | Description |
-|-----------|--------|-------------|
-| Columns | Missing/extra | Verifies all required fields exist |
-| Fields | Duplicates | Detects duplicate (state, county, precinct) rows |
-|  | Zero-vote rows | Flags precincts with all-zero vote counts |
-| Numerical | Negative/non-numeric votes | Identifies invalid totals |
-| Distributional | Outlier detection | Uses MAD to flag abnormal vote totals within states |
-| FIPS / State Codes | State and county validation | Verifies `state_fips`, `state_po`, `state_name`, `state_ic`, `census_fips`, and `county_fips` against canonical reference files |
+- Structural checks: validates required columns and reports missing/extra columns.
+- Field checks: detects duplicate rows, duplicate precinct identifiers, empty
+   candidate names, zero or negative vote counts.
+- Numerical checks: coerces `votes` to numeric and reports non-numeric or
+   implausible values (MAD outlier detection in `stats_utils`).
+- FIPS & state validation: cross-checks `state_*` and `county_fips` values
+   against canonical reference CSVs (in `help_files/`).
+- Reporting: produces a single Excel workbook (`report_<inputstem>.xlsx`),
+   flat CSV/text summaries, and a `unique_values/` export folder.
 
-## Report Format
+## Checks
 
-### Text Summary (.txt)
+Below are the checks that `qapp` produces in its QA report, with a brief explanation of what each check represents. Keep this list updated whenever new checks are added.
 
-Readable sectioned output, with each QA category reported in sequence:
+- `columns`: Validates the presence and count of required columns in the dataset (compares to `qa_core.config.REQUIRED_COLUMNS`).
+- `fields`: High-level per-field checks that summarize issues for individual columns (missing required values, invalid categories, etc.). Each field entry contains `issues`, optional `issue_values`, and `issue_row_numbers`.
+- `field_formats`: Checks that column values match expected enumerated formats or allowed value lists (e.g., `party_simplified`, `mode`).
+- `field_regex_checks`: Regex-based validations for fields where pattern matching is helpful (implemented in `qa_core/field_checks.py`). Example checks include `votes`, `candidate`, and `magnitude` patterns.
+- `missingness`: Per-column missingness summary. For each column returns `missing_count`, `percent_empty`, and `alt_missing_values` discovered during scanning. This data is written to a separate `Missingness` sheet in the Excel report.
+- `duplicates`: Identifies duplicated or conflicting rows (exact duplicates or rows that conflict on key identifiers). The detailed DataFrame lists the duplicated rows.
+- `zero_vote_precincts`: Groups by precinct/office (using available grouping columns such as `county_fips`, `jurisdiction_fips`, `precinct`, `office`, `district`) and reports precinct-office groups whose total `votes` sums to zero. Returned as a DataFrame and summarized in `fields` as `zero_vote_precinct_groups`.
+- `state_codes` / `check_fips`: Validates `state_po`, `state_fips`, and related geographic codes against `help_files/` reference tables. Issues indicate mismatched or unrecognized state/county codes.
+- `numerical` / `stats_utils` checks: Numeric sanity checks (outlier detection, MAD-based checks) applied to numeric fields such as `votes` or `magnitude`.
+- `distribution`: Distributional sanity checks (e.g., vote share distributions that look anomalous across groups).
+- `statewide_totals`: Aggregated vote totals across the dataset (excluding write-ins when applicable). Used for sanity checks of precinct-to-state aggregations and reported in the `Vote Aggregation` sheet.
 
-```
-================================================================================
-MEDSL PRECINCT QA REPORT
-Rows: 52,738  Columns: 12
-================================================================================
+- `duplicates_summary`: A compact summary (counts) of duplicate/conflict types found; complements the `duplicates` DataFrame which contains full row details.
+- `zero_vote_precinct_groups`: A short `fields`-level summary key that records the number of precinct-office groups whose aggregated `votes` sum to zero and example group identifiers.
+- `detected_state`: Metadata about the detected state for the input file (derived from the filename and/or content). Includes `state_po`, `state_name`, `state_fips`, etc.
+- `fips_checks` (aka `state_codes` in reports): Lower‑level FIPS/state validation outputs produced by `qa_core/check_fips.py`; includes specific mismatches and unrecognized codes.
+- `dataset_info`: Small metadata dict containing `rows`, `columns`, `unique_counties`, and `unique_jurisdictions` used to populate the QA banner.
+- `magnitude_offices_map`: A detail DataFrame mapping observed magnitude values to offices (useful when magnitude is inconsistent across rows for the same office).
+- `offices_multiple_magnitudes`: A DataFrame listing offices that appear with more than one `magnitude` value (usually a data-quality signal).
+- `stage_invalid_rows`: A DataFrame of rows whose `stage` value did not match expected/recognized stages (helps find malformed stage entries).
 
-================================================================================
-COLUMNS
-================================================================================
-missing_columns          : []
-extra_columns            : ['notes']
-column_count             : 12
+Notes:
+- Many checks return serializable dicts (scalars, lists, DataFrames) so that `qa_core.report.write_excel_report` can turn them into human-readable Excel worksheets. When adding a new check, return either a small dict with keys `issues`, `issue_values`, and/or `issue_row_numbers`, or a DataFrame for larger detail outputs.
+- For regex- and field-specific checks add implementations in `qa_core/field_checks.py` and register their outputs in `qa_core/runner.py` so they appear in `all_results` and the final report.
+- Keep the `README` list updated: when you add a check, append its snake_case name and a one-line definition here so the QA summary remains discoverable.
 
-================================================================================
-FIELDS
-================================================================================
-duplicate_precincts      : 3
-zero_vote_rows           : 42
-empty_candidates         : 7
+## Repository layout (relevant files)
 
-================================================================================
-FIPS VALIDATION
-================================================================================
-Invalid state_fips: []
-Invalid county_fips: []
-```
+- `qapp.py` — thin CLI wrapper that calls `qa_core.runner.run_qa`.
+- `qa_core/runner.py` — main orchestrator: load → checks → summarize → write
+   a single Excel workbook.
+- `qa_core/checks.py` — structural and field checks + duplicate detection.
+- `qa_core/stats_utils.py` — numeric and distributional checks (MAD‑based).
+- `qa_core/io_utils.py` — data loading utilities (CSV/TSV normalization).
+- `qa_core/data_summary.py` — missingness summary, `compute_statewide_totals`,
+   and `export_unique_values` (writes `unique_values/` per state).
+- `qa_core/report.py` — serializes `all_results` into text/csv and the Excel
+   workbook.
+- `qa_core/config.py` — canonical `REQUIRED_COLUMNS`, thresholds, and
+   `QA_OUTPUT_DIR`.
+- `help_files/` — canonical `merge_on_statecodes.csv` and
+   `county-fips-codes.csv` used for state/county validation (top-level
+   directory). If missing, FIPS checks are skipped.
 
-### CSV Summary (.csv)
-Flat key-value summary for spreadsheet filtering:
+## Important conventions and integration points
 
-| section | check | value |
-|----------|--------|-------|
-| columns | missing_columns | [] |
-| fields | duplicate_precincts | 3 |
-| numerical | negative_votes | 0 |
-| fips_checks | invalid_state_fields | 0 |
-| fips_checks | invalid_county_fips | 0 |
+- Input file state detection: the runner uses the input filename stem and
+   takes the token before the first underscore as the state code (uppercased),
+   e.g., `NH_2024_precincts.csv` → state `NH`. See
+   `runner.run_qa` for the exact behavior.
+- Output layout: run outputs go to `output/<STATE>/` (determined by
+   `config.QA_OUTPUT_DIR`). Files produced include `qa_run.log`,
+   `report_<inputstem>.xlsx`, and a `unique_values/` folder with per‑column
+   exports.
+- `all_results` shape: `runner.py` collects check outputs into an
+   `all_results` dict which `report.write_excel_report` expects to serialize.
+   Keep outputs as scalars, dicts, DataFrames, or lists to maintain
+   compatibility with report generation.
 
-### Excel Report (.xlsx)
-The Excel workbook includes:
-- `QA_Summary`: all check results in tabular form  
-- `Missingness`: percent and count of missing values per column  
-- `Statewide_Totals`: aggregated vote totals for statewide offices  
-- `FIPS_Validation`: list of invalid or mismatched FIPS/state code entries  
+## How to add a new check (concrete steps)
 
-## FIPS and State Code Validation (added in v2.5)
-
-The QA engine cross-verifies **state and county codes** against canonical reference files located in `qa_core/help_files/`:
-
-| Field | Description | Source |
-|--------|--------------|--------|
-| `state_fips` | 2-digit state code | merge_on_statecodes.csv |
-| `state_po` | 2-letter postal abbreviation | merge_on_statecodes.csv |
-| `state_name` | Full state name | merge_on_statecodes.csv |
-| `state_ic` | Internal code used in election datasets | merge_on_statecodes.csv |
-| `census_fips` | Census Bureau state code | merge_on_statecodes.csv |
-| `county_fips` | 5-digit county code (including state prefix) | county-fips-codes.csv |
-
-The validation module checks that:
-
-* All values appear in the appropriate reference file.  
-* Each `county_fips` matches its `state_fips` prefix.  
-* All state-level fields (`state_fips`, `state_po`, `state_name`, `state_ic`, `census_fips`) are internally consistent with one another.
-
-Results appear in a `[ FIPS Validation ]` section of the text report and a `FIPS_Validation` sheet in the Excel output.
-
-## Extending QAPP
-
-New checks can be added easily by defining a function in
-`qa_core/checks.py` or `qa_core/stats_utils.py` with signature:
+1. Implement the check in `qa_core/checks.py` (for structural/field checks)
+    or `qa_core/stats_utils.py` (for numeric/distributional checks). Signature:
 
 ```python
 def new_check(df: pd.DataFrame) -> dict[str, Any]:
-    ...
-    return {"description": metric}
+      # return a small dict, DataFrame, or list that can be added to all_results
+      return {"my_check": {...}}
 ```
 
-Then register it in `runner.py` by adding to the call sequence.
+2. Register the check in `qa_core/runner.py` by assigning to `all_results`, e.g.
+
+```py
+all_results['my_check'] = checks.new_check(df)
+```
+
+3. Run locally against `tests/nh_test.csv` and inspect `output/NH/` to confirm
+    the check appears in the Excel workbook and text summary.
+
+## Logging & diagnostics
+
+- Logging: `runner._setup_logging` writes `qa_run.log` to the state output
+   folder and also streams logs to the console.
+- Load failures: `io_utils.load_data` exceptions are logged and the run
+   returns early — examine `qa_run.log` for stack traces.
 
 ## Configuration
 
-Thresholds and constants are set in `qa_core/config.py`:
+Edit `qa_core/config.py` for repo‑wide constants:
 
-| Variable | Description | Default |
-|-----------|-------------|----------|
-| REQUIRED_COLUMNS | Columns expected in all datasets | ['state','county','precinct','office','party','candidate','votes'] |
-| OUTLIER_THRESHOLD | MAD outlier threshold | 3.5 |
-| MISSING_TOKENS | Values treated as NA | ["", "NA", "N/A", "NULL", "nan"] |
+- `REQUIRED_COLUMNS`: canonical column set used by column checks.
+- `OUTLIER_THRESHOLD`: MAD threshold for distributional checks.
+- `QA_OUTPUT_DIR`: top-level output folder (default `output/`).
 
-## Contributing
+## Samples & tests
 
-1. Fork this repository.  
-2. Create a feature branch (`git checkout -b feature/add-check`).  
-3. Follow PEP 8 and include docstrings for all new functions.  
-4. Submit a pull request with clear examples or test data.
+- Sample CSVs are in `tests/` (e.g., `nh_test.csv`, `nj_test.csv`). Use them
+   for quick verification; there is no formal unit test harness by default.
 
-## License
+## Contributing notes
 
-Released under the MIT License.  
-© 2025 MIT Election Data + Science Lab.
+- Make minimal, localized changes — prefer adding checks and registering them
+   in `runner.py` rather than modifying the orchestration flow.
+- Follow PEP‑8 and keep outputs serializable for reporting.
+
+---

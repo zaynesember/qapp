@@ -1,0 +1,203 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    GRAND ||| [[RIO GRANDE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 8001, ['08001']])
+    ('ALAMOSA', ['ALAMOSA', 8003, ['08003']])
+    ('ARAPAHOE', ['ARAPAHOE', 8005, ['08005']])
+    ('ARCHULETA', ['ARCHULETA', 8007, ['08007']])
+    ('BACA', ['BACA', 8009, ['08009']])
+    ('BENT', ['BENT', 8011, ['08011']])
+    ('BOULDER', ['BOULDER', 8013, ['08013']])
+    ('BROOMFIELD', ['BROOMFIELD', 8014, ['08014']])
+    ('CHAFFEE', ['CHAFFEE', 8015, ['08015']])
+    ('CHEYENNE', ['CHEYENNE', 8017, ['08017']])
+    ('CLEAR CREEK', ['CLEAR CREEK', 8019, ['08019']])
+    ('CONEJOS', ['CONEJOS', 8021, ['08021']])
+    ('COSTILLA', ['COSTILLA', 8023, ['08023']])
+    ('CROWLEY', ['CROWLEY', 8025, ['08025']])
+    ('CUSTER', ['CUSTER', 8027, ['08027']])
+    ('DELTA', ['DELTA', 8029, ['08029']])
+    ('DENVER', ['DENVER', 8031, ['08031']])
+    ('DOLORES', ['DOLORES', 8033, ['08033']])
+    ('DOUGLAS', ['DOUGLAS', 8035, ['08035']])
+    ('EAGLE', ['EAGLE', 8037, ['08037']])
+    ('EL PASO', ['EL PASO', 8041, ['08041']])
+    ('ELBERT', ['ELBERT', 8039, ['08039']])
+    ('FREMONT', ['FREMONT', 8043, ['08043']])
+    ('GARFIELD', ['GARFIELD', 8045, ['08045']])
+    ('GILPIN', ['GILPIN', 8047, ['08047']])
+    ('GRAND', ['GRAND', 8049, ['08049']])
+    ('GUNNISON', ['GUNNISON', 8051, ['08051']])
+    ('HINSDALE', ['HINSDALE', 8053, ['08053']])
+    ('HUERFANO', ['HUERFANO', 8055, ['08055']])
+    ('JACKSON', ['JACKSON', 8057, ['08057']])
+    ('JEFFERSON', ['JEFFERSON', 8059, ['08059']])
+    ('KIOWA', ['KIOWA', 8061, ['08061']])
+    ('KIT CARSON', ['KIT CARSON', 8063, ['08063']])
+    ('LA PLATA', ['LA PLATA', 8067, ['08067']])
+    ('LAKE', ['LAKE', 8065, ['08065']])
+    ('LARIMER', ['LARIMER', 8069, ['08069']])
+    ('LAS ANIMAS', ['LAS ANIMAS', 8071, ['08071']])
+    ('LINCOLN', ['LINCOLN', 8073, ['08073']])
+    ('LOGAN', ['LOGAN', 8075, ['08075']])
+    ('MESA', ['MESA', 8077, ['08077']])
+    ('MINERAL', ['MINERAL', 8079, ['08079']])
+    ('MOFFAT', ['MOFFAT', 8081, ['08081']])
+    ('MONTEZUMA', ['MONTEZUMA', 8083, ['08083']])
+    ('MONTROSE', ['MONTROSE', 8085, ['08085']])
+    ('MORGAN', ['MORGAN', 8087, ['08087']])
+    ('OTERO', ['OTERO', 8089, ['08089']])
+    ('OURAY', ['OURAY', 8091, ['08091']])
+    ('PARK', ['PARK', 8093, ['08093']])
+    ('PHILLIPS', ['PHILLIPS', 8095, ['08095']])
+    ('PITKIN', ['PITKIN', 8097, ['08097']])
+    ('PROWERS', ['PROWERS', 8099, ['08099']])
+    ('PUEBLO', ['PUEBLO', 8101, ['08101']])
+    ('RIO BLANCO', ['RIO BLANCO', 8103, ['08103']])
+    ('RIO GRANDE', ['RIO GRANDE', 8105, ['08105']])
+    ('ROUTT', ['ROUTT', 8107, ['08107']])
+    ('SAGUACHE', ['SAGUACHE', 8109, ['08109']])
+    ('SAN JUAN', ['SAN JUAN', 8111, ['08111']])
+    ('SAN MIGUEL', ['SAN MIGUEL', 8113, ['08113']])
+    ('SEDGWICK', ['SEDGWICK', 8115, ['08115']])
+    ('SUMMIT', ['SUMMIT', 8117, ['08117']])
+    ('TELLER', ['TELLER', 8119, ['08119']])
+    ('WASHINGTON', ['WASHINGTON', 8121, ['08121']])
+    ('WELD', ['WELD', 8123, ['08123']])
+    ('YUMA', ['YUMA', 8125, ['08125']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALAMOSA
+    ARAPAHOE
+    ARCHULETA
+    BACA
+    BENT
+    BOULDER
+    BROOMFIELD
+    CHAFFEE
+    CHEYENNE
+    CLEAR CREEK
+    CONEJOS
+    COSTILLA
+    CROWLEY
+    CUSTER
+    DELTA
+    DENVER
+    DOLORES
+    DOUGLAS
+    EAGLE
+    EL PASO
+    ELBERT
+    FREMONT
+    GARFIELD
+    GILPIN
+    GRAND
+    GUNNISON
+    HINSDALE
+    HUERFANO
+    JACKSON
+    JEFFERSON
+    KIOWA
+    KIT CARSON
+    LA PLATA
+    LAKE
+    LARIMER
+    LAS ANIMAS
+    LINCOLN
+    LOGAN
+    MESA
+    MINERAL
+    MOFFAT
+    MONTEZUMA
+    MONTROSE
+    MORGAN
+    OTERO
+    OURAY
+    PARK
+    PHILLIPS
+    PITKIN
+    PROWERS
+    PUEBLO
+    RIO BLANCO
+    RIO GRANDE
+    ROUTT
+    SAGUACHE
+    SAN JUAN
+    SAN MIGUEL
+    SEDGWICK
+    SUMMIT
+    TELLER
+    WASHINGTON
+    WELD
+    YUMA
+------
+

@@ -1,0 +1,1656 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    Lyons City ||| [[CITY]]
+    Mason City ||| [[CITY]]
+    Yutan City ||| [[CITY]]
+    Cuming City ||| [[CITY]]
+    Geneva City ||| [[CITY]]
+    Pierce City ||| [[CITY]]
+    Sutton Twps ||| [[TW]]
+    06 Inman Twp ||| [[TW]]
+    Madison City ||| [[CITY]]
+    02 Beaver City ||| [[CITY]]
+    BC City-BC Pct ||| [[CITY]]
+    City of Hooper ||| [[CITY]]
+    Columbus Twp A ||| [[TW]]
+    Columbus Twp B ||| [[TW]]
+    Ponca Township ||| [[TOWN]]
+    City of Burwell ||| [[CITY]]
+    Exeter Township ||| [[TOWN]]
+    Pebble Township ||| [[TOWN]]
+    Sargent Village ||| [[VILLAGE]]
+    07 - Dakota City ||| [[CITY]]
+    City of Scribner ||| [[CITY]]
+    Clay Center City ||| [[CITY]]
+    Elkhorn Township ||| [[TOWN]]
+    S-E-SC-NG City-K ||| [[CITY]]
+    Terrytown I & II ||| [[TOWN]]
+    Webster Township ||| [[TOWN]]
+    City of Ainsworth ||| [[CITY]]
+    Fairmont Township ||| [[TOWN]]
+    City of North Bend ||| [[CITY]]
+    MG-J-G-H-Tilden City ||| [[CITY]]
+    Hooper/Logan Townships ||| [[TOWN]]
+    Cuming/Everett Townships ||| [[TOWN]]
+    Nickerson/Maple Townships ||| [[TOWN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    Cody ||| [[CO ]]
+    Lisco ||| [[CO ]]
+    Coyote ||| [[CO ]]
+    Scotia ||| [[CO ]]
+    Ceresco ||| [[CO ]]
+    Pohocco ||| [[CO ]]
+    LLLM Cons ||| [[CO ]]
+    Cozad East ||| [[CO ]]
+    Cozad West ||| [[CO ]]
+    Edgar Cons ||| [[CO ]]
+    Second Ward ||| [[CO ]]
+    Grant County ||| [[CO ]]
+    Harvard Cons ||| [[CO ]]
+    Logan County ||| [[CO ]]
+    Oconee/Monroe ||| [[CO ]]
+    Scottsbluff 1 ||| [[CO ]]
+    Scottsbluff 2 ||| [[CO ]]
+    Scottsbluff 3 ||| [[CO ]]
+    Scottsbluff 4 ||| [[CO ]]
+    Scottsbluff 5 ||| [[CO ]]
+    Scottsbluff 6 ||| [[CO ]]
+    Scottsbluff 7 ||| [[CO ]]
+    Scottsbluff 8 ||| [[CO ]]
+    Columbus Twp A ||| [[CO ]]
+    Columbus Twp B ||| [[CO ]]
+    Comstock/DG/SC ||| [[CO ]]
+    Merna Community ||| [[CO ]]
+    (Countywide) NPPD ||| [[CO ]]
+    Thayer County North ||| [[COUNTY]]
+    Thayer County South ||| [[COUNTY]]
+    Rural Garfield County ||| [[COUNTY]]
+    M-CO Precinct - Cordova ||| [[CO ]]
+    (Countywide) Cuming County PPD ||| [[COUNTY]]
+    (Countywide) Stanton County PPD ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    Ayr ||| [[YR]]
+    Palmyra ||| [[YR]]
+    Syracuse ||| [[YR]]
+    Ansley/MYR/West ||| [[YR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    LLMCG ||| [[CG]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    Ward 1 ||| [[WARD]]
+    Ward 2 ||| [[WARD]]
+    Ward 3 ||| [[WARD]]
+    Ward 4 ||| [[WARD]]
+    Ward 2A ||| [[WARD]]
+    Ward 2B ||| [[WARD]]
+    Ward 4A ||| [[WARD]]
+    Ward 4B ||| [[WARD]]
+    1st Ward ||| [[WARD]]
+    2nd Ward ||| [[WARD]]
+    FC Ward 1 ||| [[WARD]]
+    FC Ward 2 ||| [[WARD]]
+    FC Ward 3 ||| [[WARD]]
+    FC Ward 4 ||| [[WARD]]
+    Fifth Ward ||| [[WARD]]
+    First Ward ||| [[WARD]]
+    Third Ward ||| [[WARD]]
+    Fourth Ward ||| [[WARD]]
+    Second Ward ||| [[WARD]]
+    Wahoo Ward 1 ||| [[WARD]]
+    Wahoo Ward 2 ||| [[WARD]]
+    Wahoo Ward 3 ||| [[WARD]]
+    Seward Ward 1 ||| [[WARD]]
+    Seward Ward 2 ||| [[WARD]]
+    Seward Ward 3 ||| [[WARD]]
+    Seward Ward 4 ||| [[WARD]]
+    Ashland Ward 1 ||| [[WARD]]
+    Ashland Ward 2 ||| [[WARD]]
+    01 - SSC Ward 1 ||| [[WARD]]
+    02 - SSC Ward 2 ||| [[WARD]]
+    03 - SSC Ward 3 ||| [[WARD]]
+    04 - SSC Ward 4 ||| [[WARD]]
+    05 - SSC Ward 5 ||| [[WARD]]
+    Beatrice Ward 1 ||| [[WARD]]
+    Beatrice Ward 2 ||| [[WARD]]
+    Beatrice Ward 3 ||| [[WARD]]
+    Beatrice Ward 4 ||| [[WARD]]
+    St. Paul Ward 1 ||| [[WARD]]
+    St. Paul Ward 2 ||| [[WARD]]
+    10 O'Neill Ward I ||| [[WARD]]
+    Ward 1 Precinct 1 ||| [[WARD]]
+    Ward 1 Precinct 2 ||| [[WARD]]
+    Ward 1 Precinct 3 ||| [[WARD]]
+    Ward 2 Precinct 1 ||| [[WARD]]
+    Ward 2 Precinct 2 ||| [[WARD]]
+    Ward 3 Precinct 1 ||| [[WARD]]
+    Ward 3 Precinct 3 ||| [[WARD]]
+    Ward 4 Precinct 1 ||| [[WARD]]
+    09 Atkinson Ward I ||| [[WARD]]
+    11 O'Neill Ward II ||| [[WARD]]
+    13 O'Neill Ward IV ||| [[WARD]]
+    12 O'Neill Ward III ||| [[WARD]]
+    1st Ward - 1st Precinct ||| [[WARD]]
+    1st Ward - 2nd Precinct ||| [[WARD]]
+    2nd Ward - 1st Precinct ||| [[WARD]]
+    2nd Ward - 2nd Precinct ||| [[WARD]]
+    3rd Ward - 1st Precinct ||| [[WARD]]
+    3rd Ward - 2nd Precinct ||| [[WARD]]
+    4th Ward - 1st Precinct ||| [[WARD]]
+    4th Ward - 2nd Precinct ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    Adams Area ||| [[AREA]]
+    Odell Area ||| [[AREA]]
+    Wausa Area ||| [[AREA]]
+    Wymore Area ||| [[AREA]]
+    Crofton Area ||| [[AREA]]
+    NW Quad Area ||| [[AREA]]
+    Niobrara Area ||| [[AREA]]
+    Verdigre Area ||| [[AREA]]
+    Creighton Area ||| [[AREA]]
+    Homestead Area ||| [[AREA]]
+    Bloomfield Area ||| [[AREA]]
+    Filley/Virginia Area ||| [[AREA]]
+    Lindy/Santee/Ctr Area ||| [[AREA]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    Divide-Lake ||| [[DIV ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    Posen ||| [[POS ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    Ward 1 ||| [[WARD]]
+    Ward 2 ||| [[WARD]]
+    Ward 3 ||| [[WARD]]
+    Ward 4 ||| [[WARD]]
+    Ward 2A ||| [[WARD]]
+    Ward 2B ||| [[WARD]]
+    Ward 4A ||| [[WARD]]
+    Ward 4B ||| [[WARD]]
+    1st Ward ||| [[WARD]]
+    2nd Ward ||| [[WARD]]
+    FC Ward 1 ||| [[WARD]]
+    FC Ward 2 ||| [[WARD]]
+    FC Ward 3 ||| [[WARD]]
+    FC Ward 4 ||| [[WARD]]
+    Fifth Ward ||| [[WARD]]
+    First Ward ||| [[WARD]]
+    G Precinct ||| [[PRECINCT]]
+    Precinct 1 ||| [[PRECINCT]]
+    Precinct 2 ||| [[PRECINCT]]
+    Precinct 3 ||| [[PRECINCT]]
+    Precinct 4 ||| [[PRECINCT]]
+    Precinct 5 ||| [[PRECINCT]]
+    Precinct 6 ||| [[PRECINCT]]
+    Precinct 7 ||| [[PRECINCT]]
+    Precinct 8 ||| [[PRECINCT]]
+    Precinct 9 ||| [[PRECINCT]]
+    Third Ward ||| [[WARD]]
+    Fourth Ward ||| [[WARD]]
+    Precinct 10 ||| [[PRECINCT]]
+    Precinct 11 ||| [[PRECINCT]]
+    Precinct 12 ||| [[PRECINCT]]
+    Precinct 13 ||| [[PRECINCT]]
+    Precinct 14 ||| [[PRECINCT]]
+    Precinct 15 ||| [[PRECINCT]]
+    Precinct 16 ||| [[PRECINCT]]
+    Precinct 17 ||| [[PRECINCT]]
+    Precinct 18 ||| [[PRECINCT]]
+    Precinct 19 ||| [[PRECINCT]]
+    Precinct 20 ||| [[PRECINCT]]
+    Precinct 21 ||| [[PRECINCT]]
+    Precinct 22 ||| [[PRECINCT]]
+    Precinct 23 ||| [[PRECINCT]]
+    Precinct 24 ||| [[PRECINCT]]
+    Precinct 25 ||| [[PRECINCT]]
+    Precinct 26 ||| [[PRECINCT]]
+    Precinct 27 ||| [[PRECINCT]]
+    Precinct 28 ||| [[PRECINCT]]
+    Precinct 29 ||| [[PRECINCT]]
+    Precinct 30 ||| [[PRECINCT]]
+    Precinct 31 ||| [[PRECINCT]]
+    Precinct 32 ||| [[PRECINCT]]
+    Precinct 33 ||| [[PRECINCT]]
+    Precinct 34 ||| [[PRECINCT]]
+    Precinct 35 ||| [[PRECINCT]]
+    Precinct 36 ||| [[PRECINCT]]
+    Precinct 37 ||| [[PRECINCT]]
+    Precinct 38 ||| [[PRECINCT]]
+    Precinct 39 ||| [[PRECINCT]]
+    Precinct 40 ||| [[PRECINCT]]
+    Precinct 41 ||| [[PRECINCT]]
+    Precinct 42 ||| [[PRECINCT]]
+    Precinct 43 ||| [[PRECINCT]]
+    Precinct 44 ||| [[PRECINCT]]
+    Precinct 45 ||| [[PRECINCT]]
+    Precinct 46 ||| [[PRECINCT]]
+    Precinct 47 ||| [[PRECINCT]]
+    Precinct 48 ||| [[PRECINCT]]
+    Precinct 49 ||| [[PRECINCT]]
+    Precinct 50 ||| [[PRECINCT]]
+    Precinct 51 ||| [[PRECINCT]]
+    Precinct 52 ||| [[PRECINCT]]
+    Precinct 53 ||| [[PRECINCT]]
+    Precinct 54 ||| [[PRECINCT]]
+    Precinct 55 ||| [[PRECINCT]]
+    Precinct 56 ||| [[PRECINCT]]
+    Precinct 57 ||| [[PRECINCT]]
+    Precinct 58 ||| [[PRECINCT]]
+    Precinct 59 ||| [[PRECINCT]]
+    Precinct 60 ||| [[PRECINCT]]
+    Precinct 61 ||| [[PRECINCT]]
+    Precinct 62 ||| [[PRECINCT]]
+    Precinct 63 ||| [[PRECINCT]]
+    Precinct 64 ||| [[PRECINCT]]
+    Precinct 65 ||| [[PRECINCT]]
+    Precinct 66 ||| [[PRECINCT]]
+    Precinct 67 ||| [[PRECINCT]]
+    Precinct 68 ||| [[PRECINCT]]
+    Precinct 69 ||| [[PRECINCT]]
+    Precinct 70 ||| [[PRECINCT]]
+    Precinct 71 ||| [[PRECINCT]]
+    Precinct 72 ||| [[PRECINCT]]
+    Precinct 73 ||| [[PRECINCT]]
+    Precinct 74 ||| [[PRECINCT]]
+    Precinct 75 ||| [[PRECINCT]]
+    Precinct 76 ||| [[PRECINCT]]
+    Precinct 77 ||| [[PRECINCT]]
+    Precinct 78 ||| [[PRECINCT]]
+    Precinct 79 ||| [[PRECINCT]]
+    Precinct 80 ||| [[PRECINCT]]
+    Precinct 81 ||| [[PRECINCT]]
+    Second Ward ||| [[WARD]]
+    Wahoo Ward 1 ||| [[WARD]]
+    Wahoo Ward 2 ||| [[WARD]]
+    Wahoo Ward 3 ||| [[WARD]]
+    Seward Ward 1 ||| [[WARD]]
+    Seward Ward 2 ||| [[WARD]]
+    Seward Ward 3 ||| [[WARD]]
+    Seward Ward 4 ||| [[WARD]]
+    Ashland Ward 1 ||| [[WARD]]
+    Ashland Ward 2 ||| [[WARD]]
+    BC City-BC Pct ||| [[PCT]]
+    Pines Precinct ||| [[PRECINCT]]
+    01 - SSC Ward 1 ||| [[WARD]]
+    02 - SSC Ward 2 ||| [[WARD]]
+    03 - SSC Ward 3 ||| [[WARD]]
+    04 - SSC Ward 4 ||| [[WARD]]
+    05 - SSC Ward 5 ||| [[WARD]]
+    Beatrice Ward 1 ||| [[WARD]]
+    Beatrice Ward 2 ||| [[WARD]]
+    Beatrice Ward 3 ||| [[WARD]]
+    Beatrice Ward 4 ||| [[WARD]]
+    St. Paul Ward 1 ||| [[WARD]]
+    St. Paul Ward 2 ||| [[WARD]]
+    B Precinct - Bee ||| [[PRECINCT]]
+    Warnerville Pct. ||| [[PCT]]
+    10 O'Neill Ward I ||| [[WARD]]
+    J Precinct - Ruby ||| [[PRECINCT]]
+    Ward 1 Precinct 1 ||| [[PRECINCT]]
+    Ward 1 Precinct 2 ||| [[PRECINCT]]
+    Ward 1 Precinct 3 ||| [[PRECINCT]]
+    Ward 2 Precinct 1 ||| [[PRECINCT]]
+    Ward 2 Precinct 2 ||| [[PRECINCT]]
+    Ward 3 Precinct 1 ||| [[PRECINCT]]
+    Ward 3 Precinct 3 ||| [[PRECINCT]]
+    Ward 4 Precinct 1 ||| [[PRECINCT]]
+    09 Atkinson Ward I ||| [[WARD]]
+    11 O'Neill Ward II ||| [[WARD]]
+    13 O'Neill Ward IV ||| [[WARD]]
+    Ainsworth Precinct ||| [[PRECINCT]]
+    E Precinct - Utica ||| [[PRECINCT]]
+    Norfolk-Valley Pct ||| [[PCT]]
+    U-F-GG-Madison Pct ||| [[PCT]]
+    12 O'Neill Ward III ||| [[WARD]]
+    H Precinct - Garland ||| [[PRECINCT]]
+    K Precinct - Goehner ||| [[PRECINCT]]
+    1st Ward - 1st Precinct ||| [[PRECINCT]]
+    1st Ward - 2nd Precinct ||| [[PRECINCT]]
+    2nd Ward - 1st Precinct ||| [[PRECINCT]]
+    2nd Ward - 2nd Precinct ||| [[PRECINCT]]
+    3rd Ward - 1st Precinct ||| [[PRECINCT]]
+    3rd Ward - 2nd Precinct ||| [[PRECINCT]]
+    4th Ward - 1st Precinct ||| [[PRECINCT]]
+    4th Ward - 2nd Precinct ||| [[PRECINCT]]
+    M-CO Precinct - Cordova ||| [[PRECINCT]]
+    C Precinct - Staplehurst ||| [[PRECINCT]]
+    I Precinct - Pleasant Dale ||| [[PRECINCT]]
+    M-BX Precinct - Beaver Crossin ||| [[PRECINCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    Liberty ||| [[LIB]]
+    Indianola ||| [[IND]]
+    St. Libory ||| [[LIB]]
+    (Countywide) NPPD ||| [[NP]]
+    Rockfalls-Industry ||| [[IND]]
+    Lindy/Santee/Ctr Area ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    Center ||| [[CENTER]]
+    Centerville ||| [[CENTER]]
+    Westmark-Center ||| [[CENTER]]
+    Clay Center City ||| [[CENTER]]
+    Oak Creek-Center ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    (Countywide) Cuming County PPD
+    (Countywide) NPPD
+    (Countywide) Stanton County PPD
+    01
+    01 - SSC Ward 1
+    01 Antelope, Iowa & Verdigris
+    01 Arapahoe
+    01-01
+    01-02
+    01-03
+    01-04
+    01-05
+    01-06
+    01-07
+    01-08
+    01-09
+    01-10
+    01-11
+    01-12
+    01-13
+    01-14
+    01-15
+    01-16
+    01-17
+    01-18
+    01-19
+    01-20
+    01-21
+    01-22
+    01-23
+    01-24
+    01-25
+    01-26
+    01-27
+    01-28
+    02 - SSC Ward 2
+    02 Atk & Surrounding Twps
+    02 Beaver City
+    02-01
+    02-02
+    02-03
+    02-04
+    02-05
+    02-06
+    02-07
+    02-08
+    02-09
+    02-10
+    02-11
+    02-12
+    02-13
+    02-14
+    02-15
+    02-16
+    02-17
+    02-18
+    02-19
+    02-20
+    02-21
+    02-22
+    02-23
+    02-24
+    03 - SSC Ward 3
+    03 Cambridge
+    03 Chmbrs/Surrounding Twps
+    03-01
+    03-02
+    03-03
+    03-04
+    03-05
+    03-06
+    03-07
+    03-08
+    03-09
+    03-10
+    03-11
+    03-12
+    03-13
+    03-14
+    03-15
+    03-16
+    03-17
+    03-18
+    03-19
+    03-20
+    03-21
+    03-22
+    03-23
+    04 - SSC Ward 4
+    04 Edison
+    04 Emmet & Northeast Twps
+    04-01
+    04-02
+    04-03
+    04-04
+    04-05
+    04-06
+    04-07
+    04-08
+    04-09
+    04-10
+    04-11
+    04-12
+    04-13
+    04-14
+    04-15
+    04-16
+    04-17
+    04-18
+    04-19
+    04-20
+    04-21
+    05 - SSC Ward 5
+    05 Ewing, Golden & Deloit
+    05 Hendley
+    05-01
+    05-02
+    05-03
+    05-04
+    05-05
+    05-06
+    05-07
+    05-08
+    05-09
+    05-10
+    05-11
+    05-12
+    05-13
+    05-14
+    05-15
+    05-16
+    05-17
+    05-18
+    05-19
+    05-20
+    05-21
+    05-22
+    05-23
+    05-24
+    05-25
+    05-26
+    05-27
+    06 - Covington Island
+    06 Holbrook
+    06 Inman Twp
+    06-01
+    06-02
+    06-03
+    06-04
+    06-05
+    06-06
+    06-07
+    06-08
+    06-09
+    06-10
+    06-11
+    06-12
+    06-13
+    06-14
+    06-15
+    06-16
+    06-17
+    06-18
+    06-19
+    06-20
+    06-21
+    06-22
+    06-23
+    06-24
+    06-25
+    06-26
+    06-27
+    06-28
+    06-29
+    06-30
+    06-31
+    07 - Dakota City
+    07 Oxford
+    07 Stuart & Cleveland Twps
+    07-01
+    07-02
+    07-03
+    07-04
+    07-05
+    07-06
+    07-07
+    07-08
+    07-09
+    07-10
+    07-11
+    07-12
+    07-13
+    07-14
+    07-15
+    07-16
+    07-17
+    07-18
+    07-19
+    07-20
+    07-21
+    07-22
+    07-23
+    07-24
+    07-25
+    07-26
+    07-27
+    07-28
+    07-29
+    07-30
+    07-31
+    08 - Dakota Rural
+    08 Grattan & Shields Twps
+    08 Wilsonville
+    08-01
+    08-02
+    08-03
+    08-04
+    08-05
+    08-06
+    08-07
+    08-08
+    08-09
+    08-10
+    08-11
+    08-12
+    08-13
+    08-14
+    08-15
+    08-16
+    08-17
+    08-18
+    08-19
+    08-20
+    08-21
+    08-22
+    08-23
+    08-24
+    08-25
+    08-26
+    08-27
+    08-28
+    08-29
+    08-30
+    08-31
+    08-32
+    08-33
+    08-34
+    08-35
+    08-36
+    08-37
+    08-38
+    08-39
+    08-40
+    08-41
+    08-42
+    08-43
+    08-44
+    08-45
+    08-46
+    08-47
+    08-48
+    09 - Emerson
+    09 Atkinson Ward I
+    1
+    1 A
+    1 A-1
+    1 B
+    1 D-1
+    1 D-10
+    1 D-11
+    1 D-2
+    1 D-4
+    1 D-5
+    1 D-6
+    1 D-7
+    1 D-8
+    1 D-9
+    1 E-2
+    1 E-3
+    1 E-4
+    1 E-5
+    1 E-6
+    1 E-7
+    1 E-8
+    1 E-9
+    1 F-1
+    1 F-2
+    1 F-3
+    1 F-4
+    10
+    10 - Hubbard
+    10 A
+    10 B-1
+    10 B-2
+    10 B-3
+    10 B-4
+    10 B-5
+    10 C-12
+    10 C-4
+    10 C-5
+    10 C-6
+    10 C-8
+    10 D-1
+    10 D-2
+    10 D-3
+    10 D-4
+    10 D-8
+    10 E-1
+    10 E-10
+    10 E-11
+    10 E-12
+    10 E-14
+    10 E-15
+    10 E-16
+    10 E-17
+    10 E-4
+    10 E-5
+    10 E-7
+    10 E-8
+    10 F-1
+    10 F-10
+    10 F-11
+    10 F-12
+    10 F-14
+    10 F-15
+    10 F-16
+    10 F-2
+    10 F-3
+    10 F-4
+    10 F-5
+    10 F-6
+    10 F-7
+    10 G-1
+    10 G-2
+    10 G-3
+    10 G-4
+    10 G-5
+    10 G-6
+    10 G-7
+    10 G-8
+    10 H-1
+    10 H-10
+    10 H-2
+    10 H-3
+    10 H-4
+    10 H-5
+    10 H-6
+    10 H-7
+    10 H-8
+    10 H-9
+    10 O'Neill Ward I
+    11
+    11 - Omadi
+    11 A-1
+    11 A-2
+    11 B-1
+    11 D-2
+    11 E-1
+    11 E-10
+    11 E-3
+    11 E-5
+    11 E-6
+    11 E-7
+    11 O'Neill Ward II
+    12
+    12 - St. Johns
+    12 A-10
+    12 A-11
+    12 A-4
+    12 A-5
+    12 A-7
+    12 A-8
+    12 A-9
+    12 B-1
+    12 B-2
+    12 B-4
+    12 B-6
+    12 B-7
+    12 B-8
+    12 B-9
+    12 C-2
+    12 C-6
+    12 C-7
+    12 D
+    12 F
+    12 G-1
+    12 G-2
+    12 O'Neill Ward III
+    13
+    13 O'Neill Ward IV
+    14
+    15
+    16
+    17
+    18
+    19
+    1A
+    1B
+    1C
+    1st Douglas - Glenrock
+    1st Ward
+    1st Ward - 1st Precinct
+    1st Ward - 2nd Precinct
+    2
+    2 A
+    2 C-1
+    2 C-2
+    2 C-3
+    2 D-1
+    2 D-2
+    2 D-3
+    20
+    21
+    22
+    23
+    24
+    2A
+    2B
+    2C
+    2D
+    2nd Douglas
+    2nd Ward
+    2nd Ward - 1st Precinct
+    2nd Ward - 2nd Precinct
+    3
+    3 A
+    3 D
+    3A
+    3B
+    3C
+    3D
+    3rd Douglas
+    3rd Ward - 1st Precinct
+    3rd Ward - 2nd Precinct
+    4
+    4 A
+    4A
+    4B
+    4C
+    4D
+    4th Douglas
+    4th Ward - 1st Precinct
+    4th Ward - 2nd Precinct
+    5
+    5 B-1
+    5 C-1
+    5 C-3
+    5 E-11
+    5 E-3
+    5 E-4
+    5 E-5
+    5 E-7
+    5 E-8
+    5 E-9
+    6
+    6 A-1
+    6 D-2
+    6 E-1
+    6 E-2
+    7
+    7 A
+    7 D-2
+    8
+    8 A
+    8 C-2
+    9
+    9 A-1
+    9 C-1
+    9 D-1
+    9 E-1
+    9 E-2
+    9 E-4
+    9 E-5
+    9 F-1
+    9 F-11
+    9 F-2
+    9 F-3
+    9 F-4
+    9 F-5
+    9 F-9
+    9 G-1
+    9 G-2
+    9 G-3
+    9 G-4
+    9 G-5
+    9 G-6
+    9 G-7
+    9 G-8
+    9 G-9
+    9 H-1
+    9 H-2
+    9 H-3
+    9 H-4
+    9 H-5
+    9 H-6
+    9 H-7
+    9 H-8
+    9 H-9
+    ANSELMO
+    Adams Area
+    Ainsworth Precinct
+    Alexis
+    Alma
+    Anderson/Blackbird
+    Ansley/MYR/West
+    Antelope
+    Arago/Barada
+    Arbor
+    Arizona-Riverside
+    Arlington
+    Arnold
+    Arthur
+    Ashland Rural
+    Ashland Ward 1
+    Ashland Ward 2
+    Ashton
+    Avoca
+    Ayr
+    B Precinct - Bee
+    BC City-BC Pct
+    BCN
+    BGCP
+    BGW
+    BROADWATER
+    BST
+    Barley
+    Bartley
+    Beatrice Ward 1
+    Beatrice Ward 2
+    Beatrice Ward 3
+    Beatrice Ward 4
+    Beaver
+    Beemer/Logan
+    Bellcreek-Oakland-Pershing
+    Benkelman I
+    Benkelman II
+    Benkelman III
+    Berlin
+    Bertrand
+    Berwyn/E Cust/Loup/Ryno
+    Big Springs
+    Bismark
+    Bladen
+    Blaine
+    Blaine/Pauline
+    Bloomfield Area
+    Blue Creek
+    Blue Hill
+    Boone
+    Bowen
+    Brady
+    Brenna/Plum Creek/Hunter
+    Broken Bow N/S Rural
+    Broken Bow North
+    Broken Bow Northwest
+    Broken Bow South
+    Broken Bow Southwest
+    Brown-Henderson
+    Brownville
+    Brule
+    Brunswick
+    Bryan/Thayer/Pender
+    Buccaneer Bay
+    Buckley-Antelope-Endicott
+    Buda
+    Burchard
+    Bushnell
+    Butler/Loup
+    Butte Basin McCulley
+    C & B
+    C Precinct - Staplehurst
+    CLFWE
+    CTS
+    Campbell
+    Castle Rock A
+    Castle Rock B
+    Cedar
+    Cedar Bluffs
+    Center
+    Centerville
+    Central
+    Central LC
+    Ceresco
+    Champion/Lamar
+    Chapin/Hancock/Winside
+    Chapman
+    Chappell
+    City of Ainsworth
+    City of Burwell
+    City of Hooper
+    City of North Bend
+    City of Scribner
+    Clarkson 4
+    Clarksville East
+    Clarksville West
+    Clay Center City
+    Clearwater
+    Cody
+    Columbus Twp A
+    Columbus Twp B
+    Comstock/DG/SC
+    Concord-Dixon-Clark
+    Cottonwood-Anderson
+    Coyote
+    Cozad East
+    Cozad West
+    Craig
+    Creighton Area
+    Creston
+    Crete 1
+    Crete 2
+    Crete 3
+    Crofton Area
+    Cub Creek-Rock Creek
+    Culbertson
+    Cuming City
+    Cuming/Everett Townships
+    Curtis
+    Custer
+    DEW
+    DMR
+    Daily-Hooker-Newcastle
+    Dana
+    Dannebrog
+    Dawes
+    DeWitt
+    Decatur-Quinnebaugh
+    Deer Creek/Sherman
+    Delaware
+    Delight/Custer/Grant
+    Denton
+    Denver
+    Deshler
+    Desoto
+    Dewey-Tabor
+    Divide-Lake
+    Dix
+    Dorchester
+    Dublin Bonanza
+    E Precinct - Utica
+    EAST BAYARD
+    EAST CAMP CLARKE
+    EAST NUCKOLLS
+    ELK
+    East Franklin
+    East Gordon
+    East Louisville
+    East Muddy
+    East Stromsburg
+    East Winter Creek
+    Edgar Cons
+    Eight Mile Grove
+    Elba
+    Elgin
+    Elim/Triumph/Wayne
+    Elk
+    Elkhorn Township
+    Emerson
+    Eureka-Washington
+    Eustis
+    Everett-Logan
+    Exeter Township
+    FC Ward 1
+    FC Ward 2
+    FC Ward 3
+    FC Ward 4
+    FCRural/Ohio
+    Fairfield 1st
+    Fairmont Township
+    Fairview
+    Fanning
+    Farnam
+    Fifth Ward
+    Filley/Virginia Area
+    First Ward
+    Flournoy/Merry/Perry
+    Fontanelle
+    Ford A & B
+    Fourth Ward
+    Fran/Hrr/Spi
+    Franklin-Bone Creek
+    Fremont 1A
+    Fremont 1B
+    Fremont 1C
+    Fremont 1D
+    Fremont 1E
+    Fremont 2A
+    Fremont 2B
+    Fremont 2C
+    Fremont 2D
+    Fremont 2E
+    Fremont 3A
+    Fremont 3B
+    Fremont 3C
+    Fremont 3D
+    Fremont 3E
+    Fremont 4A
+    Fremont 4B
+    Fremont 4C
+    Fremont 4D
+    Fremont 4E
+    Friend
+    Ft Calhoun East
+    Ft Calhoun West
+    Fullerton
+    Funston
+    G Precinct
+    GAR/LIL/MIL
+    GILCHRIST
+    Galena-Silvercreek
+    Garden Prairie
+    Garfield
+    Geneva City
+    Geneva Rural
+    Genoa
+    Gering I
+    Gering II
+    Gering III
+    Gering IV
+    Gering-Roubadeau
+    German
+    Gillan
+    Glenvil
+    Gothenburg East
+    Gothenburg West
+    Grant
+    Grant County
+    Grant/Nemaha
+    Greeley
+    Guide Rock
+    Gurley
+    H Precinct - Garland
+    HAYNES
+    HMR
+    Haigler
+    Hall
+    Harlan
+    Harrison
+    Harvard Cons
+    Hay Springs
+    Hayes/Sherman
+    Hays-McFadden
+    Hebron
+    Herman
+    Hershey
+    Hickman
+    Highland
+    Hildreth
+    Hinman
+    Holdrege Rural
+    Holstein
+    Homestead Area
+    Hooper/Logan Townships
+    Hoskins/Garfield
+    Howells 5
+    Humb. I
+    Humb. II
+    Humphrey/Granville
+    I Precinct - Pleasant Dale
+    Imperial East
+    Imperial Rural
+    Imperial West
+    Indianola
+    Inland Leicester
+    J Precinct - Ruby
+    Jeff/Rulo
+    Jefferson-Pleasant-Newton
+    Joliet/St. Bernard
+    Juniata/Verona
+    K Precinct - Goehner
+    Kenesaw
+    Kennard
+    Kennebec
+    Kilgore
+    Kiowa-Lyman
+    LLLM Cons
+    LLMCG
+    Lackey
+    Lafayette
+    Laird
+    Lakeland
+    Leroy-Baker
+    Leshara
+    Lexington 1st
+    Lexington 2nd
+    Lexington 3rd
+    Lexington 4th
+    Lexington 5th
+    Liberty
+    Liberty/Glengary/Franklin
+    Lincoln-Meridian-Fairbury-Rich
+    Lindy/Santee/Ctr Area
+    Linwood-Skull Creek-Platte
+    Lisco
+    Lodgepole
+    Logan County
+    Logan-Wakefield 3
+    Logan/Leslie
+    Lone Tree North
+    Lone Tree South
+    Lonergan
+    Lost Creek
+    Lost Creek/Burrows
+    Loup
+    Loup Fork
+    Lowell/Eaton
+    Lynch Bristow Bush Mullen
+    Lyons City
+    M-BX Precinct - Beaver Crossin
+    M-CO Precinct - Cordova
+    MABL
+    MG-J-G-H-Tilden City
+    Madison City
+    Malmo
+    Marietta
+    Mason City
+    Maxwell
+    Maywood
+    McKelverly
+    McWilliams
+    Mead
+    Medicine
+    Merna Community
+    Merriman
+    Middle Creek
+    Midland
+    Mills
+    Minatare I & II
+    Mirage
+    Mitchell (Rural)
+    Mitchell I
+    Mitchell II
+    Momence/Bryant/Hamilton
+    Morrill
+    Mount Pleasant
+    Murdock
+    NC 1
+    NC 2
+    NC 3
+    NELSON
+    NORTH CAMP CLARKE
+    NW Quad Area
+    Nehawka
+    Neligh
+    Nemaha
+    Nemaha #1
+    Nemaha #2
+    Nemaha I
+    Nemaha II
+    New York-Waco-Beaver-West Blue
+    New or Former Resident
+    New or Former Resident 1
+    New or Former Resident 2
+    Newark/Blaine/Logan
+    Nickerson/Maple Townships
+    Niobrara Area
+    Norfolk 1-1
+    Norfolk 1-2
+    Norfolk 1-3
+    Norfolk 2-1
+    Norfolk 2-2
+    Norfolk 2-3
+    Norfolk 3-1
+    Norfolk 3-2
+    Norfolk 3-3
+    Norfolk 4-1
+    Norfolk 4-2
+    Norfolk 4-3
+    Norfolk-Valley Pct
+    North
+    North Bluff
+    North Branch Shell Creek
+    North LC
+    North Manchester
+    North Osceola-1
+    North Osceola-3
+    North Plattsmouth
+    North Rock Bluff
+    North Rushville
+    North Weeping Water
+    Northview
+    Northwest
+    O-1 Milford
+    O-2  Milford
+    Oak
+    Oak Creek-Center
+    Oakdale
+    Oakland
+    Oakland I
+    Oakland II
+    Oconee/Monroe
+    Odell Area
+    Omaha
+    Oneida
+    Orchard
+    Osgood
+    Oshkosh 1
+    Osmond
+    Ottercreek
+    Overton
+    PK
+    Palisade
+    Palmyra
+    Panama
+    Pawnee 1
+    Pawnee 2
+    Paxton
+    Pebble Township
+    Peru
+    Pierce
+    Pierce City
+    Pines Precinct
+    Plainview
+    Platte
+    Platte East
+    Platte West
+    Plum Creek-Richardson-Ulysses
+    Plymouth-Gibson
+    Pohocco
+    Ponca
+    Ponca Township
+    Posen
+    Potter
+    Prague
+    Prairie Creek
+    Prairie Island
+    Precinct 1
+    Precinct 10
+    Precinct 11
+    Precinct 12
+    Precinct 13
+    Precinct 14
+    Precinct 15
+    Precinct 16
+    Precinct 17
+    Precinct 18
+    Precinct 19
+    Precinct 2
+    Precinct 20
+    Precinct 21
+    Precinct 22
+    Precinct 23
+    Precinct 24
+    Precinct 25
+    Precinct 26
+    Precinct 27
+    Precinct 28
+    Precinct 29
+    Precinct 3
+    Precinct 30
+    Precinct 31
+    Precinct 32
+    Precinct 33
+    Precinct 34
+    Precinct 35
+    Precinct 36
+    Precinct 37
+    Precinct 38
+    Precinct 39
+    Precinct 4
+    Precinct 40
+    Precinct 41
+    Precinct 42
+    Precinct 43
+    Precinct 44
+    Precinct 45
+    Precinct 46
+    Precinct 47
+    Precinct 48
+    Precinct 49
+    Precinct 5
+    Precinct 50
+    Precinct 51
+    Precinct 52
+    Precinct 53
+    Precinct 54
+    Precinct 55
+    Precinct 56
+    Precinct 57
+    Precinct 58
+    Precinct 59
+    Precinct 6
+    Precinct 60
+    Precinct 61
+    Precinct 62
+    Precinct 63
+    Precinct 64
+    Precinct 65
+    Precinct 66
+    Precinct 67
+    Precinct 68
+    Precinct 69
+    Precinct 7
+    Precinct 70
+    Precinct 71
+    Precinct 72
+    Precinct 73
+    Precinct 74
+    Precinct 75
+    Precinct 76
+    Precinct 77
+    Precinct 78
+    Precinct 79
+    Precinct 8
+    Precinct 80
+    Precinct 81
+    Precinct 9
+    REDINGTON
+    Red Cloud 1st
+    Red Cloud 2nd
+    Ringgold
+    Rock
+    Rock Creek
+    Rockfalls-Industry
+    Rockville
+    Roseland
+    Royal
+    Rural Garfield County
+    Rural Ogallala
+    Russell
+    S-E-SC-NG City-K
+    SBE
+    SBW
+    SSGC
+    STN
+    SUPERIOR
+    SW4
+    Salem
+    Salt Creek
+    Saltillo #1
+    Saltillo #2
+    Sargent RUR/C/WU
+    Sargent Village
+    Savannah
+    Schuyler 1
+    Schuyler 2
+    Schuyler 3
+    Scotia
+    Scottsbluff 1
+    Scottsbluff 2
+    Scottsbluff 3
+    Scottsbluff 4
+    Scottsbluff 5
+    Scottsbluff 6
+    Scottsbluff 7
+    Scottsbluff 8
+    Second Ward
+    Sellers
+    Seward Ward 1
+    Seward Ward 2
+    Seward Ward 3
+    Seward Ward 4
+    Sheep Creek
+    Shell Creek
+    Sherman/Grand Prairie
+    Sidney 1
+    Sidney 2
+    Sidney 3
+    Sidney 4
+    Sidney 5
+    Silver Creek
+    Silvercreek-Summit
+    Skyline
+    South
+    South Bend
+    South Branch
+    South Canada-1
+    South Canada-3
+    South LC
+    South Osceola
+    South Pass
+    South Plattsmouth
+    South Rock Bluff
+    South Rushville
+    South Sheridan
+    South Weeping Water
+    Southeast Manchester
+    Southwest
+    Southwest Manchester
+    Spalding
+    Spencer Morton
+    Spring Creek
+    Spring Ranch FF 2nd
+    Springbank
+    St. Libory
+    St. Paul Ward 1
+    St. Paul Ward 2
+    Steinauer
+    Sterling
+    Stevens Creek
+    Stewart-Thayer
+    Stockton
+    Stockville
+    Stove Creek
+    Strahan/Wilbur
+    Stratton
+    Summit-Reading-Read
+    Sutherland
+    Sutton 1st
+    Sutton 2nd
+    Sutton Twps
+    Swan
+    Syracuse
+    Table Rock
+    Tekamah I
+    Tekamah II
+    Terrytown I & II
+    Thayer County North
+    Thayer County South
+    Third Ward
+    Thomas
+    Tilden
+    Tipton
+    Todd Creek
+    Trenton
+    Tryon 01
+    U-F-GG-Madison Pct
+    UCB
+    Union Valley
+    Union-Olive
+    Union/Cott/Ridg/PV Twps
+    VICTOR
+    Valentine East
+    Valentine North
+    Valentine South
+    Valparaiso
+    Verdigre Area
+    Vieregg
+    WEST BAYARD
+    WEST CAMP CLARKE
+    WMuddy/Porter
+    Wahoo Rural
+    Wahoo Ward 1
+    Wahoo Ward 2
+    Wahoo Ward 3
+    Wakefield
+    Walker/Woodville
+    Wallace
+    Ward 1
+    Ward 1 Precinct 1
+    Ward 1 Precinct 2
+    Ward 1 Precinct 3
+    Ward 2
+    Ward 2 Precinct 1
+    Ward 2 Precinct 2
+    Ward 2A
+    Ward 2B
+    Ward 3
+    Ward 3 Precinct 1
+    Ward 3 Precinct 3
+    Ward 4
+    Ward 4 Precinct 1
+    Ward 4A
+    Ward 4B
+    Warnerville Pct.
+    Washington
+    Washington - Benton
+    Wauneta
+    Wausa Area
+    Waverly #2
+    Waverly North
+    Waverly South
+    Webster Township
+    Wells
+    West Blue/Grafton/Bennett
+    West Blue/Highland
+    West Franklin
+    West Gordon
+    West Louisville
+    West Pleasant Home
+    West Point
+    West Rock Bluff
+    West Salt
+    West Stromsburg
+    West Winter Creek
+    Western
+    Westmark-Center
+    Weston
+    Westside-Williamsburg
+    Wheeler
+    Wilber
+    Winnebago
+    Wolbach
+    Woodriver
+    Wounded Knee
+    Wymore Area
+    Yankee Hill
+    Yutan City
+    Yutan Rural
+------
+

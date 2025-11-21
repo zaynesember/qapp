@@ -1,0 +1,552 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    1
+    10
+    10-1
+    10-2
+    100
+    101
+    102
+    103
+    103A
+    104
+    105
+    106
+    107
+    108
+    108A
+    109
+    11
+    110
+    111
+    112
+    113
+    114
+    114A
+    115
+    116
+    117
+    118
+    119
+    11A
+    12
+    120
+    121
+    122
+    123
+    124
+    125
+    126
+    127
+    128
+    129
+    129B
+    129C
+    13
+    130
+    131
+    132
+    133
+    134
+    135
+    136
+    137
+    138
+    13A
+    14
+    140
+    141
+    142
+    143
+    144
+    144A
+    145
+    146
+    147
+    148
+    149
+    15
+    150
+    151
+    152
+    155
+    158
+    158A
+    158B
+    15A
+    16
+    160
+    161
+    162
+    163
+    164
+    165
+    166
+    168
+    169
+    17
+    170
+    172
+    174
+    175
+    178
+    179
+    17A
+    18
+    180
+    181
+    182
+    183
+    184
+    185
+    19
+    190
+    1A
+    2
+    20
+    200
+    201
+    202
+    203
+    204
+    205
+    206
+    206A
+    206B
+    207
+    208
+    20A
+    20B
+    21
+    210
+    215
+    217
+    217A
+    21B
+    22
+    220
+    223
+    225
+    226
+    227
+    22A
+    22B
+    23
+    233
+    234
+    238
+    239
+    23A
+    23C
+    24
+    240
+    241
+    241A
+    244
+    245
+    246
+    246A
+    247
+    24C
+    25
+    25-1
+    25-2
+    253
+    254
+    26
+    26-1
+    26-2
+    260
+    27
+    276
+    278
+    279
+    28
+    280
+    280A
+    281
+    282
+    283
+    285
+    286
+    286A
+    288
+    288A
+    289
+    289A
+    28A
+    29
+    29-1
+    29-2
+    290
+    291
+    292
+    293
+    294
+    294A
+    295
+    296
+    296A
+    297
+    298
+    298A
+    2A
+    2B
+    3
+    30
+    302
+    303
+    304
+    305
+    307
+    307A
+    308
+    309
+    31
+    310
+    317
+    32
+    321
+    326
+    329
+    33
+    33-1
+    33-2
+    333
+    337
+    34
+    340
+    347
+    349
+    34A
+    35
+    350
+    351
+    351A
+    352
+    354
+    354A
+    357
+    357A
+    358
+    359
+    35A
+    35B
+    36
+    360
+    361
+    362
+    363
+    364
+    365
+    366
+    366A
+    366B
+    367
+    368
+    36A
+    36B
+    36C
+    37
+    370
+    371
+    373
+    373A
+    379
+    37A
+    38
+    380
+    39
+    3A
+    4
+    40
+    401
+    402
+    403
+    406
+    409
+    40A
+    41
+    411
+    412
+    413
+    414
+    415
+    416
+    416A
+    419
+    42
+    420
+    421
+    423
+    424
+    424A
+    425
+    426
+    427
+    428
+    428A
+    429
+    42A
+    43
+    431
+    432
+    433
+    434
+    435
+    436
+    436A
+    437
+    438
+    439
+    43A
+    43B
+    44
+    440
+    440A
+    441
+    45
+    45A
+    46
+    46B
+    47
+    48
+    49
+    49A
+    5
+    50
+    51
+    51M
+    52
+    53
+    53A
+    54
+    54A
+    55
+    56
+    56A
+    57
+    57A
+    58
+    59
+    6
+    6-1
+    6-2
+    60
+    61
+    611
+    62
+    63
+    63A
+    63B
+    64
+    65
+    66
+    66A
+    66B
+    67
+    67A
+    68
+    69
+    7
+    70
+    71
+    72
+    721
+    73
+    74
+    74B
+    74C
+    74U
+    75
+    76
+    77
+    78
+    78A
+    79
+    7A
+    7B
+    8
+    8-1
+    8-2
+    80
+    81
+    82
+    83
+    84
+    85
+    86
+    87
+    88
+    89
+    9
+    90
+    91
+    92
+    93
+    95
+    96
+    961
+    98
+    9A
+------
+

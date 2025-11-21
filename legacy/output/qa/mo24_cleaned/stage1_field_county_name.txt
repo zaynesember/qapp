@@ -1,0 +1,312 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    ST. LOUIS COUNTY ||| [[COUNTY]]
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAIR', '29001')
+    ('ANDREW', '29003')
+    ('ATCHISON', '29005')
+    ('AUDRAIN', '29007')
+    ('BARRY', '29009')
+    ('BARTON', '29011')
+    ('BATES', '29013')
+    ('BENTON', '29015')
+    ('BOLLINGER', '29017')
+    ('BOONE', '29019')
+    ('BUCHANAN', '29021')
+    ('BUTLER', '29023')
+    ('CALDWELL', '29025')
+    ('CALLAWAY', '29027')
+    ('CAMDEN', '29029')
+    ('CAPE GIRARDEAU', '29031')
+    ('CARROLL', '29033')
+    ('CARTER', '29035')
+    ('CASS', '29037')
+    ('CEDAR', '29039')
+    ('CHARITON', '29041')
+    ('CHRISTIAN', '29043')
+    ('CLARK', '29045')
+    ('CLAY', '29047')
+    ('CLINTON', '29049')
+    ('COLE', '29051')
+    ('COOPER', '29053')
+    ('CRAWFORD', '29055')
+    ('DADE', '29057')
+    ('DALLAS', '29059')
+    ('DAVIESS', '29061')
+    ('DEKALB', '29063')
+    ('DENT', '29065')
+    ('DOUGLAS', '29067')
+    ('DUNKLIN', '29069')
+    ('FRANKLIN', '29071')
+    ('GASCONADE', '29073')
+    ('GENTRY', '29075')
+    ('GREENE', '29077')
+    ('GRUNDY', '29079')
+    ('HARRISON', '29081')
+    ('HENRY', '29083')
+    ('HICKORY', '29085')
+    ('HOLT', '29087')
+    ('HOWARD', '29089')
+    ('HOWELL', '29091')
+    ('IRON', '29093')
+    ('JACKSON', '29095')
+    ('JASPER', '29097')
+    ('JEFFERSON', '29099')
+    ('JOHNSON', '29101')
+    ('KANSAS CITY', '36000')
+    ('KNOX', '29103')
+    ('LACLEDE', '29105')
+    ('LAFAYETTE', '29107')
+    ('LAWRENCE', '29109')
+    ('LEWIS', '29111')
+    ('LINCOLN', '29113')
+    ('LINN', '29115')
+    ('LIVINGSTON', '29117')
+    ('MACON', '29121')
+    ('MADISON', '29123')
+    ('MARIES', '29125')
+    ('MARION', '29127')
+    ('MCDONALD', '29119')
+    ('MERCER', '29129')
+    ('MILLER', '29131')
+    ('MISSISSIPPI', '29133')
+    ('MONITEAU', '29135')
+    ('MONROE', '29137')
+    ('MONTGOMERY', '29139')
+    ('MORGAN', '29141')
+    ('NEW MADRID', '29143')
+    ('NEWTON', '29145')
+    ('NODAWAY', '29147')
+    ('OREGON', '29149')
+    ('OSAGE', '29151')
+    ('OZARK', '29153')
+    ('PEMISCOT', '29155')
+    ('PERRY', '29157')
+    ('PETTIS', '29159')
+    ('PHELPS', '29161')
+    ('PIKE', '29163')
+    ('PLATTE', '29165')
+    ('POLK', '29167')
+    ('PULASKI', '29169')
+    ('PUTNAM', '29171')
+    ('RALLS', '29173')
+    ('RANDOLPH', '29175')
+    ('RAY', '29177')
+    ('REYNOLDS', '29179')
+    ('RIPLEY', '29181')
+    ('SALINE', '29195')
+    ('SCHUYLER', '29197')
+    ('SCOTLAND', '29199')
+    ('SCOTT', '29201')
+    ('SHANNON', '29203')
+    ('SHELBY', '29205')
+    ('ST. CHARLES', '29183')
+    ('ST. CLAIR', '29185')
+    ('ST. FRANCOIS', '29187')
+    ('ST. LOUIS CITY', '29510')
+    ('ST. LOUIS COUNTY', '29189')
+    ('STE. GENEVIEVE', '29186')
+    ('STODDARD', '29207')
+    ('STONE', '29209')
+    ('SULLIVAN', '29211')
+    ('TANEY', '29213')
+    ('TEXAS', '29215')
+    ('VERNON', '29217')
+    ('WARREN', '29219')
+    ('WASHINGTON', '29221')
+    ('WAYNE', '29223')
+    ('WEBSTER', '29225')
+    ('WORTH', '29227')
+    ('WRIGHT', '29229')
+------
+
+---------
+------
+ALL VALUES:
+    ADAIR
+    ANDREW
+    ATCHISON
+    AUDRAIN
+    BARRY
+    BARTON
+    BATES
+    BENTON
+    BOLLINGER
+    BOONE
+    BUCHANAN
+    BUTLER
+    CALDWELL
+    CALLAWAY
+    CAMDEN
+    CAPE GIRARDEAU
+    CARROLL
+    CARTER
+    CASS
+    CEDAR
+    CHARITON
+    CHRISTIAN
+    CLARK
+    CLAY
+    CLINTON
+    COLE
+    COOPER
+    CRAWFORD
+    DADE
+    DALLAS
+    DAVIESS
+    DEKALB
+    DENT
+    DOUGLAS
+    DUNKLIN
+    FRANKLIN
+    GASCONADE
+    GENTRY
+    GREENE
+    GRUNDY
+    HARRISON
+    HENRY
+    HICKORY
+    HOLT
+    HOWARD
+    HOWELL
+    IRON
+    JACKSON
+    JASPER
+    JEFFERSON
+    JOHNSON
+    KANSAS CITY
+    KNOX
+    LACLEDE
+    LAFAYETTE
+    LAWRENCE
+    LEWIS
+    LINCOLN
+    LINN
+    LIVINGSTON
+    MACON
+    MADISON
+    MARIES
+    MARION
+    MCDONALD
+    MERCER
+    MILLER
+    MISSISSIPPI
+    MONITEAU
+    MONROE
+    MONTGOMERY
+    MORGAN
+    NEW MADRID
+    NEWTON
+    NODAWAY
+    OREGON
+    OSAGE
+    OZARK
+    PEMISCOT
+    PERRY
+    PETTIS
+    PHELPS
+    PIKE
+    PLATTE
+    POLK
+    PULASKI
+    PUTNAM
+    RALLS
+    RANDOLPH
+    RAY
+    REYNOLDS
+    RIPLEY
+    SALINE
+    SCHUYLER
+    SCOTLAND
+    SCOTT
+    SHANNON
+    SHELBY
+    ST. CHARLES
+    ST. CLAIR
+    ST. FRANCOIS
+    ST. LOUIS CITY
+    ST. LOUIS COUNTY
+    STE. GENEVIEVE
+    STODDARD
+    STONE
+    SULLIVAN
+    TANEY
+    TEXAS
+    VERNON
+    WARREN
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WORTH
+    WRIGHT
+------
+

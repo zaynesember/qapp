@@ -1,0 +1,137 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    JUDGE OF THE CIRCUIT COURT: ['STATE']
+    RETENTION JUDGE SPECIAL APPEALS: ['STATE']
+    RETENTION STATE SUPREME COURT: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        BALTIMORE CITY CITY COUNCIL MEMBER
+        BALTIMORE CITY CITY COUNCIL PRESIDENT
+        BALTIMORE CITY MAYOR
+        BOARD OF EDUCATION
+        CECIL COUNTY COUNCIL
+        CECIL COUNTY EXECUTIVE
+        COMPTROLLER
+        CUMBERLAND CITY COUNCIL
+        HAGERSTOWN CITY COUNCIL
+        HAGERSTOWN MAYOR
+        PRINCE GEORGE'S COUNTY COUNCIL
+        RETENTION STATE SUPREME COURT
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        JUDGE OF THE CIRCUIT COURT
+        RETENTION JUDGE SPECIAL APPEALS
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BALTIMORE CITY CITY COUNCIL MEMBER
+        1 counties for this office
+    BALTIMORE CITY CITY COUNCIL PRESIDENT
+        1 counties for this office
+    BALTIMORE CITY MAYOR
+        1 counties for this office
+    BOARD OF EDUCATION
+        20 counties for this office
+    CECIL COUNTY COUNCIL
+        1 counties for this office
+    CECIL COUNTY EXECUTIVE
+        1 counties for this office
+    COMPTROLLER
+        1 counties for this office
+    CUMBERLAND CITY COUNCIL
+        1 counties for this office
+    HAGERSTOWN CITY COUNCIL
+        1 counties for this office
+    HAGERSTOWN MAYOR
+        1 counties for this office
+    JUDGE OF THE CIRCUIT COURT
+        12 counties for this office
+    PRINCE GEORGE'S COUNTY COUNCIL
+        1 counties for this office
+    RETENTION JUDGE SPECIAL APPEALS
+        24 counties for this office
+    RETENTION STATE SUPREME COURT
+        9 counties for this office
+    US HOUSE
+        24 counties for this office
+    US PRESIDENT
+        24 counties for this office
+    US SENATE
+        24 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

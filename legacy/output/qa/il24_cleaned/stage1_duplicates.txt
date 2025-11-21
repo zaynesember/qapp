@@ -1,0 +1,2 @@
+*There are 5 exactly duplicated rows, in indices [684920, 1232842, 1232844, 1232846, 1232848].
+*There are 6 rows that are duplicated or duplicated except for the vote totals. Each candidate/precinct combo needs to have only one unique vote total. The problems are in rows [11313, 684920, 1232842, 1232844, 1232846, 1232848] 

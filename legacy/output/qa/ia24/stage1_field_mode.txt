@@ -1,0 +1,219 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in mode!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    ELECTION DAY ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    "" ||| [[""]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    ABSENTEE ||| [[ABS]]
+    ELECTION DAY ||| [[ELECTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('ELECTION DAY', 'ABSENTEE')
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', 'BRYAN SVOBODA', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', 'CJ PETERSEN', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 103104 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'REPUBLICAN', 'STORY', 'DONALD J TRUMP', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'SOCIALIST PARTY USA', 'STORY', 'WILLIAM P STODDEN', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'WE THE PEOPLE', 'STORY', 'ROBERT F KENNEDY JR', '""', 'GEN', 'FALSE', '2024-11-05')
+
+    ('""',)
+        ('#1 Audubon', 'BALLOTS CAST', '""', 'AUDUBON', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'REGISTERED VOTERS', '""', 'AUDUBON', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'BALLOTS CAST', '""', 'BREMER', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4500 elements)
+        ('Yale', 'REGISTERED VOTERS', '""', 'GUTHRIE', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'BALLOTS CAST', '""', 'STORY', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'REGISTERED VOTERS', '""', 'STORY', '""', '""', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    ABSENTEE
+    ELECTION DAY
+------
+

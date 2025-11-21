@@ -1,0 +1,190 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('BARBOUR', '54001')
+    ('BERKELEY', '54003')
+    ('BOONE', '54005')
+    ('BRAXTON', '54007')
+    ('BROOKE', '54009')
+    ('CABELL', '54011')
+    ('CALHOUN', '54013')
+    ('CLAY', '54015')
+    ('DODDRIDGE', '54017')
+    ('FAYETTE', '54019')
+    ('GILMER', '54021')
+    ('GRANT', '54023')
+    ('GREENBRIER', '54025')
+    ('HAMPSHIRE', '54027')
+    ('HANCOCK', '54029')
+    ('HARDY', '54031')
+    ('HARRISON', '54033')
+    ('JACKSON', '54035')
+    ('JEFFERSON', '54037')
+    ('KANAWHA', '54039')
+    ('LEWIS', '54041')
+    ('LINCOLN', '54043')
+    ('LOGAN', '54045')
+    ('MARION', '54049')
+    ('MARSHALL', '54051')
+    ('MASON', '54053')
+    ('MCDOWELL', '54047')
+    ('MERCER', '54055')
+    ('MINERAL', '54057')
+    ('MINGO', '54059')
+    ('MONONGALIA', '54061')
+    ('MONROE', '54063')
+    ('MORGAN', '54065')
+    ('NICHOLAS', '54067')
+    ('OHIO', '54069')
+    ('PENDLETON', '54071')
+    ('PLEASANTS', '54073')
+    ('POCAHONTAS', '54075')
+    ('PRESTON', '54077')
+    ('PUTNAM', '54079')
+    ('RALEIGH', '54081')
+    ('RANDOLPH', '54083')
+    ('RITCHIE', '54085')
+    ('ROANE', '54087')
+    ('SUMMERS', '54089')
+    ('TAYLOR', '54091')
+    ('TUCKER', '54093')
+    ('TYLER', '54095')
+    ('UPSHUR', '54097')
+    ('WAYNE', '54099')
+    ('WEBSTER', '54101')
+    ('WETZEL', '54103')
+    ('WIRT', '54105')
+    ('WOOD', '54107')
+    ('WYOMING', '54109')
+------
+
+---------
+------
+ALL VALUES:
+    BARBOUR
+    BERKELEY
+    BOONE
+    BRAXTON
+    BROOKE
+    CABELL
+    CALHOUN
+    CLAY
+    DODDRIDGE
+    FAYETTE
+    GILMER
+    GRANT
+    GREENBRIER
+    HAMPSHIRE
+    HANCOCK
+    HARDY
+    HARRISON
+    JACKSON
+    JEFFERSON
+    KANAWHA
+    LEWIS
+    LINCOLN
+    LOGAN
+    MARION
+    MARSHALL
+    MASON
+    MCDOWELL
+    MERCER
+    MINERAL
+    MINGO
+    MONONGALIA
+    MONROE
+    MORGAN
+    NICHOLAS
+    OHIO
+    PENDLETON
+    PLEASANTS
+    POCAHONTAS
+    PRESTON
+    PUTNAM
+    RALEIGH
+    RANDOLPH
+    RITCHIE
+    ROANE
+    SUMMERS
+    TAYLOR
+    TUCKER
+    TYLER
+    UPSHUR
+    WAYNE
+    WEBSTER
+    WETZEL
+    WIRT
+    WOOD
+    WYOMING
+------
+

@@ -1,0 +1,131 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT ||| [[IND]]
+    ALASKAN INDEPENDENCE PARTY ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NONPARTISAN ||| [[NONPARTISAN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NONPARTISAN ||| [[PARTISAN]]
+    AURORA PARTY ||| [[PARTY]]
+    VETERANS PARTY ||| [[PARTY]]
+    AMERICAN SOLIDARITY PARTY ||| [[PARTY]]
+    ALASKAN INDEPENDENCE PARTY ||| [[PARTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+    OVERVOTES: ['DEMOCRAT' 'REPUBLICAN' 'NONPARTISAN' '""' 'LIBERTARIAN' 'UNDECLARED'
+ 'VETERANS PARTY' 'ALASKAN INDEPENDENCE PARTY']
+    UNDERVOTES: ['DEMOCRAT' 'REPUBLICAN' 'NONPARTISAN' '""' 'LIBERTARIAN' 'UNDECLARED'
+ 'VETERANS PARTY' 'ALASKAN INDEPENDENCE PARTY']
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    ALASKAN INDEPENDENCE PARTY
+    AMERICAN SOLIDARITY PARTY
+    AURORA PARTY
+    CONSTITUTION
+    DEMOCRAT
+    INDEPENDENT
+    LIBERTARIAN
+    NONPARTISAN
+    REPUBLICAN
+    UNDECLARED
+    VETERANS PARTY
+------
+

@@ -1,0 +1,261 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 31001, ['31001']])
+    ('ANTELOPE', ['ANTELOPE', 31003, ['31003']])
+    ('ARTHUR', ['ARTHUR', 31005, ['31005']])
+    ('BANNER', ['BANNER', 31007, ['31007']])
+    ('BLAINE', ['BLAINE', 31009, ['31009']])
+    ('BOONE', ['BOONE', 31011, ['31011']])
+    ('BOX BUTTE', ['BOX BUTTE', 31013, ['31013']])
+    ('BOYD', ['BOYD', 31015, ['31015']])
+    ('BROWN', ['BROWN', 31017, ['31017']])
+    ('BUFFALO', ['BUFFALO', 31019, ['31019']])
+    ('BURT', ['BURT', 31021, ['31021']])
+    ('BUTLER', ['BUTLER', 31023, ['31023']])
+    ('CASS', ['CASS', 31025, ['31025']])
+    ('CEDAR', ['CEDAR', 31027, ['31027']])
+    ('CHASE', ['CHASE', 31029, ['31029']])
+    ('CHERRY', ['CHERRY', 31031, ['31031']])
+    ('CHEYENNE', ['CHEYENNE', 31033, ['31033']])
+    ('CLAY', ['CLAY', 31035, ['31035']])
+    ('COLFAX', ['COLFAX', 31037, ['31037']])
+    ('CUMING', ['CUMING', 31039, ['31039']])
+    ('CUSTER', ['CUSTER', 31041, ['31041']])
+    ('DAKOTA', ['DAKOTA', 31043, ['31043']])
+    ('DAWES', ['DAWES', 31045, ['31045']])
+    ('DAWSON', ['DAWSON', 31047, ['31047']])
+    ('DEUEL', ['DEUEL', 31049, ['31049']])
+    ('DIXON', ['DIXON', 31051, ['31051']])
+    ('DODGE', ['DODGE', 31053, ['31053']])
+    ('DOUGLAS', ['DOUGLAS', 31055, ['31055']])
+    ('DUNDY', ['DUNDY', 31057, ['31057']])
+    ('FILLMORE', ['FILLMORE', 31059, ['31059']])
+    ('FRANKLIN', ['FRANKLIN', 31061, ['31061']])
+    ('FRONTIER', ['FRONTIER', 31063, ['31063']])
+    ('FURNAS', ['FURNAS', 31065, ['31065']])
+    ('GAGE', ['GAGE', 31067, ['31067']])
+    ('GARDEN', ['GARDEN', 31069, ['31069']])
+    ('GARFIELD', ['GARFIELD', 31071, ['31071']])
+    ('GOSPER', ['GOSPER', 31073, ['31073']])
+    ('GRANT', ['GRANT', 31075, ['31075']])
+    ('GREELEY', ['GREELEY', 31077, ['31077']])
+    ('HALL', ['HALL', 31079, ['31079']])
+    ('HAMILTON', ['HAMILTON', 31081, ['31081']])
+    ('HARLAN', ['HARLAN', 31083, ['31083']])
+    ('HAYES', ['HAYES', 31085, ['31085']])
+    ('HITCHCOCK', ['HITCHCOCK', 31087, ['31087']])
+    ('HOLT', ['HOLT', 31089, ['31089']])
+    ('HOOKER', ['HOOKER', 31091, ['31091']])
+    ('HOWARD', ['HOWARD', 31093, ['31093']])
+    ('JEFFERSON', ['JEFFERSON', 31095, ['31095']])
+    ('JOHNSON', ['JOHNSON', 31097, ['31097']])
+    ('KEARNEY', ['KEARNEY', 31099, ['31099']])
+    ('KEITH', ['KEITH', 31101, ['31101']])
+    ('KEYA PAHA', ['KEYA PAHA', 31103, ['31103']])
+    ('KIMBALL', ['KIMBALL', 31105, ['31105']])
+    ('KNOX', ['KNOX', 31107, ['31107']])
+    ('LANCASTER', ['LANCASTER', 31109, ['31109']])
+    ('LINCOLN', ['LINCOLN', 31111, ['31111']])
+    ('LOGAN', ['LOGAN', 31113, ['31113']])
+    ('LOUP', ['LOUP', 31115, ['31115']])
+    ('MADISON', ['MADISON', 31119, ['31119']])
+    ('MCPHERSON', ['MCPHERSON', 31117, ['31117']])
+    ('MERRICK', ['MERRICK', 31121, ['31121']])
+    ('MORRILL', ['MORRILL', 31123, ['31123']])
+    ('NANCE', ['NANCE', 31125, ['31125']])
+    ('NEMAHA', ['NEMAHA', 31127, ['31127']])
+    ('NUCKOLLS', ['NUCKOLLS', 31129, ['31129']])
+    ('OTOE', ['OTOE', 31131, ['31131']])
+    ('PAWNEE', ['PAWNEE', 31133, ['31133']])
+    ('PERKINS', ['PERKINS', 31135, ['31135']])
+    ('PHELPS', ['PHELPS', 31137, ['31137']])
+    ('PIERCE', ['PIERCE', 31139, ['31139']])
+    ('PLATTE', ['PLATTE', 31141, ['31141']])
+    ('POLK', ['POLK', 31143, ['31143']])
+    ('RED WILLOW', ['RED WILLOW', 31145, ['31145']])
+    ('RICHARDSON', ['RICHARDSON', 31147, ['31147']])
+    ('ROCK', ['ROCK', 31149, ['31149']])
+    ('SALINE', ['SALINE', 31151, ['31151']])
+    ('SARPY', ['SARPY', 31153, ['31153']])
+    ('SAUNDERS', ['SAUNDERS', 31155, ['31155']])
+    ('SCOTTS BLUFF', ['SCOTTS BLUFF', 31157, ['31157']])
+    ('SEWARD', ['SEWARD', 31159, ['31159']])
+    ('SHERIDAN', ['SHERIDAN', 31161, ['31161']])
+    ('SHERMAN', ['SHERMAN', 31163, ['31163']])
+    ('SIOUX', ['SIOUX', 31165, ['31165']])
+    ('STANTON', ['STANTON', 31167, ['31167']])
+    ('THAYER', ['THAYER', 31169, ['31169']])
+    ('THOMAS', ['THOMAS', 31171, ['31171']])
+    ('THURSTON', ['THURSTON', 31173, ['31173']])
+    ('VALLEY', ['VALLEY', 31175, ['31175']])
+    ('WASHINGTON', ['WASHINGTON', 31177, ['31177']])
+    ('WAYNE', ['WAYNE', 31179, ['31179']])
+    ('WEBSTER', ['WEBSTER', 31181, ['31181']])
+    ('WHEELER', ['WHEELER', 31183, ['31183']])
+    ('YORK', ['YORK', 31185, ['31185']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ANTELOPE
+    ARTHUR
+    BANNER
+    BLAINE
+    BOONE
+    BOX BUTTE
+    BOYD
+    BROWN
+    BUFFALO
+    BURT
+    BUTLER
+    CASS
+    CEDAR
+    CHASE
+    CHERRY
+    CHEYENNE
+    CLAY
+    COLFAX
+    CUMING
+    CUSTER
+    DAKOTA
+    DAWES
+    DAWSON
+    DEUEL
+    DIXON
+    DODGE
+    DOUGLAS
+    DUNDY
+    FILLMORE
+    FRANKLIN
+    FRONTIER
+    FURNAS
+    GAGE
+    GARDEN
+    GARFIELD
+    GOSPER
+    GRANT
+    GREELEY
+    HALL
+    HAMILTON
+    HARLAN
+    HAYES
+    HITCHCOCK
+    HOLT
+    HOOKER
+    HOWARD
+    JEFFERSON
+    JOHNSON
+    KEARNEY
+    KEITH
+    KEYA PAHA
+    KIMBALL
+    KNOX
+    LANCASTER
+    LINCOLN
+    LOGAN
+    LOUP
+    MADISON
+    MCPHERSON
+    MERRICK
+    MORRILL
+    NANCE
+    NEMAHA
+    NUCKOLLS
+    OTOE
+    PAWNEE
+    PERKINS
+    PHELPS
+    PIERCE
+    PLATTE
+    POLK
+    RED WILLOW
+    RICHARDSON
+    ROCK
+    SALINE
+    SARPY
+    SAUNDERS
+    SCOTTS BLUFF
+    SEWARD
+    SHERIDAN
+    SHERMAN
+    SIOUX
+    STANTON
+    THAYER
+    THOMAS
+    THURSTON
+    VALLEY
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WHEELER
+    YORK
+------
+

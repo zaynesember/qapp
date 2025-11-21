@@ -1,0 +1,923 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    District 1  - Question ||| [[QUESTION]]
+    District 2  - Question ||| [[QUESTION]]
+    District 3  - Question ||| [[QUESTION]]
+    District 4  - Question ||| [[QUESTION]]
+    District 5  - Question ||| [[QUESTION]]
+    District 6  - Question ||| [[QUESTION]]
+    District 7  - Question ||| [[QUESTION]]
+    District 8  - Question ||| [[QUESTION]]
+    District 9  - Question ||| [[QUESTION]]
+    District 10  - Question ||| [[QUESTION]]
+    District 11  - Question ||| [[QUESTION]]
+    District 12  - Question ||| [[QUESTION]]
+    District 13  - Question ||| [[QUESTION]]
+    District 14  - Question ||| [[QUESTION]]
+    District 15  - Question ||| [[QUESTION]]
+    District 16  - Question ||| [[QUESTION]]
+    District 17  - Question ||| [[QUESTION]]
+    District 18  - Question ||| [[QUESTION]]
+    District 19  - Question ||| [[QUESTION]]
+    District 20  - Question ||| [[QUESTION]]
+    District 21  - Question ||| [[QUESTION]]
+    District 22  - Question ||| [[QUESTION]]
+    District 23  - Question ||| [[QUESTION]]
+    District 24  - Question ||| [[QUESTION]]
+    District 25  - Question ||| [[QUESTION]]
+    District 26  - Question ||| [[QUESTION]]
+    District 27  - Question ||| [[QUESTION]]
+    District 28  - Question ||| [[QUESTION]]
+    District 29  - Question ||| [[QUESTION]]
+    District 30  - Question ||| [[QUESTION]]
+    District 31  - Question ||| [[QUESTION]]
+    District 32  - Question ||| [[QUESTION]]
+    District 33  - Question ||| [[QUESTION]]
+    District 34  - Question ||| [[QUESTION]]
+    District 35  - Question ||| [[QUESTION]]
+    District 36  - Question ||| [[QUESTION]]
+    District 37  - Question ||| [[QUESTION]]
+    District 38  - Question ||| [[QUESTION]]
+    District 39  - Question ||| [[QUESTION]]
+    District 40  - Question ||| [[QUESTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    District 1 - Absentee ||| [[DIST]]
+    District 2 - Absentee ||| [[DIST]]
+    District 3 - Absentee ||| [[DIST]]
+    District 4 - Absentee ||| [[DIST]]
+    District 5 - Absentee ||| [[DIST]]
+    District 6 - Absentee ||| [[DIST]]
+    District 7 - Absentee ||| [[DIST]]
+    District 8 - Absentee ||| [[DIST]]
+    District 9 - Absentee ||| [[DIST]]
+    District 1  - Question ||| [[DIST]]
+    District 10 - Absentee ||| [[DIST]]
+    District 11 - Absentee ||| [[DIST]]
+    District 12 - Absentee ||| [[DIST]]
+    District 13 - Absentee ||| [[DIST]]
+    District 14 - Absentee ||| [[DIST]]
+    District 15 - Absentee ||| [[DIST]]
+    District 16 - Absentee ||| [[DIST]]
+    District 17 - Absentee ||| [[DIST]]
+    District 18 - Absentee ||| [[DIST]]
+    District 19 - Absentee ||| [[DIST]]
+    District 2  - Question ||| [[DIST]]
+    District 20 - Absentee ||| [[DIST]]
+    District 21 - Absentee ||| [[DIST]]
+    District 22 - Absentee ||| [[DIST]]
+    District 23 - Absentee ||| [[DIST]]
+    District 24 - Absentee ||| [[DIST]]
+    District 25 - Absentee ||| [[DIST]]
+    District 26 - Absentee ||| [[DIST]]
+    District 27 - Absentee ||| [[DIST]]
+    District 28 - Absentee ||| [[DIST]]
+    District 29 - Absentee ||| [[DIST]]
+    District 3  - Question ||| [[DIST]]
+    District 30 - Absentee ||| [[DIST]]
+    District 31 - Absentee ||| [[DIST]]
+    District 32 - Absentee ||| [[DIST]]
+    District 33 - Absentee ||| [[DIST]]
+    District 34 - Absentee ||| [[DIST]]
+    District 35 - Absentee ||| [[DIST]]
+    District 36 - Absentee ||| [[DIST]]
+    District 37 - Absentee ||| [[DIST]]
+    District 38 - Absentee ||| [[DIST]]
+    District 39 - Absentee ||| [[DIST]]
+    District 4  - Question ||| [[DIST]]
+    District 40 - Absentee ||| [[DIST]]
+    District 5  - Question ||| [[DIST]]
+    District 6  - Question ||| [[DIST]]
+    District 7  - Question ||| [[DIST]]
+    District 8  - Question ||| [[DIST]]
+    District 9  - Question ||| [[DIST]]
+    District 10  - Question ||| [[DIST]]
+    District 11  - Question ||| [[DIST]]
+    District 12  - Question ||| [[DIST]]
+    District 13  - Question ||| [[DIST]]
+    District 14  - Question ||| [[DIST]]
+    District 15  - Question ||| [[DIST]]
+    District 16  - Question ||| [[DIST]]
+    District 17  - Question ||| [[DIST]]
+    District 18  - Question ||| [[DIST]]
+    District 19  - Question ||| [[DIST]]
+    District 20  - Question ||| [[DIST]]
+    District 21  - Question ||| [[DIST]]
+    District 22  - Question ||| [[DIST]]
+    District 23  - Question ||| [[DIST]]
+    District 24  - Question ||| [[DIST]]
+    District 25  - Question ||| [[DIST]]
+    District 26  - Question ||| [[DIST]]
+    District 27  - Question ||| [[DIST]]
+    District 28  - Question ||| [[DIST]]
+    District 29  - Question ||| [[DIST]]
+    District 30  - Question ||| [[DIST]]
+    District 31  - Question ||| [[DIST]]
+    District 32  - Question ||| [[DIST]]
+    District 33  - Question ||| [[DIST]]
+    District 34  - Question ||| [[DIST]]
+    District 35  - Question ||| [[DIST]]
+    District 36  - Question ||| [[DIST]]
+    District 37  - Question ||| [[DIST]]
+    District 38  - Question ||| [[DIST]]
+    District 39  - Question ||| [[DIST]]
+    District 40  - Question ||| [[DIST]]
+    District 1 - Early Voting ||| [[DIST]]
+    District 2 - Early Voting ||| [[DIST]]
+    District 3 - Early Voting ||| [[DIST]]
+    District 4 - Early Voting ||| [[DIST]]
+    District 5 - Early Voting ||| [[DIST]]
+    District 6 - Early Voting ||| [[DIST]]
+    District 7 - Early Voting ||| [[DIST]]
+    District 8 - Early Voting ||| [[DIST]]
+    District 9 - Early Voting ||| [[DIST]]
+    District 10 - Early Voting ||| [[DIST]]
+    District 11 - Early Voting ||| [[DIST]]
+    District 12 - Early Voting ||| [[DIST]]
+    District 13 - Early Voting ||| [[DIST]]
+    District 14 - Early Voting ||| [[DIST]]
+    District 15 - Early Voting ||| [[DIST]]
+    District 16 - Early Voting ||| [[DIST]]
+    District 17 - Early Voting ||| [[DIST]]
+    District 18 - Early Voting ||| [[DIST]]
+    District 19 - Early Voting ||| [[DIST]]
+    District 20 - Early Voting ||| [[DIST]]
+    District 21 - Early Voting ||| [[DIST]]
+    District 22 - Early Voting ||| [[DIST]]
+    District 23 - Early Voting ||| [[DIST]]
+    District 24 - Early Voting ||| [[DIST]]
+    District 25 - Early Voting ||| [[DIST]]
+    District 26 - Early Voting ||| [[DIST]]
+    District 27 - Early Voting ||| [[DIST]]
+    District 28 - Early Voting ||| [[DIST]]
+    District 29 - Early Voting ||| [[DIST]]
+    District 30 - Early Voting ||| [[DIST]]
+    District 31 - Early Voting ||| [[DIST]]
+    District 32 - Early Voting ||| [[DIST]]
+    District 33 - Early Voting ||| [[DIST]]
+    District 34 - Early Voting ||| [[DIST]]
+    District 35 - Early Voting ||| [[DIST]]
+    District 36 - Early Voting ||| [[DIST]]
+    District 37 - Early Voting ||| [[DIST]]
+    District 38 - Early Voting ||| [[DIST]]
+    District 39 - Early Voting ||| [[DIST]]
+    District 40 - Early Voting ||| [[DIST]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    District 1 - Absentee ||| [[ABS]]
+    District 2 - Absentee ||| [[ABS]]
+    District 3 - Absentee ||| [[ABS]]
+    District 4 - Absentee ||| [[ABS]]
+    District 5 - Absentee ||| [[ABS]]
+    District 6 - Absentee ||| [[ABS]]
+    District 7 - Absentee ||| [[ABS]]
+    District 8 - Absentee ||| [[ABS]]
+    District 9 - Absentee ||| [[ABS]]
+    District 10 - Absentee ||| [[ABS]]
+    District 11 - Absentee ||| [[ABS]]
+    District 12 - Absentee ||| [[ABS]]
+    District 13 - Absentee ||| [[ABS]]
+    District 14 - Absentee ||| [[ABS]]
+    District 15 - Absentee ||| [[ABS]]
+    District 16 - Absentee ||| [[ABS]]
+    District 17 - Absentee ||| [[ABS]]
+    District 18 - Absentee ||| [[ABS]]
+    District 19 - Absentee ||| [[ABS]]
+    District 20 - Absentee ||| [[ABS]]
+    District 21 - Absentee ||| [[ABS]]
+    District 22 - Absentee ||| [[ABS]]
+    District 23 - Absentee ||| [[ABS]]
+    District 24 - Absentee ||| [[ABS]]
+    District 25 - Absentee ||| [[ABS]]
+    District 26 - Absentee ||| [[ABS]]
+    District 27 - Absentee ||| [[ABS]]
+    District 28 - Absentee ||| [[ABS]]
+    District 29 - Absentee ||| [[ABS]]
+    District 30 - Absentee ||| [[ABS]]
+    District 31 - Absentee ||| [[ABS]]
+    District 32 - Absentee ||| [[ABS]]
+    District 33 - Absentee ||| [[ABS]]
+    District 34 - Absentee ||| [[ABS]]
+    District 35 - Absentee ||| [[ABS]]
+    District 36 - Absentee ||| [[ABS]]
+    District 37 - Absentee ||| [[ABS]]
+    District 38 - Absentee ||| [[ABS]]
+    District 39 - Absentee ||| [[ABS]]
+    District 40 - Absentee ||| [[ABS]]
+    District 1 - Early Voting ||| [[EARLY]]
+    District 2 - Early Voting ||| [[EARLY]]
+    District 3 - Early Voting ||| [[EARLY]]
+    District 4 - Early Voting ||| [[EARLY]]
+    District 5 - Early Voting ||| [[EARLY]]
+    District 6 - Early Voting ||| [[EARLY]]
+    District 7 - Early Voting ||| [[EARLY]]
+    District 8 - Early Voting ||| [[EARLY]]
+    District 9 - Early Voting ||| [[EARLY]]
+    District 10 - Early Voting ||| [[EARLY]]
+    District 11 - Early Voting ||| [[EARLY]]
+    District 12 - Early Voting ||| [[EARLY]]
+    District 13 - Early Voting ||| [[EARLY]]
+    District 14 - Early Voting ||| [[EARLY]]
+    District 15 - Early Voting ||| [[EARLY]]
+    District 16 - Early Voting ||| [[EARLY]]
+    District 17 - Early Voting ||| [[EARLY]]
+    District 18 - Early Voting ||| [[EARLY]]
+    District 19 - Early Voting ||| [[EARLY]]
+    District 20 - Early Voting ||| [[EARLY]]
+    District 21 - Early Voting ||| [[EARLY]]
+    District 22 - Early Voting ||| [[EARLY]]
+    District 23 - Early Voting ||| [[EARLY]]
+    District 24 - Early Voting ||| [[EARLY]]
+    District 25 - Early Voting ||| [[EARLY]]
+    District 26 - Early Voting ||| [[EARLY]]
+    District 27 - Early Voting ||| [[EARLY]]
+    District 28 - Early Voting ||| [[EARLY]]
+    District 29 - Early Voting ||| [[EARLY]]
+    District 30 - Early Voting ||| [[EARLY]]
+    District 31 - Early Voting ||| [[EARLY]]
+    District 32 - Early Voting ||| [[EARLY]]
+    District 33 - Early Voting ||| [[EARLY]]
+    District 34 - Early Voting ||| [[EARLY]]
+    District 35 - Early Voting ||| [[EARLY]]
+    District 36 - Early Voting ||| [[EARLY]]
+    District 37 - Early Voting ||| [[EARLY]]
+    District 38 - Early Voting ||| [[EARLY]]
+    District 39 - Early Voting ||| [[EARLY]]
+    District 40 - Early Voting ||| [[EARLY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    001-600
+    001-610
+    001-620
+    001-640
+    001-650
+    001-660
+    001-670
+    001-675
+    001-680
+    001-690
+    002-700
+    002-705
+    002-720
+    002-725
+    002-730
+    002-735
+    002-740
+    002-750
+    002-755
+    002-760
+    002-765
+    002-770
+    002-775
+    002-780
+    002-785
+    003-300
+    003-305
+    003-310
+    003-315
+    003-320
+    003-325
+    003-330
+    003-335
+    003-340
+    003-345
+    004-100
+    004-105
+    004-110
+    004-115
+    004-120
+    004-125
+    004-130
+    004-135
+    005-800
+    005-810
+    005-815
+    005-820
+    005-825
+    005-830
+    005-835
+    005-840
+    005-845
+    005-860
+    005-865
+    005-870
+    006-200
+    006-210
+    006-220
+    006-230
+    006-240
+    006-250
+    006-260
+    006-270
+    006-280
+    007-005
+    007-010
+    007-015
+    007-020
+    007-025
+    007-030
+    008-035
+    008-040
+    008-045
+    008-050
+    008-055
+    008-060
+    008-065
+    008-070
+    008-075
+    008-080
+    008-085
+    009-105
+    009-110
+    009-115
+    009-120
+    009-125
+    009-130
+    009-135
+    009-140
+    009-145
+    010-150
+    010-155
+    010-160
+    010-165
+    010-170
+    010-175
+    011-205
+    011-210
+    011-215
+    011-220
+    011-225
+    011-230
+    011-235
+    012-250
+    012-255
+    012-260
+    012-265
+    012-270
+    012-275
+    013-305
+    013-310
+    013-315
+    013-320
+    013-325
+    014-350
+    014-355
+    014-360
+    014-365
+    014-370
+    014-375
+    014-380
+    015-405
+    015-410
+    015-415
+    015-420
+    015-425
+    015-430
+    016-450
+    016-455
+    016-460
+    016-465
+    016-470
+    016-475
+    016-480
+    017-505
+    017-510
+    017-515
+    017-520
+    017-525
+    017-530
+    017-535
+    018-550
+    018-555
+    018-556
+    018-560
+    018-565
+    019-605
+    019-610
+    019-615
+    019-620
+    019-625
+    020-650
+    020-655
+    020-660
+    020-665
+    020-670
+    021-705
+    021-710
+    021-715
+    021-720
+    021-725
+    022-750
+    022-755
+    022-760
+    022-765
+    023-805
+    023-810
+    023-815
+    023-820
+    023-825
+    023-830
+    024-850
+    024-855
+    024-860
+    024-865
+    024-870
+    024-875
+    024-880
+    025-305
+    025-310
+    025-315
+    025-320
+    025-325
+    025-330
+    025-335
+    026-350
+    026-355
+    026-360
+    026-365
+    026-370
+    026-375
+    026-380
+    027-405
+    027-410
+    027-415
+    027-420
+    027-425
+    028-450
+    028-455
+    028-460
+    028-465
+    028-470
+    028-475
+    028-480
+    029-505
+    029-510
+    029-515
+    029-520
+    029-525
+    029-530
+    029-535
+    029-540
+    029-545
+    030-550
+    030-555
+    030-560
+    030-565
+    030-570
+    030-575
+    030-580
+    030-585
+    030-590
+    030-595
+    030-600
+    030-605
+    031-446
+    031-455
+    031-480
+    031-485
+    032-355
+    032-365
+    032-375
+    032-385
+    033-130
+    033-135
+    033-155
+    033-165
+    033-175
+    033-183
+    034-235
+    034-238
+    034-240
+    034-260
+    034-263
+    034-265
+    034-270
+    034-280
+    035-580
+    035-582
+    035-584
+    035-586
+    035-587
+    035-592
+    035-595
+    035-596
+    036-001
+    036-002
+    036-010
+    036-014
+    036-018
+    036-022
+    036-026
+    036-034
+    036-038
+    036-042
+    036-046
+    036-050
+    036-054
+    036-058
+    036-062
+    036-066
+    036-070
+    036-074
+    036-078
+    036-082
+    036-086
+    036-090
+    036-094
+    036-098
+    036-102
+    036-106
+    036-110
+    036-114
+    036-118
+    036-122
+    036-126
+    036-130
+    036-134
+    036-138
+    036-142
+    036-146
+    036-162
+    036-166
+    036-170
+    036-174
+    037-700
+    037-702
+    037-704
+    037-706
+    037-707
+    037-708
+    037-709
+    037-710
+    037-712
+    037-713
+    037-714
+    037-716
+    037-718
+    037-719
+    037-720
+    037-722
+    037-724
+    037-726
+    037-728
+    037-730
+    037-731
+    037-732
+    037-734
+    037-736
+    037-738
+    037-740
+    037-742
+    037-744
+    037-746
+    037-748
+    037-750
+    037-752
+    037-754
+    037-756
+    037-758
+    038-800
+    038-802
+    038-806
+    038-808
+    038-810
+    038-812
+    038-813
+    038-818
+    038-822
+    038-824
+    038-826
+    038-828
+    038-830
+    038-836
+    038-838
+    038-840
+    038-842
+    038-844
+    038-846
+    038-848
+    038-852
+    038-854
+    038-856
+    038-858
+    039-900
+    039-902
+    039-906
+    039-908
+    039-910
+    039-912
+    039-914
+    039-916
+    039-918
+    039-920
+    039-921
+    039-922
+    039-924
+    039-926
+    039-928
+    039-930
+    039-931
+    039-932
+    039-934
+    039-936
+    039-938
+    039-940
+    039-942
+    039-944
+    039-946
+    039-948
+    039-950
+    039-952
+    040-002
+    040-004
+    040-006
+    040-008
+    040-010
+    040-012
+    040-014
+    040-016
+    040-018
+    040-020
+    040-022
+    040-024
+    040-026
+    040-028
+    040-030
+    040-032
+    040-034
+    040-036
+    040-038
+    040-040
+    District 1  - Question
+    District 1 - Absentee
+    District 1 - Early Voting
+    District 10  - Question
+    District 10 - Absentee
+    District 10 - Early Voting
+    District 11  - Question
+    District 11 - Absentee
+    District 11 - Early Voting
+    District 12  - Question
+    District 12 - Absentee
+    District 12 - Early Voting
+    District 13  - Question
+    District 13 - Absentee
+    District 13 - Early Voting
+    District 14  - Question
+    District 14 - Absentee
+    District 14 - Early Voting
+    District 15  - Question
+    District 15 - Absentee
+    District 15 - Early Voting
+    District 16  - Question
+    District 16 - Absentee
+    District 16 - Early Voting
+    District 17  - Question
+    District 17 - Absentee
+    District 17 - Early Voting
+    District 18  - Question
+    District 18 - Absentee
+    District 18 - Early Voting
+    District 19  - Question
+    District 19 - Absentee
+    District 19 - Early Voting
+    District 2  - Question
+    District 2 - Absentee
+    District 2 - Early Voting
+    District 20  - Question
+    District 20 - Absentee
+    District 20 - Early Voting
+    District 21  - Question
+    District 21 - Absentee
+    District 21 - Early Voting
+    District 22  - Question
+    District 22 - Absentee
+    District 22 - Early Voting
+    District 23  - Question
+    District 23 - Absentee
+    District 23 - Early Voting
+    District 24  - Question
+    District 24 - Absentee
+    District 24 - Early Voting
+    District 25  - Question
+    District 25 - Absentee
+    District 25 - Early Voting
+    District 26  - Question
+    District 26 - Absentee
+    District 26 - Early Voting
+    District 27  - Question
+    District 27 - Absentee
+    District 27 - Early Voting
+    District 28  - Question
+    District 28 - Absentee
+    District 28 - Early Voting
+    District 29  - Question
+    District 29 - Absentee
+    District 29 - Early Voting
+    District 3  - Question
+    District 3 - Absentee
+    District 3 - Early Voting
+    District 30  - Question
+    District 30 - Absentee
+    District 30 - Early Voting
+    District 31  - Question
+    District 31 - Absentee
+    District 31 - Early Voting
+    District 32  - Question
+    District 32 - Absentee
+    District 32 - Early Voting
+    District 33  - Question
+    District 33 - Absentee
+    District 33 - Early Voting
+    District 34  - Question
+    District 34 - Absentee
+    District 34 - Early Voting
+    District 35  - Question
+    District 35 - Absentee
+    District 35 - Early Voting
+    District 36  - Question
+    District 36 - Absentee
+    District 36 - Early Voting
+    District 37  - Question
+    District 37 - Absentee
+    District 37 - Early Voting
+    District 38  - Question
+    District 38 - Absentee
+    District 38 - Early Voting
+    District 39  - Question
+    District 39 - Absentee
+    District 39 - Early Voting
+    District 4  - Question
+    District 4 - Absentee
+    District 4 - Early Voting
+    District 40  - Question
+    District 40 - Absentee
+    District 40 - Early Voting
+    District 5  - Question
+    District 5 - Absentee
+    District 5 - Early Voting
+    District 6  - Question
+    District 6 - Absentee
+    District 6 - Early Voting
+    District 7  - Question
+    District 7 - Absentee
+    District 7 - Early Voting
+    District 8  - Question
+    District 8 - Absentee
+    District 8 - Early Voting
+    District 9  - Question
+    District 9 - Absentee
+    District 9 - Early Voting
+    HD99 Fed Overseas Absentee
+------
+

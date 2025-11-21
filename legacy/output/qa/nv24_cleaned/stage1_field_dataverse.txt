@@ -1,0 +1,293 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    DISTRICT COURT JUDGE: ['LOCAL']
+    DISTRICT COURT JUDGE,EIGHTH JUDICIAL DISTRICT, DEPARTMENT 27: ['LOCAL']
+    JUSTICE AND MUNICIPAL COURT JUDGE, DEPARTMENT 1: ['LOCAL']
+    JUSTICE OF THE PEACE: ['LOCAL']
+    SPARKS, MUNICIPAL COURT JUDGE, DEPARTMENT 2: ['LOCAL']
+    SUPREME COURT JUSTICE: ['STATE']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        BEATTY, GENERAL IMPROVEMENT DISTRICT
+        BEATTY, WATER AND SANITATION DISTRICT
+        BIG MEADOW CONSERVATION
+        BOULDER CITY, COUNCILMEMBER
+        CARSON CITY SUPERVISOR
+        CITY COUNCIL
+        CITY OF CALIENTE, CITY COUNCIL
+        CITY OF CARLIN, COUNCILMEMBER
+        CITY OF ELKO, COUNCILMEMBER
+        CITY OF LAS VEGAS, COUNCILMAN
+        CITY OF LAS VEGAS, MAYOR
+        CITY OF MESQUITE, COUNCILMEMBER
+        CITY OF MESQUITE, MAYOR
+        CITY OF NORTH LAS VEGAS, COUNCILMEMBER
+        CITY OF WELLS, COUNCILMEMBER
+        CITY OF WEST WENDOVER, COUNCILMEMBER
+        CITY OF WEST WENDOVER, MAYOR
+        COUNTY CLERK
+        COUNTY COMMISSIONER
+        COUNTY RECORDER - AUDITOR
+        CRESCENT VALLEY, TOWN ADVISORY BOARD
+        DISTRICT COURT JUDGE
+        DISTRICT COURT JUDGE,EIGHTH JUDICIAL DISTRICT, DEPARTMENT 27
+        EAST FORK, SWIMMING POOL DISTRICT
+        ELY, CITY COUNCIL
+        FERNLEY, COUNCILMEMBER
+        GARDNERVILLE RANCHOS, GENERAL IMPROVEMENT DISTRICT
+        GERLACH, GENERAL IMPROVEMENT DISTRICT
+        HENDERSON, CITY COUNCIL
+        HOSPITAL
+        HOSPITAL BOARD TRUSTEE
+        INCLINE VILLAGE, GENERAL IMPROVEMENT DISTRICT
+        INDIAN HILLS, GENERAL IMPROVEMENT DISTRICT
+        JUSTICE AND MUNICIPAL COURT JUDGE, DEPARTMENT 1
+        JUSTICE OF THE PEACE
+        KINGSBURY, GENERAL IMPROVEMENT DISTRICT
+        KINGSTON, TOWN BOARD
+        LAUGHLIN, TOWN ADVISORY BOARD
+        LOGANDALE, MOAPA VALLEY WATER DISTRICT
+        LOVELOCK CITY COUNCIL
+        MAYOR
+        MAYOR, CITY OF LOVELOCK
+        MOAPA VALLEY, TOWN ADVISORY BOARD
+        MOSQUITO, VECTOR & NOXIOUS WEED ABATEMENT BOARD
+        OVERTON POWER
+        OVERTON, MOAPA VALLEY WATER DISTRICT
+        PALOMINO VALLEY, GENERAL IMPROVEMENT DISTRICT
+        RENO, CITY COUNCILMEMBER
+        ROUND HILL, GENERAL IMPROVEMENT DISTRICT
+        SCHOOL BOARD TRUSTEE
+        SPARKS, CITY COUNCIL
+        SPARKS, MUNICIPAL COURT JUDGE, DEPARTMENT 2
+        STAGECOACH, GENERAL IMPROVEMENT DISTRICT
+        SUN VALLEY, GENERAL IMPROVEMENT DISTRICT
+        TAHOE DOUGLAS, FIRE PROTECTION DISTRICT
+        TONOPAH, TOWN BOARD
+        TOPAZ RANCH ESTATES, GENERAL IMPROVEMENT DISTRICT
+        TOWN OF MINDEN, ADVISORY BOARD
+        VERDI, TV DISTRICT
+        YERINGTON, COUNCILMEMBER
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        STATE BOARD OF EDUCATION
+        STATE HOUSE
+        STATE SENATE
+        SUPREME COURT JUSTICE
+        UNIVERSITY BOARD OF REGENTS
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BEATTY, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    BEATTY, WATER AND SANITATION DISTRICT
+        1 counties for this office
+    BIG MEADOW CONSERVATION
+        1 counties for this office
+    BOULDER CITY, COUNCILMEMBER
+        1 counties for this office
+    CARSON CITY SUPERVISOR
+        1 counties for this office
+    CITY COUNCIL
+        1 counties for this office
+    CITY OF CALIENTE, CITY COUNCIL
+        1 counties for this office
+    CITY OF CARLIN, COUNCILMEMBER
+        1 counties for this office
+    CITY OF ELKO, COUNCILMEMBER
+        1 counties for this office
+    CITY OF LAS VEGAS, COUNCILMAN
+        1 counties for this office
+    CITY OF LAS VEGAS, MAYOR
+        1 counties for this office
+    CITY OF MESQUITE, COUNCILMEMBER
+        1 counties for this office
+    CITY OF MESQUITE, MAYOR
+        1 counties for this office
+    CITY OF NORTH LAS VEGAS, COUNCILMEMBER
+        1 counties for this office
+    CITY OF WELLS, COUNCILMEMBER
+        1 counties for this office
+    CITY OF WEST WENDOVER, COUNCILMEMBER
+        1 counties for this office
+    CITY OF WEST WENDOVER, MAYOR
+        1 counties for this office
+    COUNTY CLERK
+        1 counties for this office
+    COUNTY COMMISSIONER
+        16 counties for this office
+    COUNTY RECORDER - AUDITOR
+        1 counties for this office
+    CRESCENT VALLEY, TOWN ADVISORY BOARD
+        1 counties for this office
+    DISTRICT COURT JUDGE
+        3 counties for this office
+    DISTRICT COURT JUDGE,EIGHTH JUDICIAL DISTRICT, DEPARTMENT 27
+        1 counties for this office
+    EAST FORK, SWIMMING POOL DISTRICT
+        1 counties for this office
+    ELY, CITY COUNCIL
+        1 counties for this office
+    FERNLEY, COUNCILMEMBER
+        1 counties for this office
+    GARDNERVILLE RANCHOS, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    GERLACH, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    HENDERSON, CITY COUNCIL
+        1 counties for this office
+    HOSPITAL
+        1 counties for this office
+    HOSPITAL BOARD TRUSTEE
+        1 counties for this office
+    INCLINE VILLAGE, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    INDIAN HILLS, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    JUSTICE AND MUNICIPAL COURT JUDGE, DEPARTMENT 1
+        1 counties for this office
+    JUSTICE OF THE PEACE
+        10 counties for this office
+    KINGSBURY, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    KINGSTON, TOWN BOARD
+        1 counties for this office
+    LAUGHLIN, TOWN ADVISORY BOARD
+        1 counties for this office
+    LOGANDALE, MOAPA VALLEY WATER DISTRICT
+        1 counties for this office
+    LOVELOCK CITY COUNCIL
+        1 counties for this office
+    MAYOR
+        1 counties for this office
+    MAYOR, CITY OF LOVELOCK
+        1 counties for this office
+    MOAPA VALLEY, TOWN ADVISORY BOARD
+        1 counties for this office
+    MOSQUITO, VECTOR & NOXIOUS WEED ABATEMENT BOARD
+        1 counties for this office
+    OVERTON POWER
+        1 counties for this office
+    OVERTON, MOAPA VALLEY WATER DISTRICT
+        1 counties for this office
+    PALOMINO VALLEY, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    RENO, CITY COUNCILMEMBER
+        1 counties for this office
+    ROUND HILL, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    SCHOOL BOARD TRUSTEE
+        10 counties for this office
+    SPARKS, CITY COUNCIL
+        1 counties for this office
+    SPARKS, MUNICIPAL COURT JUDGE, DEPARTMENT 2
+        1 counties for this office
+    STAGECOACH, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    STATE BOARD OF EDUCATION
+        14 counties for this office
+    STATE HOUSE
+        17 counties for this office
+    STATE SENATE
+        7 counties for this office
+    SUN VALLEY, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    SUPREME COURT JUSTICE
+        17 counties for this office
+    TAHOE DOUGLAS, FIRE PROTECTION DISTRICT
+        1 counties for this office
+    TONOPAH, TOWN BOARD
+        1 counties for this office
+    TOPAZ RANCH ESTATES, GENERAL IMPROVEMENT DISTRICT
+        1 counties for this office
+    TOWN OF MINDEN, ADVISORY BOARD
+        1 counties for this office
+    UNIVERSITY BOARD OF REGENTS
+        1 counties for this office
+    US HOUSE
+        17 counties for this office
+    US PRESIDENT
+        17 counties for this office
+    US SENATE
+        17 counties for this office
+    VERDI, TV DISTRICT
+        1 counties for this office
+    YERINGTON, COUNCILMEMBER
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

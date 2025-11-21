@@ -1,0 +1,112 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+   No Problems Found :) 
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    A MARK WILKS
+    ANDRE RAMON MCNEIL SR
+    BENJAMIN L SCHWALB
+    BILLY BRIDGES
+    BRIAN LARRY KIENITZ
+    CAROL ASHER
+    CHERUNDA FOX
+    CHRISTY RENEE HELMONDOLLAR
+    CLAUDIA DE LA CRUZ
+    CORNEL WEST
+    DOUGLAS JENKINS
+    FUTURE MADAM POTUS
+    GARRY HUBBARD
+    HEATHER FLETCHER
+    IRWIN WILLIAM GIBBS
+    JOHN CHENG
+    JOHN GRASSO
+    JOHN R GIBB JR
+    JOKIE BECKETT JR
+    JOSEPH KISHORE
+    LESTER H WALLER JR
+    MAISIE T HOWARD
+    MICHAEL YOST
+    PAIJ BORING
+    PATRICK J BURKE
+    PETER SONSKI
+    PRESIDENT R BODDIE
+    RALPH JAFFE
+    RICHARD MAYERS
+    ROBIN ROWE
+    SETHATINA NEWMAN
+    SHARON E HARRIS
+    SHARON MCKLVEEN
+    SHIVA AYYADURAI
+    SHONDRA IRVING
+    SUSAN MAUDE BUCHSER
+    THEO BROWN SR
+    TYRA JANET BENNETT
+    WHITNEY NICOLE BURNETT
+    WILLIAM P STODDEN
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

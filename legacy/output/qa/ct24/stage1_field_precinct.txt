@@ -1,0 +1,1791 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    DISTRICT 1-City Hall ||| [[CITY]]
+    DISTRICT 1-Town Hall ||| [[TOWN]]
+    DISTRICT 2-Town Hall ||| [[TOWN]]
+    DISTRICT 5-City Hall ||| [[CITY]]
+    DISTRICT 2-2-Town Hall ||| [[TOWN]]
+    DISTRICT 130-3-City Hall ||| [[CITY]]
+    DISTRICT 1-47-1 Town Hall ||| [[TOWN]]
+    DISTRICT 1-Lyme Town Hall ||| [[TOWN]]
+    DISTRICT 2-44-1 Town Hall ||| [[TOWN]]
+    DISTRICT 1-Town Hall Annex ||| [[TOWN]]
+    DISTRICT 1-Town Hall-Gym-1 ||| [[TOWN]]
+    DISTRICT 1-Union Town Hall ||| [[TOWN]]
+    DISTRICT 3-Town Hall-Gym-3 ||| [[TOWN]]
+    DISTRICT 1-Canaan Town Hall ||| [[TOWN]]
+    DISTRICT 1-Lisbon Town Hall ||| [[TOWN]]
+    DISTRICT 1-Sharon Town Hall ||| [[TOWN]]
+    DISTRICT 1-2-Town Hall Annex ||| [[TOWN]]
+    DISTRICT 1-Roxbury Town Hall ||| [[TOWN]]
+    DISTRICT 2-Clinton Town Hall ||| [[TOWN]]
+    DISTRICT 4-Windsor Town Hall ||| [[TOWN]]
+    DISTRICT 1-Brooklyn Town Hall ||| [[TOWN]]
+    DISTRICT 1-Essex Town Hall 01 ||| [[TOWN]]
+    DISTRICT 1-Franklin Town Hall ||| [[TOWN]]
+    DISTRICT 1-Hartland Town Hall ||| [[TOWN]]
+    DISTRICT 2-Brooklyn Town Hall ||| [[TOWN]]
+    DISTRICT 1-Colebrook Town Hall ||| [[TOWN]]
+    DISTRICT 1-SALISBURY TOWN HALL ||| [[TOWN]]
+    DISTRICT 2-Greenwich Town Hall ||| [[TOWN]]
+    DISTRICT 1-Canterbury Town Hall ||| [[TOWN]]
+    DISTRICT 1-Colchester Town Hall ||| [[TOWN]]
+    DISTRICT 1-Hampton Town Offices ||| [[TOWN]]
+    DISTRICT 1-Town Office Building ||| [[TOWN]]
+    DISTRICT 3-Vance Village School ||| [[VILLAGE]]
+    DISTRICT 30-Town Hall Main Hall ||| [[TOWN]]
+    DISTRICT 32-Town Hall Main Hall ||| [[TOWN]]
+    DISTRICT 1-Mario Gatti Town Hall ||| [[TOWN]]
+    DISTRICT 1-Watertown High School ||| [[TOWN]]
+    DISTRICT 143-1-Norwalk City Hall ||| [[CITY]]
+    DISTRICT 2-6-Newtown High School ||| [[TOWN]]
+    DISTRICT 1-New Hartford Town Hall ||| [[TOWN]]
+    DISTRICT 1-3-East Farm Village 1-S ||| [[VILLAGE]]
+    DISTRICT 1-6-Newtown Middle School ||| [[TOWN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    DISTRICT 4-1-Charter Oak International Academy ||| [[CHARTER]]
+    DISTRICT 4-2-Charter Oak International Academy ||| [[CHARTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    DISTRICT 5-Vfw ||| [[DISTRICT]]
+    DISTRICT 9-YWCA ||| [[DISTRICT]]
+    DISTRICT 6-Armory ||| [[DISTRICT]]
+    DISTRICT 3-Wakelee ||| [[DISTRICT]]
+    DISTRICT 2-Coe Park ||| [[DISTRICT]]
+    DISTRICT 1-City Hall ||| [[DISTRICT]]
+    DISTRICT 1-Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-Town Hall ||| [[DISTRICT]]
+    DISTRICT 5-City Hall ||| [[DISTRICT]]
+    DISTRICT 1-District 1 ||| [[DISTRICT]]
+    DISTRICT 4-V F W Hall ||| [[DISTRICT]]
+    DISTRICT 14-Center Gym ||| [[DISTRICT]]
+    DISTRICT 2-2-Town Hall ||| [[DISTRICT]]
+    DISTRICT 4-Polk School ||| [[DISTRICT]]
+    DISTRICT 1-L. P. Wilson ||| [[DISTRICT]]
+    DISTRICT 2-Moser School ||| [[DISTRICT]]
+    DISTRICT 30-2-The Shack ||| [[DISTRICT]]
+    DISTRICT 1-Sayles School ||| [[DISTRICT]]
+    DISTRICT 1-Senior Center ||| [[DISTRICT]]
+    DISTRICT 130-3-City Hall ||| [[DISTRICT]]
+    DISTRICT 2-Harbor School ||| [[DISTRICT]]
+    DISTRICT 2-Judson School ||| [[DISTRICT]]
+    DISTRICT 2-Senior Center ||| [[DISTRICT]]
+    DISTRICT 3-Bacon Academy ||| [[DISTRICT]]
+    DISTRICT 3-Orchard House ||| [[DISTRICT]]
+    DISTRICT 3-Oshana School ||| [[DISTRICT]]
+    DISTRICT 4-Bpo Elks 1311 ||| [[DISTRICT]]
+    DISTRICT 5-Forest School ||| [[DISTRICT]]
+    DISTRICT 5-Hays School 5 ||| [[DISTRICT]]
+    DISTRICT 5-Strong School ||| [[DISTRICT]]
+    DISTRICT 6-Bpo Elks 1311 ||| [[DISTRICT]]
+    DISTRICT 6-Forest School ||| [[DISTRICT]]
+    DISTRICT 6-Kelley School ||| [[DISTRICT]]
+    DISTRICT 6-Martin School ||| [[DISTRICT]]
+    DISTRICT 7-Bugbee School ||| [[DISTRICT]]
+    DISTRICT 7-Keeney School ||| [[DISTRICT]]
+    DISTRICT 7-Rawson School ||| [[DISTRICT]]
+    DISTRICT 8-Assembly Hall ||| [[DISTRICT]]
+    DISTRICT 9-Hatton School ||| [[DISTRICT]]
+    DISTRICT 1-2-Main Library ||| [[DISTRICT]]
+    DISTRICT 1-47-1 Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Community Hall ||| [[DISTRICT]]
+    DISTRICT 1-Gaffney School ||| [[DISTRICT]]
+    DISTRICT 1-Hilltop Center ||| [[DISTRICT]]
+    DISTRICT 1-Lyme Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Miller Library ||| [[DISTRICT]]
+    DISTRICT 1-Pearson School ||| [[DISTRICT]]
+    DISTRICT 10-Pagels School ||| [[DISTRICT]]
+    DISTRICT 17-Center School ||| [[DISTRICT]]
+    DISTRICT 2-44-1 Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-Central Office ||| [[DISTRICT]]
+    DISTRICT 3-Buckley School ||| [[DISTRICT]]
+    DISTRICT 3-Yanity Gym - 3 ||| [[DISTRICT]]
+    DISTRICT 31-Assembly Room ||| [[DISTRICT]]
+    DISTRICT 4-Kennedy School ||| [[DISTRICT]]
+    DISTRICT 4-Mohegan School ||| [[DISTRICT]]
+    DISTRICT 4-Waddell School ||| [[DISTRICT]]
+    DISTRICT 4-Wheeler School ||| [[DISTRICT]]
+    DISTRICT 5-3-Woodview 5-S ||| [[DISTRICT]]
+    DISTRICT 6-Goodwin School ||| [[DISTRICT]]
+    DISTRICT 72-2-Reed School ||| [[DISTRICT]]
+    DISTRICT 1-Community House ||| [[DISTRICT]]
+    DISTRICT 1-Town Hall Annex ||| [[DISTRICT]]
+    DISTRICT 1-Town Hall-Gym-1 ||| [[DISTRICT]]
+    DISTRICT 1-Tuttle School 1 ||| [[DISTRICT]]
+    DISTRICT 1-Union Town Hall ||| [[DISTRICT]]
+    DISTRICT 12-Hanover School ||| [[DISTRICT]]
+    DISTRICT 17-Roxbury School ||| [[DISTRICT]]
+    DISTRICT 18-Metzner Center ||| [[DISTRICT]]
+    DISTRICT 2-2-Troup Academy ||| [[DISTRICT]]
+    DISTRICT 2-Langford School ||| [[DISTRICT]]
+    DISTRICT 23-Barnard School ||| [[DISTRICT]]
+    DISTRICT 29-Beecher School ||| [[DISTRICT]]
+    DISTRICT 3-Mayberry School ||| [[DISTRICT]]
+    DISTRICT 3-Toffolon School ||| [[DISTRICT]]
+    DISTRICT 3-Town Hall-Gym-3 ||| [[DISTRICT]]
+    DISTRICT 4-1-Truman School ||| [[DISTRICT]]
+    DISTRICT 5-A.W. Cox School ||| [[DISTRICT]]
+    DISTRICT 5-East School Gym ||| [[DISTRICT]]
+    DISTRICT 5-Hockanum School ||| [[DISTRICT]]
+    DISTRICT 7-Thalberg School ||| [[DISTRICT]]
+    DISTRICT 72-4-Regan School ||| [[DISTRICT]]
+    DISTRICT 74-1-Chase School ||| [[DISTRICT]]
+    DISTRICT 1-Camp Cochipianee ||| [[DISTRICT]]
+    DISTRICT 1-Canaan Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Lisbon Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Pond Hill School ||| [[DISTRICT]]
+    DISTRICT 1-Robertson School ||| [[DISTRICT]]
+    DISTRICT 1-Sharon Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-South End School ||| [[DISTRICT]]
+    DISTRICT 1-West Hill School ||| [[DISTRICT]]
+    DISTRICT 12-1-Ross Woodward ||| [[DISTRICT]]
+    DISTRICT 12-2-Ross Woodward ||| [[DISTRICT]]
+    DISTRICT 16-Kennelly School ||| [[DISTRICT]]
+    DISTRICT 2-Community Center ||| [[DISTRICT]]
+    DISTRICT 2-Community Towers ||| [[DISTRICT]]
+    DISTRICT 2-Derynoski School ||| [[DISTRICT]]
+    DISTRICT 2-Eli Terry School ||| [[DISTRICT]]
+    DISTRICT 25-Edgewood School ||| [[DISTRICT]]
+    DISTRICT 3-Long Hill School ||| [[DISTRICT]]
+    DISTRICT 5-Cook Hill School ||| [[DISTRICT]]
+    DISTRICT 5-Riverside School ||| [[DISTRICT]]
+    DISTRICT 6-Poquonock School ||| [[DISTRICT]]
+    DISTRICT 71-3-Tinker School ||| [[DISTRICT]]
+    DISTRICT 8-Bear Path School ||| [[DISTRICT]]
+    DISTRICT 8-Hall High School ||| [[DISTRICT]]
+    DISTRICT 8-Mackrille School ||| [[DISTRICT]]
+    DISTRICT 8-Verplanck School ||| [[DISTRICT]]
+    DISTRICT 1-2-Town Hall Annex ||| [[DISTRICT]]
+    DISTRICT 1-83-Willard School ||| [[DISTRICT]]
+    DISTRICT 1-North East School ||| [[DISTRICT]]
+    DISTRICT 1-Northville School ||| [[DISTRICT]]
+    DISTRICT 1-Platt High School ||| [[DISTRICT]]
+    DISTRICT 1-Recreation Center ||| [[DISTRICT]]
+    DISTRICT 1-Roxbury Town Hall ||| [[DISTRICT]]
+    DISTRICT 10-Glenville School ||| [[DISTRICT]]
+    DISTRICT 124-3-Dunbar School ||| [[DISTRICT]]
+    DISTRICT 126-2-Hallen School ||| [[DISTRICT]]
+    DISTRICT 130-5-Barnum School ||| [[DISTRICT]]
+    DISTRICT 137-1-Marvin School ||| [[DISTRICT]]
+    DISTRICT 137-3-Tracey School ||| [[DISTRICT]]
+    DISTRICT 15-1-Community Room ||| [[DISTRICT]]
+    DISTRICT 15-Crystal Ballroom ||| [[DISTRICT]]
+    DISTRICT 2-3-Troup Academy 3 ||| [[DISTRICT]]
+    DISTRICT 2-Clinton Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-Savin Rock School ||| [[DISTRICT]]
+    DISTRICT 3-1-Parks And Rec A ||| [[DISTRICT]]
+    DISTRICT 3-3-Parks And Rec B ||| [[DISTRICT]]
+    DISTRICT 3-30-Hubbard School ||| [[DISTRICT]]
+    DISTRICT 3-Deer Run School 3 ||| [[DISTRICT]]
+    DISTRICT 3-John Barry School ||| [[DISTRICT]]
+    DISTRICT 3-Odd Fellows Lodge ||| [[DISTRICT]]
+    DISTRICT 3-Savin Rock School ||| [[DISTRICT]]
+    DISTRICT 4-Great Neck School ||| [[DISTRICT]]
+    DISTRICT 4-Masuk High School ||| [[DISTRICT]]
+    DISTRICT 4-Windsor Town Hall ||| [[DISTRICT]]
+    DISTRICT 6-Ridge Hill School ||| [[DISTRICT]]
+    DISTRICT 7-Rainbow Firehouse ||| [[DISTRICT]]
+    DISTRICT 7-School Apartments ||| [[DISTRICT]]
+    DISTRICT 73-4-Sprague School ||| [[DISTRICT]]
+    DISTRICT 75-3-Maloney School ||| [[DISTRICT]]
+    DISTRICT 8-Graham Apartments ||| [[DISTRICT]]
+    DISTRICT 9-Seth Haley School ||| [[DISTRICT]]
+    DISTRICT 9-West Woods School ||| [[DISTRICT]]
+    DISTRICT 1-Anna Norris School ||| [[DISTRICT]]
+    DISTRICT 1-Brooklyn Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Canton High School ||| [[DISTRICT]]
+    DISTRICT 1-Essex Town Hall 01 ||| [[DISTRICT]]
+    DISTRICT 1-Fawn Hollow School ||| [[DISTRICT]]
+    DISTRICT 1-Franklin Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Gallup Hill School ||| [[DISTRICT]]
+    DISTRICT 1-Hartland Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Prospect Firehouse ||| [[DISTRICT]]
+    DISTRICT 132-10-Senior Center ||| [[DISTRICT]]
+    DISTRICT 140-1-Kendall School ||| [[DISTRICT]]
+    DISTRICT 142-1-Fox Run School ||| [[DISTRICT]]
+    DISTRICT 143-2-Wolfpit School ||| [[DISTRICT]]
+    DISTRICT 2-30-Griswold School ||| [[DISTRICT]]
+    DISTRICT 2-Brooklyn Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-District 2 (North) ||| [[DISTRICT]]
+    DISTRICT 2-Juliet Long School ||| [[DISTRICT]]
+    DISTRICT 2-Momauguin School 2 ||| [[DISTRICT]]
+    DISTRICT 2-Quaker Hill School ||| [[DISTRICT]]
+    DISTRICT 20-Learning Corridor ||| [[DISTRICT]]
+    DISTRICT 3-330 Windsor Avenue ||| [[DISTRICT]]
+    DISTRICT 3-Juliet Long School ||| [[DISTRICT]]
+    DISTRICT 3-Nathan Hale School ||| [[DISTRICT]]
+    DISTRICT 3-Oswegatchie School ||| [[DISTRICT]]
+    DISTRICT 3-Tootin Hill School ||| [[DISTRICT]]
+    DISTRICT 3-West Middle School ||| [[DISTRICT]]
+    DISTRICT 4-New Lebanon School ||| [[DISTRICT]]
+    DISTRICT 4-Overbrook School 4 ||| [[DISTRICT]]
+    DISTRICT 4-Silver Lane School ||| [[DISTRICT]]
+    DISTRICT 4-Spring Glen School ||| [[DISTRICT]]
+    DISTRICT 4-Tariffville School ||| [[DISTRICT]]
+    DISTRICT 5-Conard High School ||| [[DISTRICT]]
+    DISTRICT 5-Indian Neck School ||| [[DISTRICT]]
+    DISTRICT 6-2-Riverside School ||| [[DISTRICT]]
+    DISTRICT 7-Dunbar Hill School ||| [[DISTRICT]]
+    DISTRICT 77-1-Edgewood School ||| [[DISTRICT]]
+    DISTRICT 8-1-Bear Path School ||| [[DISTRICT]]
+    DISTRICT 1-Calvin Leete School ||| [[DISTRICT]]
+    DISTRICT 1-Colebrook Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Laurel Ledge School ||| [[DISTRICT]]
+    DISTRICT 1-Quaker Farms School ||| [[DISTRICT]]
+    DISTRICT 1-SALISBURY TOWN HALL ||| [[DISTRICT]]
+    DISTRICT 11-3-Eastview Terrace ||| [[DISTRICT]]
+    DISTRICT 12-Stillmeadow School ||| [[DISTRICT]]
+    DISTRICT 127-1-Blackham School ||| [[DISTRICT]]
+    DISTRICT 133-5-Blackham School ||| [[DISTRICT]]
+    DISTRICT 134-2-Burr Elementary ||| [[DISTRICT]]
+    DISTRICT 140-2-Columbus School ||| [[DISTRICT]]
+    DISTRICT 141-1-Rowayton School ||| [[DISTRICT]]
+    DISTRICT 17-Firehouse Woodward ||| [[DISTRICT]]
+    DISTRICT 18-Nathan Hale School ||| [[DISTRICT]]
+    DISTRICT 2-3-Maple Hill School ||| [[DISTRICT]]
+    DISTRICT 2-Crystal Lake School ||| [[DISTRICT]]
+    DISTRICT 2-Greenwich Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-Latimer Lane School ||| [[DISTRICT]]
+    DISTRICT 2-South End Firehouse ||| [[DISTRICT]]
+    DISTRICT 2-Thames River Magnet ||| [[DISTRICT]]
+    DISTRICT 2-Wolcott High School ||| [[DISTRICT]]
+    DISTRICT 20-1-Northeast School ||| [[DISTRICT]]
+    DISTRICT 3-Bantam Borough Hall ||| [[DISTRICT]]
+    DISTRICT 3-Swift Middle School ||| [[DISTRICT]]
+    DISTRICT 5-Schaghticoke School ||| [[DISTRICT]]
+    DISTRICT 6-1-Ridge Hill School ||| [[DISTRICT]]
+    DISTRICT 6-Hill & Plain School ||| [[DISTRICT]]
+    DISTRICT 6-Mystic River Magnet ||| [[DISTRICT]]
+    DISTRICT 6-Parker Farms School ||| [[DISTRICT]]
+    DISTRICT 71-2-Gilmartin School ||| [[DISTRICT]]
+    DISTRICT 73-3-Kingsbury School ||| [[DISTRICT]]
+    DISTRICT 77-2-Northeast School ||| [[DISTRICT]]
+    DISTRICT 79-1-Southside School ||| [[DISTRICT]]
+    DISTRICT 9-1-West Woods School ||| [[DISTRICT]]
+    DISTRICT 9-2-West Woods School ||| [[DISTRICT]]
+    DISTRICT 9-Maloney High School ||| [[DISTRICT]]
+    DISTRICT 1-1-King Philip School ||| [[DISTRICT]]
+    DISTRICT 1-2-King Philip School ||| [[DISTRICT]]
+    DISTRICT 1-Canterbury Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Colchester Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Coventry High School ||| [[DISTRICT]]
+    DISTRICT 1-Griswold High School ||| [[DISTRICT]]
+    DISTRICT 1-Hampton Town Offices ||| [[DISTRICT]]
+    DISTRICT 1-John Moriarty School ||| [[DISTRICT]]
+    DISTRICT 1-Leisure Services Gym ||| [[DISTRICT]]
+    DISTRICT 1-Linden Street School ||| [[DISTRICT]]
+    DISTRICT 1-Town Office Building ||| [[DISTRICT]]
+    DISTRICT 1-Weston Middle School ||| [[DISTRICT]]
+    DISTRICT 11-1-Bella Vista 11-01 ||| [[DISTRICT]]
+    DISTRICT 11-North Street School ||| [[DISTRICT]]
+    DISTRICT 12-North Mianus School ||| [[DISTRICT]]
+    DISTRICT 126-1-Beardsley School ||| [[DISTRICT]]
+    DISTRICT 136-6-Westport Library ||| [[DISTRICT]]
+    DISTRICT 137-2-Jefferson School ||| [[DISTRICT]]
+    DISTRICT 14-Dolan Middle School ||| [[DISTRICT]]
+    DISTRICT 142-3-Brookside School ||| [[DISTRICT]]
+    DISTRICT 2-Abundant Life Church ||| [[DISTRICT]]
+    DISTRICT 2-Coventry High School ||| [[DISTRICT]]
+    DISTRICT 2-Lisbon Senior Center ||| [[DISTRICT]]
+    DISTRICT 24-Firehouse Ellsworth ||| [[DISTRICT]]
+    DISTRICT 26-Davis Street School ||| [[DISTRICT]]
+    DISTRICT 3-1-Career High School ||| [[DISTRICT]]
+    DISTRICT 3-23-Tashua School 123 ||| [[DISTRICT]]
+    DISTRICT 3-Roaring Brook School ||| [[DISTRICT]]
+    DISTRICT 3-Saint Michael Church ||| [[DISTRICT]]
+    DISTRICT 3-Torringford School 1 ||| [[DISTRICT]]
+    DISTRICT 3-Vance Village School ||| [[DISTRICT]]
+    DISTRICT 30-Town Hall Main Hall ||| [[DISTRICT]]
+    DISTRICT 32-Town Hall Main Hall ||| [[DISTRICT]]
+    DISTRICT 4-Melissa Jones School ||| [[DISTRICT]]
+    DISTRICT 4-St Pauls Church Hall ||| [[DISTRICT]]
+    DISTRICT 4-Torringford School 2 ||| [[DISTRICT]]
+    DISTRICT 5-Highland Park School ||| [[DISTRICT]]
+    DISTRICT 6-Old Greenwich School ||| [[DISTRICT]]
+    DISTRICT 68-1-Carrington School ||| [[DISTRICT]]
+    DISTRICT 7-1-Dunbar Hill School ||| [[DISTRICT]]
+    DISTRICT 7-2-Dunbar Hill School ||| [[DISTRICT]]
+    DISTRICT 7-2-Hall Of Records 02 ||| [[DISTRICT]]
+    DISTRICT 7-Ann V. Molloy School ||| [[DISTRICT]]
+    DISTRICT 1-7-Middle School Gym A ||| [[DISTRICT]]
+    DISTRICT 1-East Lyme High School ||| [[DISTRICT]]
+    DISTRICT 1-Groton Public Library ||| [[DISTRICT]]
+    DISTRICT 1-Julian Curtiss School ||| [[DISTRICT]]
+    DISTRICT 1-Litchfield Fire House ||| [[DISTRICT]]
+    DISTRICT 1-Mario Gatti Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Stonington Fire House ||| [[DISTRICT]]
+    DISTRICT 1-The Artist Collective ||| [[DISTRICT]]
+    DISTRICT 1-Tyrrell Middle School ||| [[DISTRICT]]
+    DISTRICT 1-Ward 1 Ansonia Armory ||| [[DISTRICT]]
+    DISTRICT 1-Watertown High School ||| [[DISTRICT]]
+    DISTRICT 11-International Church ||| [[DISTRICT]]
+    DISTRICT 11-Israel Putnam School ||| [[DISTRICT]]
+    DISTRICT 118-2-Meadowside School ||| [[DISTRICT]]
+    DISTRICT 129-1-Black Rock School ||| [[DISTRICT]]
+    DISTRICT 143-1-Norwalk City Hall ||| [[DISTRICT]]
+    DISTRICT 2-6-Newtown High School ||| [[DISTRICT]]
+    DISTRICT 2-Bristow Middle School ||| [[DISTRICT]]
+    DISTRICT 2-John F Kennedy School ||| [[DISTRICT]]
+    DISTRICT 2-Niantic Center School ||| [[DISTRICT]]
+    DISTRICT 2-Rockville High School ||| [[DISTRICT]]
+    DISTRICT 2-The Artist Collective ||| [[DISTRICT]]
+    DISTRICT 2-Thompson Brook School ||| [[DISTRICT]]
+    DISTRICT 2-Tolland Senior Center ||| [[DISTRICT]]
+    DISTRICT 2-Ward 2 Ansonia Armory ||| [[DISTRICT]]
+    DISTRICT 23-Saint Bridget School ||| [[DISTRICT]]
+    DISTRICT 3-3-Deer Run School 3-S ||| [[DISTRICT]]
+    DISTRICT 3-Haddam Neck Firehouse ||| [[DISTRICT]]
+    DISTRICT 3-Moses Y. Beach School ||| [[DISTRICT]]
+    DISTRICT 3-Western Middle School ||| [[DISTRICT]]
+    DISTRICT 4-John B Stanton School ||| [[DISTRICT]]
+    DISTRICT 5-1-Riverside School 5a ||| [[DISTRICT]]
+    DISTRICT 6-Keney Park Pond House ||| [[DISTRICT]]
+    DISTRICT 6-Mary T. Murphy School ||| [[DISTRICT]]
+    DISTRICT 7-Greenwich High School ||| [[DISTRICT]]
+    DISTRICT 74-2-Crosby High School ||| [[DISTRICT]]
+    DISTRICT 8-Central Middle School ||| [[DISTRICT]]
+    DISTRICT 8-Depaolo Middle School ||| [[DISTRICT]]
+    DISTRICT 8-Walnut Hill Gymnasium ||| [[DISTRICT]]
+    DISTRICT 1-1-Cromwell High School ||| [[DISTRICT]]
+    DISTRICT 1-2-Andrew Avenue School ||| [[DISTRICT]]
+    DISTRICT 1-Fields Memorial School ||| [[DISTRICT]]
+    DISTRICT 1-Fire Safety Complex D1 ||| [[DISTRICT]]
+    DISTRICT 1-Horace W Porter School ||| [[DISTRICT]]
+    DISTRICT 1-Knowlton Memorial Hall ||| [[DISTRICT]]
+    DISTRICT 1-New Canaan High School ||| [[DISTRICT]]
+    DISTRICT 1-New Hartford Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Pleasant Valley School ||| [[DISTRICT]]
+    DISTRICT 1-Portland Middle School ||| [[DISTRICT]]
+    DISTRICT 1-Suffield Middle School ||| [[DISTRICT]]
+    DISTRICT 1-Terryville High School ||| [[DISTRICT]]
+    DISTRICT 11-2-Bishop Woods School ||| [[DISTRICT]]
+    DISTRICT 126-4-Read Middle School ||| [[DISTRICT]]
+    DISTRICT 127-2-Read Middle School ||| [[DISTRICT]]
+    DISTRICT 13-Lincoln Middle School ||| [[DISTRICT]]
+    DISTRICT 132-9-Sherman Elementary ||| [[DISTRICT]]
+    DISTRICT 133-5-Fairfield Warde HS ||| [[DISTRICT]]
+    DISTRICT 14-Pulaski Middle School ||| [[DISTRICT]]
+    DISTRICT 2-3-Momauguin School 2-S ||| [[DISTRICT]]
+    DISTRICT 2-Abraham Baldwin School ||| [[DISTRICT]]
+    DISTRICT 2-Bloomfield High School ||| [[DISTRICT]]
+    DISTRICT 2-Fire Safety Complex D2 ||| [[DISTRICT]]
+    DISTRICT 2-Manchester High School ||| [[DISTRICT]]
+    DISTRICT 22-1-Wexler Grant School ||| [[DISTRICT]]
+    DISTRICT 22-2-Wexler Grant School ||| [[DISTRICT]]
+    DISTRICT 28-Hillhouse High School ||| [[DISTRICT]]
+    DISTRICT 3-2-Career High School02 ||| [[DISTRICT]]
+    DISTRICT 3-3-Career High School 3 ||| [[DISTRICT]]
+    DISTRICT 3-Griswold Middle School ||| [[DISTRICT]]
+    DISTRICT 3-Keefe Community Center ||| [[DISTRICT]]
+    DISTRICT 3-Skinner Road School 56 ||| [[DISTRICT]]
+    DISTRICT 4-3-Overbrook School 4-S ||| [[DISTRICT]]
+    DISTRICT 4-Annie E. Vinton School ||| [[DISTRICT]]
+    DISTRICT 4-East School Auditorium ||| [[DISTRICT]]
+    DISTRICT 4-Phillip R Smith School ||| [[DISTRICT]]
+    DISTRICT 4-Webb Elementary School ||| [[DISTRICT]]
+    DISTRICT 458-Henry Barnard School ||| [[DISTRICT]]
+    DISTRICT 459-Henry Barnard School ||| [[DISTRICT]]
+    DISTRICT 6-1-Saint Bridget School ||| [[DISTRICT]]
+    DISTRICT 6-East School Music Room ||| [[DISTRICT]]
+    DISTRICT 6-Sedgwick Middle School ||| [[DISTRICT]]
+    DISTRICT 6-Snow School District 6 ||| [[DISTRICT]]
+    DISTRICT 71-1-Kennedy High School ||| [[DISTRICT]]
+    DISTRICT 78-2-West Bristol School ||| [[DISTRICT]]
+    DISTRICT 79-3-Greene-Hills School ||| [[DISTRICT]]
+    DISTRICT 1-3-East Farm Village 1-S ||| [[DISTRICT]]
+    DISTRICT 1-6-Newtown Middle School ||| [[DISTRICT]]
+    DISTRICT 1-Incarnation Church Hall ||| [[DISTRICT]]
+    DISTRICT 1-Lena Morton Art Gallery ||| [[DISTRICT]]
+    DISTRICT 1-Stafford Public Library ||| [[DISTRICT]]
+    DISTRICT 10-Westover Magnet School ||| [[DISTRICT]]
+    DISTRICT 124-4-Harding High School ||| [[DISTRICT]]
+    DISTRICT 126-6-Wilbur Cross School ||| [[DISTRICT]]
+    DISTRICT 129-2-Central High School ||| [[DISTRICT]]
+    DISTRICT 129-3-Central High School ||| [[DISTRICT]]
+    DISTRICT 13-Rippowam Middle School ||| [[DISTRICT]]
+    DISTRICT 130-1-Bassick High School ||| [[DISTRICT]]
+    DISTRICT 130-2-Bassick High School ||| [[DISTRICT]]
+    DISTRICT 133-6-McKinley Elementary ||| [[DISTRICT]]
+    DISTRICT 16-1-Turn Of River School ||| [[DISTRICT]]
+    DISTRICT 16-John S Martinez School ||| [[DISTRICT]]
+    DISTRICT 16-St John Paul II School ||| [[DISTRICT]]
+    DISTRICT 17-St. Jerome Church Hall ||| [[DISTRICT]]
+    DISTRICT 18-2-Turn Of River School ||| [[DISTRICT]]
+    DISTRICT 19-Davenport Ridge School ||| [[DISTRICT]]
+    DISTRICT 2-1-Central Avenue School ||| [[DISTRICT]]
+    DISTRICT 2-1-Killingly High School ||| [[DISTRICT]]
+    DISTRICT 2-2-Killingly High School ||| [[DISTRICT]]
+    DISTRICT 2-Durham Community Center ||| [[DISTRICT]]
+    DISTRICT 2-Mansfield Middle School ||| [[DISTRICT]]
+    DISTRICT 2-Northfield Fire House 2 ||| [[DISTRICT]]
+    DISTRICT 2-Rose City Senior Center ||| [[DISTRICT]]
+    DISTRICT 2-St. Maurice Church Hall ||| [[DISTRICT]]
+    DISTRICT 2-St. Therese Church Hall ||| [[DISTRICT]]
+    DISTRICT 21-1-King-Robinson School ||| [[DISTRICT]]
+    DISTRICT 21-Scofield Middle School ||| [[DISTRICT]]
+    DISTRICT 258-Enfield Street School ||| [[DISTRICT]]
+    DISTRICT 3-Durham Community Center ||| [[DISTRICT]]
+    DISTRICT 3-West Hartford Town Hall ||| [[DISTRICT]]
+    DISTRICT 4-1-New Lebanon School 4a ||| [[DISTRICT]]
+    DISTRICT 4-2-Killingly High School ||| [[DISTRICT]]
+    DISTRICT 4-Durham Community Center ||| [[DISTRICT]]
+    DISTRICT 4-Northfield Fire House 4 ||| [[DISTRICT]]
+    DISTRICT 4-Norton School - Dist. 4 ||| [[DISTRICT]]
+    DISTRICT 5-Emerson Williams School ||| [[DISTRICT]]
+    DISTRICT 5-Oliver Ellsworth School ||| [[DISTRICT]]
+    DISTRICT 5-Roosevelt Middle School ||| [[DISTRICT]]
+    DISTRICT 5-United Methodist Church ||| [[DISTRICT]]
+    DISTRICT 7-Ward 7 Mead School Cafe ||| [[DISTRICT]]
+    DISTRICT 77-3-Mountain View School ||| [[DISTRICT]]
+    DISTRICT 1-3-Andrew Avenue School A ||| [[DISTRICT]]
+    DISTRICT 1-Bolton Center School Gym ||| [[DISTRICT]]
+    DISTRICT 1-East Hampton High School ||| [[DISTRICT]]
+    DISTRICT 1-Elizabeth Shelton School ||| [[DISTRICT]]
+    DISTRICT 1-Haddam Firehouse Complex ||| [[DISTRICT]]
+    DISTRICT 1-Hebron Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-Pomfret Community School ||| [[DISTRICT]]
+    DISTRICT 1-Redding Community Center ||| [[DISTRICT]]
+    DISTRICT 1-Samuel Staples School #1 ||| [[DISTRICT]]
+    DISTRICT 1-Senior/ Community Center ||| [[DISTRICT]]
+    DISTRICT 1-Torrington Middle School ||| [[DISTRICT]]
+    DISTRICT 100-Memorial Middle School ||| [[DISTRICT]]
+    DISTRICT 119-1-Orange Avenue School ||| [[DISTRICT]]
+    DISTRICT 126-5-Thomas Hooker School ||| [[DISTRICT]]
+    DISTRICT 127-3-John Winthrop School ||| [[DISTRICT]]
+    DISTRICT 130-4-Cesar Batalla School ||| [[DISTRICT]]
+    DISTRICT 134-1-Mill Hill Elementary ||| [[DISTRICT]]
+    DISTRICT 140-3-Nathaniel Ely School ||| [[DISTRICT]]
+    DISTRICT 15-Batchelder School - Gym ||| [[DISTRICT]]
+    DISTRICT 2-23-Booth Hill School 123 ||| [[DISTRICT]]
+    DISTRICT 2-Chapman School - Dist. 2 ||| [[DISTRICT]]
+    DISTRICT 2-Community Room Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-District 2 Bungay School ||| [[DISTRICT]]
+    DISTRICT 2-Evarts C. Stevens School ||| [[DISTRICT]]
+    DISTRICT 2-Samuel Staples School #2 ||| [[DISTRICT]]
+    DISTRICT 2-Saxe Middle School North ||| [[DISTRICT]]
+    DISTRICT 2-Stony Hill Fire House -2 ||| [[DISTRICT]]
+    DISTRICT 200-Memorial Middle School ||| [[DISTRICT]]
+    DISTRICT 22-Hartford Public Library ||| [[DISTRICT]]
+    DISTRICT 3-1-Skinner Road School 57 ||| [[DISTRICT]]
+    DISTRICT 3-44-3 Moosup Fire Station ||| [[DISTRICT]]
+    DISTRICT 3-District 3 Anna Reynolds ||| [[DISTRICT]]
+    DISTRICT 3-Frank A Berry School - 3 ||| [[DISTRICT]]
+    DISTRICT 3-Monroe Elementary School ||| [[DISTRICT]]
+    DISTRICT 3-Samuel Huntington School ||| [[DISTRICT]]
+    DISTRICT 3-Saxe Middle School South ||| [[DISTRICT]]
+    DISTRICT 30-1-Brennan Rogers School ||| [[DISTRICT]]
+    DISTRICT 30-11-Johnson House 121 21 ||| [[DISTRICT]]
+    DISTRICT 30-13-Johnson House 121 23 ||| [[DISTRICT]]
+    DISTRICT 4-Gaylordsville Fire House ||| [[DISTRICT]]
+    DISTRICT 4-Stonington Middle School ||| [[DISTRICT]]
+    DISTRICT 4-Stony Hill Fire House -4 ||| [[DISTRICT]]
+    DISTRICT 5-34-Frenchtown School 134 ||| [[DISTRICT]]
+    DISTRICT 5-Betsy Ross Magnet School ||| [[DISTRICT]]
+    DISTRICT 5-Immanuel Lutheran Church ||| [[DISTRICT]]
+    DISTRICT 5-Laurel Elementary School ||| [[DISTRICT]]
+    DISTRICT 5-Timothy Edwards School - ||| [[DISTRICT]]
+    DISTRICT 50-1-Nichols School 120 21 ||| [[DISTRICT]]
+    DISTRICT 6-Ahepa-110 Community Room ||| [[DISTRICT]]
+    DISTRICT 7-Windham Center Fire Dept ||| [[DISTRICT]]
+    DISTRICT 75-2-Washington Park House ||| [[DISTRICT]]
+    DISTRICT 1-1-Cross Street School - A ||| [[DISTRICT]]
+    DISTRICT 1-Bethel Municipal Center 1 ||| [[DISTRICT]]
+    DISTRICT 1-New Fairfield High School ||| [[DISTRICT]]
+    DISTRICT 1-St Marguerite Parish Hall ||| [[DISTRICT]]
+    DISTRICT 1-Town Hall - McCarthy Room ||| [[DISTRICT]]
+    DISTRICT 10-Generale Ameglio Society ||| [[DISTRICT]]
+    DISTRICT 10-St. John Lutheran Church ||| [[DISTRICT]]
+    DISTRICT 118-1-John F Kennedy School ||| [[DISTRICT]]
+    DISTRICT 119-2-John F Kennedy School ||| [[DISTRICT]]
+    DISTRICT 124-2-John F Kennedy Campus ||| [[DISTRICT]]
+    DISTRICT 13-Holmes Elementary School ||| [[DISTRICT]]
+    DISTRICT 132-8-Riverfield Elementary ||| [[DISTRICT]]
+    DISTRICT 133-4-Stratfield Elementary ||| [[DISTRICT]]
+    DISTRICT 2-2-Cross Street School - B ||| [[DISTRICT]]
+    DISTRICT 2-Stafford Community Center ||| [[DISTRICT]]
+    DISTRICT 2-Stepney Elementary School ||| [[DISTRICT]]
+    DISTRICT 2-Windsor Locks High School ||| [[DISTRICT]]
+    DISTRICT 20-2-Lincoln-Bassett School ||| [[DISTRICT]]
+    DISTRICT 3-2-City Hill Middle School ||| [[DISTRICT]]
+    DISTRICT 358-Enfield Municipal Annex ||| [[DISTRICT]]
+    DISTRICT 359-Enfield Municipal Annex ||| [[DISTRICT]]
+    DISTRICT 4-Moody School - District 4 ||| [[DISTRICT]]
+    DISTRICT 4-St. Rose Community Center ||| [[DISTRICT]]
+    DISTRICT 50-11-Nichols School 121 21 ||| [[DISTRICT]]
+    DISTRICT 6-1-Old Greenwich School 6a ||| [[DISTRICT]]
+    DISTRICT 6-23-Middlebrook School 123 ||| [[DISTRICT]]
+    DISTRICT 6-34-Middlebrook School 134 ||| [[DISTRICT]]
+    DISTRICT 7-Spencer School District 7 ||| [[DISTRICT]]
+    DISTRICT 7-Walsh Intermediate School ||| [[DISTRICT]]
+    DISTRICT 8-1-Conte-West Schools 8-01 ||| [[DISTRICT]]
+    DISTRICT 8-Annie Fisher School - Gym ||| [[DISTRICT]]
+    DISTRICT 8-Wallingford Senior Center ||| [[DISTRICT]]
+    DISTRICT 9-Bennet Academy - Cone Gym ||| [[DISTRICT]]
+    DISTRICT 9-New Britain Senior Center ||| [[DISTRICT]]
+    DISTRICT 1-1-Julian Curtiss School 1a ||| [[DISTRICT]]
+    DISTRICT 1-Firehouse/community Center ||| [[DISTRICT]]
+    DISTRICT 1-Mansfield Community Center ||| [[DISTRICT]]
+    DISTRICT 1-New London Stm High School ||| [[DISTRICT]]
+    DISTRICT 10-Whiton Library Auditorium ||| [[DISTRICT]]
+    DISTRICT 11-1-North Street School 11a ||| [[DISTRICT]]
+    DISTRICT 118-4-Margaret S Egan Center ||| [[DISTRICT]]
+    DISTRICT 133-3-Osborn Hill Elementary ||| [[DISTRICT]]
+    DISTRICT 134-3-Osborn Hill Elementary ||| [[DISTRICT]]
+    DISTRICT 19-Alfred Burr Middle School ||| [[DISTRICT]]
+    DISTRICT 2-Brookfield High School  NG ||| [[DISTRICT]]
+    DISTRICT 22-2-Long Ridge Fire Company ||| [[DISTRICT]]
+    DISTRICT 3-6-Reed Intermediate School ||| [[DISTRICT]]
+    DISTRICT 3-Carmen Arace Middle School ||| [[DISTRICT]]
+    DISTRICT 3-East Lyme Community Center ||| [[DISTRICT]]
+    DISTRICT 3-Guilford Fire Headquarters ||| [[DISTRICT]]
+    DISTRICT 4-Branford Fire Headquarters ||| [[DISTRICT]]
+    DISTRICT 4-East Ridge Middle School-4 ||| [[DISTRICT]]
+    DISTRICT 4-East Thompson Fire Station ||| [[DISTRICT]]
+    DISTRICT 40-11-Franklin School 121 21 ||| [[DISTRICT]]
+    DISTRICT 40-13-Franklin School 121 23 ||| [[DISTRICT]]
+    DISTRICT 5-Doolittle School - Dist. 5 ||| [[DISTRICT]]
+    DISTRICT 5-Lawrence School District 5 ||| [[DISTRICT]]
+    DISTRICT 5-School Administration Bldg ||| [[DISTRICT]]
+    DISTRICT 5-Stamford High School -Rear ||| [[DISTRICT]]
+    DISTRICT 6-District 6 - Mather Center ||| [[DISTRICT]]
+    DISTRICT 7-1-Greenwich High School 7a ||| [[DISTRICT]]
+    DISTRICT 70-1-Wilcoxson School 120 21 ||| [[DISTRICT]]
+    DISTRICT 8-South End Community Center ||| [[DISTRICT]]
+    DISTRICT 9-Wesley School - District 9 ||| [[DISTRICT]]
+    DISTRICT 1-District 1 Community Center ||| [[DISTRICT]]
+    DISTRICT 1-Henry James Memorial School ||| [[DISTRICT]]
+    DISTRICT 1-Municipal Complex Town Hall ||| [[DISTRICT]]
+    DISTRICT 1-Sterling Municipal Building ||| [[DISTRICT]]
+    DISTRICT 1-Voluntown Elementary School ||| [[DISTRICT]]
+    DISTRICT 100-1-Second Hill Lane 120 21 ||| [[DISTRICT]]
+    DISTRICT 126-3-Park City Magnet School ||| [[DISTRICT]]
+    DISTRICT 128-2-Luis Munoz Marin School ||| [[DISTRICT]]
+    DISTRICT 13-Parkville Community School ||| [[DISTRICT]]
+    DISTRICT 132-7-Holland Hill Elementary ||| [[DISTRICT]]
+    DISTRICT 136-2-Coleytown Middle School ||| [[DISTRICT]]
+    DISTRICT 14-1-Atwater Senior Center 01 ||| [[DISTRICT]]
+    DISTRICT 19-1-Celentano Museum Academy ||| [[DISTRICT]]
+    DISTRICT 19-2-Celentano Museum Academy ||| [[DISTRICT]]
+    DISTRICT 2-Booker T Washington Academy ||| [[DISTRICT]]
+    DISTRICT 2-Montowese Elementary School ||| [[DISTRICT]]
+    DISTRICT 2-Municipal Complex Town Hall ||| [[DISTRICT]]
+    DISTRICT 2-New Fairfield Senior Center ||| [[DISTRICT]]
+    DISTRICT 2-Saint Maurice Parish Center ||| [[DISTRICT]]
+    DISTRICT 2-Shelton Intermediate School ||| [[DISTRICT]]
+    DISTRICT 2-Spencer School - District 2 ||| [[DISTRICT]]
+    DISTRICT 21-Dutch Point Community Room ||| [[DISTRICT]]
+    DISTRICT 4-Metacomet Elementary School ||| [[DISTRICT]]
+    DISTRICT 4-Vernon Center Middle School ||| [[DISTRICT]]
+    DISTRICT 5-Board Of Education Building ||| [[DISTRICT]]
+    DISTRICT 6-Thomas Edison Middle School ||| [[DISTRICT]]
+    DISTRICT 7-2-First Presbyterian Church ||| [[DISTRICT]]
+    DISTRICT 72-3-Waterbury Career Academy ||| [[DISTRICT]]
+    DISTRICT 8-Upper Room Christian Center ||| [[DISTRICT]]
+    DISTRICT 1-23-Daniels Farm School - 123 ||| [[DISTRICT]]
+    DISTRICT 1-Avon High School - Gymnasium ||| [[DISTRICT]]
+    DISTRICT 1-Chester Town Office Building ||| [[DISTRICT]]
+    DISTRICT 1-East Ridge Middle School - 1 ||| [[DISTRICT]]
+    DISTRICT 1-Preston Plains Middle School ||| [[DISTRICT]]
+    DISTRICT 1-Woodstock Middle School - 50 ||| [[DISTRICT]]
+    DISTRICT 11-Cloonan Middle School -Side ||| [[DISTRICT]]
+    DISTRICT 117-Joseph A Foran High School ||| [[DISTRICT]]
+    DISTRICT 118-5-Harborside Middle School ||| [[DISTRICT]]
+    DISTRICT 119-3-Harborside Middle School ||| [[DISTRICT]]
+    DISTRICT 128-1-Geraldine Johnson School ||| [[DISTRICT]]
+    DISTRICT 143-3-West Rocks Middle School ||| [[DISTRICT]]
+    DISTRICT 2-Woodstock Middle School - 52 ||| [[DISTRICT]]
+    DISTRICT 23-Willie Ware Recreation Ctr. ||| [[DISTRICT]]
+    DISTRICT 3-1-Chesprocott - District 3-1 ||| [[DISTRICT]]
+    DISTRICT 3-2-Chesprocott - District 3-2 ||| [[DISTRICT]]
+    DISTRICT 3-Brookfield High School 32 OG ||| [[DISTRICT]]
+    DISTRICT 3-Lawrence School - District 3 ||| [[DISTRICT]]
+    DISTRICT 3-Ridge Road Elementary School ||| [[DISTRICT]]
+    DISTRICT 4-12-Madison Middle School 112 ||| [[DISTRICT]]
+    DISTRICT 4-23-Madison Middle School 123 ||| [[DISTRICT]]
+    DISTRICT 4-Strawberry Hill School -Rear ||| [[DISTRICT]]
+    DISTRICT 7-Dodd Middle School - Dist. 7 ||| [[DISTRICT]]
+    DISTRICT 7-Mary Fritz Yalesville School ||| [[DISTRICT]]
+    DISTRICT 8-2-Conte-West Hills School 02 ||| [[DISTRICT]]
+    DISTRICT 9-2-East Rock Community Magnet ||| [[DISTRICT]]
+    DISTRICT 9-District 9 - Hopewell School ||| [[DISTRICT]]
+    DISTRICT 1-Andover Elementary School Gym ||| [[DISTRICT]]
+    DISTRICT 1-Barkhamsted Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-Center Fire House District #1 ||| [[DISTRICT]]
+    DISTRICT 142-2-Ponus Ridge Middle School ||| [[DISTRICT]]
+    DISTRICT 143-1-Nathan Hale Middle School ||| [[DISTRICT]]
+    DISTRICT 2-1-Booker T Washington Academy ||| [[DISTRICT]]
+    DISTRICT 2-Calvary Southbury District #2 ||| [[DISTRICT]]
+    DISTRICT 2-Domus - The Old Rogers School ||| [[DISTRICT]]
+    DISTRICT 2-Mohegan Elementary School - 2 ||| [[DISTRICT]]
+    DISTRICT 2-Pitkin Community Center North ||| [[DISTRICT]]
+    DISTRICT 3-West Stafford Fire Department ||| [[DISTRICT]]
+    DISTRICT 4-Green Acres Elementary School ||| [[DISTRICT]]
+    DISTRICT 5-1-Board Of Education Building ||| [[DISTRICT]]
+    DISTRICT 5-2-Board Of Education Building ||| [[DISTRICT]]
+    DISTRICT 5-Mohegan Elementary School - 5 ||| [[DISTRICT]]
+    DISTRICT 6-1-Highland School - Dist. 6-1 ||| [[DISTRICT]]
+    DISTRICT 6-2-Highland School - Dist. 6-2 ||| [[DISTRICT]]
+    DISTRICT 6-Chamberlain Elementary School ||| [[DISTRICT]]
+    DISTRICT 6-Pitkin Community Center South ||| [[DISTRICT]]
+    DISTRICT 6-Ward 6 Prendergast School Gym ||| [[DISTRICT]]
+    DISTRICT 7-Chamberlain Highway Firehouse ||| [[DISTRICT]]
+    DISTRICT 7-District 7 - Academy Building ||| [[DISTRICT]]
+    DISTRICT 7-Robert E Fitch Sr High School ||| [[DISTRICT]]
+    DISTRICT 7-Saint Christopher Church Hall ||| [[DISTRICT]]
+    DISTRICT 72-5-Edward D Bergin Apartments ||| [[DISTRICT]]
+    DISTRICT 74-4-I D L School 15th District ||| [[DISTRICT]]
+    DISTRICT 90-1-Bunnell High School 120 21 ||| [[DISTRICT]]
+    DISTRICT 90-21-Bunnell High Scool 122-21 ||| [[DISTRICT]]
+    DISTRICT 1-Cheshire High School - Dist. 1 ||| [[DISTRICT]]
+    DISTRICT 1-Killingworth Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-Macdonough School - District 1 ||| [[DISTRICT]]
+    DISTRICT 1-Shepardson Community Center 01 ||| [[DISTRICT]]
+    DISTRICT 13-Benjamin Jepson Magnet School ||| [[DISTRICT]]
+    DISTRICT 158-John F Kennedy Middle School ||| [[DISTRICT]]
+    DISTRICT 159-John F Kennedy Middle School ||| [[DISTRICT]]
+    DISTRICT 2-Cider Mill School - District 2 ||| [[DISTRICT]]
+    DISTRICT 2-Former Pawcatuck Middle School ||| [[DISTRICT]]
+    DISTRICT 2-Scotts Ridge Middle School - 2 ||| [[DISTRICT]]
+    DISTRICT 3-K T Murphy School On George St ||| [[DISTRICT]]
+    DISTRICT 3-Ward 3 Holy Rosary Church Hall ||| [[DISTRICT]]
+    DISTRICT 4-Dag Hammarskjold Middle School ||| [[DISTRICT]]
+    DISTRICT 5-Clintonville Elementary School ||| [[DISTRICT]]
+    DISTRICT 72-1-Hopkins Street Rec Building ||| [[DISTRICT]]
+    DISTRICT 77-4-Chippens Hill Middle School ||| [[DISTRICT]]
+    DISTRICT 78-1-Bristol Eastern High School ||| [[DISTRICT]]
+    DISTRICT 80-1-Chapel Street School 120 21 ||| [[DISTRICT]]
+    DISTRICT 9-Park And Recreation Department ||| [[DISTRICT]]
+    DISTRICT 1-Elmer Thienes Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-Wilton High School - District 1 ||| [[DISTRICT]]
+    DISTRICT 136-1-Saugatuck Elementary School ||| [[DISTRICT]]
+    DISTRICT 136-3-Long Lots Elementary School ||| [[DISTRICT]]
+    DISTRICT 143-1-Saugatuck Elementary School ||| [[DISTRICT]]
+    DISTRICT 2-District 2 Hebron Avenue School ||| [[DISTRICT]]
+    DISTRICT 2-Our Lady Of Mercy Parish Center ||| [[DISTRICT]]
+    DISTRICT 2-Shepardson Community Center 002 ||| [[DISTRICT]]
+    DISTRICT 20-1-Stratford High School 120 21 ||| [[DISTRICT]]
+    DISTRICT 27-1-Mauro Sheridan Magnet School ||| [[DISTRICT]]
+    DISTRICT 3-Middlebrook School - District 3 ||| [[DISTRICT]]
+    DISTRICT 4-District 4 Gideon Welles School ||| [[DISTRICT]]
+    DISTRICT 60-1-Wooster Middle School 120 21 ||| [[DISTRICT]]
+    DISTRICT 7-Sarah Noble Intermediate School ||| [[DISTRICT]]
+    DISTRICT 80-21-Chapel Street School 122 21 ||| [[DISTRICT]]
+    DISTRICT 9-Salvation Army Community Center ||| [[DISTRICT]]
+    DISTRICT 1-4-Irving Elementary School - 104 ||| [[DISTRICT]]
+    DISTRICT 1-5-Irving Elementary School - 105 ||| [[DISTRICT]]
+    DISTRICT 1-District 1 - Smith Middle School ||| [[DISTRICT]]
+    DISTRICT 11-Bielefield School - District 11 ||| [[DISTRICT]]
+    DISTRICT 11-Samuel V. Arroyo Pope Park Ctr. ||| [[DISTRICT]]
+    DISTRICT 118-3-West Shore Recreation Center ||| [[DISTRICT]]
+    DISTRICT 12-Bielefield School - District 12 ||| [[DISTRICT]]
+    DISTRICT 12-Samuel V. Arroyo-Pope Park Ctr. ||| [[DISTRICT]]
+    DISTRICT 2-District 2 - Town Hall Gymnasium ||| [[DISTRICT]]
+    DISTRICT 20-11-Stratford High School 121-21 ||| [[DISTRICT]]
+    DISTRICT 4-Mary Morrisson Elementary School ||| [[DISTRICT]]
+    DISTRICT 4-Ward 4 Ansonia Middle School Gym ||| [[DISTRICT]]
+    DISTRICT 5-District 5 - Town Hall Gymnasium ||| [[DISTRICT]]
+    DISTRICT 5-Ward 5 Ansonia Middle School Gym ||| [[DISTRICT]]
+    DISTRICT 60-11-Wooster Middle School 121 21 ||| [[DISTRICT]]
+    DISTRICT 7-22-Christian Heritage School 122 ||| [[DISTRICT]]
+    DISTRICT 7-23-Christian Heritage School 123 ||| [[DISTRICT]]
+    DISTRICT 73-2-Catholic Academy Of Waterbury ||| [[DISTRICT]]
+    DISTRICT 75-1-Willow Plaza Community Center ||| [[DISTRICT]]
+    DISTRICT 89-1-Wendell Cross School 3rd Cong ||| [[DISTRICT]]
+    DISTRICT 89-2-Wendell Cross School 5th Cong ||| [[DISTRICT]]
+    DISTRICT 1-14-Irving Elementary School - 114 ||| [[DISTRICT]]
+    DISTRICT 1-Chaplin Volunteer Fire Department ||| [[DISTRICT]]
+    DISTRICT 1-Community Room Deep River Library ||| [[DISTRICT]]
+    DISTRICT 1-Jerome Harrison Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-North Stonington Education Center ||| [[DISTRICT]]
+    DISTRICT 1-Salem Town Office Building Room 1 ||| [[DISTRICT]]
+    DISTRICT 10-Mary Shepard Place Community Rm. ||| [[DISTRICT]]
+    DISTRICT 136-4-Greens Farm Elementary School ||| [[DISTRICT]]
+    DISTRICT 17-South End Senior Wellness Center ||| [[DISTRICT]]
+    DISTRICT 2-Salem Town Office Building Room 2 ||| [[DISTRICT]]
+    DISTRICT 24-Parker Memorial Community Center ||| [[DISTRICT]]
+    DISTRICT 3-City Of Groton Municipal Building ||| [[DISTRICT]]
+    DISTRICT 4-Community Center At Fair Oaks - 4 ||| [[DISTRICT]]
+    DISTRICT 4-District 4 - St Johns Parish Hall ||| [[DISTRICT]]
+    DISTRICT 73-1-Our Lady Of Loreto Church Hall ||| [[DISTRICT]]
+    DISTRICT 1-High Plains Community Center - Gym ||| [[DISTRICT]]
+    DISTRICT 1-Teresa Mulvey Municipal Center - 1 ||| [[DISTRICT]]
+    DISTRICT 12-St. Francis Of Assisi Church Hall ||| [[DISTRICT]]
+    DISTRICT 136-5-Greens Farms Elementary School ||| [[DISTRICT]]
+    DISTRICT 2-14-Bradley Elementary School - 114 ||| [[DISTRICT]]
+    DISTRICT 2-Old Saybrook High School Gymnasium ||| [[DISTRICT]]
+    DISTRICT 2-Teresa Mulvey Municipal Center - 2 ||| [[DISTRICT]]
+    DISTRICT 5-2-War Memorial Gym District 005-02 ||| [[DISTRICT]]
+    DISTRICT 5-9-War Memorial Gym District 005-09 ||| [[DISTRICT]]
+    DISTRICT 5-Holy Trinity Greek Orthodox Church ||| [[DISTRICT]]
+    DISTRICT 1-Star Center - Old Star Of The Sea - ||| [[DISTRICT]]
+    DISTRICT 10-Wilbur Cross High School - Federal ||| [[DISTRICT]]
+    DISTRICT 3-Quinebaug Volunteer Fire Department ||| [[DISTRICT]]
+    DISTRICT 4-1-Charter Oak International Academy ||| [[DISTRICT]]
+    DISTRICT 4-2-Charter Oak International Academy ||| [[DISTRICT]]
+    DISTRICT 5-10-War Memorial Gym District 005-10 ||| [[DISTRICT]]
+    DISTRICT 5-Bd Of Ed Central Office - Cafeteria ||| [[DISTRICT]]
+    DISTRICT 75-4-Saint Francis Xavier Church Hall ||| [[DISTRICT]]
+    DISTRICT 1-4-West Woods - District 1 Precinct 4 ||| [[DISTRICT]]
+    DISTRICT 1-East Haddam Municipal Office Complex ||| [[DISTRICT]]
+    DISTRICT 1-Old Saybrook Middle School Gymnasium ||| [[DISTRICT]]
+    DISTRICT 10-1-Lordship Elementary School 120 21 ||| [[DISTRICT]]
+    DISTRICT 129-4-Geraldine Claytor Magnet Acadamy ||| [[DISTRICT]]
+    DISTRICT 3-District 3 Chatfield-Lopresti School ||| [[DISTRICT]]
+    DISTRICT 3-Ellington High School Gymnasium Back ||| [[DISTRICT]]
+    DISTRICT 3-Wethersfield United Methodist Church ||| [[DISTRICT]]
+    DISTRICT 74-3-I D L School 16th Senate District ||| [[DISTRICT]]
+    DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria ||| [[DISTRICT]]
+    DISTRICT 1-Bethlehem Town Office Building Room 1 ||| [[DISTRICT]]
+    DISTRICT 1-District 1 Mortensen Community Center ||| [[DISTRICT]]
+    DISTRICT 1-Ellington High School Gymnasium Front ||| [[DISTRICT]]
+    DISTRICT 1-Lyme-Old Lyme Middle School Gymnasium ||| [[DISTRICT]]
+    DISTRICT 11-11-Lordship Elementary School 121 21 ||| [[DISTRICT]]
+    DISTRICT 11-23-Lordship Elementary School 121 23 ||| [[DISTRICT]]
+    DISTRICT 14-Environmental Sciences Magnet School ||| [[DISTRICT]]
+    DISTRICT 2-8-Pembroke School Gym District 002-08 ||| [[DISTRICT]]
+    DISTRICT 2-9-Pembroke School Gym District 002-09 ||| [[DISTRICT]]
+    DISTRICT 2-Bethlehem Town Office Building Room 1 ||| [[DISTRICT]]
+    DISTRICT 24-Scofield Middle School - District 24 ||| [[DISTRICT]]
+    DISTRICT 3-1-Bd Of Ed Central Office - Cafeteria ||| [[DISTRICT]]
+    DISTRICT 3-2-Bd Of Ed Central Office - Cafeteria ||| [[DISTRICT]]
+    DISTRICT 4-Htfd. Intn. Unv. for Religion & Peace ||| [[DISTRICT]]
+    DISTRICT 5-District 5 - Nayaug Elementary School ||| [[DISTRICT]]
+    DISTRICT 6-District 6 John Wallace Middle School ||| [[DISTRICT]]
+    DISTRICT 1-The Gym At Tolland Recreation Center 1 ||| [[DISTRICT]]
+    DISTRICT 2-38-Pembroke School Gym District 002-08 ||| [[DISTRICT]]
+    DISTRICT 3-Mansfield Library/ Buchanan Auditorium ||| [[DISTRICT]]
+    DISTRICT 3-The Gym At Tolland Recreation Center 3 ||| [[DISTRICT]]
+    DISTRICT 3-South Windsor High School-Auxiliary Gym ||| [[DISTRICT]]
+    DISTRICT 7-District 7 Martin Kellogg Middle School ||| [[DISTRICT]]
+    DISTRICT 9-Bendheim Western Greenwich Civic Center ||| [[DISTRICT]]
+    DISTRICT 3-Southbury Community Building District #3 ||| [[DISTRICT]]
+    DISTRICT 6-2-Park Avenue School Gym District 006-02 ||| [[DISTRICT]]
+    DISTRICT 1-9-Danbury High School Gym District 001-09 ||| [[DISTRICT]]
+    DISTRICT 1-Eastford Town Office Building Lower Level ||| [[DISTRICT]]
+    DISTRICT 15-Springdale School -Rear Driveway At 1227 ||| [[DISTRICT]]
+    DISTRICT 2-District 2 Ruth Chaffee Elementary School ||| [[DISTRICT]]
+    DISTRICT 4-9-Shelter Rock School Gym District 004-09 ||| [[DISTRICT]]
+    DISTRICT 6-10-Park Avenue School Gym District 006-10 ||| [[DISTRICT]]
+    DISTRICT 6-38-Park Avenue School Gym District 006-10 ||| [[DISTRICT]]
+    DISTRICT 1-38-Danbury High School Gym District 001-38 ||| [[DISTRICT]]
+    DISTRICT 1-Mary Ellen Brown Senior/Community Center-1 ||| [[DISTRICT]]
+    DISTRICT 2-6-Community Center - District 2 Precinct 6 ||| [[DISTRICT]]
+    DISTRICT 3-8-Stadley Rough School Gym District 003-08 ||| [[DISTRICT]]
+    DISTRICT 3-9-Stadley Rough School Gym District 003-08 ||| [[DISTRICT]]
+    DISTRICT 4-10-Shelter Rock School Gym District 004-10 ||| [[DISTRICT]]
+    DISTRICT 5-Board Of Education Administration Building ||| [[DISTRICT]]
+    DISTRICT 5-District 5 John Paterson Elementary School ||| [[DISTRICT]]
+    DISTRICT 1-3-West Woods School - District 1 Precinct 3 ||| [[DISTRICT]]
+    DISTRICT 1-Granby Memorial High School - Community Gym ||| [[DISTRICT]]
+    DISTRICT 10-Middletown Recreation Center - District 10 ||| [[DISTRICT]]
+    DISTRICT 2-Granby Memorial High School - Community Gym ||| [[DISTRICT]]
+    DISTRICT 2-Stanley T. Williams Community Ctr Gymnasium ||| [[DISTRICT]]
+    DISTRICT 8-American Legion Hall' Post  75 - District 8 ||| [[DISTRICT]]
+    DISTRICT 3-District 3 - Noroton Heights Fire Department ||| [[DISTRICT]]
+    DISTRICT 4-District 4 Elizabeth Green Elementary School ||| [[DISTRICT]]
+    DISTRICT 79-2-Bristol Arts and Innovation Magnet School ||| [[DISTRICT]]
+    DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1 ||| [[DISTRICT]]
+    DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2 ||| [[DISTRICT]]
+    DISTRICT 1-District 1-0 35 Leroy Avenue Municipal Building ||| [[DISTRICT]]
+    DISTRICT 3-High Plains Community Center - Senior Cafeteria ||| [[DISTRICT]]
+    DISTRICT 1-Emerg Services Facility - Firehouse- Upper Level ||| [[DISTRICT]]
+    DISTRICT 1-Thompson Library - Louis P Faucher Community Ctr ||| [[DISTRICT]]
+    DISTRICT 2-High Plains Community Center - South Wing Room 3 ||| [[DISTRICT]]
+    DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building ||| [[DISTRICT]]
+    DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building ||| [[DISTRICT]]
+    DISTRICT 2-7-Municipal Buildings - Fhs - Library - Town Hall ||| [[DISTRICT]]
+    DISTRICT 3-Stanley T Williams Community Ctr Board Meeting Rm ||| [[DISTRICT]]
+    DISTRICT 7-10-Westside Middle School Academy District 007-10 ||| [[DISTRICT]]
+    DISTRICT 7-38-Westside Middle School Academy District 007-38 ||| [[DISTRICT]]
+    DISTRICT 2-5-Farmington Police Station - District 2 Precinct 5 ||| [[DISTRICT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    DISTRICT 12-1-Ross Woodward ||| [[WARD]]
+    DISTRICT 12-2-Ross Woodward ||| [[WARD]]
+    DISTRICT 17-Firehouse Woodward ||| [[WARD]]
+    DISTRICT 1-Ward 1 Ansonia Armory ||| [[WARD]]
+    DISTRICT 2-Ward 2 Ansonia Armory ||| [[WARD]]
+    DISTRICT 133-5-Fairfield Warde HS ||| [[WARD]]
+    DISTRICT 5-Timothy Edwards School - ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    DISTRICT 12-1-Ross Woodward ||| [[WARD]]
+    DISTRICT 12-2-Ross Woodward ||| [[WARD]]
+    DISTRICT 17-Firehouse Woodward ||| [[WARD]]
+    DISTRICT 1-Ward 1 Ansonia Armory ||| [[WARD]]
+    DISTRICT 2-Ward 2 Ansonia Armory ||| [[WARD]]
+    DISTRICT 133-5-Fairfield Warde HS ||| [[WARD]]
+    DISTRICT 5-Timothy Edwards School - ||| [[WARD]]
+    DISTRICT 1-4-West Woods - District 1 Precinct 4 ||| [[PRECINCT]]
+    DISTRICT 2-6-Community Center - District 2 Precinct 6 ||| [[PRECINCT]]
+    DISTRICT 1-3-West Woods School - District 1 Precinct 3 ||| [[PRECINCT]]
+    DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1 ||| [[PRECINCT]]
+    DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2 ||| [[PRECINCT]]
+    DISTRICT 2-5-Farmington Police Station - District 2 Precinct 5 ||| [[PRECINCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    DISTRICT 3-Bacon Academy ||| [[DEM]]
+    DISTRICT 1-2-Main Library ||| [[LIB]]
+    DISTRICT 1-Miller Library ||| [[LIB]]
+    DISTRICT 2-2-Troup Academy ||| [[DEM]]
+    DISTRICT 2-Greenwich Town Hall ||| [[GREEN]]
+    DISTRICT 6-Old Greenwich School ||| [[GREEN]]
+    DISTRICT 7-Greenwich High School ||| [[GREEN]]
+    DISTRICT 79-3-Greene-Hills School ||| [[GREEN]]
+    DISTRICT 6-1-Old Greenwich School 6a ||| [[GREEN]]
+    DISTRICT 7-1-Greenwich High School 7a ||| [[GREEN]]
+    DISTRICT 4-Green Acres Elementary School ||| [[GREEN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    DISTRICT 14-Center Gym ||| [[CENTER]]
+    DISTRICT 1-Senior Center ||| [[CENTER]]
+    DISTRICT 2-Senior Center ||| [[CENTER]]
+    DISTRICT 1-Hilltop Center ||| [[CENTER]]
+    DISTRICT 17-Center School ||| [[CENTER]]
+    DISTRICT 18-Metzner Center ||| [[CENTER]]
+    DISTRICT 2-Community Center ||| [[CENTER]]
+    DISTRICT 1-Recreation Center ||| [[CENTER]]
+    DISTRICT 132-10-Senior Center ||| [[CENTER]]
+    DISTRICT 2-Lisbon Senior Center ||| [[CENTER]]
+    DISTRICT 2-Niantic Center School ||| [[CENTER]]
+    DISTRICT 2-Tolland Senior Center ||| [[CENTER]]
+    DISTRICT 3-Keefe Community Center ||| [[CENTER]]
+    DISTRICT 2-Durham Community Center ||| [[CENTER]]
+    DISTRICT 2-Rose City Senior Center ||| [[CENTER]]
+    DISTRICT 3-Durham Community Center ||| [[CENTER]]
+    DISTRICT 4-Durham Community Center ||| [[CENTER]]
+    DISTRICT 1-Bolton Center School Gym ||| [[CENTER]]
+    DISTRICT 1-Redding Community Center ||| [[CENTER]]
+    DISTRICT 1-Senior/ Community Center ||| [[CENTER]]
+    DISTRICT 7-Windham Center Fire Dept ||| [[CENTER]]
+    DISTRICT 1-Bethel Municipal Center 1 ||| [[CENTER]]
+    DISTRICT 2-Stafford Community Center ||| [[CENTER]]
+    DISTRICT 4-St. Rose Community Center ||| [[CENTER]]
+    DISTRICT 8-Wallingford Senior Center ||| [[CENTER]]
+    DISTRICT 9-New Britain Senior Center ||| [[CENTER]]
+    DISTRICT 1-Firehouse/community Center ||| [[CENTER]]
+    DISTRICT 1-Mansfield Community Center ||| [[CENTER]]
+    DISTRICT 118-4-Margaret S Egan Center ||| [[CENTER]]
+    DISTRICT 3-East Lyme Community Center ||| [[CENTER]]
+    DISTRICT 6-District 6 - Mather Center ||| [[CENTER]]
+    DISTRICT 8-South End Community Center ||| [[CENTER]]
+    DISTRICT 1-District 1 Community Center ||| [[CENTER]]
+    DISTRICT 14-1-Atwater Senior Center 01 ||| [[CENTER]]
+    DISTRICT 2-New Fairfield Senior Center ||| [[CENTER]]
+    DISTRICT 2-Saint Maurice Parish Center ||| [[CENTER]]
+    DISTRICT 4-Vernon Center Middle School ||| [[CENTER]]
+    DISTRICT 8-Upper Room Christian Center ||| [[CENTER]]
+    DISTRICT 1-Center Fire House District #1 ||| [[CENTER]]
+    DISTRICT 2-Pitkin Community Center North ||| [[CENTER]]
+    DISTRICT 6-Pitkin Community Center South ||| [[CENTER]]
+    DISTRICT 1-Shepardson Community Center 01 ||| [[CENTER]]
+    DISTRICT 2-Our Lady Of Mercy Parish Center ||| [[CENTER]]
+    DISTRICT 2-Shepardson Community Center 002 ||| [[CENTER]]
+    DISTRICT 9-Salvation Army Community Center ||| [[CENTER]]
+    DISTRICT 118-3-West Shore Recreation Center ||| [[CENTER]]
+    DISTRICT 75-1-Willow Plaza Community Center ||| [[CENTER]]
+    DISTRICT 1-North Stonington Education Center ||| [[CENTER]]
+    DISTRICT 17-South End Senior Wellness Center ||| [[CENTER]]
+    DISTRICT 24-Parker Memorial Community Center ||| [[CENTER]]
+    DISTRICT 4-Community Center At Fair Oaks - 4 ||| [[CENTER]]
+    DISTRICT 1-High Plains Community Center - Gym ||| [[CENTER]]
+    DISTRICT 1-Teresa Mulvey Municipal Center - 1 ||| [[CENTER]]
+    DISTRICT 2-Teresa Mulvey Municipal Center - 2 ||| [[CENTER]]
+    DISTRICT 1-Star Center - Old Star Of The Sea - ||| [[CENTER]]
+    DISTRICT 1-District 1 Mortensen Community Center ||| [[CENTER]]
+    DISTRICT 1-The Gym At Tolland Recreation Center 1 ||| [[CENTER]]
+    DISTRICT 3-The Gym At Tolland Recreation Center 3 ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria
+    DISTRICT 1-1-Cromwell High School
+    DISTRICT 1-1-Cross Street School - A
+    DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building
+    DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1
+    DISTRICT 1-1-Julian Curtiss School 1a
+    DISTRICT 1-1-King Philip School
+    DISTRICT 1-14-Irving Elementary School - 114
+    DISTRICT 1-2-Andrew Avenue School
+    DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building
+    DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2
+    DISTRICT 1-2-King Philip School
+    DISTRICT 1-2-Main Library
+    DISTRICT 1-2-Town Hall Annex
+    DISTRICT 1-23-Daniels Farm School - 123
+    DISTRICT 1-3-Andrew Avenue School A
+    DISTRICT 1-3-East Farm Village 1-S
+    DISTRICT 1-3-West Woods School - District 1 Precinct 3
+    DISTRICT 1-38-Danbury High School Gym District 001-38
+    DISTRICT 1-4-Irving Elementary School - 104
+    DISTRICT 1-4-West Woods - District 1 Precinct 4
+    DISTRICT 1-47-1 Town Hall
+    DISTRICT 1-5-Irving Elementary School - 105
+    DISTRICT 1-6-Newtown Middle School
+    DISTRICT 1-7-Middle School Gym A
+    DISTRICT 1-83-Willard School
+    DISTRICT 1-9-Danbury High School Gym District 001-09
+    DISTRICT 1-Andover Elementary School Gym
+    DISTRICT 1-Anna Norris School
+    DISTRICT 1-Avon High School - Gymnasium
+    DISTRICT 1-Barkhamsted Elementary School
+    DISTRICT 1-Bethel Municipal Center 1
+    DISTRICT 1-Bethlehem Town Office Building Room 1
+    DISTRICT 1-Bolton Center School Gym
+    DISTRICT 1-Brooklyn Town Hall
+    DISTRICT 1-Calvin Leete School
+    DISTRICT 1-Camp Cochipianee
+    DISTRICT 1-Canaan Town Hall
+    DISTRICT 1-Canterbury Town Hall
+    DISTRICT 1-Canton High School
+    DISTRICT 1-Center Fire House District #1
+    DISTRICT 1-Chaplin Volunteer Fire Department
+    DISTRICT 1-Cheshire High School - Dist. 1
+    DISTRICT 1-Chester Town Office Building
+    DISTRICT 1-City Hall
+    DISTRICT 1-Colchester Town Hall
+    DISTRICT 1-Colebrook Town Hall
+    DISTRICT 1-Community Hall
+    DISTRICT 1-Community House
+    DISTRICT 1-Community Room Deep River Library
+    DISTRICT 1-Coventry High School
+    DISTRICT 1-District 1
+    DISTRICT 1-District 1 - Smith Middle School
+    DISTRICT 1-District 1 Community Center
+    DISTRICT 1-District 1 Mortensen Community Center
+    DISTRICT 1-District 1-0 35 Leroy Avenue Municipal Building
+    DISTRICT 1-East Haddam Municipal Office Complex
+    DISTRICT 1-East Hampton High School
+    DISTRICT 1-East Lyme High School
+    DISTRICT 1-East Ridge Middle School - 1
+    DISTRICT 1-Eastford Town Office Building Lower Level
+    DISTRICT 1-Elizabeth Shelton School
+    DISTRICT 1-Ellington High School Gymnasium Front
+    DISTRICT 1-Elmer Thienes Elementary School
+    DISTRICT 1-Emerg Services Facility - Firehouse- Upper Level
+    DISTRICT 1-Essex Town Hall 01
+    DISTRICT 1-Fawn Hollow School
+    DISTRICT 1-Fields Memorial School
+    DISTRICT 1-Fire Safety Complex D1
+    DISTRICT 1-Firehouse/community Center
+    DISTRICT 1-Franklin Town Hall
+    DISTRICT 1-Gaffney School
+    DISTRICT 1-Gallup Hill School
+    DISTRICT 1-Granby Memorial High School - Community Gym
+    DISTRICT 1-Griswold High School
+    DISTRICT 1-Groton Public Library
+    DISTRICT 1-Haddam Firehouse Complex
+    DISTRICT 1-Hampton Town Offices
+    DISTRICT 1-Hartland Town Hall
+    DISTRICT 1-Hebron Elementary School
+    DISTRICT 1-Henry James Memorial School
+    DISTRICT 1-High Plains Community Center - Gym
+    DISTRICT 1-Hilltop Center
+    DISTRICT 1-Horace W Porter School
+    DISTRICT 1-Incarnation Church Hall
+    DISTRICT 1-Jerome Harrison Elementary School
+    DISTRICT 1-John Moriarty School
+    DISTRICT 1-Julian Curtiss School
+    DISTRICT 1-Killingworth Elementary School
+    DISTRICT 1-Knowlton Memorial Hall
+    DISTRICT 1-L. P. Wilson
+    DISTRICT 1-Laurel Ledge School
+    DISTRICT 1-Leisure Services Gym
+    DISTRICT 1-Lena Morton Art Gallery
+    DISTRICT 1-Linden Street School
+    DISTRICT 1-Lisbon Town Hall
+    DISTRICT 1-Litchfield Fire House
+    DISTRICT 1-Lyme Town Hall
+    DISTRICT 1-Lyme-Old Lyme Middle School Gymnasium
+    DISTRICT 1-Macdonough School - District 1
+    DISTRICT 1-Mansfield Community Center
+    DISTRICT 1-Mario Gatti Town Hall
+    DISTRICT 1-Mary Ellen Brown Senior/Community Center-1
+    DISTRICT 1-Miller Library
+    DISTRICT 1-Municipal Complex Town Hall
+    DISTRICT 1-New Canaan High School
+    DISTRICT 1-New Fairfield High School
+    DISTRICT 1-New Hartford Town Hall
+    DISTRICT 1-New London Stm High School
+    DISTRICT 1-North East School
+    DISTRICT 1-North Stonington Education Center
+    DISTRICT 1-Northville School
+    DISTRICT 1-Old Saybrook Middle School Gymnasium
+    DISTRICT 1-Pearson School
+    DISTRICT 1-Platt High School
+    DISTRICT 1-Pleasant Valley School
+    DISTRICT 1-Pomfret Community School
+    DISTRICT 1-Pond Hill School
+    DISTRICT 1-Portland Middle School
+    DISTRICT 1-Preston Plains Middle School
+    DISTRICT 1-Prospect Firehouse
+    DISTRICT 1-Quaker Farms School
+    DISTRICT 1-Recreation Center
+    DISTRICT 1-Redding Community Center
+    DISTRICT 1-Robertson School
+    DISTRICT 1-Roxbury Town Hall
+    DISTRICT 1-SALISBURY TOWN HALL
+    DISTRICT 1-Salem Town Office Building Room 1
+    DISTRICT 1-Samuel Staples School #1
+    DISTRICT 1-Sayles School
+    DISTRICT 1-Senior Center
+    DISTRICT 1-Senior/ Community Center
+    DISTRICT 1-Sharon Town Hall
+    DISTRICT 1-Shepardson Community Center 01
+    DISTRICT 1-South End School
+    DISTRICT 1-St Marguerite Parish Hall
+    DISTRICT 1-Stafford Public Library
+    DISTRICT 1-Star Center - Old Star Of The Sea -
+    DISTRICT 1-Sterling Municipal Building
+    DISTRICT 1-Stonington Fire House
+    DISTRICT 1-Suffield Middle School
+    DISTRICT 1-Teresa Mulvey Municipal Center - 1
+    DISTRICT 1-Terryville High School
+    DISTRICT 1-The Artist Collective
+    DISTRICT 1-The Gym At Tolland Recreation Center 1
+    DISTRICT 1-Thompson Library - Louis P Faucher Community Ctr
+    DISTRICT 1-Torrington Middle School
+    DISTRICT 1-Town Hall
+    DISTRICT 1-Town Hall - McCarthy Room
+    DISTRICT 1-Town Hall Annex
+    DISTRICT 1-Town Hall-Gym-1
+    DISTRICT 1-Town Office Building
+    DISTRICT 1-Tuttle School 1
+    DISTRICT 1-Tyrrell Middle School
+    DISTRICT 1-Union Town Hall
+    DISTRICT 1-Voluntown Elementary School
+    DISTRICT 1-Ward 1 Ansonia Armory
+    DISTRICT 1-Watertown High School
+    DISTRICT 1-West Hill School
+    DISTRICT 1-Weston Middle School
+    DISTRICT 1-Wilton High School - District 1
+    DISTRICT 1-Woodstock Middle School - 50
+    DISTRICT 10-1-Lordship Elementary School 120 21
+    DISTRICT 10-Generale Ameglio Society
+    DISTRICT 10-Glenville School
+    DISTRICT 10-Mary Shepard Place Community Rm.
+    DISTRICT 10-Middletown Recreation Center - District 10
+    DISTRICT 10-Pagels School
+    DISTRICT 10-St. John Lutheran Church
+    DISTRICT 10-Westover Magnet School
+    DISTRICT 10-Whiton Library Auditorium
+    DISTRICT 10-Wilbur Cross High School - Federal
+    DISTRICT 100-1-Second Hill Lane 120 21
+    DISTRICT 100-Memorial Middle School
+    DISTRICT 11-1-Bella Vista 11-01
+    DISTRICT 11-1-North Street School 11a
+    DISTRICT 11-11-Lordship Elementary School 121 21
+    DISTRICT 11-2-Bishop Woods School
+    DISTRICT 11-23-Lordship Elementary School 121 23
+    DISTRICT 11-3-Eastview Terrace
+    DISTRICT 11-Bielefield School - District 11
+    DISTRICT 11-Cloonan Middle School -Side
+    DISTRICT 11-International Church
+    DISTRICT 11-Israel Putnam School
+    DISTRICT 11-North Street School
+    DISTRICT 11-Samuel V. Arroyo Pope Park Ctr.
+    DISTRICT 117-Joseph A Foran High School
+    DISTRICT 118-1-John F Kennedy School
+    DISTRICT 118-2-Meadowside School
+    DISTRICT 118-3-West Shore Recreation Center
+    DISTRICT 118-4-Margaret S Egan Center
+    DISTRICT 118-5-Harborside Middle School
+    DISTRICT 119-1-Orange Avenue School
+    DISTRICT 119-2-John F Kennedy School
+    DISTRICT 119-3-Harborside Middle School
+    DISTRICT 12-1-Ross Woodward
+    DISTRICT 12-2-Ross Woodward
+    DISTRICT 12-Bielefield School - District 12
+    DISTRICT 12-Hanover School
+    DISTRICT 12-North Mianus School
+    DISTRICT 12-Samuel V. Arroyo-Pope Park Ctr.
+    DISTRICT 12-St. Francis Of Assisi Church Hall
+    DISTRICT 12-Stillmeadow School
+    DISTRICT 124-2-John F Kennedy Campus
+    DISTRICT 124-3-Dunbar School
+    DISTRICT 124-4-Harding High School
+    DISTRICT 126-1-Beardsley School
+    DISTRICT 126-2-Hallen School
+    DISTRICT 126-3-Park City Magnet School
+    DISTRICT 126-4-Read Middle School
+    DISTRICT 126-5-Thomas Hooker School
+    DISTRICT 126-6-Wilbur Cross School
+    DISTRICT 127-1-Blackham School
+    DISTRICT 127-2-Read Middle School
+    DISTRICT 127-3-John Winthrop School
+    DISTRICT 128-1-Geraldine Johnson School
+    DISTRICT 128-2-Luis Munoz Marin School
+    DISTRICT 129-1-Black Rock School
+    DISTRICT 129-2-Central High School
+    DISTRICT 129-3-Central High School
+    DISTRICT 129-4-Geraldine Claytor Magnet Acadamy
+    DISTRICT 13-Benjamin Jepson Magnet School
+    DISTRICT 13-Holmes Elementary School
+    DISTRICT 13-Lincoln Middle School
+    DISTRICT 13-Parkville Community School
+    DISTRICT 13-Rippowam Middle School
+    DISTRICT 130-1-Bassick High School
+    DISTRICT 130-2-Bassick High School
+    DISTRICT 130-3-City Hall
+    DISTRICT 130-4-Cesar Batalla School
+    DISTRICT 130-5-Barnum School
+    DISTRICT 132-10-Senior Center
+    DISTRICT 132-7-Holland Hill Elementary
+    DISTRICT 132-8-Riverfield Elementary
+    DISTRICT 132-9-Sherman Elementary
+    DISTRICT 133-3-Osborn Hill Elementary
+    DISTRICT 133-4-Stratfield Elementary
+    DISTRICT 133-5-Blackham School
+    DISTRICT 133-5-Fairfield Warde HS
+    DISTRICT 133-6-McKinley Elementary
+    DISTRICT 134-1-Mill Hill Elementary
+    DISTRICT 134-2-Burr Elementary
+    DISTRICT 134-3-Osborn Hill Elementary
+    DISTRICT 136-1-Saugatuck Elementary School
+    DISTRICT 136-2-Coleytown Middle School
+    DISTRICT 136-3-Long Lots Elementary School
+    DISTRICT 136-4-Greens Farm Elementary School
+    DISTRICT 136-5-Greens Farms Elementary School
+    DISTRICT 136-6-Westport Library
+    DISTRICT 137-1-Marvin School
+    DISTRICT 137-2-Jefferson School
+    DISTRICT 137-3-Tracey School
+    DISTRICT 14-1-Atwater Senior Center 01
+    DISTRICT 14-Center Gym
+    DISTRICT 14-Dolan Middle School
+    DISTRICT 14-Environmental Sciences Magnet School
+    DISTRICT 14-Pulaski Middle School
+    DISTRICT 140-1-Kendall School
+    DISTRICT 140-2-Columbus School
+    DISTRICT 140-3-Nathaniel Ely School
+    DISTRICT 141-1-Rowayton School
+    DISTRICT 142-1-Fox Run School
+    DISTRICT 142-2-Ponus Ridge Middle School
+    DISTRICT 142-3-Brookside School
+    DISTRICT 143-1-Nathan Hale Middle School
+    DISTRICT 143-1-Norwalk City Hall
+    DISTRICT 143-1-Saugatuck Elementary School
+    DISTRICT 143-2-Wolfpit School
+    DISTRICT 143-3-West Rocks Middle School
+    DISTRICT 15-1-Community Room
+    DISTRICT 15-Batchelder School - Gym
+    DISTRICT 15-Crystal Ballroom
+    DISTRICT 15-Springdale School -Rear Driveway At 1227
+    DISTRICT 158-John F Kennedy Middle School
+    DISTRICT 159-John F Kennedy Middle School
+    DISTRICT 16-1-Turn Of River School
+    DISTRICT 16-John S Martinez School
+    DISTRICT 16-Kennelly School
+    DISTRICT 16-St John Paul II School
+    DISTRICT 17-Center School
+    DISTRICT 17-Firehouse Woodward
+    DISTRICT 17-Roxbury School
+    DISTRICT 17-South End Senior Wellness Center
+    DISTRICT 17-St. Jerome Church Hall
+    DISTRICT 18-2-Turn Of River School
+    DISTRICT 18-Metzner Center
+    DISTRICT 18-Nathan Hale School
+    DISTRICT 19-1-Celentano Museum Academy
+    DISTRICT 19-2-Celentano Museum Academy
+    DISTRICT 19-Alfred Burr Middle School
+    DISTRICT 19-Davenport Ridge School
+    DISTRICT 2-1-Booker T Washington Academy
+    DISTRICT 2-1-Central Avenue School
+    DISTRICT 2-1-Killingly High School
+    DISTRICT 2-14-Bradley Elementary School - 114
+    DISTRICT 2-2-Cross Street School - B
+    DISTRICT 2-2-Killingly High School
+    DISTRICT 2-2-Town Hall
+    DISTRICT 2-2-Troup Academy
+    DISTRICT 2-23-Booth Hill School 123
+    DISTRICT 2-3-Maple Hill School
+    DISTRICT 2-3-Momauguin School 2-S
+    DISTRICT 2-3-Troup Academy 3
+    DISTRICT 2-30-Griswold School
+    DISTRICT 2-38-Pembroke School Gym District 002-08
+    DISTRICT 2-44-1 Town Hall
+    DISTRICT 2-5-Farmington Police Station - District 2 Precinct 5
+    DISTRICT 2-6-Community Center - District 2 Precinct 6
+    DISTRICT 2-6-Newtown High School
+    DISTRICT 2-7-Municipal Buildings - Fhs - Library - Town Hall
+    DISTRICT 2-8-Pembroke School Gym District 002-08
+    DISTRICT 2-9-Pembroke School Gym District 002-09
+    DISTRICT 2-Abraham Baldwin School
+    DISTRICT 2-Abundant Life Church
+    DISTRICT 2-Bethlehem Town Office Building Room 1
+    DISTRICT 2-Bloomfield High School
+    DISTRICT 2-Booker T Washington Academy
+    DISTRICT 2-Bristow Middle School
+    DISTRICT 2-Brookfield High School  NG
+    DISTRICT 2-Brooklyn Town Hall
+    DISTRICT 2-Calvary Southbury District #2
+    DISTRICT 2-Central Office
+    DISTRICT 2-Chapman School - Dist. 2
+    DISTRICT 2-Cider Mill School - District 2
+    DISTRICT 2-Clinton Town Hall
+    DISTRICT 2-Coe Park
+    DISTRICT 2-Community Center
+    DISTRICT 2-Community Room Town Hall
+    DISTRICT 2-Community Towers
+    DISTRICT 2-Coventry High School
+    DISTRICT 2-Crystal Lake School
+    DISTRICT 2-Derynoski School
+    DISTRICT 2-District 2 (North)
+    DISTRICT 2-District 2 - Town Hall Gymnasium
+    DISTRICT 2-District 2 Bungay School
+    DISTRICT 2-District 2 Hebron Avenue School
+    DISTRICT 2-District 2 Ruth Chaffee Elementary School
+    DISTRICT 2-Domus - The Old Rogers School
+    DISTRICT 2-Durham Community Center
+    DISTRICT 2-Eli Terry School
+    DISTRICT 2-Evarts C. Stevens School
+    DISTRICT 2-Fire Safety Complex D2
+    DISTRICT 2-Former Pawcatuck Middle School
+    DISTRICT 2-Granby Memorial High School - Community Gym
+    DISTRICT 2-Greenwich Town Hall
+    DISTRICT 2-Harbor School
+    DISTRICT 2-High Plains Community Center - South Wing Room 3
+    DISTRICT 2-John F Kennedy School
+    DISTRICT 2-Judson School
+    DISTRICT 2-Juliet Long School
+    DISTRICT 2-Langford School
+    DISTRICT 2-Latimer Lane School
+    DISTRICT 2-Lisbon Senior Center
+    DISTRICT 2-Manchester High School
+    DISTRICT 2-Mansfield Middle School
+    DISTRICT 2-Mohegan Elementary School - 2
+    DISTRICT 2-Momauguin School 2
+    DISTRICT 2-Montowese Elementary School
+    DISTRICT 2-Moser School
+    DISTRICT 2-Municipal Complex Town Hall
+    DISTRICT 2-New Fairfield Senior Center
+    DISTRICT 2-Niantic Center School
+    DISTRICT 2-Northfield Fire House 2
+    DISTRICT 2-Old Saybrook High School Gymnasium
+    DISTRICT 2-Our Lady Of Mercy Parish Center
+    DISTRICT 2-Pitkin Community Center North
+    DISTRICT 2-Quaker Hill School
+    DISTRICT 2-Rockville High School
+    DISTRICT 2-Rose City Senior Center
+    DISTRICT 2-Saint Maurice Parish Center
+    DISTRICT 2-Salem Town Office Building Room 2
+    DISTRICT 2-Samuel Staples School #2
+    DISTRICT 2-Savin Rock School
+    DISTRICT 2-Saxe Middle School North
+    DISTRICT 2-Scotts Ridge Middle School - 2
+    DISTRICT 2-Senior Center
+    DISTRICT 2-Shelton Intermediate School
+    DISTRICT 2-Shepardson Community Center 002
+    DISTRICT 2-South End Firehouse
+    DISTRICT 2-Spencer School - District 2
+    DISTRICT 2-St. Maurice Church Hall
+    DISTRICT 2-St. Therese Church Hall
+    DISTRICT 2-Stafford Community Center
+    DISTRICT 2-Stanley T. Williams Community Ctr Gymnasium
+    DISTRICT 2-Stepney Elementary School
+    DISTRICT 2-Stony Hill Fire House -2
+    DISTRICT 2-Teresa Mulvey Municipal Center - 2
+    DISTRICT 2-Thames River Magnet
+    DISTRICT 2-The Artist Collective
+    DISTRICT 2-Thompson Brook School
+    DISTRICT 2-Tolland Senior Center
+    DISTRICT 2-Town Hall
+    DISTRICT 2-Ward 2 Ansonia Armory
+    DISTRICT 2-Windsor Locks High School
+    DISTRICT 2-Wolcott High School
+    DISTRICT 2-Woodstock Middle School - 52
+    DISTRICT 20-1-Northeast School
+    DISTRICT 20-1-Stratford High School 120 21
+    DISTRICT 20-11-Stratford High School 121-21
+    DISTRICT 20-2-Lincoln-Bassett School
+    DISTRICT 20-Learning Corridor
+    DISTRICT 200-Memorial Middle School
+    DISTRICT 21-1-King-Robinson School
+    DISTRICT 21-Dutch Point Community Room
+    DISTRICT 21-Scofield Middle School
+    DISTRICT 22-1-Wexler Grant School
+    DISTRICT 22-2-Long Ridge Fire Company
+    DISTRICT 22-2-Wexler Grant School
+    DISTRICT 22-Hartford Public Library
+    DISTRICT 23-Barnard School
+    DISTRICT 23-Saint Bridget School
+    DISTRICT 23-Willie Ware Recreation Ctr.
+    DISTRICT 24-Firehouse Ellsworth
+    DISTRICT 24-Parker Memorial Community Center
+    DISTRICT 24-Scofield Middle School - District 24
+    DISTRICT 25-Edgewood School
+    DISTRICT 258-Enfield Street School
+    DISTRICT 26-Davis Street School
+    DISTRICT 27-1-Mauro Sheridan Magnet School
+    DISTRICT 28-Hillhouse High School
+    DISTRICT 29-Beecher School
+    DISTRICT 3-1-Bd Of Ed Central Office - Cafeteria
+    DISTRICT 3-1-Career High School
+    DISTRICT 3-1-Chesprocott - District 3-1
+    DISTRICT 3-1-Parks And Rec A
+    DISTRICT 3-1-Skinner Road School 57
+    DISTRICT 3-2-Bd Of Ed Central Office - Cafeteria
+    DISTRICT 3-2-Career High School02
+    DISTRICT 3-2-Chesprocott - District 3-2
+    DISTRICT 3-2-City Hill Middle School
+    DISTRICT 3-23-Tashua School 123
+    DISTRICT 3-3-Career High School 3
+    DISTRICT 3-3-Deer Run School 3-S
+    DISTRICT 3-3-Parks And Rec B
+    DISTRICT 3-30-Hubbard School
+    DISTRICT 3-330 Windsor Avenue
+    DISTRICT 3-44-3 Moosup Fire Station
+    DISTRICT 3-6-Reed Intermediate School
+    DISTRICT 3-8-Stadley Rough School Gym District 003-08
+    DISTRICT 3-9-Stadley Rough School Gym District 003-08
+    DISTRICT 3-Bacon Academy
+    DISTRICT 3-Bantam Borough Hall
+    DISTRICT 3-Brookfield High School 32 OG
+    DISTRICT 3-Buckley School
+    DISTRICT 3-Carmen Arace Middle School
+    DISTRICT 3-City Of Groton Municipal Building
+    DISTRICT 3-Deer Run School 3
+    DISTRICT 3-District 3 - Noroton Heights Fire Department
+    DISTRICT 3-District 3 Anna Reynolds
+    DISTRICT 3-District 3 Chatfield-Lopresti School
+    DISTRICT 3-Durham Community Center
+    DISTRICT 3-East Lyme Community Center
+    DISTRICT 3-Ellington High School Gymnasium Back
+    DISTRICT 3-Frank A Berry School - 3
+    DISTRICT 3-Griswold Middle School
+    DISTRICT 3-Guilford Fire Headquarters
+    DISTRICT 3-Haddam Neck Firehouse
+    DISTRICT 3-High Plains Community Center - Senior Cafeteria
+    DISTRICT 3-John Barry School
+    DISTRICT 3-Juliet Long School
+    DISTRICT 3-K T Murphy School On George St
+    DISTRICT 3-Keefe Community Center
+    DISTRICT 3-Lawrence School - District 3
+    DISTRICT 3-Long Hill School
+    DISTRICT 3-Mansfield Library/ Buchanan Auditorium
+    DISTRICT 3-Mayberry School
+    DISTRICT 3-Middlebrook School - District 3
+    DISTRICT 3-Monroe Elementary School
+    DISTRICT 3-Moses Y. Beach School
+    DISTRICT 3-Nathan Hale School
+    DISTRICT 3-Odd Fellows Lodge
+    DISTRICT 3-Orchard House
+    DISTRICT 3-Oshana School
+    DISTRICT 3-Oswegatchie School
+    DISTRICT 3-Quinebaug Volunteer Fire Department
+    DISTRICT 3-Ridge Road Elementary School
+    DISTRICT 3-Roaring Brook School
+    DISTRICT 3-Saint Michael Church
+    DISTRICT 3-Samuel Huntington School
+    DISTRICT 3-Savin Rock School
+    DISTRICT 3-Saxe Middle School South
+    DISTRICT 3-Skinner Road School 56
+    DISTRICT 3-South Windsor High School-Auxiliary Gym
+    DISTRICT 3-Southbury Community Building District #3
+    DISTRICT 3-Stanley T Williams Community Ctr Board Meeting Rm
+    DISTRICT 3-Swift Middle School
+    DISTRICT 3-The Gym At Tolland Recreation Center 3
+    DISTRICT 3-Toffolon School
+    DISTRICT 3-Tootin Hill School
+    DISTRICT 3-Torringford School 1
+    DISTRICT 3-Town Hall-Gym-3
+    DISTRICT 3-Vance Village School
+    DISTRICT 3-Wakelee
+    DISTRICT 3-Ward 3 Holy Rosary Church Hall
+    DISTRICT 3-West Hartford Town Hall
+    DISTRICT 3-West Middle School
+    DISTRICT 3-West Stafford Fire Department
+    DISTRICT 3-Western Middle School
+    DISTRICT 3-Wethersfield United Methodist Church
+    DISTRICT 3-Yanity Gym - 3
+    DISTRICT 30-1-Brennan Rogers School
+    DISTRICT 30-11-Johnson House 121 21
+    DISTRICT 30-13-Johnson House 121 23
+    DISTRICT 30-2-The Shack
+    DISTRICT 30-Town Hall Main Hall
+    DISTRICT 31-Assembly Room
+    DISTRICT 32-Town Hall Main Hall
+    DISTRICT 358-Enfield Municipal Annex
+    DISTRICT 359-Enfield Municipal Annex
+    DISTRICT 4-1-Charter Oak International Academy
+    DISTRICT 4-1-New Lebanon School 4a
+    DISTRICT 4-1-Truman School
+    DISTRICT 4-10-Shelter Rock School Gym District 004-10
+    DISTRICT 4-12-Madison Middle School 112
+    DISTRICT 4-2-Charter Oak International Academy
+    DISTRICT 4-2-Killingly High School
+    DISTRICT 4-23-Madison Middle School 123
+    DISTRICT 4-3-Overbrook School 4-S
+    DISTRICT 4-9-Shelter Rock School Gym District 004-09
+    DISTRICT 4-Annie E. Vinton School
+    DISTRICT 4-Bpo Elks 1311
+    DISTRICT 4-Branford Fire Headquarters
+    DISTRICT 4-Community Center At Fair Oaks - 4
+    DISTRICT 4-Dag Hammarskjold Middle School
+    DISTRICT 4-District 4 - St Johns Parish Hall
+    DISTRICT 4-District 4 Elizabeth Green Elementary School
+    DISTRICT 4-District 4 Gideon Welles School
+    DISTRICT 4-Durham Community Center
+    DISTRICT 4-East Ridge Middle School-4
+    DISTRICT 4-East School Auditorium
+    DISTRICT 4-East Thompson Fire Station
+    DISTRICT 4-Gaylordsville Fire House
+    DISTRICT 4-Great Neck School
+    DISTRICT 4-Green Acres Elementary School
+    DISTRICT 4-Htfd. Intn. Unv. for Religion & Peace
+    DISTRICT 4-John B Stanton School
+    DISTRICT 4-Kennedy School
+    DISTRICT 4-Mary Morrisson Elementary School
+    DISTRICT 4-Masuk High School
+    DISTRICT 4-Melissa Jones School
+    DISTRICT 4-Metacomet Elementary School
+    DISTRICT 4-Mohegan School
+    DISTRICT 4-Moody School - District 4
+    DISTRICT 4-New Lebanon School
+    DISTRICT 4-Northfield Fire House 4
+    DISTRICT 4-Norton School - Dist. 4
+    DISTRICT 4-Overbrook School 4
+    DISTRICT 4-Phillip R Smith School
+    DISTRICT 4-Polk School
+    DISTRICT 4-Silver Lane School
+    DISTRICT 4-Spring Glen School
+    DISTRICT 4-St Pauls Church Hall
+    DISTRICT 4-St. Rose Community Center
+    DISTRICT 4-Stonington Middle School
+    DISTRICT 4-Stony Hill Fire House -4
+    DISTRICT 4-Strawberry Hill School -Rear
+    DISTRICT 4-Tariffville School
+    DISTRICT 4-Torringford School 2
+    DISTRICT 4-V F W Hall
+    DISTRICT 4-Vernon Center Middle School
+    DISTRICT 4-Waddell School
+    DISTRICT 4-Ward 4 Ansonia Middle School Gym
+    DISTRICT 4-Webb Elementary School
+    DISTRICT 4-Wheeler School
+    DISTRICT 4-Windsor Town Hall
+    DISTRICT 40-11-Franklin School 121 21
+    DISTRICT 40-13-Franklin School 121 23
+    DISTRICT 458-Henry Barnard School
+    DISTRICT 459-Henry Barnard School
+    DISTRICT 5-1-Board Of Education Building
+    DISTRICT 5-1-Riverside School 5a
+    DISTRICT 5-10-War Memorial Gym District 005-10
+    DISTRICT 5-2-Board Of Education Building
+    DISTRICT 5-2-War Memorial Gym District 005-02
+    DISTRICT 5-3-Woodview 5-S
+    DISTRICT 5-34-Frenchtown School 134
+    DISTRICT 5-9-War Memorial Gym District 005-09
+    DISTRICT 5-A.W. Cox School
+    DISTRICT 5-Bd Of Ed Central Office - Cafeteria
+    DISTRICT 5-Betsy Ross Magnet School
+    DISTRICT 5-Board Of Education Administration Building
+    DISTRICT 5-Board Of Education Building
+    DISTRICT 5-City Hall
+    DISTRICT 5-Clintonville Elementary School
+    DISTRICT 5-Conard High School
+    DISTRICT 5-Cook Hill School
+    DISTRICT 5-District 5 - Nayaug Elementary School
+    DISTRICT 5-District 5 - Town Hall Gymnasium
+    DISTRICT 5-District 5 John Paterson Elementary School
+    DISTRICT 5-Doolittle School - Dist. 5
+    DISTRICT 5-East School Gym
+    DISTRICT 5-Emerson Williams School
+    DISTRICT 5-Forest School
+    DISTRICT 5-Hays School 5
+    DISTRICT 5-Highland Park School
+    DISTRICT 5-Hockanum School
+    DISTRICT 5-Holy Trinity Greek Orthodox Church
+    DISTRICT 5-Immanuel Lutheran Church
+    DISTRICT 5-Indian Neck School
+    DISTRICT 5-Laurel Elementary School
+    DISTRICT 5-Lawrence School District 5
+    DISTRICT 5-Mohegan Elementary School - 5
+    DISTRICT 5-Oliver Ellsworth School
+    DISTRICT 5-Riverside School
+    DISTRICT 5-Roosevelt Middle School
+    DISTRICT 5-Schaghticoke School
+    DISTRICT 5-School Administration Bldg
+    DISTRICT 5-Stamford High School -Rear
+    DISTRICT 5-Strong School
+    DISTRICT 5-Timothy Edwards School -
+    DISTRICT 5-United Methodist Church
+    DISTRICT 5-Vfw
+    DISTRICT 5-Ward 5 Ansonia Middle School Gym
+    DISTRICT 50-1-Nichols School 120 21
+    DISTRICT 50-11-Nichols School 121 21
+    DISTRICT 6-1-Highland School - Dist. 6-1
+    DISTRICT 6-1-Old Greenwich School 6a
+    DISTRICT 6-1-Ridge Hill School
+    DISTRICT 6-1-Saint Bridget School
+    DISTRICT 6-10-Park Avenue School Gym District 006-10
+    DISTRICT 6-2-Highland School - Dist. 6-2
+    DISTRICT 6-2-Park Avenue School Gym District 006-02
+    DISTRICT 6-2-Riverside School
+    DISTRICT 6-23-Middlebrook School 123
+    DISTRICT 6-34-Middlebrook School 134
+    DISTRICT 6-38-Park Avenue School Gym District 006-10
+    DISTRICT 6-Ahepa-110 Community Room
+    DISTRICT 6-Armory
+    DISTRICT 6-Bpo Elks 1311
+    DISTRICT 6-Chamberlain Elementary School
+    DISTRICT 6-District 6 - Mather Center
+    DISTRICT 6-District 6 John Wallace Middle School
+    DISTRICT 6-East School Music Room
+    DISTRICT 6-Forest School
+    DISTRICT 6-Goodwin School
+    DISTRICT 6-Hill & Plain School
+    DISTRICT 6-Kelley School
+    DISTRICT 6-Keney Park Pond House
+    DISTRICT 6-Martin School
+    DISTRICT 6-Mary T. Murphy School
+    DISTRICT 6-Mystic River Magnet
+    DISTRICT 6-Old Greenwich School
+    DISTRICT 6-Parker Farms School
+    DISTRICT 6-Pitkin Community Center South
+    DISTRICT 6-Poquonock School
+    DISTRICT 6-Ridge Hill School
+    DISTRICT 6-Sedgwick Middle School
+    DISTRICT 6-Snow School District 6
+    DISTRICT 6-Thomas Edison Middle School
+    DISTRICT 6-Ward 6 Prendergast School Gym
+    DISTRICT 60-1-Wooster Middle School 120 21
+    DISTRICT 60-11-Wooster Middle School 121 21
+    DISTRICT 68-1-Carrington School
+    DISTRICT 7-1-Dunbar Hill School
+    DISTRICT 7-1-Greenwich High School 7a
+    DISTRICT 7-10-Westside Middle School Academy District 007-10
+    DISTRICT 7-2-Dunbar Hill School
+    DISTRICT 7-2-First Presbyterian Church
+    DISTRICT 7-2-Hall Of Records 02
+    DISTRICT 7-22-Christian Heritage School 122
+    DISTRICT 7-23-Christian Heritage School 123
+    DISTRICT 7-38-Westside Middle School Academy District 007-38
+    DISTRICT 7-Ann V. Molloy School
+    DISTRICT 7-Bugbee School
+    DISTRICT 7-Chamberlain Highway Firehouse
+    DISTRICT 7-District 7 - Academy Building
+    DISTRICT 7-District 7 Martin Kellogg Middle School
+    DISTRICT 7-Dodd Middle School - Dist. 7
+    DISTRICT 7-Dunbar Hill School
+    DISTRICT 7-Greenwich High School
+    DISTRICT 7-Keeney School
+    DISTRICT 7-Mary Fritz Yalesville School
+    DISTRICT 7-Rainbow Firehouse
+    DISTRICT 7-Rawson School
+    DISTRICT 7-Robert E Fitch Sr High School
+    DISTRICT 7-Saint Christopher Church Hall
+    DISTRICT 7-Sarah Noble Intermediate School
+    DISTRICT 7-School Apartments
+    DISTRICT 7-Spencer School District 7
+    DISTRICT 7-Thalberg School
+    DISTRICT 7-Walsh Intermediate School
+    DISTRICT 7-Ward 7 Mead School Cafe
+    DISTRICT 7-Windham Center Fire Dept
+    DISTRICT 70-1-Wilcoxson School 120 21
+    DISTRICT 71-1-Kennedy High School
+    DISTRICT 71-2-Gilmartin School
+    DISTRICT 71-3-Tinker School
+    DISTRICT 72-1-Hopkins Street Rec Building
+    DISTRICT 72-2-Reed School
+    DISTRICT 72-3-Waterbury Career Academy
+    DISTRICT 72-4-Regan School
+    DISTRICT 72-5-Edward D Bergin Apartments
+    DISTRICT 73-1-Our Lady Of Loreto Church Hall
+    DISTRICT 73-2-Catholic Academy Of Waterbury
+    DISTRICT 73-3-Kingsbury School
+    DISTRICT 73-4-Sprague School
+    DISTRICT 74-1-Chase School
+    DISTRICT 74-2-Crosby High School
+    DISTRICT 74-3-I D L School 16th Senate District
+    DISTRICT 74-4-I D L School 15th District
+    DISTRICT 75-1-Willow Plaza Community Center
+    DISTRICT 75-2-Washington Park House
+    DISTRICT 75-3-Maloney School
+    DISTRICT 75-4-Saint Francis Xavier Church Hall
+    DISTRICT 77-1-Edgewood School
+    DISTRICT 77-2-Northeast School
+    DISTRICT 77-3-Mountain View School
+    DISTRICT 77-4-Chippens Hill Middle School
+    DISTRICT 78-1-Bristol Eastern High School
+    DISTRICT 78-2-West Bristol School
+    DISTRICT 79-1-Southside School
+    DISTRICT 79-2-Bristol Arts and Innovation Magnet School
+    DISTRICT 79-3-Greene-Hills School
+    DISTRICT 8-1-Bear Path School
+    DISTRICT 8-1-Conte-West Schools 8-01
+    DISTRICT 8-2-Conte-West Hills School 02
+    DISTRICT 8-American Legion Hall' Post  75 - District 8
+    DISTRICT 8-Annie Fisher School - Gym
+    DISTRICT 8-Assembly Hall
+    DISTRICT 8-Bear Path School
+    DISTRICT 8-Central Middle School
+    DISTRICT 8-Depaolo Middle School
+    DISTRICT 8-Graham Apartments
+    DISTRICT 8-Hall High School
+    DISTRICT 8-Mackrille School
+    DISTRICT 8-South End Community Center
+    DISTRICT 8-Upper Room Christian Center
+    DISTRICT 8-Verplanck School
+    DISTRICT 8-Wallingford Senior Center
+    DISTRICT 8-Walnut Hill Gymnasium
+    DISTRICT 80-1-Chapel Street School 120 21
+    DISTRICT 80-21-Chapel Street School 122 21
+    DISTRICT 89-1-Wendell Cross School 3rd Cong
+    DISTRICT 89-2-Wendell Cross School 5th Cong
+    DISTRICT 9-1-West Woods School
+    DISTRICT 9-2-East Rock Community Magnet
+    DISTRICT 9-2-West Woods School
+    DISTRICT 9-Bendheim Western Greenwich Civic Center
+    DISTRICT 9-Bennet Academy - Cone Gym
+    DISTRICT 9-District 9 - Hopewell School
+    DISTRICT 9-Hatton School
+    DISTRICT 9-Maloney High School
+    DISTRICT 9-New Britain Senior Center
+    DISTRICT 9-Park And Recreation Department
+    DISTRICT 9-Salvation Army Community Center
+    DISTRICT 9-Seth Haley School
+    DISTRICT 9-Wesley School - District 9
+    DISTRICT 9-West Woods School
+    DISTRICT 9-YWCA
+    DISTRICT 90-1-Bunnell High School 120 21
+    DISTRICT 90-21-Bunnell High Scool 122-21
+------
+

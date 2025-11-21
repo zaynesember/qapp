@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('001-000', 'BOARD OF EDUCATION', '""', 'ALLEGANY', 'WRITEIN', '2ND ABSENTEE', '""', 'GEN', '2024-11-05')
+        ('001-000', 'BOARD OF EDUCATION', '""', 'ALLEGANY', 'WRITEIN', 'ABSENTEE', '""', 'GEN', '2024-11-05')
+        ('001-000', 'BOARD OF EDUCATION', '""', 'ALLEGANY', 'WRITEIN', 'EARLY VOTING', '""', 'GEN', '2024-11-05')
+        ...(skipping 622339 elements)
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'EARLY VOTING', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'ELECTION DAY', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'PROVISIONAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('001-001', "PRINCE GEORGE'S COUNTY COUNCIL", '""', "PRINCE GEORGE'S", 'WRITEIN', '2ND ABSENTEE', 'AT LARGE', 'GEN', '2024-11-05')
+        ('001-001', "PRINCE GEORGE'S COUNTY COUNCIL", '""', "PRINCE GEORGE'S", 'WRITEIN', 'ABSENTEE', 'AT LARGE', 'GEN', '2024-11-05')
+        ('001-001', "PRINCE GEORGE'S COUNTY COUNCIL", '""', "PRINCE GEORGE'S", 'WRITEIN', 'EARLY VOTING', 'AT LARGE', 'GEN', '2024-11-05')
+        ...(skipping 4899 elements)
+        ('021-022', "PRINCE GEORGE'S COUNTY COUNCIL", 'REPUBLICAN', "PRINCE GEORGE'S", 'MICHAEL RIKER', 'EARLY VOTING', 'AT LARGE', 'GEN', '2024-11-05')
+        ('021-022', "PRINCE GEORGE'S COUNTY COUNCIL", 'REPUBLICAN', "PRINCE GEORGE'S", 'MICHAEL RIKER', 'ELECTION DAY', 'AT LARGE', 'GEN', '2024-11-05')
+        ('021-022', "PRINCE GEORGE'S COUNTY COUNCIL", 'REPUBLICAN', "PRINCE GEORGE'S", 'MICHAEL RIKER', 'PROVISIONAL', 'AT LARGE', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

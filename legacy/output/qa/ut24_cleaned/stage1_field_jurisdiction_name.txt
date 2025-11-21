@@ -1,0 +1,133 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('BEAVER', ['BEAVER', 49001, ['49001']])
+    ('BOX ELDER', ['BOX ELDER', 49003, ['49003']])
+    ('CACHE', ['CACHE', 49005, ['49005']])
+    ('CARBON', ['CARBON', 49007, ['49007']])
+    ('DAGGETT', ['DAGGETT', 49009, ['49009']])
+    ('DAVIS', ['DAVIS', 49011, ['49011']])
+    ('DUCHESNE', ['DUCHESNE', 49013, ['49013']])
+    ('EMERY', ['EMERY', 49015, ['49015']])
+    ('GARFIELD', ['GARFIELD', 49017, ['49017']])
+    ('GRAND', ['GRAND', 49019, ['49019']])
+    ('IRON', ['IRON', 49021, ['49021']])
+    ('JUAB', ['JUAB', 49023, ['49023']])
+    ('KANE', ['KANE', 49025, ['49025']])
+    ('MILLARD', ['MILLARD', 49027, ['49027']])
+    ('MORGAN', ['MORGAN', 49029, ['49029']])
+    ('PIUTE', ['PIUTE', 49031, ['49031']])
+    ('RICH', ['RICH', 49033, ['49033']])
+    ('SALT LAKE', ['SALT LAKE', 49035, ['49035']])
+    ('SAN JUAN', ['SAN JUAN', 49037, ['49037']])
+    ('SANPETE', ['SANPETE', 49039, ['49039']])
+    ('SEVIER', ['SEVIER', 49041, ['49041']])
+    ('SUMMIT', ['SUMMIT', 49043, ['49043']])
+    ('TOOELE', ['TOOELE', 49045, ['49045']])
+    ('UINTAH', ['UINTAH', 49047, ['49047']])
+    ('UTAH', ['UTAH', 49049, ['49049']])
+    ('WASATCH', ['WASATCH', 49051, ['49051']])
+    ('WASHINGTON', ['WASHINGTON', 49053, ['49053']])
+    ('WAYNE', ['WAYNE', 49055, ['49055']])
+    ('WEBER', ['WEBER', 49057, ['49057']])
+------
+
+---------
+------
+ALL VALUES:
+    BEAVER
+    BOX ELDER
+    CACHE
+    CARBON
+    DAGGETT
+    DAVIS
+    DUCHESNE
+    EMERY
+    GARFIELD
+    GRAND
+    IRON
+    JUAB
+    KANE
+    MILLARD
+    MORGAN
+    PIUTE
+    RICH
+    SALT LAKE
+    SAN JUAN
+    SANPETE
+    SEVIER
+    SUMMIT
+    TOOELE
+    UINTAH
+    UTAH
+    WASATCH
+    WASHINGTON
+    WAYNE
+    WEBER
+------
+

@@ -1,0 +1,117 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ATLANTIC', ['ATLANTIC', 34001, ['34001']])
+    ('BERGEN', ['BERGEN', 34003, ['34003']])
+    ('BURLINGTON', ['BURLINGTON', 34005, ['34005']])
+    ('CAMDEN', ['CAMDEN', 34007, ['34007']])
+    ('CAPE MAY', ['CAPE MAY', 34009, ['34009']])
+    ('CUMBERLAND', ['CUMBERLAND', 34011, ['34011']])
+    ('ESSEX', ['ESSEX', 34013, ['34013']])
+    ('GLOUCESTER', ['GLOUCESTER', 34015, ['34015']])
+    ('HUDSON', ['HUDSON', 34017, ['34017']])
+    ('HUNTERDON', ['HUNTERDON', 34019, ['34019']])
+    ('MERCER', ['MERCER', 34021, ['34021']])
+    ('MIDDLESEX', ['MIDDLESEX', 34023, ['34023']])
+    ('MONMOUTH', ['MONMOUTH', 34025, ['34025']])
+    ('MORRIS', ['MORRIS', 34027, ['34027']])
+    ('OCEAN', ['OCEAN', 34029, ['34029']])
+    ('PASSAIC', ['PASSAIC', 34031, ['34031']])
+    ('SALEM', ['SALEM', 34033, ['34033']])
+    ('SOMERSET', ['SOMERSET', 34035, ['34035']])
+    ('SUSSEX', ['SUSSEX', 34037, ['34037']])
+    ('UNION', ['UNION', 34039, ['34039']])
+    ('WARREN', ['WARREN', 34041, ['34041']])
+------
+
+---------
+------
+ALL VALUES:
+    ATLANTIC
+    BERGEN
+    BURLINGTON
+    CAMDEN
+    CAPE MAY
+    CUMBERLAND
+    ESSEX
+    GLOUCESTER
+    HUDSON
+    HUNTERDON
+    MERCER
+    MIDDLESEX
+    MONMOUTH
+    MORRIS
+    OCEAN
+    PASSAIC
+    SALEM
+    SOMERSET
+    SUSSEX
+    UNION
+    WARREN
+------
+

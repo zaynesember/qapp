@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'ABSENTEE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'EARLY VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'MACHINE COUNT', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 139427 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'SAME DAY REGISTRATION (SDR)', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'UNKNOWN', 'STATEWIDE', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+------
+

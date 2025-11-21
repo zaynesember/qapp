@@ -1,0 +1,544 @@
+---------------------------
+---------------------------
+OFFICE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY NAMED PRESIDENT (MUST BE US PRESIDENT)
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO PRESIDENT: 
+    US PRESIDENT ||| [[PRES]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US SENATE: 
+    US SENATE ||| [[US SENAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US HOUSE: 
+    US HOUSE ||| [[US HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE SENATE: 
+    STATE SENATE ||| [[STATE SENATE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE HOUSE: 
+    STATE HOUSE ||| [[STATE HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIEUTENANT GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY OF STATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUDITOR: 
+    AUDITOR GENERAL ||| [[AUDITOR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TREASURER: 
+    STATE TREASURER ||| [[TREASURER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CORONER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SURVEYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER OF DEEDS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER OF WILL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMMISSIONER OR COMMITTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEMBER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ADMINISTRATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSESSOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERVISOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COLLECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INSPECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXECUTIVE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CHIEF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERINTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMPTROLLER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIRECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SHERIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSTABLE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ATTORNEY: 
+    ATTORNEY GENERAL ||| [[ATTORNEY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPREME COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERIOR COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CIRCUIT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO APPELLATE COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUSTICE OF THE PEACE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUDGE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CLERK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BAILIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGISTRATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNCIL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CHAIR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DELEGATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ALDERMAN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODERATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SERGEANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MARSHALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUTHORITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNIVERSITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO HOSPITAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEDICAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SCHOOL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TV DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO FIRE DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DEVELOPMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSERVATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO IMPROVEMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UTILITY DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NAVIGATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BOARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TRUSTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSISTANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STRAIGHT TICKET: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    US PRESIDENT ||| [[PRES]]
+------
+
+------
+VALUES IN office WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN office: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE OFFICES:
+    MALCOLM KENYATTA: ['AUDITOR GENERAL' 'STATE HOUSE']
+------
+
+---------
+------
+ALL VALUES:
+    ATTORNEY GENERAL
+    AUDITOR GENERAL
+    STATE HOUSE
+    STATE SENATE
+    STATE TREASURER
+    US HOUSE
+    US PRESIDENT
+    US SENATE
+------
+

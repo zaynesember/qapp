@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    11/5/2024
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    11/5/2024
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    11/5/2024: [2024]
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('11/5/2024',)
+        ('001-000', 'BOARD OF EDUCATION', 'NONPARTISAN', 'ALLEGANY', 'CRYSTAL M BENDER', '2ND ABSENTEE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('001-000', 'BOARD OF EDUCATION', 'NONPARTISAN', 'ALLEGANY', 'CRYSTAL M BENDER', 'ABSENTEE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('001-000', 'BOARD OF EDUCATION', 'NONPARTISAN', 'ALLEGANY', 'CRYSTAL M BENDER', 'EARLY VOTING', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ...(skipping 589369 elements)
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'EARLY VOTING', 'STATEWIDE', 'GEN', 'FALSE')
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'ELECTION DAY', 'STATEWIDE', 'GEN', 'FALSE')
+        ('034-000', 'US SENATE', 'UNAFFILIATED', 'ALLEGANY', 'ROBIN ROWE', 'PROVISIONAL', 'STATEWIDE', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    11/5/2024
+------
+

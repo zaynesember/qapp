@@ -1,0 +1,23 @@
+~ output/qa/2024-md-precinct-general/SUMMARY.txt on 2025-02-27, begun at 12:10:24 ~
+
+COLUMN CHECK found potential issues in stage1_columns.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SPECIAL CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+SPECIAL CHECK found potential issues in stage1_field_county_fips.txt
+CHARACTER CHECK found potential issues in stage1_field_candidate.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_magnitude.txt
+SPECIAL CHECK found potential issues in stage1_field_dataverse.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+CHARACTER CHECK found potential issues in stage1_field_date.txt
+SPECIAL CHECK found potential issues in stage1_field_date.txt
+DUPLICATES CHECK found duplicated rows.
+DUPLICATES CHECK found nearly duplicated rows.
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

@@ -1,0 +1,114 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('CARSON CITY', '32510')
+    ('CHURCHILL', '32001')
+    ('CLARK', '32003')
+    ('DOUGLAS', '32005')
+    ('ELKO', '32007')
+    ('ESMERALDA', '32009')
+    ('EUREKA', '32011')
+    ('HUMBOLDT', '32013')
+    ('LANDER', '32015')
+    ('LINCOLN', '32017')
+    ('LYON', '32019')
+    ('MINERAL', '32021')
+    ('NYE', '32023')
+    ('PERSHING', '32027')
+    ('STOREY', '32029')
+    ('WASHOE', '32031')
+    ('WHITE PINE', '32033')
+------
+
+---------
+------
+ALL VALUES:
+    CARSON CITY
+    CHURCHILL
+    CLARK
+    DOUGLAS
+    ELKO
+    ESMERALDA
+    EUREKA
+    HUMBOLDT
+    LANDER
+    LINCOLN
+    LYON
+    MINERAL
+    NYE
+    PERSHING
+    STOREY
+    WASHOE
+    WHITE PINE
+------
+

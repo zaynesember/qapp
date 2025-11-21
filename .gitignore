@@ -208,3 +208,5 @@ __marimo__/
 
 # Ignore ALL CSVs in the tests folder
 tests/*.csv
+
+.DS_Store

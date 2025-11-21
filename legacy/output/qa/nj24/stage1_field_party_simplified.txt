@@ -1,0 +1,127 @@
+---------------------------
+---------------------------
+PARTY_SIMPLIFIED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in party_simplified!
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    OTHER ||| [[OTH]]
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NONPARTISAN ||| [[NP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NONPARTISAN ||| [[PARTISAN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN party_simplified WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_simplified: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED SIMPLIFIED PARTY NAMES:
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+PARTY SIMPLIFIED TO PARTY DETAILED MAP:
+    <<<EC: VALUE WAS EMPTY>>>: ['DEMOCRAT' '<<<EC: VALUE WAS EMPTY>>>' 'SOCIALIST WORKERS PARTY'
+ 'COMMON SENSE INDEPENDENT' 'LIBERTARIAN' 'REPUBLICAN' 'GREEN'
+ 'VOTE BETTER' 'INDEPENDENT']
+    DEMOCRAT: ['DEMOCRAT']
+    LIBERTARIAN: ['LIBERTARIAN']
+    NONPARTISAN: ['NONPARTISAN']
+    OTHER: ['SOCIALISM AND LIBERATION' 'CONSTITUTION' 'SOCIALIST WORKERS'
+ 'SOCIALIST EQUALITY' 'INDEPENDENT' 'GREEN' '<<<EC: VALUE WAS EMPTY>>>'
+ 'VOTE BETTER' 'SOCIALIST WORKERS PARTY' 'COMMON SENSE INDEPENDENT']
+    REPUBLICAN: ['REPUBLICAN']
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    DEMOCRAT
+    LIBERTARIAN
+    NONPARTISAN
+    OTHER
+    REPUBLICAN
+------
+

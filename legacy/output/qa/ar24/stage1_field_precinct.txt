@@ -1,0 +1,3936 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    COY CITY ||| [[CITY]]
+    GRAY TWP ||| [[TW]]
+    KEO CITY ||| [[CITY]]
+    WARD TWO ||| [[TW]]
+    WARD TWP ||| [[TW]]
+    YORK TWP ||| [[TW]]
+    EAGLE TWP ||| [[TW]]
+    MCRAE TWP ||| [[TW]]
+    PERRYTOWN ||| [[TOWN]]
+    WALLS TWP ||| [[TW]]
+    AMITY CITY ||| [[CITY]]
+    BANKS CITY ||| [[CITY]]
+    BUTLER TWP ||| [[TW]]
+    CLARK CITY ||| [[CITY]]
+    DORTCH TWP ||| [[TW]]
+    FURLOW TWP ||| [[TW]]
+    GARNER TWP ||| [[TW]]
+    GUION CITY ||| [[CITY]]
+    ISBELL TWP ||| [[TW]]
+    LONOKE TWP ||| [[TW]]
+    PERLA CITY ||| [[CITY]]
+    PETTUS TWP ||| [[TW]]
+    RIVER CITY ||| [[CITY]]
+    TOTTEN TWP ||| [[TW]]
+    TWIN CREEK ||| [[TW]]
+    WALDO CITY ||| [[CITY]]
+    AUSTIN CITY ||| [[CITY]]
+    DOGWOOD TWP ||| [[TW]]
+    GARNER CITY ||| [[CITY]]
+    GOODRUM TWP ||| [[TW]]
+    GUMWOOD TWP ||| [[TW]]
+    HOWARD CITY ||| [[CITY]]
+    KENSETT TWP ||| [[TW]]
+    MAGNESS TWP ||| [[TW]]
+    MCNEIL CITY ||| [[CITY]]
+    MIDWAY CITY ||| [[CITY]]
+    OXFORD CITY ||| [[CITY]]
+    PRAIRIE TWP ||| [[TW]]
+    PULASKI TWP ||| [[TW]]
+    RUSSELL TWP ||| [[TW]]
+    TAYLOR CITY ||| [[CITY]]
+    WILMOT CITY ||| [[CITY]]
+    ALLPORT CITY ||| [[CITY]]
+    BAR/YORKTOWN ||| [[TOWN]]
+    BENTLEY CITY ||| [[CITY]]
+    CARLISLE TWP ||| [[TW]]
+    CAROLINE TWP ||| [[TW]]
+    EMERSON CITY ||| [[CITY]]
+    FLETCHER TWP ||| [[TW]]
+    HAMILTON TWP ||| [[TW]]
+    HUMNOKE CITY ||| [[CITY]]
+    MENIFEE CITY ||| [[CITY]]
+    RICHWOOD TWP ||| [[TW]]
+    ROC ROE CITY ||| [[CITY]]
+    RUSSELL CITY ||| [[CITY]]
+    STAR CITY W1 ||| [[CITY]]
+    STAR CITY W2 ||| [[CITY]]
+    STAR CITY W3 ||| [[CITY]]
+    WILLIAMS TWP ||| [[TW]]
+    5-C WEBB CITY ||| [[CITY]]
+    7-B WEBB CITY ||| [[CITY]]
+    779 SPG TWP-1 ||| [[TW]]
+    781 SPG TWP-2 ||| [[TW]]
+    782 SPG TWP-3 ||| [[TW]]
+    BALD KNOB TWP ||| [[TW]]
+    CLEVELAND TWP ||| [[TW]]
+    FRANKLIN CITY ||| [[CITY]]
+    GOULD CITY W1 ||| [[CITY]]
+    GOULD CITY W2 ||| [[CITY]]
+    GOULD CITY W3 ||| [[CITY]]
+    HIGGINSON TWP ||| [[TW]]
+    LAFAYETTE TWP ||| [[TW]]
+    MONTROSE CITY ||| [[CITY]]
+    OAK GROVE TWP ||| [[TW]]
+    PARKDALE CITY ||| [[CITY]]
+    PORTLAND CITY ||| [[CITY]]
+    RATCLIFF CITY ||| [[CITY]]
+    REVEILLE CITY ||| [[CITY]]
+    ROSE BUD CITY ||| [[CITY]]
+    6-B ALTUS CITY ||| [[CITY]]
+    DIXON TOWNSHIP ||| [[TOWN]]
+    DONALDSON CITY ||| [[CITY]]
+    HERMITAGE CITY ||| [[CITY]]
+    OKOLONA CITY 1 ||| [[CITY]]
+    PINEVILLE CITY ||| [[CITY]]
+    WALDO TOWNSHIP ||| [[TOWN]]
+    WYNNE TOWNSHIP ||| [[TOWN]]
+    8-A BRANCH CITY ||| [[CITY]]
+    940 WINSLOW TWP ||| [[TW]]
+    DYESS CITY HALL ||| [[CITY]]
+    GEORGETOWN CITY ||| [[CITY]]
+    LOWER HILL CITY ||| [[CITY]]
+    MCNEIL TOWNSHIP ||| [[TOWN]]
+    TAYLOR TOWNSHIP ||| [[TOWN]]
+    TYRONZA / TWIST ||| [[TW]]
+    375 GOSHEN TWP-1 ||| [[TW]]
+    376 GOSHEN TWP-2 ||| [[TW]]
+    950 WINSLOW CITY ||| [[CITY]]
+    CAULKSVILLE CITY ||| [[CITY]]
+    EMERSON TOWNSHIP ||| [[TOWN]]
+    INDIAN BAYOU TWP ||| [[TW]]
+    JOINER CITY HALL ||| [[CITY]]
+    WARD 2 CITY/SR97 ||| [[CITY]]
+    WARD 3 CITY/SR97 ||| [[CITY]]
+    WARD CITY WARD 1 ||| [[CITY]]
+    WARD CITY WARD 2 ||| [[CITY]]
+    WARD CITY WARD 3 ||| [[CITY]]
+    373 GOSHEN CITY-1 ||| [[CITY]]
+    374 GOSHEN CITY-2 ||| [[CITY]]
+    419 JOHNSON TWP-4 ||| [[TW]]
+    420 JOHNSON TWP-1 ||| [[TW]]
+    423 JOHNSON TWP-2 ||| [[TW]]
+    424 JOHNSON TWP-3 ||| [[TW]]
+    541 PRAIRIE TWP-1 ||| [[TW]]
+    542 PRAIRIE TWP-2 ||| [[TW]]
+    543 PRAIRIE TWP-3 ||| [[TW]]
+    544 PRAIRIE TWP-4 ||| [[TW]]
+    545 PRAIRIE TWP-5 ||| [[TW]]
+    546 PRAIRIE TWP-6 ||| [[TW]]
+    547 PRAIRIE TWP-7 ||| [[TW]]
+    548 PRAIRIE TWP-8 ||| [[TW]]
+    CABOT CITY WARD 1 ||| [[CITY]]
+    CABOT CITY WARD 2 ||| [[CITY]]
+    CABOT CITY WARD 3 ||| [[CITY]]
+    CABOT CITY WARD 4 ||| [[CITY]]
+    CROOKED CREEK TWP ||| [[TW]]
+    GRADY CITY W1& W2 ||| [[CITY]]
+    GREENWICH VILLAGE ||| [[VILLAGE]]
+    JERICHO CITY HALL ||| [[CITY]]
+    421 JOHNSON CITY-1 ||| [[CITY]]
+    422 JOHNSON CITY-4 ||| [[CITY]]
+    425 JOHNSON CITY-2 ||| [[CITY]]
+    426 JOHNSON CITY-3 ||| [[CITY]]
+    BLUE MOUNTAIN CITY ||| [[CITY]]
+    FOUNTAIN HILL CITY ||| [[CITY]]
+    GRIFFITHVILLE CITY ||| [[CITY]]
+    JUNCTION CITY SR97 ||| [[CITY]]
+    LONOKE CITY WARD 1 ||| [[CITY]]
+    LONOKE CITY WARD 2 ||| [[CITY]]
+    LONOKE CITY WARD 3 ||| [[CITY]]
+    LONOKE CITY WARD 4 ||| [[CITY]]
+    LONOKE CITY WARD 5 ||| [[CITY]]
+    LONOKE CITY WARD 6 ||| [[CITY]]
+    LONOKE CITY WARD 7 ||| [[CITY]]
+    LONOKE CITY WARD 8 ||| [[CITY]]
+    370 GREENLAND TWP-1 ||| [[TW]]
+    372 GREENLAND TWP-2 ||| [[TW]]
+    377 GREENLAND TWP-3 ||| [[TW]]
+    880 WEST FORK TWP-1 ||| [[TW]]
+    881 WEST FORK TWP-2 ||| [[TW]]
+    882 WEST FORK TWP-3 ||| [[TW]]
+    ENGLAND CITY WARD 1 ||| [[CITY]]
+    ENGLAND CITY WARD 2 ||| [[CITY]]
+    ENGLAND CITY WARD 3 ||| [[CITY]]
+    ENGLAND CITY WARD 4 ||| [[CITY]]
+    MOUNT PLEASANT CITY ||| [[CITY]]
+    369 GREENLAND CITY-1 ||| [[CITY]]
+    371 GREENLAND CITY-2 ||| [[CITY]]
+    580 PRAIRIE GR TWP-1 ||| [[TW]]
+    581 PRAIRIE GR TWP-3 ||| [[TW]]
+    582 PRAIRIE GR TWP-2 ||| [[TW]]
+    800 TONTITOWN CITY-1 ||| [[CITY]]
+    801 TONTITOWN CITY-2 ||| [[CITY]]
+    802 TONTITOWN CITY-3 ||| [[CITY]]
+    803 TONTITOWN CITY-4 ||| [[CITY]]
+    804 TONTITOWN CITY-5 ||| [[CITY]]
+    805 TONTITOWN CITY-6 ||| [[CITY]]
+    860 WEST FORK CITY-1 ||| [[CITY]]
+    861 WEST FORK CITY-2 ||| [[CITY]]
+    862 WEST FORK CITY-3 ||| [[CITY]]
+    CARLISLE CITY WARD 1 ||| [[CITY]]
+    CARLISLE CITY WARD 2 ||| [[CITY]]
+    CARLISLE CITY WARD 3 ||| [[CITY]]
+    FELSENTHAL CITY/SR96 ||| [[CITY]]
+    GREENBRIER-JAMESTOWN ||| [[TOWN]]
+    LEACHVILLE CITY HALL ||| [[CITY]]
+    550 PRAIRIE GR CITY-1 ||| [[CITY]]
+    560 PRAIRIE GR CITY-2 ||| [[CITY]]
+    561 PRAIRIE GR CITY-3 ||| [[CITY]]
+    562 PRAIRIE GR CITY-4 ||| [[CITY]]
+    563 PRAIRIE GR CITY-5 ||| [[CITY]]
+    WATTENSAW CITY WARD 1 ||| [[CITY]]
+    WATTENSAW CITY WARD 2 ||| [[CITY]]
+    WATTENSAW CITY WARD 3 ||| [[CITY]]
+    210 ELM SPRINGS CITY-1 ||| [[CITY]]
+    211 ELM SPRINGS CITY-2 ||| [[CITY]]
+    6-D WEIDERKEHR VILLAGE ||| [[VILLAGE]]
+    807 TONTITOWN TWP FIRE ||| [[TW]]
+    ANTHONYVILLE CITY HALL ||| [[CITY]]
+    BRINKLEY TOWNSHIP BSDL ||| [[TOWN]]
+    EMMET CITY BLVNS S DIS ||| [[CITY]]
+    200.X50 ELM SPRINGS TWP ||| [[TW]]
+    BLUFF CITY CITY & RURAL ||| [[CITY]]
+    200 ELM SPRINGS TWP FIRE ||| [[TW]]
+    PINE RIDGE TOWNSHIP CSDL ||| [[TOWN]]
+    RAYMOND TWN STREP62 CSDL ||| [[TW]]
+    WEST HELENA CITY HALL P7 ||| [[CITY]]
+    FORREST CITY COUNTRY WEST ||| [[CITY]]
+    BOD CITY & RURAL ST REP 89 ||| [[CITY]]
+    541.XX1 PRAIRIE TWP 1-ANNEX ||| [[TW]]
+    548.X50 PRAIRIE TWP 8-ANNEX ||| [[TW]]
+    ROSSTON CITYSALESTAX & STREP89 ||| [[CITY]]
+    WILLISVILLE CITY&RURALST.REP98 ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    COLT ||| [[CO ]]
+    SCOTT ||| [[CO ]]
+    ALCORN ||| [[CO ]]
+    COFFEY ||| [[CO ]]
+    COOTER ||| [[CO ]]
+    COLLINS ||| [[CO ]]
+    COMPTON ||| [[CO ]]
+    LINCOLN ||| [[CO ]]
+    COLDWELL ||| [[CO ]]
+    COLUMBIA ||| [[CO ]]
+    COLUMBUS ||| [[CO ]]
+    COY CITY ||| [[CO ]]
+    RED COLONY ||| [[CO ]]
+    460 LINCOLN ||| [[CO ]]
+    ECONOMY/JP3 ||| [[CO ]]
+    COLLEGE HILL ||| [[CO ]]
+    NORTH COUNTY ||| [[COUNTY]]
+    WILEY'S COVE ||| [[CO ]]
+    COUNTRY BOX 1 ||| [[CO ]]
+    COUNTRY BOX 6 ||| [[CO ]]
+    EAST COUNTY 1 ||| [[COUNTY]]
+    HAZEN COUNTRY ||| [[CO ]]
+    WEST COUNTY 1 ||| [[COUNTY]]
+    010 COUNTY 001 ||| [[COUNTY]]
+    011 COUNTY 002 ||| [[COUNTY]]
+    012 COUNTY 003 ||| [[COUNTY]]
+    013 COUNTY 004 ||| [[COUNTY]]
+    014 COUNTY 005 ||| [[COUNTY]]
+    015 COUNTY 007 ||| [[COUNTY]]
+    016 COUNTY 008 ||| [[COUNTY]]
+    017 COUNTY 010 ||| [[COUNTY]]
+    018 COUNTY 011 ||| [[COUNTY]]
+    COAL/LAFAYETTE ||| [[CO ]]
+    COLUMBIA NORTH ||| [[CO ]]
+    COLUMBIA SOUTH ||| [[CO ]]
+    SOUTH COUNTY 1 ||| [[COUNTY]]
+    COTTON PLANT-08 ||| [[CO ]]
+    COTTON PLANT-09 ||| [[CO ]]
+    SCOTT VV AND WH ||| [[CO ]]
+    100 COVE CREEK-1 ||| [[CO ]]
+    101 COVE CREEK-2 ||| [[CO ]]
+    110 COVE CREEK-3 ||| [[CO ]]
+    SE LINCOLN CO FD ||| [[CO ]]
+    CALICO ROCK RURAL ||| [[CO ]]
+    NORTH EAST COUNTY ||| [[COUNTY]]
+    PRECINCT 14 - COVE ||| [[CO ]]
+    PRECINCT 4 - ACORN ||| [[CO ]]
+    CALICO ROCK _ WARD 1 ||| [[CO ]]
+    CALICO ROCK _ WARD 2 ||| [[CO ]]
+    CALICO ROCK _ WARD 3 ||| [[CO ]]
+    CALICO ROCK _ WARD 4 ||| [[CO ]]
+    MISS CO ELECTION CENTER ||| [[CO ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    ROSSTON CITYSALESTAX & STREP89 ||| [[TAX]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    VOTECH ||| [[VOTE]]
+    ELAINE VOTECH P16 ||| [[VOTE]]
+    MISS CO ELECTION CENTER ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    MYRON ||| [[YR]]
+    ALMYRA ||| [[YR]]
+    TYRONZA ||| [[YR]]
+    OWEN/PALMYRA ||| [[YR]]
+    TYRONZA / TWIST ||| [[YR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    DISTRICT 1 ||| [[DISTRICT]]
+    DISTRICT 2 ||| [[DISTRICT]]
+    DISTRICT 3 ||| [[DISTRICT]]
+    DISTRICT 4 ||| [[DISTRICT]]
+    DISTRICT 5 ||| [[DISTRICT]]
+    DISTRICT 6 ||| [[DISTRICT]]
+    DISTRICT 7 ||| [[DISTRICT]]
+    DISTRICT 8 ||| [[DISTRICT]]
+    DISTRICT 9 ||| [[DISTRICT]]
+    DISTRICT 10 ||| [[DISTRICT]]
+    DISTRICT 11 ||| [[DISTRICT]]
+    DISTRICT 12 ||| [[DISTRICT]]
+    BOWIE 1, 2, 3 JP. DIST 2 ||| [[DIST]]
+    EMMET RURAL NEV SCHOOL DIST ||| [[DIST]]
+    GEORGIA NEV SCHOOL DIST ZONE3 ||| [[DIST]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    WARD ||| [[WARD]]
+    WARD 1 ||| [[WARD]]
+    WARD 2 ||| [[WARD]]
+    WARD 3 ||| [[WARD]]
+    WARD 4 ||| [[WARD]]
+    WARD ONE ||| [[WARD]]
+    WARD TWO ||| [[WARD]]
+    WARD TWP ||| [[WARD]]
+    FC WARD 1 ||| [[WARD]]
+    FC WARD 2 ||| [[WARD]]
+    FC WARD 3 ||| [[WARD]]
+    FC WARD 4 ||| [[WARD]]
+    BOONE WD 1 ||| [[WD]]
+    BOONE WD 2 ||| [[WD]]
+    BOONE WD 3 ||| [[WD]]
+    BOONE WD 4 ||| [[WD]]
+    MAG WARD 1 ||| [[WARD]]
+    MAG WARD 2 ||| [[WARD]]
+    MAG WARD 3 ||| [[WARD]]
+    MAG WARD 4 ||| [[WARD]]
+    WARD THREE ||| [[WARD]]
+    HOWARD CITY ||| [[WARD]]
+    WARD 1 SR97 ||| [[WARD]]
+    WARD 4 SR97 ||| [[WARD]]
+    BEEBE WARD 1 ||| [[WARD]]
+    BEEBE WARD 2 ||| [[WARD]]
+    BEEBE WARD 3 ||| [[WARD]]
+    HAZEN WARD 1 ||| [[WARD]]
+    HAZEN WARD 2 ||| [[WARD]]
+    HAZEN WARD 3 ||| [[WARD]]
+    HOWARD RURAL ||| [[WARD]]
+    LEWIS WARD 1 ||| [[WARD]]
+    LEWIS WARD 2 ||| [[WARD]]
+    MCRAE WARD 1 ||| [[WARD]]
+    MCRAE WARD 2 ||| [[WARD]]
+    WYNNE WARD 1 ||| [[WARD]]
+    WYNNE WARD 2 ||| [[WARD]]
+    WYNNE WARD 3 ||| [[WARD]]
+    WYNNE WARD 4 ||| [[WARD]]
+    WYNNE WARD 5 ||| [[WARD]]
+    BEEBE WARD 3C ||| [[WARD]]
+    DEWITT WARD 1 ||| [[WARD]]
+    DEWITT WARD 2 ||| [[WARD]]
+    DEWITT WARD 3 ||| [[WARD]]
+    WARD 1, 2 & 3 ||| [[WARD]]
+    1-A OZARK WD 1 ||| [[WD]]
+    1-B OZARK WD 3 ||| [[WD]]
+    1-C OZARK WD 2 ||| [[WD]]
+    2-A OZARK WD 2 ||| [[WD]]
+    2-E OZARK WD 3 ||| [[WD]]
+    ASHDOWN WARD 1 ||| [[WARD]]
+    ASHDOWN WARD 2 ||| [[WARD]]
+    ASHDOWN WARD 3 ||| [[WARD]]
+    FOREMAN WARD 1 ||| [[WARD]]
+    FOREMAN WARD 2 ||| [[WARD]]
+    FOREMAN WARD 3 ||| [[WARD]]
+    GILLETT WARD 1 ||| [[WARD]]
+    GILLETT WARD 2 ||| [[WARD]]
+    GILLETT WARD 3 ||| [[WARD]]
+    HICKMAN WARD 1 ||| [[WARD]]
+    HICKMAN WARD 2 ||| [[WARD]]
+    HICKMAN WARD 3 ||| [[WARD]]
+    KENSETT WARD 1 ||| [[WARD]]
+    KENSETT WARD 2 ||| [[WARD]]
+    KENSETT WARD 3 ||| [[WARD]]
+    MALVERN WARD 1 ||| [[WARD]]
+    MALVERN WARD 2 ||| [[WARD]]
+    MALVERN WARD 3 ||| [[WARD]]
+    MALVERN WARD 4 ||| [[WARD]]
+    RUDDELL WARD 1 ||| [[WARD]]
+    RUDDELL WARD 2 ||| [[WARD]]
+    RUDDELL WARD 3 ||| [[WARD]]
+    RUDDELL WARD 4 ||| [[WARD]]
+    SEARCY WARD 1A ||| [[WARD]]
+    SEARCY WARD 1B ||| [[WARD]]
+    SEARCY WARD 1C ||| [[WARD]]
+    SEARCY WARD 1D ||| [[WARD]]
+    SEARCY WARD 1E ||| [[WARD]]
+    SEARCY WARD 2B ||| [[WARD]]
+    SEARCY WARD 2C ||| [[WARD]]
+    SEARCY WARD 2D ||| [[WARD]]
+    SEARCY WARD 2E ||| [[WARD]]
+    SEARCY WARD 3A ||| [[WARD]]
+    SEARCY WARD 3B ||| [[WARD]]
+    SEARCY WARD 3C ||| [[WARD]]
+    SEARCY WARD 3D ||| [[WARD]]
+    SEARCY WARD 3E ||| [[WARD]]
+    SEARCY WARD 4A ||| [[WARD]]
+    SEARCY WARD 4B ||| [[WARD]]
+    SEARCY WARD 4C ||| [[WARD]]
+    SHORT MTN WD 1 ||| [[WD]]
+    SHORT MTN WD 2 ||| [[WD]]
+    SHORT MTN WD 3 ||| [[WD]]
+    SHORT MTN WD 4 ||| [[WD]]
+    BRADFORD WARD 1 ||| [[WARD]]
+    BRADFORD WARD 2 ||| [[WARD]]
+    BRADFORD WARD 3 ||| [[WARD]]
+    HUMPHREY WARD 1 ||| [[WARD]]
+    HUMPHREY WARD 3 ||| [[WARD]]
+    JUDSONIA WARD 1 ||| [[WARD]]
+    JUDSONIA WARD 2 ||| [[WARD]]
+    JUDSONIA WARD 3 ||| [[WARD]]
+    PANGBURN WARD 1 ||| [[WARD]]
+    PANGBURN WARD 2 ||| [[WARD]]
+    PANGBURN WARD 3 ||| [[WARD]]
+    ROCKPORT WARD 2 ||| [[WARD]]
+    BALD KNOB WARD 1 ||| [[WARD]]
+    BALD KNOB WARD 2 ||| [[WARD]]
+    BALD KNOB WARD 3 ||| [[WARD]]
+    HIGGINSON WARD 1 ||| [[WARD]]
+    HIGGINSON WARD 2 ||| [[WARD]]
+    HIGGINSON WARD 3 ||| [[WARD]]
+    NEWPORT WARD 1-A ||| [[WARD]]
+    NEWPORT WARD 1-B ||| [[WARD]]
+    NEWPORT WARD 2-A ||| [[WARD]]
+    NEWPORT WARD 2-B ||| [[WARD]]
+    NEWPORT WARD 2-C ||| [[WARD]]
+    NEWPORT WARD 3-A ||| [[WARD]]
+    NEWPORT WARD 3-B ||| [[WARD]]
+    NEWPORT WARD 3-C ||| [[WARD]]
+    NEWPORT WARD 4-A ||| [[WARD]]
+    NEWPORT WARD 4-B ||| [[WARD]]
+    STUTTGART WARD 1 ||| [[WARD]]
+    STUTTGART WARD 2 ||| [[WARD]]
+    STUTTGART WARD 3 ||| [[WARD]]
+    TUCKERMAN WARD 1 ||| [[WARD]]
+    TUCKERMAN WARD 2 ||| [[WARD]]
+    TUCKERMAN WARD 3 ||| [[WARD]]
+    WARD 2 CITY/SR97 ||| [[WARD]]
+    WARD 3 CITY/SR97 ||| [[WARD]]
+    WARD CITY WARD 1 ||| [[WARD]]
+    WARD CITY WARD 2 ||| [[WARD]]
+    WARD CITY WARD 3 ||| [[WARD]]
+    CABOT CITY WARD 1 ||| [[WARD]]
+    CABOT CITY WARD 2 ||| [[WARD]]
+    CABOT CITY WARD 3 ||| [[WARD]]
+    CABOT CITY WARD 4 ||| [[WARD]]
+    DARDANELLE WARD 1 ||| [[WARD]]
+    DARDANELLE WARD 2 ||| [[WARD]]
+    DARDANELLE WARD 3 ||| [[WARD]]
+    HUNTSVILLE WARD 1 ||| [[WARD]]
+    HUNTSVILLE WARD 2 ||| [[WARD]]
+    HUNTSVILLE WARD 3 ||| [[WARD]]
+    HUNTSVILLE WARD 4 ||| [[WARD]]
+    MOOREFIELD WARD 1 ||| [[WARD]]
+    MOOREFIELD WARD 4 ||| [[WARD]]
+    ARKADELPHIA WARD 1 ||| [[WARD]]
+    ARKADELPHIA WARD 2 ||| [[WARD]]
+    ARKADELPHIA WARD 3 ||| [[WARD]]
+    ARKADELPHIA WARD 4 ||| [[WARD]]
+    ARKADELPHIA WARD 5 ||| [[WARD]]
+    LONOKE CITY WARD 1 ||| [[WARD]]
+    LONOKE CITY WARD 2 ||| [[WARD]]
+    LONOKE CITY WARD 3 ||| [[WARD]]
+    LONOKE CITY WARD 4 ||| [[WARD]]
+    LONOKE CITY WARD 5 ||| [[WARD]]
+    LONOKE CITY WARD 6 ||| [[WARD]]
+    LONOKE CITY WARD 7 ||| [[WARD]]
+    LONOKE CITY WARD 8 ||| [[WARD]]
+    MELBOURNE _ WARD 1 ||| [[WARD]]
+    MELBOURNE _ WARD 2 ||| [[WARD]]
+    MELBOURNE _ WARD 3 ||| [[WARD]]
+    MELBOURNE _ WARD 4 ||| [[WARD]]
+    WHITE RIVER WARD 1 ||| [[WARD]]
+    WHITE RIVER WARD 2 ||| [[WARD]]
+    WHITE RIVER WARD 3 ||| [[WARD]]
+    8-B CHARLESTON WD 1 ||| [[WD]]
+    9-A CHARLESTON WD 2 ||| [[WD]]
+    9-B CHARLESTON WD 3 ||| [[WD]]
+    ENGLAND CITY WARD 1 ||| [[WARD]]
+    ENGLAND CITY WARD 2 ||| [[WARD]]
+    ENGLAND CITY WARD 3 ||| [[WARD]]
+    ENGLAND CITY WARD 4 ||| [[WARD]]
+    BRINKLEY WARD 2 BSDL ||| [[WARD]]
+    CALICO ROCK _ WARD 1 ||| [[WARD]]
+    CALICO ROCK _ WARD 2 ||| [[WARD]]
+    CALICO ROCK _ WARD 3 ||| [[WARD]]
+    CALICO ROCK _ WARD 4 ||| [[WARD]]
+    CARLISLE CITY WARD 1 ||| [[WARD]]
+    CARLISLE CITY WARD 2 ||| [[WARD]]
+    CARLISLE CITY WARD 3 ||| [[WARD]]
+    HEBER SPRINGS WARD 1 ||| [[WARD]]
+    HEBER SPRINGS WARD 2 ||| [[WARD]]
+    HEBER SPRINGS WARD 3 ||| [[WARD]]
+    HEBER SPRINGS WARD 4 ||| [[WARD]]
+    WATTENSAW CITY WARD 1 ||| [[WARD]]
+    WATTENSAW CITY WARD 2 ||| [[WARD]]
+    WATTENSAW CITY WARD 3 ||| [[WARD]]
+    BIG BOTTOM WARDS 1,2,3 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 1 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 2 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 3 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 4 ||| [[WARD]]
+    CADDO VALLEY WARDS 1,2,3 ||| [[WARD]]
+    WARD 2 & 3 PRESCOTT SZ 2 ||| [[WARD]]
+    GURDON WARDS 1, 2, 3, 4, 5 ||| [[WARD]]
+    WARD 2, 3 & 4 PRESCOTT SZ 1 ||| [[WARD]]
+    BRINKLEY WARD 1 STREP61 BSDL ||| [[WARD]]
+    BRINKLEY WARD 3 STREP61 BSDL ||| [[WARD]]
+    CLARENDON WARD 1 STREP61 CSDL ||| [[WARD]]
+    CLARENDON WARD 2 STREP61 CSDL ||| [[WARD]]
+    CLARENDON WARD 3 STREP61 CSDL ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    LAKES AREA ||| [[AREA]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    CENTER POST ||| [[POS ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    WARD ||| [[WARD]]
+    PCT 1 ||| [[PCT]]
+    PCT 2 ||| [[PCT]]
+    PCT 3 ||| [[PCT]]
+    PCT 4 ||| [[PCT]]
+    PCT 5 ||| [[PCT]]
+    PCT 6 ||| [[PCT]]
+    PCT 7 ||| [[PCT]]
+    PCT 8 ||| [[PCT]]
+    PCT 9 ||| [[PCT]]
+    PCT01 ||| [[PCT]]
+    PCT02 ||| [[PCT]]
+    PCT03 ||| [[PCT]]
+    PCT04 ||| [[PCT]]
+    PCT05 ||| [[PCT]]
+    PCT06 ||| [[PCT]]
+    PCT07 ||| [[PCT]]
+    PCT08 ||| [[PCT]]
+    PCT09 ||| [[PCT]]
+    PCT 10 ||| [[PCT]]
+    PCT 11 ||| [[PCT]]
+    PCT 12 ||| [[PCT]]
+    PCT 13 ||| [[PCT]]
+    PCT 14 ||| [[PCT]]
+    PCT 15 ||| [[PCT]]
+    PCT 16 ||| [[PCT]]
+    PCT 17 ||| [[PCT]]
+    PCT 18 ||| [[PCT]]
+    PCT 19 ||| [[PCT]]
+    PCT 21 ||| [[PCT]]
+    PCT 22 ||| [[PCT]]
+    PCT 23 ||| [[PCT]]
+    PCT 24 ||| [[PCT]]
+    PCT 25 ||| [[PCT]]
+    PCT 26 ||| [[PCT]]
+    PCT 27 ||| [[PCT]]
+    PCT 28 ||| [[PCT]]
+    PCT 29 ||| [[PCT]]
+    PCT 30 ||| [[PCT]]
+    PCT 31 ||| [[PCT]]
+    PCT 32 ||| [[PCT]]
+    PCT 33 ||| [[PCT]]
+    PCT 34 ||| [[PCT]]
+    PCT 35 ||| [[PCT]]
+    PCT 36 ||| [[PCT]]
+    PCT 37 ||| [[PCT]]
+    PCT 38 ||| [[PCT]]
+    PCT 39 ||| [[PCT]]
+    PCT 40 ||| [[PCT]]
+    PCT 41 ||| [[PCT]]
+    PCT 42 ||| [[PCT]]
+    PCT 43 ||| [[PCT]]
+    PCT 44 ||| [[PCT]]
+    PCT 45 ||| [[PCT]]
+    PCT 46 ||| [[PCT]]
+    PCT 48 ||| [[PCT]]
+    PCT 49 ||| [[PCT]]
+    PCT 50 ||| [[PCT]]
+    PCT 53 ||| [[PCT]]
+    PCT 54 ||| [[PCT]]
+    PCT 55 ||| [[PCT]]
+    WARD 1 ||| [[WARD]]
+    WARD 2 ||| [[WARD]]
+    WARD 3 ||| [[WARD]]
+    WARD 4 ||| [[WARD]]
+    WARD ONE ||| [[WARD]]
+    WARD TWO ||| [[WARD]]
+    WARD TWP ||| [[WARD]]
+    FC WARD 1 ||| [[WARD]]
+    FC WARD 2 ||| [[WARD]]
+    FC WARD 3 ||| [[WARD]]
+    FC WARD 4 ||| [[WARD]]
+    BOONE WD 1 ||| [[WD]]
+    BOONE WD 2 ||| [[WD]]
+    BOONE WD 3 ||| [[WD]]
+    BOONE WD 4 ||| [[WD]]
+    MAG WARD 1 ||| [[WARD]]
+    MAG WARD 2 ||| [[WARD]]
+    MAG WARD 3 ||| [[WARD]]
+    MAG WARD 4 ||| [[WARD]]
+    PRECINCT 1 ||| [[PRECINCT]]
+    PRECINCT 2 ||| [[PRECINCT]]
+    PRECINCT 3 ||| [[PRECINCT]]
+    PRECINCT 4 ||| [[PRECINCT]]
+    PRECINCT 5 ||| [[PRECINCT]]
+    PRECINCT 6 ||| [[PRECINCT]]
+    PRECINCT 7 ||| [[PRECINCT]]
+    PRECINCT 8 ||| [[PRECINCT]]
+    PRECINCT 9 ||| [[PRECINCT]]
+    WARD THREE ||| [[WARD]]
+    HOWARD CITY ||| [[WARD]]
+    PRECINCT 10 ||| [[PRECINCT]]
+    PRECINCT 11 ||| [[PRECINCT]]
+    PRECINCT 12 ||| [[PRECINCT]]
+    PRECINCT 13 ||| [[PRECINCT]]
+    PRECINCT 14 ||| [[PRECINCT]]
+    PRECINCT 15 ||| [[PRECINCT]]
+    PRECINCT 16 ||| [[PRECINCT]]
+    PRECINCT 17 ||| [[PRECINCT]]
+    PRECINCT 18 ||| [[PRECINCT]]
+    PRECINCT 19 ||| [[PRECINCT]]
+    PRECINCT 20 ||| [[PRECINCT]]
+    PRECINCT 21 ||| [[PRECINCT]]
+    PRECINCT 22 ||| [[PRECINCT]]
+    PRECINCT 23 ||| [[PRECINCT]]
+    PRECINCT 24 ||| [[PRECINCT]]
+    PRECINCT 25 ||| [[PRECINCT]]
+    PRECINCT 26 ||| [[PRECINCT]]
+    PRECINCT 27 ||| [[PRECINCT]]
+    PRECINCT 28 ||| [[PRECINCT]]
+    PRECINCT 29 ||| [[PRECINCT]]
+    PRECINCT 30 ||| [[PRECINCT]]
+    PRECINCT 31 ||| [[PRECINCT]]
+    PRECINCT 32 ||| [[PRECINCT]]
+    PRECINCT 33 ||| [[PRECINCT]]
+    PRECINCT 34 ||| [[PRECINCT]]
+    PRECINCT 35 ||| [[PRECINCT]]
+    PRECINCT 36 ||| [[PRECINCT]]
+    PRECINCT 37 ||| [[PRECINCT]]
+    PRECINCT 38 ||| [[PRECINCT]]
+    PRECINCT 39 ||| [[PRECINCT]]
+    PRECINCT 40 ||| [[PRECINCT]]
+    PRECINCT 41 ||| [[PRECINCT]]
+    PRECINCT 42 ||| [[PRECINCT]]
+    PRECINCT 43 ||| [[PRECINCT]]
+    PRECINCT 44 ||| [[PRECINCT]]
+    PRECINCT 45 ||| [[PRECINCT]]
+    PRECINCT 46 ||| [[PRECINCT]]
+    PRECINCT 47 ||| [[PRECINCT]]
+    PRECINCT 48 ||| [[PRECINCT]]
+    PRECINCT 49 ||| [[PRECINCT]]
+    PRECINCT 50 ||| [[PRECINCT]]
+    PRECINCT 51 ||| [[PRECINCT]]
+    PRECINCT 52 ||| [[PRECINCT]]
+    PRECINCT 53 ||| [[PRECINCT]]
+    PRECINCT 54 ||| [[PRECINCT]]
+    PRECINCT 55 ||| [[PRECINCT]]
+    PRECINCT 56 ||| [[PRECINCT]]
+    PRECINCT 57 ||| [[PRECINCT]]
+    PRECINCT 58 ||| [[PRECINCT]]
+    PRECINCT 59 ||| [[PRECINCT]]
+    PRECINCT 60 ||| [[PRECINCT]]
+    PRECINCT 61 ||| [[PRECINCT]]
+    PRECINCT 62 ||| [[PRECINCT]]
+    PRECINCT 63 ||| [[PRECINCT]]
+    PRECINCT 64 ||| [[PRECINCT]]
+    PRECINCT 65 ||| [[PRECINCT]]
+    PRECINCT 66 ||| [[PRECINCT]]
+    PRECINCT 67 ||| [[PRECINCT]]
+    PRECINCT 68 ||| [[PRECINCT]]
+    PRECINCT 69 ||| [[PRECINCT]]
+    PRECINCT 70 ||| [[PRECINCT]]
+    PRECINCT 71 ||| [[PRECINCT]]
+    PRECINCT 72 ||| [[PRECINCT]]
+    PRECINCT 73 ||| [[PRECINCT]]
+    PRECINCT 74 ||| [[PRECINCT]]
+    PRECINCT 75 ||| [[PRECINCT]]
+    PRECINCT 76 ||| [[PRECINCT]]
+    PRECINCT 77 ||| [[PRECINCT]]
+    PRECINCT 78 ||| [[PRECINCT]]
+    PRECINCT 79 ||| [[PRECINCT]]
+    PRECINCT 80 ||| [[PRECINCT]]
+    PRECINCT 81 ||| [[PRECINCT]]
+    PRECINCT 82 ||| [[PRECINCT]]
+    PRECINCT 83 ||| [[PRECINCT]]
+    PRECINCT 84 ||| [[PRECINCT]]
+    PRECINCT 85 ||| [[PRECINCT]]
+    PRECINCT 86 ||| [[PRECINCT]]
+    PRECINCT 87 ||| [[PRECINCT]]
+    PRECINCT 88 ||| [[PRECINCT]]
+    PRECINCT 89 ||| [[PRECINCT]]
+    PRECINCT 90 ||| [[PRECINCT]]
+    PRECINCT 91 ||| [[PRECINCT]]
+    PRECINCT 92 ||| [[PRECINCT]]
+    PRECINCT 93 ||| [[PRECINCT]]
+    PRECINCT 94 ||| [[PRECINCT]]
+    PRECINCT 95 ||| [[PRECINCT]]
+    PRECINCT 96 ||| [[PRECINCT]]
+    PRECINCT 97 ||| [[PRECINCT]]
+    PRECINCT 98 ||| [[PRECINCT]]
+    PRECINCT 99 ||| [[PRECINCT]]
+    WARD 1 SR97 ||| [[WARD]]
+    WARD 4 SR97 ||| [[WARD]]
+    BEEBE WARD 1 ||| [[WARD]]
+    BEEBE WARD 2 ||| [[WARD]]
+    BEEBE WARD 3 ||| [[WARD]]
+    HAZEN WARD 1 ||| [[WARD]]
+    HAZEN WARD 2 ||| [[WARD]]
+    HAZEN WARD 3 ||| [[WARD]]
+    HOWARD RURAL ||| [[WARD]]
+    LEWIS WARD 1 ||| [[WARD]]
+    LEWIS WARD 2 ||| [[WARD]]
+    MCRAE WARD 1 ||| [[WARD]]
+    MCRAE WARD 2 ||| [[WARD]]
+    PRECINCT 100 ||| [[PRECINCT]]
+    PRECINCT 101 ||| [[PRECINCT]]
+    PRECINCT 102 ||| [[PRECINCT]]
+    PRECINCT 103 ||| [[PRECINCT]]
+    PRECINCT 104 ||| [[PRECINCT]]
+    PRECINCT 105 ||| [[PRECINCT]]
+    PRECINCT 106 ||| [[PRECINCT]]
+    PRECINCT 107 ||| [[PRECINCT]]
+    PRECINCT 108 ||| [[PRECINCT]]
+    PRECINCT 109 ||| [[PRECINCT]]
+    PRECINCT 110 ||| [[PRECINCT]]
+    PRECINCT 111 ||| [[PRECINCT]]
+    PRECINCT 112 ||| [[PRECINCT]]
+    PRECINCT 113 ||| [[PRECINCT]]
+    PRECINCT 114 ||| [[PRECINCT]]
+    PRECINCT 115 ||| [[PRECINCT]]
+    PRECINCT 116 ||| [[PRECINCT]]
+    PRECINCT 117 ||| [[PRECINCT]]
+    PRECINCT 118 ||| [[PRECINCT]]
+    PRECINCT 119 ||| [[PRECINCT]]
+    PRECINCT 120 ||| [[PRECINCT]]
+    PRECINCT 121 ||| [[PRECINCT]]
+    PRECINCT 122 ||| [[PRECINCT]]
+    PRECINCT 123 ||| [[PRECINCT]]
+    PRECINCT 124 ||| [[PRECINCT]]
+    PRECINCT 125 ||| [[PRECINCT]]
+    PRECINCT 126 ||| [[PRECINCT]]
+    PRECINCT 127 ||| [[PRECINCT]]
+    PRECINCT 128 ||| [[PRECINCT]]
+    PRECINCT 129 ||| [[PRECINCT]]
+    PRECINCT 130 ||| [[PRECINCT]]
+    PRECINCT 131 ||| [[PRECINCT]]
+    PRECINCT 132 ||| [[PRECINCT]]
+    PRECINCT 133 ||| [[PRECINCT]]
+    PRECINCT 134 ||| [[PRECINCT]]
+    PRECINCT 135 ||| [[PRECINCT]]
+    PRECINCT 136 ||| [[PRECINCT]]
+    PRECINCT 137 ||| [[PRECINCT]]
+    PRECINCT 138 ||| [[PRECINCT]]
+    PRECINCT 139 ||| [[PRECINCT]]
+    PRECINCT 140 ||| [[PRECINCT]]
+    PRECINCT 141 ||| [[PRECINCT]]
+    PRECINCT 142 ||| [[PRECINCT]]
+    PRECINCT 143 ||| [[PRECINCT]]
+    PRECINCT 144 ||| [[PRECINCT]]
+    PRECINCT 145 ||| [[PRECINCT]]
+    PRECINCT 146 ||| [[PRECINCT]]
+    PRECINCT 147 ||| [[PRECINCT]]
+    PRECINCT 148 ||| [[PRECINCT]]
+    PRECINCT 149 ||| [[PRECINCT]]
+    PRECINCT 150 ||| [[PRECINCT]]
+    PRECINCT 151 ||| [[PRECINCT]]
+    PRECINCT 152 ||| [[PRECINCT]]
+    PRECINCT 153 ||| [[PRECINCT]]
+    PRECINCT 154 ||| [[PRECINCT]]
+    PRECINCT 155 ||| [[PRECINCT]]
+    PRECINCT 156 ||| [[PRECINCT]]
+    PRECINCT 157 ||| [[PRECINCT]]
+    PRECINCT 158 ||| [[PRECINCT]]
+    PRECINCT 159 ||| [[PRECINCT]]
+    PRECINCT 160 ||| [[PRECINCT]]
+    PRECINCT 161 ||| [[PRECINCT]]
+    PRECINCT 162 ||| [[PRECINCT]]
+    PRECINCT 163 ||| [[PRECINCT]]
+    PRECINCT 164 ||| [[PRECINCT]]
+    PRECINCT 165 ||| [[PRECINCT]]
+    PRECINCT 166 ||| [[PRECINCT]]
+    PRECINCT 167 ||| [[PRECINCT]]
+    PRECINCT 168 ||| [[PRECINCT]]
+    PRECINCT 169 ||| [[PRECINCT]]
+    PRECINCT 170 ||| [[PRECINCT]]
+    PRECINCT 171 ||| [[PRECINCT]]
+    PRECINCT 172 ||| [[PRECINCT]]
+    PRECINCT 173 ||| [[PRECINCT]]
+    PRECINCT 174 ||| [[PRECINCT]]
+    PRECINCT 175 ||| [[PRECINCT]]
+    PRECINCT 176 ||| [[PRECINCT]]
+    PRECINCT 177 ||| [[PRECINCT]]
+    PRECINCT 178 ||| [[PRECINCT]]
+    PRECINCT 179 ||| [[PRECINCT]]
+    PRECINCT 180 ||| [[PRECINCT]]
+    PRECINCT 181 ||| [[PRECINCT]]
+    PRECINCT 182 ||| [[PRECINCT]]
+    PRECINCT 183 ||| [[PRECINCT]]
+    PRECINCT 184 ||| [[PRECINCT]]
+    PRECINCT 185 ||| [[PRECINCT]]
+    PRECINCT 186 ||| [[PRECINCT]]
+    PRECINCT 187 ||| [[PRECINCT]]
+    PRECINCT 188 ||| [[PRECINCT]]
+    PRECINCT 189 ||| [[PRECINCT]]
+    PRECINCT 190 ||| [[PRECINCT]]
+    PRECINCT 191 ||| [[PRECINCT]]
+    PRECINCT 192 ||| [[PRECINCT]]
+    PRECINCT 193 ||| [[PRECINCT]]
+    PRECINCT 194 ||| [[PRECINCT]]
+    PRECINCT 195 ||| [[PRECINCT]]
+    PRECINCT 196 ||| [[PRECINCT]]
+    PRECINCT 197 ||| [[PRECINCT]]
+    PRECINCT 198 ||| [[PRECINCT]]
+    PRECINCT 199 ||| [[PRECINCT]]
+    PRECINCT 200 ||| [[PRECINCT]]
+    PRECINCT 201 ||| [[PRECINCT]]
+    PRECINCT 202 ||| [[PRECINCT]]
+    PRECINCT 203 ||| [[PRECINCT]]
+    PRECINCT 204 ||| [[PRECINCT]]
+    PRECINCT 205 ||| [[PRECINCT]]
+    PRECINCT 206 ||| [[PRECINCT]]
+    PRECINCT 207 ||| [[PRECINCT]]
+    PRECINCT 208 ||| [[PRECINCT]]
+    PRECINCT 209 ||| [[PRECINCT]]
+    PRECINCT 210 ||| [[PRECINCT]]
+    PRECINCT 211 ||| [[PRECINCT]]
+    PRECINCT 212 ||| [[PRECINCT]]
+    PRECINCT 213 ||| [[PRECINCT]]
+    PRECINCT 214 ||| [[PRECINCT]]
+    PRECINCT 215 ||| [[PRECINCT]]
+    PRECINCT 216 ||| [[PRECINCT]]
+    PRECINCT 217 ||| [[PRECINCT]]
+    PRECINCT 218 ||| [[PRECINCT]]
+    PRECINCT 219 ||| [[PRECINCT]]
+    PRECINCT 220 ||| [[PRECINCT]]
+    PRECINCT 221 ||| [[PRECINCT]]
+    PRECINCT 222 ||| [[PRECINCT]]
+    PRECINCT 223 ||| [[PRECINCT]]
+    PRECINCT 224 ||| [[PRECINCT]]
+    PRECINCT 225 ||| [[PRECINCT]]
+    PRECINCT 226 ||| [[PRECINCT]]
+    PRECINCT 227 ||| [[PRECINCT]]
+    PRECINCT 228 ||| [[PRECINCT]]
+    PRECINCT 229 ||| [[PRECINCT]]
+    PRECINCT 230 ||| [[PRECINCT]]
+    PRECINCT 231 ||| [[PRECINCT]]
+    PRECINCT 232 ||| [[PRECINCT]]
+    PRECINCT 233 ||| [[PRECINCT]]
+    PRECINCT 234 ||| [[PRECINCT]]
+    PRECINCT 235 ||| [[PRECINCT]]
+    PRECINCT 237 ||| [[PRECINCT]]
+    PRECINCT 238 ||| [[PRECINCT]]
+    PRECINCT 239 ||| [[PRECINCT]]
+    PRECINCT 240 ||| [[PRECINCT]]
+    PRECINCT 241 ||| [[PRECINCT]]
+    PRECINCT 242 ||| [[PRECINCT]]
+    PRECINCT 243 ||| [[PRECINCT]]
+    PRECINCT 244 ||| [[PRECINCT]]
+    PRECINCT 245 ||| [[PRECINCT]]
+    PRECINCT 246 ||| [[PRECINCT]]
+    PRECINCT 247 ||| [[PRECINCT]]
+    PRECINCT 248 ||| [[PRECINCT]]
+    PRECINCT 249 ||| [[PRECINCT]]
+    PRECINCT 250 ||| [[PRECINCT]]
+    PRECINCT 251 ||| [[PRECINCT]]
+    PRECINCT 252 ||| [[PRECINCT]]
+    PRECINCT 253 ||| [[PRECINCT]]
+    PRECINCT 254 ||| [[PRECINCT]]
+    PRECINCT 255 ||| [[PRECINCT]]
+    PRECINCT 256 ||| [[PRECINCT]]
+    PRECINCT 257 ||| [[PRECINCT]]
+    PRECINCT 258 ||| [[PRECINCT]]
+    PRECINCT 259 ||| [[PRECINCT]]
+    PRECINCT 260 ||| [[PRECINCT]]
+    PRECINCT 261 ||| [[PRECINCT]]
+    PRECINCT 262 ||| [[PRECINCT]]
+    PRECINCT 263 ||| [[PRECINCT]]
+    PRECINCT 264 ||| [[PRECINCT]]
+    PRECINCT 265 ||| [[PRECINCT]]
+    PRECINCT 266 ||| [[PRECINCT]]
+    PRECINCT 267 ||| [[PRECINCT]]
+    PRECINCT 268 ||| [[PRECINCT]]
+    PRECINCT 269 ||| [[PRECINCT]]
+    PRECINCT 270 ||| [[PRECINCT]]
+    PRECINCT 271 ||| [[PRECINCT]]
+    PRECINCT 272 ||| [[PRECINCT]]
+    PRECINCT 273 ||| [[PRECINCT]]
+    PRECINCT 274 ||| [[PRECINCT]]
+    PRECINCT 275 ||| [[PRECINCT]]
+    PRECINCT 276 ||| [[PRECINCT]]
+    PRECINCT 277 ||| [[PRECINCT]]
+    PRECINCT 278 ||| [[PRECINCT]]
+    PRECINCT 279 ||| [[PRECINCT]]
+    PRECINCT 280 ||| [[PRECINCT]]
+    PRECINCT 281 ||| [[PRECINCT]]
+    PRECINCT 282 ||| [[PRECINCT]]
+    PRECINCT 283 ||| [[PRECINCT]]
+    PRECINCT 284 ||| [[PRECINCT]]
+    PRECINCT 285 ||| [[PRECINCT]]
+    PRECINCT 286 ||| [[PRECINCT]]
+    PRECINCT 287 ||| [[PRECINCT]]
+    PRECINCT 288 ||| [[PRECINCT]]
+    PRECINCT 289 ||| [[PRECINCT]]
+    PRECINCT 290 ||| [[PRECINCT]]
+    PRECINCT 291 ||| [[PRECINCT]]
+    PRECINCT 292 ||| [[PRECINCT]]
+    PRECINCT 293 ||| [[PRECINCT]]
+    PRECINCT 294 ||| [[PRECINCT]]
+    PRECINCT 295 ||| [[PRECINCT]]
+    PRECINCT 296 ||| [[PRECINCT]]
+    PRECINCT 297 ||| [[PRECINCT]]
+    PRECINCT 298 ||| [[PRECINCT]]
+    PRECINCT 299 ||| [[PRECINCT]]
+    PRECINCT 300 ||| [[PRECINCT]]
+    PRECINCT 301 ||| [[PRECINCT]]
+    PRECINCT 302 ||| [[PRECINCT]]
+    PRECINCT 303 ||| [[PRECINCT]]
+    PRECINCT 304 ||| [[PRECINCT]]
+    PRECINCT 305 ||| [[PRECINCT]]
+    PRECINCT 306 ||| [[PRECINCT]]
+    PRECINCT 307 ||| [[PRECINCT]]
+    PRECINCT 308 ||| [[PRECINCT]]
+    PRECINCT 309 ||| [[PRECINCT]]
+    PRECINCT 310 ||| [[PRECINCT]]
+    PRECINCT 311 ||| [[PRECINCT]]
+    PRECINCT 312 ||| [[PRECINCT]]
+    PRECINCT 313 ||| [[PRECINCT]]
+    PRECINCT 314 ||| [[PRECINCT]]
+    PRECINCT 315 ||| [[PRECINCT]]
+    PRECINCT 316 ||| [[PRECINCT]]
+    PRECINCT 317 ||| [[PRECINCT]]
+    PRECINCT 318 ||| [[PRECINCT]]
+    PRECINCT 319 ||| [[PRECINCT]]
+    PRECINCT 320 ||| [[PRECINCT]]
+    PRECINCT 321 ||| [[PRECINCT]]
+    PRECINCT 322 ||| [[PRECINCT]]
+    PRECINCT 323 ||| [[PRECINCT]]
+    PRECINCT 324 ||| [[PRECINCT]]
+    PRECINCT 325 ||| [[PRECINCT]]
+    PRECINCT 326 ||| [[PRECINCT]]
+    PRECINCT 327 ||| [[PRECINCT]]
+    PRECINCT 328 ||| [[PRECINCT]]
+    PRECINCT 329 ||| [[PRECINCT]]
+    PRECINCT 330 ||| [[PRECINCT]]
+    PRECINCT 331 ||| [[PRECINCT]]
+    PRECINCT 332 ||| [[PRECINCT]]
+    PRECINCT 333 ||| [[PRECINCT]]
+    PRECINCT 334 ||| [[PRECINCT]]
+    PRECINCT 335 ||| [[PRECINCT]]
+    PRECINCT 336 ||| [[PRECINCT]]
+    PRECINCT 337 ||| [[PRECINCT]]
+    PRECINCT 338 ||| [[PRECINCT]]
+    PRECINCT 339 ||| [[PRECINCT]]
+    PRECINCT 340 ||| [[PRECINCT]]
+    PRECINCT 341 ||| [[PRECINCT]]
+    PRECINCT 342 ||| [[PRECINCT]]
+    PRECINCT 343 ||| [[PRECINCT]]
+    PRECINCT 344 ||| [[PRECINCT]]
+    PRECINCT 345 ||| [[PRECINCT]]
+    PRECINCT 346 ||| [[PRECINCT]]
+    PRECINCT 347 ||| [[PRECINCT]]
+    PRECINCT 348 ||| [[PRECINCT]]
+    PRECINCT 349 ||| [[PRECINCT]]
+    PRECINCT 350 ||| [[PRECINCT]]
+    PRECINCT 351 ||| [[PRECINCT]]
+    PRECINCT 352 ||| [[PRECINCT]]
+    PRECINCT 353 ||| [[PRECINCT]]
+    PRECINCT 354 ||| [[PRECINCT]]
+    PRECINCT 355 ||| [[PRECINCT]]
+    PRECINCT 356 ||| [[PRECINCT]]
+    PRECINCT 357 ||| [[PRECINCT]]
+    PRECINCT 358 ||| [[PRECINCT]]
+    PRECINCT 359 ||| [[PRECINCT]]
+    PRECINCT 360 ||| [[PRECINCT]]
+    PRECINCT 361 ||| [[PRECINCT]]
+    PRECINCT 362 ||| [[PRECINCT]]
+    PRECINCT 363 ||| [[PRECINCT]]
+    PRECINCT 364 ||| [[PRECINCT]]
+    PRECINCT 365 ||| [[PRECINCT]]
+    PRECINCT 366 ||| [[PRECINCT]]
+    PRECINCT 367 ||| [[PRECINCT]]
+    PRECINCT 368 ||| [[PRECINCT]]
+    PRECINCT 369 ||| [[PRECINCT]]
+    PRECINCT 370 ||| [[PRECINCT]]
+    PRECINCT 371 ||| [[PRECINCT]]
+    PRECINCT 372 ||| [[PRECINCT]]
+    PRECINCT 374 ||| [[PRECINCT]]
+    PRECINCT 375 ||| [[PRECINCT]]
+    PRECINCT 376 ||| [[PRECINCT]]
+    PRECINCT 377 ||| [[PRECINCT]]
+    PRECINCT 378 ||| [[PRECINCT]]
+    PRECINCT 379 ||| [[PRECINCT]]
+    PRECINCT 380 ||| [[PRECINCT]]
+    PRECINCT 381 ||| [[PRECINCT]]
+    PRECINCT 382 ||| [[PRECINCT]]
+    PRECINCT 383 ||| [[PRECINCT]]
+    PRECINCT 384 ||| [[PRECINCT]]
+    PRECINCT 385 ||| [[PRECINCT]]
+    PRECINCT 386 ||| [[PRECINCT]]
+    PRECINCT 387 ||| [[PRECINCT]]
+    PRECINCT 388 ||| [[PRECINCT]]
+    PRECINCT 389 ||| [[PRECINCT]]
+    PRECINCT 390 ||| [[PRECINCT]]
+    PRECINCT 391 ||| [[PRECINCT]]
+    PRECINCT 392 ||| [[PRECINCT]]
+    PRECINCT 393 ||| [[PRECINCT]]
+    PRECINCT 394 ||| [[PRECINCT]]
+    PRECINCT 395 ||| [[PRECINCT]]
+    PRECINCT 396 ||| [[PRECINCT]]
+    PRECINCT 397 ||| [[PRECINCT]]
+    PRECINCT 398 ||| [[PRECINCT]]
+    PRECINCT 399 ||| [[PRECINCT]]
+    PRECINCT 400 ||| [[PRECINCT]]
+    PRECINCT 401 ||| [[PRECINCT]]
+    PRECINCT 402 ||| [[PRECINCT]]
+    PRECINCT 403 ||| [[PRECINCT]]
+    PRECINCT 404 ||| [[PRECINCT]]
+    PRECINCT 405 ||| [[PRECINCT]]
+    PRECINCT 406 ||| [[PRECINCT]]
+    PRECINCT 407 ||| [[PRECINCT]]
+    PRECINCT 408 ||| [[PRECINCT]]
+    PRECINCT 409 ||| [[PRECINCT]]
+    PRECINCT 410 ||| [[PRECINCT]]
+    PRECINCT 411 ||| [[PRECINCT]]
+    PRECINCT 412 ||| [[PRECINCT]]
+    PRECINCT 413 ||| [[PRECINCT]]
+    PRECINCT 414 ||| [[PRECINCT]]
+    PRECINCT 415 ||| [[PRECINCT]]
+    PRECINCT 416 ||| [[PRECINCT]]
+    PRECINCT 417 ||| [[PRECINCT]]
+    PRECINCT 418 ||| [[PRECINCT]]
+    PRECINCT 419 ||| [[PRECINCT]]
+    PRECINCT 420 ||| [[PRECINCT]]
+    PRECINCT 421 ||| [[PRECINCT]]
+    PRECINCT 422 ||| [[PRECINCT]]
+    PRECINCT 423 ||| [[PRECINCT]]
+    PRECINCT 424 ||| [[PRECINCT]]
+    PRECINCT 425 ||| [[PRECINCT]]
+    PRECINCT 426 ||| [[PRECINCT]]
+    PRECINCT 427 ||| [[PRECINCT]]
+    PRECINCT 428 ||| [[PRECINCT]]
+    PRECINCT 429 ||| [[PRECINCT]]
+    PRECINCT 430 ||| [[PRECINCT]]
+    PRECINCT 431 ||| [[PRECINCT]]
+    PRECINCT 432 ||| [[PRECINCT]]
+    PRECINCT 500 ||| [[PRECINCT]]
+    PRECINCT 501 ||| [[PRECINCT]]
+    PRECINCT 502 ||| [[PRECINCT]]
+    WYNNE WARD 1 ||| [[WARD]]
+    WYNNE WARD 2 ||| [[WARD]]
+    WYNNE WARD 3 ||| [[WARD]]
+    WYNNE WARD 4 ||| [[WARD]]
+    WYNNE WARD 5 ||| [[WARD]]
+    BEEBE WARD 3C ||| [[WARD]]
+    DEWITT WARD 1 ||| [[WARD]]
+    DEWITT WARD 2 ||| [[WARD]]
+    DEWITT WARD 3 ||| [[WARD]]
+    WARD 1, 2 & 3 ||| [[WARD]]
+    1-A OZARK WD 1 ||| [[WD]]
+    1-B OZARK WD 3 ||| [[WD]]
+    1-C OZARK WD 2 ||| [[WD]]
+    2-A OZARK WD 2 ||| [[WD]]
+    2-E OZARK WD 3 ||| [[WD]]
+    ASHDOWN WARD 1 ||| [[WARD]]
+    ASHDOWN WARD 2 ||| [[WARD]]
+    ASHDOWN WARD 3 ||| [[WARD]]
+    FOREMAN WARD 1 ||| [[WARD]]
+    FOREMAN WARD 2 ||| [[WARD]]
+    FOREMAN WARD 3 ||| [[WARD]]
+    GILLETT WARD 1 ||| [[WARD]]
+    GILLETT WARD 2 ||| [[WARD]]
+    GILLETT WARD 3 ||| [[WARD]]
+    HICKMAN WARD 1 ||| [[WARD]]
+    HICKMAN WARD 2 ||| [[WARD]]
+    HICKMAN WARD 3 ||| [[WARD]]
+    KENSETT WARD 1 ||| [[WARD]]
+    KENSETT WARD 2 ||| [[WARD]]
+    KENSETT WARD 3 ||| [[WARD]]
+    MALVERN WARD 1 ||| [[WARD]]
+    MALVERN WARD 2 ||| [[WARD]]
+    MALVERN WARD 3 ||| [[WARD]]
+    MALVERN WARD 4 ||| [[WARD]]
+    RUDDELL WARD 1 ||| [[WARD]]
+    RUDDELL WARD 2 ||| [[WARD]]
+    RUDDELL WARD 3 ||| [[WARD]]
+    RUDDELL WARD 4 ||| [[WARD]]
+    SEARCY WARD 1A ||| [[WARD]]
+    SEARCY WARD 1B ||| [[WARD]]
+    SEARCY WARD 1C ||| [[WARD]]
+    SEARCY WARD 1D ||| [[WARD]]
+    SEARCY WARD 1E ||| [[WARD]]
+    SEARCY WARD 2B ||| [[WARD]]
+    SEARCY WARD 2C ||| [[WARD]]
+    SEARCY WARD 2D ||| [[WARD]]
+    SEARCY WARD 2E ||| [[WARD]]
+    SEARCY WARD 3A ||| [[WARD]]
+    SEARCY WARD 3B ||| [[WARD]]
+    SEARCY WARD 3C ||| [[WARD]]
+    SEARCY WARD 3D ||| [[WARD]]
+    SEARCY WARD 3E ||| [[WARD]]
+    SEARCY WARD 4A ||| [[WARD]]
+    SEARCY WARD 4B ||| [[WARD]]
+    SEARCY WARD 4C ||| [[WARD]]
+    SHORT MTN WD 1 ||| [[WD]]
+    SHORT MTN WD 2 ||| [[WD]]
+    SHORT MTN WD 3 ||| [[WD]]
+    SHORT MTN WD 4 ||| [[WD]]
+    BRADFORD WARD 1 ||| [[WARD]]
+    BRADFORD WARD 2 ||| [[WARD]]
+    BRADFORD WARD 3 ||| [[WARD]]
+    HUMPHREY WARD 1 ||| [[WARD]]
+    HUMPHREY WARD 3 ||| [[WARD]]
+    JUDSONIA WARD 1 ||| [[WARD]]
+    JUDSONIA WARD 2 ||| [[WARD]]
+    JUDSONIA WARD 3 ||| [[WARD]]
+    PANGBURN WARD 1 ||| [[WARD]]
+    PANGBURN WARD 2 ||| [[WARD]]
+    PANGBURN WARD 3 ||| [[WARD]]
+    ROCKPORT WARD 2 ||| [[WARD]]
+    BALD KNOB WARD 1 ||| [[WARD]]
+    BALD KNOB WARD 2 ||| [[WARD]]
+    BALD KNOB WARD 3 ||| [[WARD]]
+    HIGGINSON WARD 1 ||| [[WARD]]
+    HIGGINSON WARD 2 ||| [[WARD]]
+    HIGGINSON WARD 3 ||| [[WARD]]
+    NEWPORT WARD 1-A ||| [[WARD]]
+    NEWPORT WARD 1-B ||| [[WARD]]
+    NEWPORT WARD 2-A ||| [[WARD]]
+    NEWPORT WARD 2-B ||| [[WARD]]
+    NEWPORT WARD 2-C ||| [[WARD]]
+    NEWPORT WARD 3-A ||| [[WARD]]
+    NEWPORT WARD 3-B ||| [[WARD]]
+    NEWPORT WARD 3-C ||| [[WARD]]
+    NEWPORT WARD 4-A ||| [[WARD]]
+    NEWPORT WARD 4-B ||| [[WARD]]
+    PRECINCT 5 - INK ||| [[PRECINCT]]
+    STUTTGART WARD 1 ||| [[WARD]]
+    STUTTGART WARD 2 ||| [[WARD]]
+    STUTTGART WARD 3 ||| [[WARD]]
+    TUCKERMAN WARD 1 ||| [[WARD]]
+    TUCKERMAN WARD 2 ||| [[WARD]]
+    TUCKERMAN WARD 3 ||| [[WARD]]
+    WARD 2 CITY/SR97 ||| [[WARD]]
+    WARD 3 CITY/SR97 ||| [[WARD]]
+    WARD CITY WARD 1 ||| [[WARD]]
+    WARD CITY WARD 2 ||| [[WARD]]
+    WARD CITY WARD 3 ||| [[WARD]]
+    CABOT CITY WARD 1 ||| [[WARD]]
+    CABOT CITY WARD 2 ||| [[WARD]]
+    CABOT CITY WARD 3 ||| [[WARD]]
+    CABOT CITY WARD 4 ||| [[WARD]]
+    DARDANELLE WARD 1 ||| [[WARD]]
+    DARDANELLE WARD 2 ||| [[WARD]]
+    DARDANELLE WARD 3 ||| [[WARD]]
+    HUNTSVILLE WARD 1 ||| [[WARD]]
+    HUNTSVILLE WARD 2 ||| [[WARD]]
+    HUNTSVILLE WARD 3 ||| [[WARD]]
+    HUNTSVILLE WARD 4 ||| [[WARD]]
+    MOOREFIELD WARD 1 ||| [[WARD]]
+    MOOREFIELD WARD 4 ||| [[WARD]]
+    PRECINCT 1 - MENA ||| [[PRECINCT]]
+    PRECINCT 2 - MENA ||| [[PRECINCT]]
+    PRECINCT 3 - MENA ||| [[PRECINCT]]
+    ARKADELPHIA WARD 1 ||| [[WARD]]
+    ARKADELPHIA WARD 2 ||| [[WARD]]
+    ARKADELPHIA WARD 3 ||| [[WARD]]
+    ARKADELPHIA WARD 4 ||| [[WARD]]
+    ARKADELPHIA WARD 5 ||| [[WARD]]
+    LONOKE CITY WARD 1 ||| [[WARD]]
+    LONOKE CITY WARD 2 ||| [[WARD]]
+    LONOKE CITY WARD 3 ||| [[WARD]]
+    LONOKE CITY WARD 4 ||| [[WARD]]
+    LONOKE CITY WARD 5 ||| [[WARD]]
+    LONOKE CITY WARD 6 ||| [[WARD]]
+    LONOKE CITY WARD 7 ||| [[WARD]]
+    LONOKE CITY WARD 8 ||| [[WARD]]
+    MELBOURNE _ WARD 1 ||| [[WARD]]
+    MELBOURNE _ WARD 2 ||| [[WARD]]
+    MELBOURNE _ WARD 3 ||| [[WARD]]
+    MELBOURNE _ WARD 4 ||| [[WARD]]
+    PRECINCT 14 - COVE ||| [[PRECINCT]]
+    PRECINCT 4 - ACORN ||| [[PRECINCT]]
+    WHITE RIVER WARD 1 ||| [[WARD]]
+    WHITE RIVER WARD 2 ||| [[WARD]]
+    WHITE RIVER WARD 3 ||| [[WARD]]
+    8-B CHARLESTON WD 1 ||| [[WD]]
+    9-A CHARLESTON WD 2 ||| [[WD]]
+    9-B CHARLESTON WD 3 ||| [[WD]]
+    ENGLAND CITY WARD 1 ||| [[WARD]]
+    ENGLAND CITY WARD 2 ||| [[WARD]]
+    ENGLAND CITY WARD 3 ||| [[WARD]]
+    ENGLAND CITY WARD 4 ||| [[WARD]]
+    PRECINCT 11 - ROCKY ||| [[PRECINCT]]
+    BRINKLEY WARD 2 BSDL ||| [[WARD]]
+    CALICO ROCK _ WARD 1 ||| [[WARD]]
+    CALICO ROCK _ WARD 2 ||| [[WARD]]
+    CALICO ROCK _ WARD 3 ||| [[WARD]]
+    CALICO ROCK _ WARD 4 ||| [[WARD]]
+    CARLISLE CITY WARD 1 ||| [[WARD]]
+    CARLISLE CITY WARD 2 ||| [[WARD]]
+    CARLISLE CITY WARD 3 ||| [[WARD]]
+    HEBER SPRINGS WARD 1 ||| [[WARD]]
+    HEBER SPRINGS WARD 2 ||| [[WARD]]
+    HEBER SPRINGS WARD 3 ||| [[WARD]]
+    HEBER SPRINGS WARD 4 ||| [[WARD]]
+    PRECINCT 12 - POTTER ||| [[PRECINCT]]
+    PRECINCT 16 - WICKES ||| [[PRECINCT]]
+    PRECINCT 17 - GRANNIS ||| [[PRECINCT]]
+    PRECINCT 8 - BIG FORK ||| [[PRECINCT]]
+    WATTENSAW CITY WARD 1 ||| [[WARD]]
+    WATTENSAW CITY WARD 2 ||| [[WARD]]
+    WATTENSAW CITY WARD 3 ||| [[WARD]]
+    BIG BOTTOM WARDS 1,2,3 ||| [[WARD]]
+    PRECINCT 13 - HATFIELD ||| [[PRECINCT]]
+    HORSESHOE BEND _ WARD 1 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 2 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 3 ||| [[WARD]]
+    HORSESHOE BEND _ WARD 4 ||| [[WARD]]
+    PRECINCT 6 - BOARD CAMP ||| [[PRECINCT]]
+    CADDO VALLEY WARDS 1,2,3 ||| [[WARD]]
+    PRECINCT 7 - CHERRY HILL ||| [[PRECINCT]]
+    WARD 2 & 3 PRESCOTT SZ 2 ||| [[WARD]]
+    PRECINCT 10 - SHADY GROVE ||| [[PRECINCT]]
+    PRECINCT 15 - VANDERVOORT ||| [[PRECINCT]]
+    GURDON WARDS 1, 2, 3, 4, 5 ||| [[WARD]]
+    PRECINCT 9 - DALLAS VALLEY ||| [[PRECINCT]]
+    WARD 2, 3 & 4 PRESCOTT SZ 1 ||| [[WARD]]
+    BRINKLEY WARD 1 STREP61 BSDL ||| [[WARD]]
+    BRINKLEY WARD 3 STREP61 BSDL ||| [[WARD]]
+    CLARENDON WARD 1 STREP61 CSDL ||| [[WARD]]
+    CLARENDON WARD 2 STREP61 CSDL ||| [[WARD]]
+    CLARENDON WARD 3 STREP61 CSDL ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    DENT ||| [[INDEPENDENT]]
+    ARKINDA ||| [[IND]]
+    LIBERTY ||| [[LIB]]
+    WIDEMAN ||| [[DEM]]
+    GREENHAW ||| [[GREEN]]
+    GREENFIELD ||| [[GREEN]]
+    DEMUN RURAL ||| [[DEM]]
+    ELEVENPOINT ||| [[NP]]
+    JACKSONPORT ||| [[NP]]
+    JP 5 REP 88 ||| [[REP]]
+    JP 6 REP 88 ||| [[REP]]
+    JP 7 REP 88 ||| [[REP]]
+    JP 8 REP 88 ||| [[REP]]
+    JP 9 REP 88 ||| [[REP]]
+    MERRY GREEN 1 ||| [[GREEN]]
+    MERRY GREEN 2 ||| [[GREEN]]
+    KEEVIL STREP61 ||| [[REP]]
+    25 INDIAN HILLS ||| [[IND]]
+    GREENBRIER-DESHA ||| [[GREEN]]
+    INDIAN BAYOU TWP ||| [[IND]]
+    RICHLAND STREP61 ||| [[REP]]
+    ROE STREP61 CSDL ||| [[REP]]
+    GREENWICH VILLAGE ||| [[GREEN]]
+    HIND STREP62 CSDL ||| [[IND]]
+    JACK STREP62 CSDL ||| [[REP]]
+    CACHE STREP61 CSDL ||| [[REP]]
+    FARGO STREP61 BSDL ||| [[REP]]
+    370 GREENLAND TWP-1 ||| [[GREEN]]
+    372 GREENLAND TWP-2 ||| [[GREEN]]
+    377 GREENLAND TWP-3 ||| [[GREEN]]
+    BOD RURAL ST REP 98 ||| [[REP]]
+    DUNCAN STREP62 CSDL ||| [[REP]]
+    GREENF STREP61 BSDL ||| [[GREEN]]
+    GREENWOOD RIVERVALE ||| [[GREEN]]
+    369 GREENLAND CITY-1 ||| [[GREEN]]
+    371 GREENLAND CITY-2 ||| [[GREEN]]
+    GREENBRIER-JAMESTOWN ||| [[GREEN]]
+    ROC-ROE STREP61 CSDL ||| [[REP]]
+    CLEBURNE STREP62 CSDL ||| [[REP]]
+    CYPRESS RIDGE STREP62 ||| [[REP]]
+    GREENBRIER-LOCUST GROVE ||| [[GREEN]]
+    ROSSTON RURAL ST REP 89 ||| [[REP]]
+    ROSSTON RURAL ST REP 98 ||| [[REP]]
+    HOLLY GROVE STREP62 CSDL ||| [[REP]]
+    RAYMOND TWN STREP62 CSDL ||| [[REP]]
+    BOD CITY & RURAL ST REP 89 ||| [[REP]]
+    MONTGOMERY/SMALLEY STREP62 ||| [[REP]]
+    BRINKLEY WARD 1 STREP61 BSDL ||| [[REP]]
+    BRINKLEY WARD 3 STREP61 BSDL ||| [[REP]]
+    WILLISVILLE RURAL ST. REP 89 ||| [[REP]]
+    CLARENDON WARD 1 STREP61 CSDL ||| [[REP]]
+    CLARENDON WARD 2 STREP61 CSDL ||| [[REP]]
+    CLARENDON WARD 3 STREP61 CSDL ||| [[REP]]
+    BOD RURAL NEV SZ 3 & ST REP 89 ||| [[REP]]
+    ROSSTON CITYSALESTAX & STREP89 ||| [[REP]]
+    WILLISVILLE CITY&RURALST.REP98 ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    CENTER ||| [[CENTER]]
+    POLLARD ||| [[POLL]]
+    CENTER POST ||| [[CENTER]]
+    CENTERVILLE ||| [[CENTER]]
+    080 CENTER-1 ||| [[CENTER]]
+    082 CENTER-2 ||| [[CENTER]]
+    083 CENTER-3 ||| [[CENTER]]
+    084 CENTER-4 ||| [[CENTER]]
+    085 CENTER-5 ||| [[CENTER]]
+    CIVIC CENTER ||| [[CENTER]]
+    CHARLES STRONG CENTER ||| [[CENTER]]
+    DELL COMMUNITY CENTER ||| [[CENTER]]
+    MISS CO ELECTION CENTER ||| [[ELECTION]]
+    GOSNELL COMMUNITY CENTER ||| [[CENTER]]
+    BIRDSONG COMMUNITY CENTER ||| [[CENTER]]
+    R. JACKSON NEIGHBORHOOD CENTER ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    CYPRESS RIDGE STREP62 ||| [[PRES]]
+    WARD 2 & 3 PRESCOTT SZ 2 ||| [[PRES]]
+    WARD 2, 3 & 4 PRESCOTT SZ 1 ||| [[PRES]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    001  CAMDEN
+    002 CAMDEN
+    003 CAMDEN
+    004 CAMDEN
+    005 BEARDEN
+    006 CHIDESTER
+    007 EAST CAMDEN
+    008 LOUANN
+    009 STEPHENS
+    010 COUNTY 001
+    011
+    011 COUNTY 002
+    012
+    012 COUNTY 003
+    013
+    013 COUNTY 004
+    014 16
+    014 COUNTY 005
+    015 COUNTY 007
+    016 COUNTY 008
+    017 COUNTY 010
+    018 COUNTY 011
+    02 BARNETT
+    020 BOSTON
+    021
+    022
+    023
+    024 08
+    03 BRADLEY
+    031
+    032
+    033
+    034
+    04 CULPEPPER
+    040 BRUSH CREEK
+    041 01
+    042
+    043
+    044
+    05 HOLLY MOUNTAIN
+    051
+    052 06
+    053
+    054
+    06 CHOCTAW
+    060 CANE HILL-1
+    061
+    061 CANE HILL-2
+    062 04
+    062 CANE HILL-3
+    063 05
+    064 06
+    07 WEST GRIGGS
+    071
+    072 04
+    073 06
+    074
+    08 CRAIG
+    080 CENTER-1
+    081
+    082 03
+    082 CENTER-2
+    083 04
+    083 CENTER-3
+    084 07
+    084 CENTER-4
+    085 CENTER-5
+    09 CARGILE
+    091 06
+    092
+    093 05
+    094
+    1
+    1-A OZARK WD 1
+    1-B OZARK WD 3
+    1-C OZARK WD 2
+    1.0
+    10
+    10 DAVIS
+    10.0
+    100 COVE CREEK-1
+    101
+    101 COVE CREEK-2
+    102 04
+    103
+    104
+    104 07
+    105
+    106
+    107
+    108
+    10F124.1
+    10F124.2
+    10F131.1
+    10F222.1
+    10F223.1
+    11
+    11 FORMOSA
+    11.0
+    110 COVE CREEK-3
+    111
+    111 01
+    112
+    112 06
+    113
+    114
+    114 12
+    115
+    116
+    117
+    119
+    11F118.1
+    11F119.1
+    11F119.2
+    11F119.3
+    11F119.4
+    11F120.1
+    11F120.2
+    11F121.1
+    11F217.1
+    12
+    12 EAST GRIGGS
+    12.0
+    120
+    120 CRAWFORD
+    121
+    122
+    123
+    123 08
+    124
+    124 10
+    125
+    126
+    128
+    12F114.1
+    12F115.1
+    12F116.1
+    12F116.2
+    12F411.1
+    12F411.2
+    12F412.1
+    12F413.1
+    12F413.2
+    12F413.3
+    12SC10.1
+    13
+    13.0
+    130
+    131
+    132
+    133
+    134
+    13B28.1
+    13B29.1
+    13B29.2
+    13B31.1
+    13B47.1
+    13F42.1
+    13F43.1
+    13F43.2
+    13F44.1
+    13F45.1
+    13F46.1
+    14
+    14.0
+    140 DURHAM
+    15
+    15 MOUNTAIN
+    15.0
+    150
+    16
+    16.0
+    160 DUTCH MILLS
+    17
+    17 LINN CREEK
+    17.0
+    18
+    18.0
+    180 ELKINS-1
+    181 ELKINS-2
+    19
+    19 RED RIVER
+    19.0
+    1B195.1
+    1B199.1
+    1B199.2
+    1B296.1
+    1B297.1
+    1B298.1
+    1B395.1
+    1B395.2
+    1B396.1
+    1B397.1
+    1B397.2
+    1B397.3
+    1B399.1
+    1C1108.1
+    1C2107.1
+    1C3106.1
+    1F4105.1
+    1LV103.1
+    1LV103.2
+    1LV103.3
+    1LV103.4
+    1LV103.5
+    1LV103.6
+    1LV103.7
+    1LV103.8
+    1LV103.9
+    1SC100.1
+    1SC101.1
+    1SC101.2
+    1SC102.1
+    1SC102.2
+    1SC102.3
+    1SC102.4
+    1SC102.5
+    1SC102.6
+    1SC102.8
+    1SC94.01
+    1SC94.02
+    1ST BAPTIST CHURCH P5
+    2
+    2-A OZARK WD 2
+    2-B OZARK RURAL
+    2-C LONELM/CRAVENS
+    2-D WALLACE/IVY
+    2-E OZARK WD 3
+    2.0
+    20
+    20 UNION
+    20.0
+    200 ELM SPRINGS TWP FIRE
+    200.X50 ELM SPRINGS TWP
+    201
+    202
+    203
+    204
+    205
+    206
+    207
+    208
+    209
+    21
+    21 WASHINGTON
+    21.01
+    210
+    210 ELM SPRINGS CITY-1
+    211
+    211 ELM SPRINGS CITY-2
+    212
+    213
+    214
+    215
+    216
+    217
+    218
+    219
+    22
+    22 WHEELER
+    22.0
+    220 FARMINGTON-1
+    221
+    221 FARMINGTON-5
+    222
+    222 FARMINGTON-2
+    223
+    223 FARMINGTON-3
+    224
+    224 FARMINGTON-4
+    225 FARMINGTON-6
+    23
+    23 MOUNTAIN RANCH
+    23.0
+    24
+    24 SOUTH GRIGGS
+    24.0
+    240 FAY 01
+    241 FAY 49
+    242 FAY 50
+    243 FAY 51
+    244 FAY 52
+    245 FAY 53
+    246 FAY 54
+    247 FAY 55
+    248 FAY 56
+    249 FAY 57
+    25
+    25 INDIAN HILLS
+    25.0
+    250 FAY 02
+    251 FAY 58
+    252 FAY 59
+    253 FAY 60
+    254 FAY 61
+    255 FAY 62
+    256 FAY 63
+    257 FAY 64
+    258 FAY 65
+    259 FAY 66
+    26
+    26 LAKEWOOD
+    26.0
+    260 FAY 03
+    27
+    27.0
+    270 FAY 04
+    28
+    28.0
+    280 FAY 05
+    29
+    29.0
+    290 FAY 06
+    2GW85.1
+    2GW85.2
+    2GW85.3
+    2GW90.1
+    2GW90.2
+    2GW91.1
+    2GW91.2
+    2GW91.4
+    2GW91.5
+    2GW91.6
+    2GW91.7
+    2GW92.1
+    2GW92.2
+    2GW92.3
+    2GW92.4
+    2GW92.5
+    2GW92.6
+    2GW92.7
+    2GW93.1
+    2GW93.2
+    2GW93.3
+    2GW93.4
+    2GW93.5
+    2GW93.6
+    2GW93.7
+    2GW93.8
+    2GW93.9
+    2ND BAPTIST CHURCH P3
+    2SC82.1
+    2SC83.1
+    2SC83.2
+    2SC84.1
+    2SC86.1
+    2SC86.2
+    2SC87.1
+    2SC87.2
+    2SC87.3
+    2SC88.1
+    2SC88.2
+    2SC89.1
+    2SC89.2
+    2SC89.3
+    2SC89.4
+    2SC89.5
+    3
+    3-A LONELM/CRAVENS
+    3-B FERN
+    3-C BOSTON
+    3-D JETHRO
+    3-E WATALULA
+    3-F MOUNTAIN
+    3.0
+    30
+    30.0
+    300 FAY 07
+    306
+    307
+    308
+    309
+    31
+    31.0
+    310
+    310 FAY 08
+    311
+    312
+    314
+    315
+    316
+    317
+    318
+    319
+    32
+    32.0
+    320
+    320 FAY 09A
+    321 FAY 09B
+    322
+    323
+    324
+    325
+    326
+    327
+    328
+    33
+    33.0
+    330
+    330 FAY 10
+    331
+    331 FAY 11
+    332
+    332 FAY 12
+    333 FAY 13
+    334 FAY 14
+    335 FAY 15
+    336 FAY 16
+    337 FAY 17
+    338 FAY 18
+    339 FAY 19
+    34
+    34.0
+    340 FAY 20
+    341 FAY 21
+    342 FAY 22
+    343 FAY 23
+    344 FAY 24
+    345 FAY 25
+    346 FAY 26
+    347 FAY 27
+    348 FAY 28
+    349 FAY 29
+    35.0
+    350 FAY 30
+    351 FAY 31
+    352 FAY 32
+    353 FAY 33
+    354 FAY 34
+    355 FAY 35
+    356 FAY 36
+    357 FAY 37
+    358 FAY 38
+    359 FAY 39
+    36
+    36.0
+    360 FAY 40
+    361 FAY 41
+    362 FAY 42
+    363 FAY 43
+    364 FAY 44
+    365 FAY 45
+    366 FAY 46
+    367 FAY 47
+    368 FAY 48
+    369 GREENLAND CITY-1
+    37.0
+    370 GREENLAND TWP-1
+    371 GREENLAND CITY-2
+    372 GREENLAND TWP-2
+    373 GOSHEN CITY-1
+    374 GOSHEN CITY-2
+    375 GOSHEN TWP-1
+    376 GOSHEN TWP-2
+    377 GREENLAND TWP-3
+    38.0
+    380 HARMON-1 FIRE
+    380.X50 HARMON-1
+    381 HARMON-5
+    381.X50 HARMON-5 FIRE
+    382 HARMON-2
+    383 HARMON-3
+    384 HARMON-4
+    385 HARMON-6
+    39.0
+    3BZ79.2
+    3BZ80.2
+    3BZ80.3
+    3BZ81.1
+    3BZ81.3
+    3HC78.1
+    3HC78.2
+    3HC78.3
+    3HC78.4
+    3HC78.5
+    3HF77.1
+    3HF77.2
+    3HF77.3
+    3HG76.1
+    3HG76.2
+    3HG76.3
+    3MD75.1
+    3MN74.1
+    3MN74.3
+    3MN74.4
+    3MN74.5
+    3MN74.6
+    3MN74.7
+    3SC70.1
+    3SC71.1
+    3SC71.2
+    3SC71.3
+    3SC71.4
+    3SC71.5
+    3SC71.6
+    3SC71.7
+    3SC71.8
+    3SC71.9
+    3SC72.2
+    3SC72.3
+    3SC73.1
+    3SC73.2
+    3SC73.3
+    3SC73.4
+    3SC73.5
+    3SC73.6
+    3SC73.7
+    3SC73.8
+    4
+    4-A PHILPOT
+    4-B WATALULA
+    4-C WV RURAL
+    4-D OZARK RURAL
+    4.0
+    40.0
+    400 ILLINOIS
+    403
+    404
+    405
+    406
+    407
+    408
+    409
+    41.0
+    410
+    412
+    414
+    415
+    416
+    417
+    419
+    419 JOHNSON TWP-4
+    42.0
+    420
+    420 JOHNSON TWP-1
+    421
+    421 JOHNSON CITY-1
+    422
+    422 JOHNSON CITY-4
+    423
+    423 JOHNSON TWP-2
+    424 JOHNSON TWP-3
+    425
+    425 JOHNSON CITY-2
+    426
+    426 JOHNSON CITY-3
+    440 LEES CREEK
+    45
+    450
+    451
+    452
+    453
+    454
+    455
+    460 LINCOLN
+    480 LITTERAL-1
+    481 LITTERAL-2
+    482 LITTERAL-3
+    483 LITTERAL-4
+    4F366.1
+    4F366.2
+    4F367.1
+    4F368.1
+    4F369.1
+    4F465.1
+    4GW62.1
+    4GW62.2
+    4GW62.3
+    4GW63.1
+    4GW63.2
+    4GW64.1
+    4SC53.1
+    4SC54.1
+    4SC54.2
+    4SC55.1
+    4SC55.2
+    4SC56.1
+    4SC56.2
+    4SC57.1
+    4SC57.2
+    4SC58.1
+    4SC59.1
+    4SC59.2
+    4SC59.3
+    4SC59.4
+    4SC59.5
+    4SC60.1
+    5
+    5-A WALLACE/IVY
+    5-B OZARK RURAL
+    5-C WEBB CITY
+    5.0
+    50
+    500 MARRS HILL-1
+    501 MARRS HILL-2
+    51
+    510
+    520 MORROW-1
+    521 MORROW-2
+    53
+    530
+    54
+    541 PRAIRIE TWP-1
+    541.XX1 PRAIRIE TWP 1-ANNEX
+    542 PRAIRIE TWP-2
+    543 PRAIRIE TWP-3
+    544 PRAIRIE TWP-4
+    545 PRAIRIE TWP-5
+    546 PRAIRIE TWP-6
+    547 PRAIRIE TWP-7
+    548 PRAIRIE TWP-8
+    548.X50 PRAIRIE TWP 8-ANNEX
+    55
+    550 PRAIRIE GR CITY-1
+    56
+    560 PRAIRIE GR CITY-2
+    561 PRAIRIE GR CITY-3
+    562 PRAIRIE GR CITY-4
+    563 PRAIRIE GR CITY-5
+    57
+    58
+    580 PRAIRIE GR TWP-1
+    581 PRAIRIE GR TWP-3
+    582 PRAIRIE GR TWP-2
+    59
+    5F350.1
+    5F351.1
+    5F352.1
+    5F448.1
+    5F449.1
+    5SC46.1
+    5SC47.1
+    6
+    6-A ALTUS RURAL
+    6-B ALTUS CITY
+    6-C DENNING
+    6-D WEIDERKEHR VILLAGE
+    6.0
+    60
+    61
+    610
+    62
+    620
+    620 REED-1
+    621 REED-2
+    64
+    640 RHEAS MILL
+    66
+    660 RICHLAND-1
+    661 RICHLAND-3
+    662 RICHLAND-2
+    67
+    680 SPG 01
+    690 SPG 02
+    6F342.2
+    6F343.1
+    6F343.2
+    6F344.1
+    6F345.1
+    6F440.1
+    6F440.2
+    6F441.1
+    6SC38.1
+    6SC39.1
+    7
+    7-A CECIL
+    7-B WEBB CITY
+    7-C ETNA
+    7-D DONALD RURAL
+    7.0
+    700 SPG 03
+    710 SPG 04
+    711
+    712
+    713
+    714
+    720 SPG 05
+    721
+    73
+    730 SPG 06
+    731
+    732
+    733
+    74
+    740 SPG 07
+    741 SPG 08
+    742 SPG 09
+    743 SPG 10
+    744 SPG 11
+    745 SPG 12
+    746 SPG 13
+    747 SPG 14
+    748 SPG 15
+    749 SPG 16
+    75
+    752 SPG 17
+    753 SPG 18
+    754 SPG 19
+    755 SPG 20
+    756 SPG 21
+    757 SPG 22
+    758 SPG 23
+    759 SPG 24
+    76
+    760 SPG 25
+    761 SPG 26
+    762 SPG 27
+    763 SPG 28
+    764 SPG 29
+    765 SPG 30
+    766 SPG 31
+    767 SPG 32
+    768 SPG 33
+    769 SPG 34
+    77
+    770 SPG 35
+    771 SPG 36
+    772 SPG 37
+    773 SPG 38
+    774 SPG 39
+    775 SPG 40
+    776 SPG 41
+    778 SPG 43
+    779 SPG TWP-1
+    78
+    780 STARR HILL
+    781 SPG TWP-2
+    782 SPG TWP-3
+    79
+    7F137.1
+    7F334.1
+    7F334.2
+    7F335.1
+    7F336.1
+    7F336.2
+    7F432.1
+    7F433.1
+    7F433.2
+    7TH STREET CHURCH WMPH
+    8
+    8-A BRANCH CITY
+    8-B CHARLESTON WD 1
+    8-C CHARLESTON RURAL
+    8-D VESTA
+    8-E DONALD RURAL
+    8-F CECIL
+    8-G DONALD RURAL
+    8.0
+    80
+    800 TONTITOWN CITY-1
+    801 TONTITOWN CITY-2
+    802 TONTITOWN CITY-3
+    803 TONTITOWN CITY-4
+    804 TONTITOWN CITY-5
+    805 TONTITOWN CITY-6
+    807 TONTITOWN TWP FIRE
+    81
+    810
+    810 VALLEY-1
+    811 VALLEY-2
+    812 VALLEY-3
+    82
+    820
+    820 VINEYARD
+    83
+    830
+    830 WAR EAGLE
+    84
+    840 WEDINGTON
+    85
+    86
+    860 WEST FORK CITY-1
+    861 WEST FORK CITY-2
+    862 WEST FORK CITY-3
+    87
+    880 WEST FORK TWP-1
+    881 WEST FORK TWP-2
+    882 WEST FORK TWP-3
+    89
+    8F228.1
+    8F229.1
+    8F230.1
+    9
+    9-A CHARLESTON WD 2
+    9-B CHARLESTON WD 3
+    9-C CHARLESTON RURAL
+    9.0
+    90
+    900
+    900 WHEELER-1
+    901 WHEELER-4
+    902 WHEELER-5
+    903 WHEELER-2
+    904 WHEELER-3
+    92
+    920 WHITE RIVER-1
+    93
+    930 WHITE RIVER-2
+    931 WHITE RIVER-3
+    932 WHITE RIVER-4
+    933 WHITE RIVER-5
+    94
+    940 WINSLOW TWP
+    950
+    950 WINSLOW CITY
+    960 WYMAN
+    9F127.1
+    9F225.1
+    9F226.1
+    AIRBASE
+    ALABAM
+    ALAMO
+    ALBION
+    ALCORN
+    ALGOA
+    ALLPORT CITY
+    ALMYRA
+    AMAGON
+    AMITY CITY
+    ANGORA MOUNTAIN
+    ANNIEVILLE
+    ANTHONYVILLE CITY HALL
+    ANTIOCH
+    ANTOINE
+    APLIN
+    APPLETON 1/JP4
+    APPLETON 2/JP3
+    ARBANNA
+    ARDEN
+    ARKADELPHIA WARD 1
+    ARKADELPHIA WARD 2
+    ARKADELPHIA WARD 3
+    ARKADELPHIA WARD 4
+    ARKADELPHIA WARD 5
+    ARKANSAS
+    ARKINDA
+    ARMOREL PLANTING COMPANY
+    ASHDOWN WARD 1
+    ASHDOWN WARD 2
+    ASHDOWN WARD 3
+    ASHLAND
+    ASHLEY
+    ATKINS IN/JP1
+    ATKINS OUT 1/JP1
+    ATKINS OUT 2/
+    ATKINS OUT 3/JP3
+    AUBURN
+    AUGUSTA-01
+    AUGUSTA-02
+    AUGUSTA-03
+    AURELLE SR97
+    AUSTIN
+    AUSTIN CITY
+    AUVERGNE
+    B/U
+    BAKER
+    BALD KNOB NORTH
+    BALD KNOB TWP
+    BALD KNOB WARD 1
+    BALD KNOB WARD 2
+    BALD KNOB WARD 3
+    BANKS CITY
+    BANKS RURAL
+    BAR/TARRY
+    BAR/YORKTOWN
+    BARBER
+    BARREN
+    BARTON
+    BARTON FIRE STATION P9
+    BAYLISS/JP6
+    BAYOU METO
+    BEAR CREEK
+    BEAR CREEK #4
+    BEAR CREEK #5
+    BEAR CREEK #6
+    BEARDEN
+    BEEBE WARD 1
+    BEEBE WARD 2
+    BEEBE WARD 3
+    BEEBE WARD 3C
+    BEECH CREEK
+    BEEDEVILLE
+    BELCHER/TYLER
+    BEN
+    BENNETT & LEMMONS
+    BENTLEY CITY
+    BENTLEY RURAL
+    BERRYVILLE EAST
+    BERRYVILLE WEST
+    BETHANY
+    BIG BOTTOM WARDS 1,2,3
+    BIG BOTTOM WYCOUGH LOGAN
+    BIG CREEK
+    BIG SPRING
+    BINGEN
+    BIRD
+    BIRDSONG COMMUNITY CENTER
+    BISMARCK
+    BLACK RIVER
+    BLACK RIVER- MARSHALL
+    BLACK ROCK
+    BLACK SPRINGS
+    BLACKFORK
+    BLACKVILLE
+    BLANSETT
+    BLEVINS
+    BLUE MOUNTAIN CITY
+    BLUE MOUNTAIN RURAL
+    BLUFF CITY CITY & RURAL
+    BLUFFTON
+    BOAS 1
+    BOAS 2
+    BOAS 3
+    BOD CITY & RURAL ST REP 89
+    BOD RURAL NEV SZ 3 & ST REP 89
+    BOD RURAL ST REP 98
+    BOLIVAR
+    BONAIR
+    BOONE WD 1
+    BOONE WD 2
+    BOONE WD 3
+    BOONE WD 4
+    BOSTON
+    BOSWELL
+    BOWIE 1, 2, 3
+    BOWIE 1, 2, 3 JP. DIST 2
+    BOWIE RURAL
+    BOWIE W2
+    BOWIE W3
+    BOWIE; W1
+    BOWMAN
+    BOYDELL
+    BRADFORD WARD 1
+    BRADFORD WARD 2
+    BRADFORD WARD 3
+    BRADSHAW & HAYWOOD
+    BRAWLEY
+    BREWER
+    BRIGGSVILLE
+    BRIGHT STAR
+    BRINKLEY TOWNSHIP BSDL
+    BRINKLEY WARD 1 STREP61 BSDL
+    BRINKLEY WARD 2 BSDL
+    BRINKLEY WARD 3 STREP61 BSDL
+    BRISTOW
+    BROCKWELL
+    BROWN & CARPENTER
+    BROWN SPRINGS
+    BUCK MOUNTAIN/JP4
+    BULLARD
+    BURKE
+    BUTLER
+    BUTLER TWP
+    BUTTERFIELD
+    CABOT CITY WARD 1
+    CABOT CITY WARD 2
+    CABOT CITY WARD 3
+    CABOT CITY WARD 4
+    CACHE
+    CACHE & WILSON
+    CACHE STREP61 CSDL
+    CADDO GAP
+    CADDO VALLEY WARDS 1,2,3
+    CADRON
+    CAGLESVILLE 1/JP4
+    CAGLESVILLE 2/JP3
+    CALDWELL
+    CALEDONIA SR97
+    CALF CREEK
+    CALHOUN
+    CALICO ROCK RURAL
+    CALICO ROCK _ WARD 1
+    CALICO ROCK _ WARD 2
+    CALICO ROCK _ WARD 3
+    CALICO ROCK _ WARD 4
+    CALIFORNIA
+    CALION
+    CALVARY  BAPTIST WMPH
+    CALVERT
+    CAMPBELL 1
+    CAMPBELL 2
+    CAMPBELL 3
+    CAMPBELL 4
+    CAMPBELL STATION
+    CANE
+    CANE CREEK
+    CANE CREEK 1
+    CANE CREEK 2
+    CANE CREEK 3
+    CANEY
+    CARLISLE CITY WARD 1
+    CARLISLE CITY WARD 2
+    CARLISLE CITY WARD 3
+    CARLISLE TWP
+    CARLTON 1, 2, 3
+    CARLTON RURAL
+    CAROLINE TWP
+    CASA
+    CATHOLIC POINT
+    CAULKSVILLE CITY
+    CAULKSVILLE RURAL
+    CAUTHRON
+    CAUTHRON/OLIVER
+    CAVE
+    CEDAR CREEK
+    CEDAR FALLS
+    CENTER
+    CENTER POST
+    CENTERVILLE
+    CENTRAL
+    CENTRAL 1
+    CHAMBERSVILLE
+    CHAMPAGNOLLE
+    CHARLES STRONG CENTER
+    CHEROKEE
+    CHERRY HILL
+    CHERRY ST. FIRE STATION P1
+    CHERRY VALLEY
+    CHESTER
+    CHOCTAW
+    CHRISP
+    CIVIC CENTER
+    CLAIBORNE
+    CLARENDON WARD 1 STREP61 CSDL
+    CLARENDON WARD 2 STREP61 CSDL
+    CLARENDON WARD 3 STREP61 CSDL
+    CLARK
+    CLARK CITY
+    CLARK CROSSROADS
+    CLARK RURAL
+    CLAY
+    CLAYTON
+    CLAYTON MCARTHUR
+    CLAYTON REED
+    CLAYTON TILLAR
+    CLEAR CREEK
+    CLEBURNE STREP62 CSDL
+    CLEVELAND
+    CLEVELAND TWP
+    COAL/LAFAYETTE
+    COFFEY
+    COLDWELL
+    COLLEGE HILL
+    COLLINS
+    COLT
+    COLUMBIA
+    COLUMBIA NORTH
+    COLUMBIA SOUTH
+    COLUMBUS
+    COMPTON
+    COOTER
+    COTTON PLANT-08
+    COTTON PLANT-09
+    COTTON PLANT/FREEMAN-07
+    COUNTRY BOX 1
+    COUNTRY BOX 2 SR97
+    COUNTRY BOX 3 SR97
+    COUNTRY BOX 4 SR97
+    COUNTRY BOX 6
+    COUNTRY BOX 7 SR97
+    COY CITY
+    CRAWFORD
+    CRAWFORDSVILLE
+    CROCKETT
+    CROOKED CREEK TWP
+    CROSBY
+    CROSSROADS
+    CROW MOUNTAIN EAST 1/JP1
+    CROW MOUNTAIN EAST 2/JP3
+    CROW MOUNTAIN WEST 1/
+    CROW MOUNTAIN WEST 2/JP7
+    CURRENT RIVER
+    CURTIS 1
+    CUSHMAN-UNION
+    CV
+    CW1
+    CW2
+    CW3
+    CYPERT
+    CYPRESS RIDGE STREP62
+    DAISY
+    DALTON
+    DANVILLE
+    DARDANELLE OUTSIDE
+    DARDANELLE WARD 1
+    DARDANELLE WARD 2
+    DARDANELLE WARD 3
+    DARYSAW
+    DAVIDSON
+    DAVIS
+    DEANN
+    DEKALB 1
+    DEKALB 2
+    DELAWARE
+    DELIGHT
+    DELL COMMUNITY CENTER
+    DEMUN RURAL
+    DENMARK
+    DENT
+    DENTON
+    DEPARTEE
+    DEQUEEN EAST
+    DEQUEEN NORTH
+    DEQUEEN SOUTH
+    DEROCH
+    DES ARC
+    DEWITT WARD 1
+    DEWITT WARD 2
+    DEWITT WARD 3
+    DIAZ
+    DISTRICT 1
+    DISTRICT 10
+    DISTRICT 11
+    DISTRICT 12
+    DISTRICT 2
+    DISTRICT 3
+    DISTRICT 4
+    DISTRICT 5
+    DISTRICT 6
+    DISTRICT 7
+    DISTRICT 8
+    DISTRICT 9
+    DIXON TOWNSHIP
+    DOBSON
+    DODD MOUNTAIN
+    DODDRIDGE
+    DOGPATCH
+    DOGWOOD TWP
+    DOLPH
+    DONALDSON CITY
+    DORTCH TWP
+    DOTA
+    DOVER
+    DOVER IN/JP5
+    DOVER OUT/JP5
+    DOWELL
+    DRIGGS
+    DUNCAN STREP62 CSDL
+    DUTCH CREEK
+    DUTY
+    DYESS CITY HALL
+    EAGLE LAKE
+    EAGLE TWP
+    EARLE
+    EAST & WEST RURAL
+    EAST COUNTY 1
+    EAST OAK BLUFF
+    EAST OUT
+    EAST PETER CREEK
+    EAST ROANOKE
+    EAST SULLIVAN
+    EATON
+    ECONOMY/JP3
+    EDMONDSON
+    EL PASO
+    ELAINE VOTECH P16
+    ELEVENPOINT
+    ELLSWORTH
+    EMERSON CITY
+    EMERSON TOWNSHIP
+    EMMET CITY BLVNS S DIS
+    EMMET RURAL BLEVINS SD
+    EMMET RURAL NEV SCHOOL DIST
+    ENGLAND CITY WARD 1
+    ENGLAND CITY WARD 2
+    ENGLAND CITY WARD 3
+    ENGLAND CITY WARD 4
+    ENON
+    ETOWAH FIRE STATION
+    EUREKA SPRINGS
+    FAIRVIEW
+    FAKES CHAPEL-20
+    FANNIE
+    FARGO STREP61 BSDL
+    FC WARD 1
+    FC WARD 2
+    FC WARD 3
+    FC WARD 4
+    FELSENTHAL CITY/SR96
+    FENTER
+    FENTER A
+    FENTER B
+    FENTER C
+    FERGUSON
+    FLAT CREEK
+    FLETCHER TWP
+    FOOTHILLS
+    FOREMAN WARD 1
+    FOREMAN WARD 2
+    FOREMAN WARD 3
+    FORREST CITY COUNTRY WEST
+    FOSTER
+    FOUKE
+    FOUNTAIN HILL CITY
+    FOUNTAIN HILL RURAL
+    FOURCHE
+    FOX
+    FRANCIS
+    FRANCURE
+    FRANKLIN
+    FRANKLIN CITY
+    FRANKLIN RURAL
+    FREEMAN/JP4
+    FRIENDSHIP
+    FULTON
+    FULTON/MC
+    FURLOW TWP
+    GAINSBORO
+    GALLA ROCK
+    GARLAND
+    GARNER CITY
+    GARNER TWP
+    GENOA
+    GEORGETOWN CITY
+    GEORGIA
+    GEORGIA NEV SCHOOL DIST ZONE3
+    GID
+    GIFFORD
+    GILES
+    GILKEY
+    GILLETT WARD 1
+    GILLETT WARD 2
+    GILLETT WARD 3
+    GILMORE
+    GLEN ROSE
+    GLENWOOD NORTH
+    GLENWOOD SOUTH
+    GOODRUM TWP
+    GOSNELL COMMUNITY CENTER
+    GOULD
+    GOULD CITY W1
+    GOULD CITY W2
+    GOULD CITY W3
+    GOURDNECK-CITIZENSHIP
+    GRADY CITY W1& W2
+    GRASSEY INSIDE
+    GRASSEY OUTSIDE
+    GRAVEL HILL
+    GRAVELLY
+    GRAY A
+    GRAY B
+    GRAY TWP
+    GREENBRIER-DESHA
+    GREENBRIER-JAMESTOWN
+    GREENBRIER-LOCUST GROVE
+    GREENF STREP61 BSDL
+    GREENFIELD
+    GREENHAW
+    GREENWICH VILLAGE
+    GREENWOOD RIVERVALE
+    GREERS FERRY GILES
+    GREGORY
+    GREGORY-06
+    GRIFFIN
+    GRIFFITHVILLE CITY
+    GROVE
+    GRUBBS
+    GUERNSEY
+    GUION CITY
+    GUION RURAL
+    GUM POND
+    GUM SPRINGS
+    GUM SPRINGS INSIDE/OUTSIDE 1
+    GUMWOOD TWP
+    GURDON GENERAL 1
+    GURDON WARDS 1, 2, 3, 4, 5
+    GUTHRIE
+    HALLEY
+    HAMBURG RURAL
+    HAMILTON TWP
+    HAMPTON
+    HARDY
+    HARPER
+    HARRELL
+    HARRISON
+    HARRISON EAST
+    HARTSELL
+    HASTY
+    HAZEN COUNTRY
+    HAZEN WARD 1
+    HAZEN WARD 2
+    HAZEN WARD 3
+    HEALING SPRINGS
+    HEBER SPRINGS OUTSIDE
+    HEBER SPRINGS WARD 1
+    HEBER SPRINGS WARD 2
+    HEBER SPRINGS WARD 3
+    HEBER SPRINGS WARD 4
+    HECTOR IN/JP4
+    HECTOR OUT/JP4
+    HENDERSON
+    HENTON
+    HERMITAGE CITY
+    HERMITAGE RURAL
+    HERRING
+    HETH BLACKFISH
+    HIBANKS SR97
+    HICKMAN RURAL EAST
+    HICKMAN RURAL WEST
+    HICKMAN WARD 1
+    HICKMAN WARD 2
+    HICKMAN WARD 3
+    HICKORY GROVE
+    HICKORY PLAINS
+    HICKORY RIDGE
+    HICKORY STREET
+    HICKORY STREET SOUTH
+    HIGGINS
+    HIGGINSON TWP
+    HIGGINSON WARD 1
+    HIGGINSON WARD 2
+    HIGGINSON WARD 3
+    HIGHLAND
+    HILBURN
+    HILL
+    HILLEMAN-13
+    HIND STREP62 CSDL
+    HOLIDAY ISLAND
+    HOLLY GROVE STREP62 CSDL
+    HOLLYWOOD 1
+    HON
+    HOPE 1
+    HOPE 2
+    HOPE 3
+    HOPE 4
+    HOPE 5
+    HOPE 6
+    HOPE 7
+    HOPPER
+    HORSESHOE
+    HORSESHOE BEND RURAL
+    HORSESHOE BEND _ WARD 1
+    HORSESHOE BEND _ WARD 2
+    HORSESHOE BEND _ WARD 3
+    HORSESHOE BEND _ WARD 4
+    HORSESHOE LAKE
+    HOUSTON
+    HOWARD CITY
+    HOWARD RURAL
+    HOWELL-12
+    HUDGIN
+    HUDSON
+    HUFF
+    HUGHES
+    HUMNOKE CITY
+    HUMPHREY WARD 1
+    HUMPHREY WARD 3
+    HUNT
+    HUNTER-11
+    HUNTSVILLE WARD 1
+    HUNTSVILLE WARD 2
+    HUNTSVILLE WARD 3
+    HUNTSVILLE WARD 4
+    HURRICAN
+    HUTTIG
+    HW1
+    HW2
+    HW3
+    INDIAN BAYOU TWP
+    INGLESIDE
+    INGRAM
+    IONS CREEK
+    ISBELL TWP
+    ISLAND
+    JACK STREP62 CSDL
+    JACKSON
+    JACKSONPORT
+    JAMES
+    JANES CREEK
+    JEFFERSON
+    JERICHO CITY HALL
+    JEROME
+    JERSEY
+    JESUP
+    JEWELL
+    JOHNSON
+    JOHNSVILLE
+    JOINER CITY HALL
+    JONES/LITTLE TEXAS
+    JOY
+    JP 001
+    JP 002
+    JP 003
+    JP 004
+    JP 005
+    JP 006
+    JP 007
+    JP 008
+    JP 009
+    JP 01
+    JP 02
+    JP 03
+    JP 04
+    JP 05
+    JP 06
+    JP 07
+    JP 08
+    JP 09
+    JP 1
+    JP 2
+    JP 3
+    JP 4
+    JP 5 REP 88
+    JP 6 REP 88
+    JP 7 REP 88
+    JP 8 REP 88
+    JP 9 REP 88
+    JP01
+    JP02
+    JP03
+    JP04
+    JP05
+    JP06
+    JP07
+    JP08
+    JP09
+    JP10
+    JP11
+    JUDSONIA WARD 1
+    JUDSONIA WARD 2
+    JUDSONIA WARD 3
+    JUNCTION CITY SR97
+    KEATON
+    KEENER
+    KEEVIL STREP61
+    KEISER FIRST BAPTIST CHURCH
+    KENNEY
+    KENSETT TWP
+    KENSETT WARD 1
+    KENSETT WARD 2
+    KENSETT WARD 3
+    KENTUCKY
+    KEO CITY
+    KIMBROUGH
+    KINGS RIVER
+    KINGSLAND INSIDE
+    KINGSLAND OUTSIDE
+    KIRBY
+    KNOB
+    KNOB CREEK
+    LACEY
+    LACROSSE
+    LAFAVE
+    LAFAYETTE TWP
+    LAFFERTY
+    LAGRUE
+    LAKE
+    LAKES AREA
+    LAKEVIEW SCHOOL CAFETERIA P15
+    LAMAR
+    LAMB
+    LANEBURG
+    LANEBURG NEV SD ZONE 3
+    LANGLEY/LODI
+    LANGUILLE
+    LARKIN
+    LAVE CREEK
+    LAWRENCE
+    LAWSON SR96
+    LEACHVILLE CITY HALL
+    LEE
+    LETONA
+    LEWIS WARD 1
+    LEWIS WARD 2
+    LEXA FIRE STATION P10
+    LIBERTY
+    LICK CREEK
+    LICK MTN.
+    LIDDELL & CHALK BLUFF
+    LINCOLN
+    LISBON SR97
+    LITTLE BLACK
+    LITTLE RIVER
+    LITTLE RIVER PAYNEWAY
+    LOCUST
+    LOGAN
+    LONDON IN/JP6
+    LONDON OUT/JP6
+    LONE HILL
+    LONE PINE/GARNETT
+    LONE PINE/MT. HOME
+    LONG CREEK
+    LONOKE CITY WARD 1
+    LONOKE CITY WARD 2
+    LONOKE CITY WARD 3
+    LONOKE CITY WARD 4
+    LONOKE CITY WARD 5
+    LONOKE CITY WARD 6
+    LONOKE CITY WARD 7
+    LONOKE CITY WARD 8
+    LONOKE TWP
+    LOW GAP
+    LOWER HILL CITY
+    LOWER HILL COUNTRY
+    LOWER NORTH
+    LR JACKSON
+    LUNSFORD
+    MACKS
+    MADISON
+    MAG WARD 1
+    MAG WARD 2
+    MAG WARD 3
+    MAG WARD 4
+    MAGAZINE 1
+    MAGAZINE 2
+    MAGNESS
+    MAGNESS TWP
+    MAGNET
+    MALVERN WARD 1
+    MALVERN WARD 2
+    MALVERN WARD 3
+    MALVERN WARD 4
+    MANDEVILLE
+    MANILA POLICE DEPT
+    MARION
+    MARION N BOX 1
+    MARION N BOX 2
+    MARION SCHOOL
+    MARION SOUTH
+    MARSHALL
+    MARTIN
+    MARTIN 1/JP4
+    MARTIN 2/JP6
+    MARTIN 3/JP6
+    MARVELL FIRE STATION P11
+    MASON
+    MAUMELLE
+    MCCASKILL
+    MCCLAREN
+    MCCRORY RURAL-15
+    MCCRORY-17
+    MCCRORY-18
+    MCFALL
+    MCHUE
+    MCHUE 3
+    MCJESTER
+    MCNAB
+    MCNEIL CITY
+    MCNEIL TOWNSHIP
+    MCRAE TWP
+    MCRAE WARD 1
+    MCRAE WARD 2
+    MELBOURNE RURAL
+    MELBOURNE _ WARD 1
+    MELBOURNE _ WARD 2
+    MELBOURNE _ WARD 3
+    MELBOURNE _ WARD 4
+    MENIFEE CITY
+    MENIFEE RURAL
+    MERRY GREEN 1
+    MERRY GREEN 2
+    MIDWAY CITY
+    MILL BAYOU
+    MILL CREEK
+    MILLER
+    MILO
+    MINERAL
+    MISS CO ELECTION CENTER
+    MISSISSIPPI
+    MIST
+    MITCHELL
+    MITCHELLVILLE
+    MONROE
+    MONTGOMERY
+    MONTGOMERY/SMALLEY STREP62
+    MONTROSE CITY
+    MONTROSE RURAL
+    MOOREFIELD
+    MOOREFIELD WARD 1
+    MOOREFIELD WARD 4
+    MORELAND 1/JP3
+    MORELAND 2/JP4
+    MORGAN
+    MORGAN INSIDE
+    MORGAN OUTSIDE
+    MORRIS
+    MORRISON BLUFF
+    MORTON-14
+    MOUNT IDA INSIDE
+    MOUNT IDA OUTSIDE
+    MOUNT PLEASANT
+    MOUNT PLEASANT CITY
+    MOUNT PLEASANT RURAL
+    MOUNTAIN
+    MS/AFTON
+    MT SHERMAN
+    MT ZION
+    MT. HOLLY SR97
+    MT. PISGAH
+    MT. PLEASANT
+    MURFREESBORO EAST
+    MURFREESBORO WEST
+    MURRAY
+    MYATT
+    MYRON
+    NCE
+    NCW
+    NELSON
+    NEW GLAISE
+    NEW LONDON SR96
+    NEW TENNESSEE
+    NEWBURG
+    NEWCASTLE PARROTT
+    NEWHOPE
+    NEWPORT WARD 1-A
+    NEWPORT WARD 1-B
+    NEWPORT WARD 2-A
+    NEWPORT WARD 2-B
+    NEWPORT WARD 2-C
+    NEWPORT WARD 3-A
+    NEWPORT WARD 3-B
+    NEWPORT WARD 3-C
+    NEWPORT WARD 4-A
+    NEWPORT WARD 4-B
+    NICHOLS
+    NIVEN
+    NOGO/JP4
+    NORMAN INSIDE
+    NORMAN OUTSIDE
+    NORPHLET
+    NORTH
+    NORTH BIG ROCK
+    NORTH CADRON INSIDE
+    NORTH CADRON OUTSIDE
+    NORTH COUNTY
+    NORTH EAST COUNTY
+    NORTH HEIGHTS
+    NORTH HICKORY
+    NORTH KILGORE & CLEVELAND
+    NORTH LEBANON
+    NORTH RURAL AUGUSTA-04
+    NORTH ST. FRANCIS
+    NORTH UNION
+    NORTHEAST
+    NORTHWEST/FIFTY SIX
+    O'KEAN
+    OAK GROVE TWP
+    ODEN INSIDE
+    ODEN OUTSIDE
+    OIL TROUGH
+    OKOLONA CITY 1
+    OLD GLAISE
+    OLD HICKORY
+    OLD LEXINGTON
+    OLYPHANT
+    OSC. OLD JR HIGH GYM
+    OUACHITA
+    OWEN FISHER
+    OWEN WALDENBURG
+    OWEN/GLENDALE
+    OWEN/PALMYRA
+    OXFORD CITY
+    OXFORD RURAL
+    OXLEY
+    OZAN
+    OZARK
+    OZMENT
+    PALESTINE
+    PANGBURN WARD 1
+    PANGBURN WARD 2
+    PANGBURN WARD 3
+    PARACLIFTA
+    PARKDALE CITY
+    PARKDALE RURAL
+    PARKIN
+    PARKS
+    PATMOS
+    PATTERSON-16
+    PAYNE & SWAIN
+    PCT 1
+    PCT 10
+    PCT 11
+    PCT 12
+    PCT 13
+    PCT 14
+    PCT 15
+    PCT 16
+    PCT 17
+    PCT 18
+    PCT 19
+    PCT 2
+    PCT 21
+    PCT 22
+    PCT 23
+    PCT 24
+    PCT 25
+    PCT 26
+    PCT 27
+    PCT 28
+    PCT 29
+    PCT 3
+    PCT 30
+    PCT 31
+    PCT 32
+    PCT 33
+    PCT 34
+    PCT 35
+    PCT 36
+    PCT 37
+    PCT 38
+    PCT 39
+    PCT 4
+    PCT 40
+    PCT 41
+    PCT 42
+    PCT 43
+    PCT 44
+    PCT 45
+    PCT 46
+    PCT 48
+    PCT 49
+    PCT 5
+    PCT 50
+    PCT 53
+    PCT 54
+    PCT 55
+    PCT 6
+    PCT 7
+    PCT 8
+    PCT 9
+    PCT01
+    PCT02
+    PCT03
+    PCT04
+    PCT05
+    PCT06
+    PCT07
+    PCT08
+    PCT09
+    PEA RIDGE/JP3
+    PENCIL BLUFF
+    PENNINGTON BALCH
+    PERLA CITY
+    PERRY
+    PERRYTOWN
+    PETIT JEAN
+    PETTUS TWP
+    PICKENS
+    PINE
+    PINE RIDGE TOWNSHIP CSDL
+    PINEVILLE CITY
+    PINEVILLE RURAL
+    PINEY
+    PINEY FORK
+    PISGAH
+    PLANTERS 1, 3, 4, RURAL
+    PLANTERS 2
+    PLANTERSVILLE
+    PLEASANT GROVE
+    PLEASANT HILL
+    POFF
+    POLK
+    POLLARD
+    PONCA
+    PORTLAND CITY
+    PORTLAND RURAL
+    POTTSVILLE IN 1/JP2
+    POTTSVILLE IN 2/JP2
+    POTTSVILLE OUT 1/
+    POTTSVILLE OUT 2/JP2/JP12
+    POTTSVILLE OUT 3/JP2/LG54
+    PR/SB
+    PRAIRIE
+    PRAIRIE TWP
+    PRAIRIES
+    PRECINCT 1
+    PRECINCT 1 - MENA
+    PRECINCT 10
+    PRECINCT 10 - SHADY GROVE
+    PRECINCT 100
+    PRECINCT 101
+    PRECINCT 102
+    PRECINCT 103
+    PRECINCT 104
+    PRECINCT 105
+    PRECINCT 106
+    PRECINCT 107
+    PRECINCT 108
+    PRECINCT 109
+    PRECINCT 11
+    PRECINCT 11 - ROCKY
+    PRECINCT 110
+    PRECINCT 111
+    PRECINCT 112
+    PRECINCT 113
+    PRECINCT 114
+    PRECINCT 115
+    PRECINCT 116
+    PRECINCT 117
+    PRECINCT 118
+    PRECINCT 119
+    PRECINCT 12
+    PRECINCT 12 - POTTER
+    PRECINCT 120
+    PRECINCT 121
+    PRECINCT 122
+    PRECINCT 123
+    PRECINCT 124
+    PRECINCT 125
+    PRECINCT 126
+    PRECINCT 127
+    PRECINCT 128
+    PRECINCT 129
+    PRECINCT 13
+    PRECINCT 13 - HATFIELD
+    PRECINCT 130
+    PRECINCT 131
+    PRECINCT 132
+    PRECINCT 133
+    PRECINCT 134
+    PRECINCT 135
+    PRECINCT 136
+    PRECINCT 137
+    PRECINCT 138
+    PRECINCT 139
+    PRECINCT 14
+    PRECINCT 14 - COVE
+    PRECINCT 140
+    PRECINCT 141
+    PRECINCT 142
+    PRECINCT 143
+    PRECINCT 144
+    PRECINCT 145
+    PRECINCT 146
+    PRECINCT 147
+    PRECINCT 148
+    PRECINCT 149
+    PRECINCT 15
+    PRECINCT 15 - VANDERVOORT
+    PRECINCT 150
+    PRECINCT 151
+    PRECINCT 152
+    PRECINCT 153
+    PRECINCT 154
+    PRECINCT 155
+    PRECINCT 156
+    PRECINCT 157
+    PRECINCT 158
+    PRECINCT 159
+    PRECINCT 16
+    PRECINCT 16 - WICKES
+    PRECINCT 160
+    PRECINCT 161
+    PRECINCT 162
+    PRECINCT 163
+    PRECINCT 164
+    PRECINCT 165
+    PRECINCT 166
+    PRECINCT 167
+    PRECINCT 168
+    PRECINCT 169
+    PRECINCT 17
+    PRECINCT 17 - GRANNIS
+    PRECINCT 170
+    PRECINCT 171
+    PRECINCT 172
+    PRECINCT 173
+    PRECINCT 174
+    PRECINCT 175
+    PRECINCT 176
+    PRECINCT 177
+    PRECINCT 178
+    PRECINCT 179
+    PRECINCT 18
+    PRECINCT 180
+    PRECINCT 181
+    PRECINCT 182
+    PRECINCT 183
+    PRECINCT 184
+    PRECINCT 185
+    PRECINCT 186
+    PRECINCT 187
+    PRECINCT 188
+    PRECINCT 189
+    PRECINCT 19
+    PRECINCT 190
+    PRECINCT 191
+    PRECINCT 192
+    PRECINCT 193
+    PRECINCT 194
+    PRECINCT 195
+    PRECINCT 196
+    PRECINCT 197
+    PRECINCT 198
+    PRECINCT 199
+    PRECINCT 2
+    PRECINCT 2 - MENA
+    PRECINCT 20
+    PRECINCT 200
+    PRECINCT 201
+    PRECINCT 202
+    PRECINCT 203
+    PRECINCT 204
+    PRECINCT 205
+    PRECINCT 206
+    PRECINCT 207
+    PRECINCT 208
+    PRECINCT 209
+    PRECINCT 21
+    PRECINCT 210
+    PRECINCT 211
+    PRECINCT 212
+    PRECINCT 213
+    PRECINCT 214
+    PRECINCT 215
+    PRECINCT 216
+    PRECINCT 217
+    PRECINCT 218
+    PRECINCT 219
+    PRECINCT 22
+    PRECINCT 220
+    PRECINCT 221
+    PRECINCT 222
+    PRECINCT 223
+    PRECINCT 224
+    PRECINCT 225
+    PRECINCT 226
+    PRECINCT 227
+    PRECINCT 228
+    PRECINCT 229
+    PRECINCT 23
+    PRECINCT 230
+    PRECINCT 231
+    PRECINCT 232
+    PRECINCT 233
+    PRECINCT 234
+    PRECINCT 235
+    PRECINCT 237
+    PRECINCT 238
+    PRECINCT 239
+    PRECINCT 24
+    PRECINCT 240
+    PRECINCT 241
+    PRECINCT 242
+    PRECINCT 243
+    PRECINCT 244
+    PRECINCT 245
+    PRECINCT 246
+    PRECINCT 247
+    PRECINCT 248
+    PRECINCT 249
+    PRECINCT 25
+    PRECINCT 250
+    PRECINCT 251
+    PRECINCT 252
+    PRECINCT 253
+    PRECINCT 254
+    PRECINCT 255
+    PRECINCT 256
+    PRECINCT 257
+    PRECINCT 258
+    PRECINCT 259
+    PRECINCT 26
+    PRECINCT 260
+    PRECINCT 261
+    PRECINCT 262
+    PRECINCT 263
+    PRECINCT 264
+    PRECINCT 265
+    PRECINCT 266
+    PRECINCT 267
+    PRECINCT 268
+    PRECINCT 269
+    PRECINCT 27
+    PRECINCT 270
+    PRECINCT 271
+    PRECINCT 272
+    PRECINCT 273
+    PRECINCT 274
+    PRECINCT 275
+    PRECINCT 276
+    PRECINCT 277
+    PRECINCT 278
+    PRECINCT 279
+    PRECINCT 28
+    PRECINCT 280
+    PRECINCT 281
+    PRECINCT 282
+    PRECINCT 283
+    PRECINCT 284
+    PRECINCT 285
+    PRECINCT 286
+    PRECINCT 287
+    PRECINCT 288
+    PRECINCT 289
+    PRECINCT 29
+    PRECINCT 290
+    PRECINCT 291
+    PRECINCT 292
+    PRECINCT 293
+    PRECINCT 294
+    PRECINCT 295
+    PRECINCT 296
+    PRECINCT 297
+    PRECINCT 298
+    PRECINCT 299
+    PRECINCT 3
+    PRECINCT 3 - MENA
+    PRECINCT 30
+    PRECINCT 300
+    PRECINCT 301
+    PRECINCT 302
+    PRECINCT 303
+    PRECINCT 304
+    PRECINCT 305
+    PRECINCT 306
+    PRECINCT 307
+    PRECINCT 308
+    PRECINCT 309
+    PRECINCT 31
+    PRECINCT 310
+    PRECINCT 311
+    PRECINCT 312
+    PRECINCT 313
+    PRECINCT 314
+    PRECINCT 315
+    PRECINCT 316
+    PRECINCT 317
+    PRECINCT 318
+    PRECINCT 319
+    PRECINCT 32
+    PRECINCT 320
+    PRECINCT 321
+    PRECINCT 322
+    PRECINCT 323
+    PRECINCT 324
+    PRECINCT 325
+    PRECINCT 326
+    PRECINCT 327
+    PRECINCT 328
+    PRECINCT 329
+    PRECINCT 33
+    PRECINCT 330
+    PRECINCT 331
+    PRECINCT 332
+    PRECINCT 333
+    PRECINCT 334
+    PRECINCT 335
+    PRECINCT 336
+    PRECINCT 337
+    PRECINCT 338
+    PRECINCT 339
+    PRECINCT 34
+    PRECINCT 340
+    PRECINCT 341
+    PRECINCT 342
+    PRECINCT 343
+    PRECINCT 344
+    PRECINCT 345
+    PRECINCT 346
+    PRECINCT 347
+    PRECINCT 348
+    PRECINCT 349
+    PRECINCT 35
+    PRECINCT 350
+    PRECINCT 351
+    PRECINCT 352
+    PRECINCT 353
+    PRECINCT 354
+    PRECINCT 355
+    PRECINCT 356
+    PRECINCT 357
+    PRECINCT 358
+    PRECINCT 359
+    PRECINCT 36
+    PRECINCT 360
+    PRECINCT 361
+    PRECINCT 362
+    PRECINCT 363
+    PRECINCT 364
+    PRECINCT 365
+    PRECINCT 366
+    PRECINCT 367
+    PRECINCT 368
+    PRECINCT 369
+    PRECINCT 37
+    PRECINCT 370
+    PRECINCT 371
+    PRECINCT 372
+    PRECINCT 374
+    PRECINCT 375
+    PRECINCT 376
+    PRECINCT 377
+    PRECINCT 378
+    PRECINCT 379
+    PRECINCT 38
+    PRECINCT 380
+    PRECINCT 381
+    PRECINCT 382
+    PRECINCT 383
+    PRECINCT 384
+    PRECINCT 385
+    PRECINCT 386
+    PRECINCT 387
+    PRECINCT 388
+    PRECINCT 389
+    PRECINCT 39
+    PRECINCT 390
+    PRECINCT 391
+    PRECINCT 392
+    PRECINCT 393
+    PRECINCT 394
+    PRECINCT 395
+    PRECINCT 396
+    PRECINCT 397
+    PRECINCT 398
+    PRECINCT 399
+    PRECINCT 4
+    PRECINCT 4 - ACORN
+    PRECINCT 40
+    PRECINCT 400
+    PRECINCT 401
+    PRECINCT 402
+    PRECINCT 403
+    PRECINCT 404
+    PRECINCT 405
+    PRECINCT 406
+    PRECINCT 407
+    PRECINCT 408
+    PRECINCT 409
+    PRECINCT 41
+    PRECINCT 410
+    PRECINCT 411
+    PRECINCT 412
+    PRECINCT 413
+    PRECINCT 414
+    PRECINCT 415
+    PRECINCT 416
+    PRECINCT 417
+    PRECINCT 418
+    PRECINCT 419
+    PRECINCT 42
+    PRECINCT 420
+    PRECINCT 421
+    PRECINCT 422
+    PRECINCT 423
+    PRECINCT 424
+    PRECINCT 425
+    PRECINCT 426
+    PRECINCT 427
+    PRECINCT 428
+    PRECINCT 429
+    PRECINCT 43
+    PRECINCT 430
+    PRECINCT 431
+    PRECINCT 432
+    PRECINCT 44
+    PRECINCT 45
+    PRECINCT 46
+    PRECINCT 47
+    PRECINCT 48
+    PRECINCT 49
+    PRECINCT 5
+    PRECINCT 5 - INK
+    PRECINCT 50
+    PRECINCT 500
+    PRECINCT 501
+    PRECINCT 502
+    PRECINCT 51
+    PRECINCT 52
+    PRECINCT 53
+    PRECINCT 54
+    PRECINCT 55
+    PRECINCT 56
+    PRECINCT 57
+    PRECINCT 58
+    PRECINCT 59
+    PRECINCT 6
+    PRECINCT 6 - BOARD CAMP
+    PRECINCT 60
+    PRECINCT 61
+    PRECINCT 62
+    PRECINCT 63
+    PRECINCT 64
+    PRECINCT 65
+    PRECINCT 66
+    PRECINCT 67
+    PRECINCT 68
+    PRECINCT 69
+    PRECINCT 7
+    PRECINCT 7 - CHERRY HILL
+    PRECINCT 70
+    PRECINCT 71
+    PRECINCT 72
+    PRECINCT 73
+    PRECINCT 74
+    PRECINCT 75
+    PRECINCT 76
+    PRECINCT 77
+    PRECINCT 78
+    PRECINCT 79
+    PRECINCT 8
+    PRECINCT 8 - BIG FORK
+    PRECINCT 80
+    PRECINCT 81
+    PRECINCT 82
+    PRECINCT 83
+    PRECINCT 84
+    PRECINCT 85
+    PRECINCT 86
+    PRECINCT 87
+    PRECINCT 88
+    PRECINCT 89
+    PRECINCT 9
+    PRECINCT 9 - DALLAS VALLEY
+    PRECINCT 90
+    PRECINCT 91
+    PRECINCT 92
+    PRECINCT 93
+    PRECINCT 94
+    PRECINCT 95
+    PRECINCT 96
+    PRECINCT 97
+    PRECINCT 98
+    PRECINCT 99
+    PROMISED LAND
+    PT DELUCE
+    PULASKI TWP
+    PUMKIN BEND-19
+    R. JACKSON NEIGHBORHOOD CENTER
+    RANDOLPH RURAL
+    RANDOLPH W1
+    RANDOLPH W2
+    RANDOLPH W3
+    RANDOLPH W4
+    RANKIN
+    RATCLIFF CITY
+    RATCLIFF RURAL
+    RAYMOND TWN STREP62 CSDL
+    RED COLONY
+    RED DOORS
+    RED RIVER
+    REDFORK
+    REDLAND
+    REEDS CREEK SAFFELL
+    REEDS CREEK STRAWBERRY
+    RELIEF
+    REMMEL
+    REVEILLE CITY
+    REVEILLE RURAL
+    REYNO
+    RICHARD B. HARRISON MULTI
+    RICHARDSON
+    RICHLAND
+    RICHLAND STREP61
+    RICHWOOD
+    RICHWOOD TWP
+    RICHWOODS
+    RILEY
+    RISON INSIDE
+    RISON OUTSIDE
+    RIVER
+    RIVER CITY
+    RIVER RURAL
+    ROC ROE CITY
+    ROC ROE COUNTRY
+    ROC-ROE STREP61 CSDL
+    ROCK CREEK
+    ROCKPORT W-1
+    ROCKPORT WARD 2
+    ROCKY MOUND
+    ROE STREP61 CSDL
+    RONDO
+    ROSE BUD CITY
+    ROSE CREEK
+    ROSIE
+    ROSSTON CITYSALESTAX & STREP89
+    ROSSTON RURAL ST REP 89
+    ROSSTON RURAL ST REP 98
+    ROVER
+    ROWELL
+    ROYAL
+    RUDDELL RURAL
+    RUDDELL WARD 1
+    RUDDELL WARD 2
+    RUDDELL WARD 3
+    RUDDELL WARD 4
+    RUNNING LAKE
+    RURAL HUNTER-10
+    RUSSELL CITY
+    RUSSELL TWP
+    RUSSELLVILLE 1A/JP8/W1
+    RUSSELLVILLE 1B/
+    RUSSELLVILLE 1C/
+    RUSSELLVILLE 2A/
+    RUSSELLVILLE 2B/JP10/W2
+    RUSSELLVILLE 2C/
+    RUSSELLVILLE 3A/
+    RUSSELLVILLE 3B/JP12/JP13/W3
+    RUSSELLVILLE 4A/JP7/W4
+    RUSSELLVILLE 4B/JP7/W4
+    RUSSELLVILLE 4C/JP8/W4
+    RUSSELLVILLE 4D/
+    RUSSELLVILLE 4E/JP13/W4
+    RUSSELLVILLE 4F/
+    RUSSELLVILLE 4G/JP13/W4
+    RUSSELLVILLE 4H/
+    RUSSELLVILLE OUT 1/JP7
+    RUSSELLVILLE OUT 2/JP7/JP13
+    RUSSELLVILLE OUT 3/JP12
+    RUSSELLVILLE OUT 4/
+    SAGE
+    SALADO
+    SALINE
+    SALINE INSIDE
+    SALINE OUTSIDE
+    SANDFLAT
+    SARATOGA
+    SCOTT
+    SCOTT VV AND WH
+    SCOTTSVILLE 1/JP4
+    SCOTTSVILLE 2/JP5
+    SE LINCOLN CO FD
+    SEARCY
+    SEARCY WARD 1A
+    SEARCY WARD 1B
+    SEARCY WARD 1C
+    SEARCY WARD 1D
+    SEARCY WARD 1E
+    SEARCY WARD 2B
+    SEARCY WARD 2C
+    SEARCY WARD 2D
+    SEARCY WARD 2E
+    SEARCY WARD 3A
+    SEARCY WARD 3B
+    SEARCY WARD 3C
+    SEARCY WARD 3D
+    SEARCY WARD 3E
+    SEARCY WARD 4A
+    SEARCY WARD 4B
+    SEARCY WARD 4C
+    SELMA
+    SF/WILSON
+    SHADY GROVE
+    SHILOH
+    SHOAL CREEK
+    SHOFFNER
+    SHORT MTN WD 1
+    SHORT MTN WD 2
+    SHORT MTN WD 3
+    SHORT MTN WD 4
+    SHOVER SPRINGS
+    SILOAM
+    SILVERLAKE
+    SIMPSON 1
+    SIMPSON 2
+    SIMS
+    SMACKOVER
+    SMITH
+    SNYDER/TRAFALGAR
+    SOUTH
+    SOUTH AUGUSTA-05
+    SOUTH BIG ROCK
+    SOUTH CADRON INSIDE
+    SOUTH CADRON OUTSIDE
+    SOUTH CARROLL
+    SOUTH COUNTY 1
+    SOUTH HICKORY
+    SOUTH KILGORE & GLEGHORN
+    SOUTH LEBANON
+    SOUTH ST. FRANCIS
+    SOUTH UNION
+    SPRING
+    SPRING 1
+    SPRING 2
+    SPRING LAKE CHURCH P8
+    SPRING RIVER
+    SPRINGHILL
+    ST. CHARLES
+    ST. JOE
+    ST. VINCENT
+    STANLEY
+    STAR CITY W1
+    STAR CITY W2
+    STAR CITY W3
+    STEELE
+    STRAWBERRY
+    STRONG SR96
+    STUTTGART WARD 1
+    STUTTGART WARD 2
+    STUTTGART WARD 3
+    SUGAR CAMP
+    SUGAR CREEK
+    SUGAR HILL
+    SUGAR LOAF
+    SWIFTON
+    SYLAMORE
+    TABERNACLE OF GOD CHURCH
+    TAYLOR CITY
+    TAYLOR TOWNSHIP
+    TENNESSEE
+    THACKER
+    THREE CREEKS SR97
+    TILLAR
+    TINSMAN
+    TOMAHAWK
+    TOMLINSON
+    TOMLINSON/TATE
+    TOTTEN TWP
+    TRICE
+    TRINITY BAPTIST CHURCH
+    TUCKERMAN OUTSIDE
+    TUCKERMAN WARD 1
+    TUCKERMAN WARD 2
+    TUCKERMAN WARD 3
+    TUPELO
+    TURRELL FIRE STATION
+    TWIN CREEK
+    TYLER
+    TYRONZA
+    TYRONZA / TWIST
+    UNION
+    UNION SR96
+    UNION VALLEY
+    UPPER HILL
+    UPPER NORTH
+    V/BC
+    VALLEY
+    VAN BUREN
+    VELVET RIDGE
+    VIOLET HILL
+    VOTECH
+    WALDO CITY
+    WALDO TOWNSHIP
+    WALKER
+    WALLACE/RICHLAND
+    WALLS TWP
+    WALNUT LAKE
+    WAR EAGLE
+    WARD
+    WARD 1
+    WARD 1 SR97
+    WARD 1, 2 & 3
+    WARD 2
+    WARD 2 & 3 PRESCOTT SZ 2
+    WARD 2 CITY/SR97
+    WARD 2, 3 & 4 PRESCOTT SZ 1
+    WARD 3
+    WARD 3 CITY/SR97
+    WARD 4
+    WARD 4 SR97
+    WARD CITY WARD 1
+    WARD CITY WARD 2
+    WARD CITY WARD 3
+    WARD ONE
+    WARD THREE
+    WARD TWO
+    WARD TWP
+    WARM SPRINGS
+    WASHBURN
+    WASHINGTON
+    WASHINGTON EAST
+    WASHINGTON WEST
+    WASHITA
+    WATER VALLEY
+    WATERS STORE
+    WATTENSAW CITY WARD 1
+    WATTENSAW CITY WARD 2
+    WATTENSAW CITY WARD 3
+    WATTENSAW COUNTRY
+    WAVELAND
+    WCR
+    WELBOURNE EAST
+    WELBOURNE WEST
+    WELDON
+    WELLS BAYOU/FS
+    WESSON SR97
+    WEST COUNTY 1
+    WEST HELENA CITY HALL P7
+    WEST MPH 1ST BAPTIST CHURCH
+    WEST OAK BLUFF
+    WEST OUT
+    WEST PETER CREEK
+    WEST POINT
+    WEST PRAIRIE
+    WEST ROANOKE
+    WEST SULLIVAN
+    WHEATLEY
+    WHELEN SPRINGS 1
+    WHITE
+    WHITE EAGLE
+    WHITE RIVER
+    WHITE RIVER COUNTRY
+    WHITE RIVER WARD 1
+    WHITE RIVER WARD 2
+    WHITE RIVER WARD 3
+    WHITEOAK
+    WHITEVILLE
+    WIDEMAN
+    WIDENER
+    WILBURN
+    WILEY
+    WILEY'S COVE
+    WILLIAMS TWP
+    WILLIS
+    WILLISVILLE CITY&RURALST.REP98
+    WILLISVILLE RURAL ST. REP 89
+    WILMAR
+    WILMOT CITY
+    WILMOT RURAL
+    WILSON FIRE STATION
+    WINCHESTER NO JP, SN8
+    WISEMAN
+    WM HIGH SCHOOL
+    WOLLEY'S SR97
+    WOODBERRY
+    WYE
+    WYNNE TOWNSHIP
+    WYNNE WARD 1
+    WYNNE WARD 2
+    WYNNE WARD 3
+    WYNNE WARD 4
+    WYNNE WARD 5
+    YOCUM
+    YORK TWP
+    ZION
+------
+

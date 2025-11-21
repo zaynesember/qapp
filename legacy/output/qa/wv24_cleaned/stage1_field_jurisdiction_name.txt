@@ -1,0 +1,185 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('BARBOUR', ['BARBOUR', 54001, ['54001']])
+    ('BERKELEY', ['BERKELEY', 54003, ['54003']])
+    ('BOONE', ['BOONE', 54005, ['54005']])
+    ('BRAXTON', ['BRAXTON', 54007, ['54007']])
+    ('BROOKE', ['BROOKE', 54009, ['54009']])
+    ('CABELL', ['CABELL', 54011, ['54011']])
+    ('CALHOUN', ['CALHOUN', 54013, ['54013']])
+    ('CLAY', ['CLAY', 54015, ['54015']])
+    ('DODDRIDGE', ['DODDRIDGE', 54017, ['54017']])
+    ('FAYETTE', ['FAYETTE', 54019, ['54019']])
+    ('GILMER', ['GILMER', 54021, ['54021']])
+    ('GRANT', ['GRANT', 54023, ['54023']])
+    ('GREENBRIER', ['GREENBRIER', 54025, ['54025']])
+    ('HAMPSHIRE', ['HAMPSHIRE', 54027, ['54027']])
+    ('HANCOCK', ['HANCOCK', 54029, ['54029']])
+    ('HARDY', ['HARDY', 54031, ['54031']])
+    ('HARRISON', ['HARRISON', 54033, ['54033']])
+    ('JACKSON', ['JACKSON', 54035, ['54035']])
+    ('JEFFERSON', ['JEFFERSON', 54037, ['54037']])
+    ('KANAWHA', ['KANAWHA', 54039, ['54039']])
+    ('LEWIS', ['LEWIS', 54041, ['54041']])
+    ('LINCOLN', ['LINCOLN', 54043, ['54043']])
+    ('LOGAN', ['LOGAN', 54045, ['54045']])
+    ('MARION', ['MARION', 54049, ['54049']])
+    ('MARSHALL', ['MARSHALL', 54051, ['54051']])
+    ('MASON', ['MASON', 54053, ['54053']])
+    ('MCDOWELL', ['MCDOWELL', 54047, ['54047']])
+    ('MERCER', ['MERCER', 54055, ['54055']])
+    ('MINERAL', ['MINERAL', 54057, ['54057']])
+    ('MINGO', ['MINGO', 54059, ['54059']])
+    ('MONONGALIA', ['MONONGALIA', 54061, ['54061']])
+    ('MONROE', ['MONROE', 54063, ['54063']])
+    ('MORGAN', ['MORGAN', 54065, ['54065']])
+    ('NICHOLAS', ['NICHOLAS', 54067, ['54067']])
+    ('OHIO', ['OHIO', 54069, ['54069']])
+    ('PENDLETON', ['PENDLETON', 54071, ['54071']])
+    ('PLEASANTS', ['PLEASANTS', 54073, ['54073']])
+    ('POCAHONTAS', ['POCAHONTAS', 54075, ['54075']])
+    ('PRESTON', ['PRESTON', 54077, ['54077']])
+    ('PUTNAM', ['PUTNAM', 54079, ['54079']])
+    ('RALEIGH', ['RALEIGH', 54081, ['54081']])
+    ('RANDOLPH', ['RANDOLPH', 54083, ['54083']])
+    ('RITCHIE', ['RITCHIE', 54085, ['54085']])
+    ('ROANE', ['ROANE', 54087, ['54087']])
+    ('SUMMERS', ['SUMMERS', 54089, ['54089']])
+    ('TAYLOR', ['TAYLOR', 54091, ['54091']])
+    ('TUCKER', ['TUCKER', 54093, ['54093']])
+    ('TYLER', ['TYLER', 54095, ['54095']])
+    ('UPSHUR', ['UPSHUR', 54097, ['54097']])
+    ('WAYNE', ['WAYNE', 54099, ['54099']])
+    ('WEBSTER', ['WEBSTER', 54101, ['54101']])
+    ('WETZEL', ['WETZEL', 54103, ['54103']])
+    ('WIRT', ['WIRT', 54105, ['54105']])
+    ('WOOD', ['WOOD', 54107, ['54107']])
+    ('WYOMING', ['WYOMING', 54109, ['54109']])
+------
+
+---------
+------
+ALL VALUES:
+    BARBOUR
+    BERKELEY
+    BOONE
+    BRAXTON
+    BROOKE
+    CABELL
+    CALHOUN
+    CLAY
+    DODDRIDGE
+    FAYETTE
+    GILMER
+    GRANT
+    GREENBRIER
+    HAMPSHIRE
+    HANCOCK
+    HARDY
+    HARRISON
+    JACKSON
+    JEFFERSON
+    KANAWHA
+    LEWIS
+    LINCOLN
+    LOGAN
+    MARION
+    MARSHALL
+    MASON
+    MCDOWELL
+    MERCER
+    MINERAL
+    MINGO
+    MONONGALIA
+    MONROE
+    MORGAN
+    NICHOLAS
+    OHIO
+    PENDLETON
+    PLEASANTS
+    POCAHONTAS
+    PRESTON
+    PUTNAM
+    RALEIGH
+    RANDOLPH
+    RITCHIE
+    ROANE
+    SUMMERS
+    TAYLOR
+    TUCKER
+    TYLER
+    UPSHUR
+    WAYNE
+    WEBSTER
+    WETZEL
+    WIRT
+    WOOD
+    WYOMING
+------
+

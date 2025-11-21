@@ -1,0 +1,138 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('BEAVER', '49001')
+    ('BOX ELDER', '49003')
+    ('CACHE', '49005')
+    ('CARBON', '49007')
+    ('DAGGETT', '49009')
+    ('DAVIS', '49011')
+    ('DUCHESNE', '49013')
+    ('EMERY', '49015')
+    ('GARFIELD', '49017')
+    ('GRAND', '49019')
+    ('IRON', '49021')
+    ('JUAB', '49023')
+    ('KANE', '49025')
+    ('MILLARD', '49027')
+    ('MORGAN', '49029')
+    ('PIUTE', '49031')
+    ('RICH', '49033')
+    ('SALT LAKE', '49035')
+    ('SAN JUAN', '49037')
+    ('SANPETE', '49039')
+    ('SEVIER', '49041')
+    ('SUMMIT', '49043')
+    ('TOOELE', '49045')
+    ('UINTAH', '49047')
+    ('UTAH', '49049')
+    ('WASATCH', '49051')
+    ('WASHINGTON', '49053')
+    ('WAYNE', '49055')
+    ('WEBER', '49057')
+------
+
+---------
+------
+ALL VALUES:
+    BEAVER
+    BOX ELDER
+    CACHE
+    CARBON
+    DAGGETT
+    DAVIS
+    DUCHESNE
+    EMERY
+    GARFIELD
+    GRAND
+    IRON
+    JUAB
+    KANE
+    MILLARD
+    MORGAN
+    PIUTE
+    RICH
+    SALT LAKE
+    SAN JUAN
+    SANPETE
+    SEVIER
+    SUMMIT
+    TOOELE
+    UINTAH
+    UTAH
+    WASATCH
+    WASHINGTON
+    WAYNE
+    WEBER
+------
+

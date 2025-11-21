@@ -1,0 +1,75 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in writein!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+    WRITE-IN: TRUE
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    WRITE-IN
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    FALSE
+    TRUE
+------
+

@@ -1,0 +1,230 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ARKANSAS', '05001')
+    ('ASHLEY', '05003')
+    ('BAXTER', '05005')
+    ('BENTON', '05007')
+    ('BOONE', '05009')
+    ('BRADLEY', '05011')
+    ('CALHOUN', '05013')
+    ('CARROLL', '05015')
+    ('CHICOT', '05017')
+    ('CLARK', '05019')
+    ('CLAY', '05021')
+    ('CLEBURNE', '05023')
+    ('CLEVELAND', '05025')
+    ('COLUMBIA', '05027')
+    ('CONWAY', '05029')
+    ('CRAIGHEAD', '05031')
+    ('CRAWFORD', '05033')
+    ('CRITTENDEN', '05035')
+    ('CROSS', '05037')
+    ('DALLAS', '05039')
+    ('DESHA', '05041')
+    ('DREW', '05043')
+    ('FAULKNER', '05045')
+    ('FRANKLIN', '05047')
+    ('FULTON', '05049')
+    ('GARLAND', '05051')
+    ('GRANT', '05053')
+    ('GREENE', '05055')
+    ('HEMPSTEAD', '05057')
+    ('HOT SPRING', '05059')
+    ('HOWARD', '05061')
+    ('INDEPENDENCE', '05063')
+    ('IZARD', '05065')
+    ('JACKSON', '05067')
+    ('JEFFERSON', '05069')
+    ('JOHNSON', '05071')
+    ('LAFAYETTE', '05073')
+    ('LAWRENCE', '05075')
+    ('LEE', '05077')
+    ('LINCOLN', '05079')
+    ('LITTLE RIVER', '05081')
+    ('LOGAN', '05083')
+    ('LONOKE', '05085')
+    ('MADISON', '05087')
+    ('MARION', '05089')
+    ('MILLER', '05091')
+    ('MISSISSIPPI', '05093')
+    ('MONROE', '05095')
+    ('MONTGOMERY', '05097')
+    ('NEVADA', '05099')
+    ('NEWTON', '05101')
+    ('OUACHITA', '05103')
+    ('PERRY', '05105')
+    ('PHILLIPS', '05107')
+    ('PIKE', '05109')
+    ('POINSETT', '05111')
+    ('POLK', '05113')
+    ('POPE', '05115')
+    ('PRAIRIE', '05117')
+    ('PULASKI', '05119')
+    ('RANDOLPH', '05121')
+    ('SALINE', '05125')
+    ('SCOTT', '05127')
+    ('SEARCY', '05129')
+    ('SEBASTIAN', '05131')
+    ('SEVIER', '05133')
+    ('SHARP', '05135')
+    ('ST FRANCIS', '05123')
+    ('STONE', '05137')
+    ('UNION', '05139')
+    ('VAN BUREN', '05141')
+    ('WASHINGTON', '05143')
+    ('WHITE', '05145')
+    ('WOODRUFF', '05147')
+    ('YELL', '05149')
+------
+
+---------
+------
+ALL VALUES:
+    ARKANSAS
+    ASHLEY
+    BAXTER
+    BENTON
+    BOONE
+    BRADLEY
+    CALHOUN
+    CARROLL
+    CHICOT
+    CLARK
+    CLAY
+    CLEBURNE
+    CLEVELAND
+    COLUMBIA
+    CONWAY
+    CRAIGHEAD
+    CRAWFORD
+    CRITTENDEN
+    CROSS
+    DALLAS
+    DESHA
+    DREW
+    FAULKNER
+    FRANKLIN
+    FULTON
+    GARLAND
+    GRANT
+    GREENE
+    HEMPSTEAD
+    HOT SPRING
+    HOWARD
+    INDEPENDENCE
+    IZARD
+    JACKSON
+    JEFFERSON
+    JOHNSON
+    LAFAYETTE
+    LAWRENCE
+    LEE
+    LINCOLN
+    LITTLE RIVER
+    LOGAN
+    LONOKE
+    MADISON
+    MARION
+    MILLER
+    MISSISSIPPI
+    MONROE
+    MONTGOMERY
+    NEVADA
+    NEWTON
+    OUACHITA
+    PERRY
+    PHILLIPS
+    PIKE
+    POINSETT
+    POLK
+    POPE
+    PRAIRIE
+    PULASKI
+    RANDOLPH
+    SALINE
+    SCOTT
+    SEARCY
+    SEBASTIAN
+    SEVIER
+    SHARP
+    ST FRANCIS
+    STONE
+    UNION
+    VAN BUREN
+    WASHINGTON
+    WHITE
+    WOODRUFF
+    YELL
+------
+

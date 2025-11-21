@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    11/5/24
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    11/5/24
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    11/5/24: [2024]
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('11/5/24',)
+        (1260116126, 'AMENDMENT 79 (CONSTITUTIONAL)', '<<<EC: VALUE WAS EMPTY>>>', 'DENVER', 'NO', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (1260116126, 'AMENDMENT 79 (CONSTITUTIONAL)', '<<<EC: VALUE WAS EMPTY>>>', 'DENVER', 'YES', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (1260116126, 'AMENDMENT 80 (CONSTITUTIONAL)', '<<<EC: VALUE WAS EMPTY>>>', 'DENVER', 'NO', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        ...(skipping 283718 elements)
+        (8253501272, 'US PRESIDENT', 'UNAFFILIATED', 'ADAMS', 'ROBERT F KENNEDY JR', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (8253501272, 'US PRESIDENT', 'UNAFFLIATED/REPUBLICAN', 'ADAMS', 'BILL FRANKEL', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (8253501272, 'US PRESIDENT', 'UNITY', 'ADAMS', 'CORNEL WEST', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    11/5/24
+------
+

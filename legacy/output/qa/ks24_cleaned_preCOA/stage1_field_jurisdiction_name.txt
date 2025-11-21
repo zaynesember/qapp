@@ -1,0 +1,286 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    FORD ||| [[STAFFORD]]
+    OTTAWA ||| [[POTTAWATOMIE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ALLEN', ['ALLEN', 20001, ['20001']])
+    ('ANDERSON', ['ANDERSON', 20003, ['20003']])
+    ('ATCHISON', ['ATCHISON', 20005, ['20005']])
+    ('BARBER', ['BARBER', 20007, ['20007']])
+    ('BARTON', ['BARTON', 20009, ['20009']])
+    ('BOURBON', ['BOURBON', 20011, ['20011']])
+    ('BROWN', ['BROWN', 20013, ['20013']])
+    ('BUTLER', ['BUTLER', 20015, ['20015']])
+    ('CHASE', ['CHASE', 20017, ['20017']])
+    ('CHAUTAUQUA', ['CHAUTAUQUA', 20019, ['20019']])
+    ('CHEROKEE', ['CHEROKEE', 20021, ['20021']])
+    ('CHEYENNE', ['CHEYENNE', 20023, ['20023']])
+    ('CLARK', ['CLARK', 20025, ['20025']])
+    ('CLAY', ['CLAY', 20027, ['20027']])
+    ('CLOUD', ['CLOUD', 20029, ['20029']])
+    ('COFFEY', ['COFFEY', 20031, ['20031']])
+    ('COMANCHE', ['COMANCHE', 20033, ['20033']])
+    ('COWLEY', ['COWLEY', 20035, ['20035']])
+    ('CRAWFORD', ['CRAWFORD', 20037, ['20037']])
+    ('DECATUR', ['DECATUR', 20039, ['20039']])
+    ('DICKINSON', ['DICKINSON', 20041, ['20041']])
+    ('DONIPHAN', ['DONIPHAN', 20043, ['20043']])
+    ('DOUGLAS', ['DOUGLAS', 20045, ['20045']])
+    ('EDWARDS', ['EDWARDS', 20047, ['20047']])
+    ('ELK', ['ELK', 20049, ['20049']])
+    ('ELLIS', ['ELLIS', 20051, ['20051']])
+    ('ELLSWORTH', ['ELLSWORTH', 20053, ['20053']])
+    ('FINNEY', ['FINNEY', 20055, ['20055']])
+    ('FORD', ['FORD', 20057, ['20057']])
+    ('FRANKLIN', ['FRANKLIN', 20059, ['20059']])
+    ('GEARY', ['GEARY', 20061, ['20061']])
+    ('GOVE', ['GOVE', 20063, ['20063']])
+    ('GRAHAM', ['GRAHAM', 20065, ['20065']])
+    ('GRANT', ['GRANT', 20067, ['20067']])
+    ('GRAY', ['GRAY', 20069, ['20069']])
+    ('GREELEY', ['GREELEY', 20071, ['20071']])
+    ('GREENWOOD', ['GREENWOOD', 20073, ['20073']])
+    ('HAMILTON', ['HAMILTON', 20075, ['20075']])
+    ('HARPER', ['HARPER', 20077, ['20077']])
+    ('HARVEY', ['HARVEY', 20079, ['20079']])
+    ('HASKELL', ['HASKELL', 20081, ['20081']])
+    ('HODGEMAN', ['HODGEMAN', 20083, ['20083']])
+    ('JACKSON', ['JACKSON', 20085, ['20085']])
+    ('JEFFERSON', ['JEFFERSON', 20087, ['20087']])
+    ('JEWELL', ['JEWELL', 20089, ['20089']])
+    ('JOHNSON', ['JOHNSON', 20091, ['20091']])
+    ('KEARNY', ['KEARNY', 20093, ['20093']])
+    ('KINGMAN', ['KINGMAN', 20095, ['20095']])
+    ('KIOWA', ['KIOWA', 20097, ['20097']])
+    ('LABETTE', ['LABETTE', 20099, ['20099']])
+    ('LANE', ['LANE', 20101, ['20101']])
+    ('LEAVENWORTH', ['LEAVENWORTH', 20103, ['20103']])
+    ('LINCOLN', ['LINCOLN', 20105, ['20105']])
+    ('LINN', ['LINN', 20107, ['20107']])
+    ('LOGAN', ['LOGAN', 20109, ['20109']])
+    ('LYON', ['LYON', 20111, ['20111']])
+    ('MARION', ['MARION', 20115, ['20115']])
+    ('MARSHALL', ['MARSHALL', 20117, ['20117']])
+    ('MCPHERSON', ['MCPHERSON', 20113, ['20113']])
+    ('MEADE', ['MEADE', 20119, ['20119']])
+    ('MIAMI', ['MIAMI', 20121, ['20121']])
+    ('MITCHELL', ['MITCHELL', 20123, ['20123']])
+    ('MONTGOMERY', ['MONTGOMERY', 20125, ['20125']])
+    ('MORRIS', ['MORRIS', 20127, ['20127']])
+    ('MORTON', ['MORTON', 20129, ['20129']])
+    ('NEMAHA', ['NEMAHA', 20131, ['20131']])
+    ('NEOSHO', ['NEOSHO', 20133, ['20133']])
+    ('NESS', ['NESS', 20135, ['20135']])
+    ('NORTON', ['NORTON', 20137, ['20137']])
+    ('OSAGE', ['OSAGE', 20139, ['20139']])
+    ('OSBORNE', ['OSBORNE', 20141, ['20141']])
+    ('OTTAWA', ['OTTAWA', 20143, ['20143']])
+    ('PAWNEE', ['PAWNEE', 20145, ['20145']])
+    ('PHILLIPS', ['PHILLIPS', 20147, ['20147']])
+    ('POTTAWATOMIE', ['POTTAWATOMIE', 20149, ['20149']])
+    ('PRATT', ['PRATT', 20151, ['20151']])
+    ('RAWLINS', ['RAWLINS', 20153, ['20153']])
+    ('RENO', ['RENO', 20155, ['20155']])
+    ('REPUBLIC', ['REPUBLIC', 20157, ['20157']])
+    ('RICE', ['RICE', 20159, ['20159']])
+    ('RILEY', ['RILEY', 20161, ['20161']])
+    ('ROOKS', ['ROOKS', 20163, ['20163']])
+    ('RUSH', ['RUSH', 20165, ['20165']])
+    ('RUSSELL', ['RUSSELL', 20167, ['20167']])
+    ('SALINE', ['SALINE', 20169, ['20169']])
+    ('SCOTT', ['SCOTT', 20171, ['20171']])
+    ('SEDGWICK', ['SEDGWICK', 20173, ['20173']])
+    ('SEWARD', ['SEWARD', 20175, ['20175']])
+    ('SHAWNEE', ['SHAWNEE', 20177, ['20177']])
+    ('SHERIDAN', ['SHERIDAN', 20179, ['20179']])
+    ('SHERMAN', ['SHERMAN', 20181, ['20181']])
+    ('SMITH', ['SMITH', 20183, ['20183']])
+    ('STAFFORD', ['STAFFORD', 20185, ['20185']])
+    ('STANTON', ['STANTON', 20187, ['20187']])
+    ('STEVENS', ['STEVENS', 20189, ['20189']])
+    ('SUMNER', ['SUMNER', 20191, ['20191']])
+    ('THOMAS', ['THOMAS', 20193, ['20193']])
+    ('TREGO', ['TREGO', 20195, ['20195']])
+    ('WABAUNSEE', ['WABAUNSEE', 20197, ['20197']])
+    ('WALLACE', ['WALLACE', 20199, ['20199']])
+    ('WASHINGTON', ['WASHINGTON', 20201, ['20201']])
+    ('WICHITA', ['WICHITA', 20203, ['20203']])
+    ('WILSON', ['WILSON', 20205, ['20205']])
+    ('WOODSON', ['WOODSON', 20207, ['20207']])
+    ('WYANDOTTE', ['WYANDOTTE', 20209, ['20209']])
+------
+
+---------
+------
+ALL VALUES:
+    ALLEN
+    ANDERSON
+    ATCHISON
+    BARBER
+    BARTON
+    BOURBON
+    BROWN
+    BUTLER
+    CHASE
+    CHAUTAUQUA
+    CHEROKEE
+    CHEYENNE
+    CLARK
+    CLAY
+    CLOUD
+    COFFEY
+    COMANCHE
+    COWLEY
+    CRAWFORD
+    DECATUR
+    DICKINSON
+    DONIPHAN
+    DOUGLAS
+    EDWARDS
+    ELK
+    ELLIS
+    ELLSWORTH
+    FINNEY
+    FORD
+    FRANKLIN
+    GEARY
+    GOVE
+    GRAHAM
+    GRANT
+    GRAY
+    GREELEY
+    GREENWOOD
+    HAMILTON
+    HARPER
+    HARVEY
+    HASKELL
+    HODGEMAN
+    JACKSON
+    JEFFERSON
+    JEWELL
+    JOHNSON
+    KEARNY
+    KINGMAN
+    KIOWA
+    LABETTE
+    LANE
+    LEAVENWORTH
+    LINCOLN
+    LINN
+    LOGAN
+    LYON
+    MARION
+    MARSHALL
+    MCPHERSON
+    MEADE
+    MIAMI
+    MITCHELL
+    MONTGOMERY
+    MORRIS
+    MORTON
+    NEMAHA
+    NEOSHO
+    NESS
+    NORTON
+    OSAGE
+    OSBORNE
+    OTTAWA
+    PAWNEE
+    PHILLIPS
+    POTTAWATOMIE
+    PRATT
+    RAWLINS
+    RENO
+    REPUBLIC
+    RICE
+    RILEY
+    ROOKS
+    RUSH
+    RUSSELL
+    SALINE
+    SCOTT
+    SEDGWICK
+    SEWARD
+    SHAWNEE
+    SHERIDAN
+    SHERMAN
+    SMITH
+    STAFFORD
+    STANTON
+    STEVENS
+    SUMNER
+    THOMAS
+    TREGO
+    WABAUNSEE
+    WALLACE
+    WASHINGTON
+    WICHITA
+    WILSON
+    WOODSON
+    WYANDOTTE
+------
+

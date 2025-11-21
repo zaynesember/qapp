@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('1', 'AMENDMENT NO.1: PROTECTION OF PERSONS AGAINST MEDICALLY ASSISTED SUICIDE', '<<<EC: VALUE WAS EMPTY>>>', 'BARBOUR', 'AGAINST', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('1', 'AMENDMENT NO.1: PROTECTION OF PERSONS AGAINST MEDICALLY ASSISTED SUICIDE', '<<<EC: VALUE WAS EMPTY>>>', 'BARBOUR', 'FOR', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('1', 'AMENDMENT NO.1: PROTECTION OF PERSONS AGAINST MEDICALLY ASSISTED SUICIDE', '<<<EC: VALUE WAS EMPTY>>>', 'BERKELEY', 'AGAINST', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 65211 elements)
+        ('9A', 'US SENATE', 'DEMOCRAT', 'MARSHALL', 'GLENN ELLIOTT', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('9A', 'US SENATE', 'LIBERTARIAN', 'MARSHALL', 'DAVID MORAN', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('9A', 'US SENATE', 'REPUBLICAN', 'MARSHALL', 'JIM JUSTICE', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('74', 'SPECIAL ELECTION QUESTION GRANVILLE', '<<<EC: VALUE WAS EMPTY>>>', 'MONONGALIA', 'AGAINST', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('74', 'SPECIAL ELECTION QUESTION GRANVILLE', '<<<EC: VALUE WAS EMPTY>>>', 'MONONGALIA', 'FOR', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

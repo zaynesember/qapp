@@ -1,0 +1,214 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    DALE ||| [[LAUDERDALE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('AUTAUGA', '1001')
+    ('BALDWIN', '1003')
+    ('BARBOUR', '1005')
+    ('BIBB', '1007')
+    ('BLOUNT', '1009')
+    ('BULLOCK', '1011')
+    ('BUTLER', '1013')
+    ('CALHOUN', '1015')
+    ('CHAMBERS', '1017')
+    ('CHEROKEE', '1019')
+    ('CHILTON', '1021')
+    ('CHOCTAW', '1023')
+    ('CLARKE', '1025')
+    ('CLAY', '1027')
+    ('CLEBURNE', '1029')
+    ('COFFEE', '1031')
+    ('COLBERT', '1033')
+    ('CONECUH', '1035')
+    ('COOSA', '1037')
+    ('COVINGTON', '1039')
+    ('CRENSHAW', '1041')
+    ('CULLMAN', '1043')
+    ('DALE', '1045')
+    ('DALLAS', '1047')
+    ('DEKALB', '1049')
+    ('ELMORE', '1051')
+    ('ESCAMBIA', '1053')
+    ('ETOWAH', '1055')
+    ('FAYETTE', '1057')
+    ('FRANKLIN', '1059')
+    ('GENEVA', '1061')
+    ('GREENE', '1063')
+    ('HALE', '1065')
+    ('HENRY', '1067')
+    ('HOUSTON', '1069')
+    ('JACKSON', '1071')
+    ('JEFFERSON', '1073')
+    ('LAMAR', '1075')
+    ('LAUDERDALE', '1077')
+    ('LAWRENCE', '1079')
+    ('LEE', '1081')
+    ('LIMESTONE', '1083')
+    ('LOWNDES', '1085')
+    ('MACON', '1087')
+    ('MADISON', '1089')
+    ('MARENGO', '1091')
+    ('MARION', '1093')
+    ('MARSHALL', '1095')
+    ('MOBILE', '1097')
+    ('MONROE', '1099')
+    ('MONTGOMERY', '1101')
+    ('MORGAN', '1103')
+    ('PERRY', '1105')
+    ('PICKENS', '1107')
+    ('PIKE', '1109')
+    ('RANDOLPH', '1111')
+    ('RUSSELL', '1113')
+    ('SHELBY', '1117')
+    ('ST. CLAIR', '1115')
+    ('SUMTER', '1119')
+    ('TALLADEGA', '1121')
+    ('TALLAPOOSA', '1123')
+    ('TUSCALOOSA', '1125')
+    ('WALKER', '1127')
+    ('WASHINGTON', '1129')
+    ('WILCOX', '1131')
+    ('WINSTON', '1133')
+------
+
+---------
+------
+ALL VALUES:
+    AUTAUGA
+    BALDWIN
+    BARBOUR
+    BIBB
+    BLOUNT
+    BULLOCK
+    BUTLER
+    CALHOUN
+    CHAMBERS
+    CHEROKEE
+    CHILTON
+    CHOCTAW
+    CLARKE
+    CLAY
+    CLEBURNE
+    COFFEE
+    COLBERT
+    CONECUH
+    COOSA
+    COVINGTON
+    CRENSHAW
+    CULLMAN
+    DALE
+    DALLAS
+    DEKALB
+    ELMORE
+    ESCAMBIA
+    ETOWAH
+    FAYETTE
+    FRANKLIN
+    GENEVA
+    GREENE
+    HALE
+    HENRY
+    HOUSTON
+    JACKSON
+    JEFFERSON
+    LAMAR
+    LAUDERDALE
+    LAWRENCE
+    LEE
+    LIMESTONE
+    LOWNDES
+    MACON
+    MADISON
+    MARENGO
+    MARION
+    MARSHALL
+    MOBILE
+    MONROE
+    MONTGOMERY
+    MORGAN
+    PERRY
+    PICKENS
+    PIKE
+    RANDOLPH
+    RUSSELL
+    SHELBY
+    ST. CLAIR
+    SUMTER
+    TALLADEGA
+    TALLAPOOSA
+    TUSCALOOSA
+    WALKER
+    WASHINGTON
+    WILCOX
+    WINSTON
+------
+

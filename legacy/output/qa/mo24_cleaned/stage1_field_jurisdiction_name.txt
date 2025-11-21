@@ -1,0 +1,307 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAIR', ['ADAIR', 29001, ['29001']])
+    ('ANDREW', ['ANDREW', 29003, ['29003']])
+    ('ATCHISON', ['ATCHISON', 29005, ['29005']])
+    ('AUDRAIN', ['AUDRAIN', 29007, ['29007']])
+    ('BARRY', ['BARRY', 29009, ['29009']])
+    ('BARTON', ['BARTON', 29011, ['29011']])
+    ('BATES', ['BATES', 29013, ['29013']])
+    ('BENTON', ['BENTON', 29015, ['29015']])
+    ('BOLLINGER', ['BOLLINGER', 29017, ['29017']])
+    ('BOONE', ['BOONE', 29019, ['29019']])
+    ('BUCHANAN', ['BUCHANAN', 29021, ['29021']])
+    ('BUTLER', ['BUTLER', 29023, ['29023']])
+    ('CALDWELL', ['CALDWELL', 29025, ['29025']])
+    ('CALLAWAY', ['CALLAWAY', 29027, ['29027']])
+    ('CAMDEN', ['CAMDEN', 29029, ['29029']])
+    ('CAPE GIRARDEAU', ['CAPE GIRARDEAU', 29031, ['29031']])
+    ('CARROLL', ['CARROLL', 29033, ['29033']])
+    ('CARTER', ['CARTER', 29035, ['29035']])
+    ('CASS', ['CASS', 29037, ['29037']])
+    ('CEDAR', ['CEDAR', 29039, ['29039']])
+    ('CHARITON', ['CHARITON', 29041, ['29041']])
+    ('CHRISTIAN', ['CHRISTIAN', 29043, ['29043']])
+    ('CLARK', ['CLARK', 29045, ['29045']])
+    ('CLAY', ['CLAY', 29047, ['29047']])
+    ('CLINTON', ['CLINTON', 29049, ['29049']])
+    ('COLE', ['COLE', 29051, ['29051']])
+    ('COOPER', ['COOPER', 29053, ['29053']])
+    ('CRAWFORD', ['CRAWFORD', 29055, ['29055']])
+    ('DADE', ['DADE', 29057, ['29057']])
+    ('DALLAS', ['DALLAS', 29059, ['29059']])
+    ('DAVIESS', ['DAVIESS', 29061, ['29061']])
+    ('DE KALB', ['DEKALB', 29063, ['29063']])
+    ('DENT', ['DENT', 29065, ['29065']])
+    ('DOUGLAS', ['DOUGLAS', 29067, ['29067']])
+    ('DUNKLIN', ['DUNKLIN', 29069, ['29069']])
+    ('FRANKLIN', ['FRANKLIN', 29071, ['29071']])
+    ('GASCONADE', ['GASCONADE', 29073, ['29073']])
+    ('GENTRY', ['GENTRY', 29075, ['29075']])
+    ('GREENE', ['GREENE', 29077, ['29077']])
+    ('GRUNDY', ['GRUNDY', 29079, ['29079']])
+    ('HARRISON', ['HARRISON', 29081, ['29081']])
+    ('HENRY', ['HENRY', 29083, ['29083']])
+    ('HICKORY', ['HICKORY', 29085, ['29085']])
+    ('HOLT', ['HOLT', 29087, ['29087']])
+    ('HOWARD', ['HOWARD', 29089, ['29089']])
+    ('HOWELL', ['HOWELL', 29091, ['29091']])
+    ('IRON', ['IRON', 29093, ['29093']])
+    ('JACKSON', ['JACKSON', 29095, ['29095']])
+    ('JASPER', ['JASPER', 29097, ['29097']])
+    ('JEFFERSON', ['JEFFERSON', 29099, ['29099']])
+    ('JOHNSON', ['JOHNSON', 29101, ['29101']])
+    ('KANSAS CITY', ['KANSAS CITY', 36000, ['36000']])
+    ('KNOX', ['KNOX', 29103, ['29103']])
+    ('LACLEDE', ['LACLEDE', 29105, ['29105']])
+    ('LAFAYETTE', ['LAFAYETTE', 29107, ['29107']])
+    ('LAWRENCE', ['LAWRENCE', 29109, ['29109']])
+    ('LEWIS', ['LEWIS', 29111, ['29111']])
+    ('LINCOLN', ['LINCOLN', 29113, ['29113']])
+    ('LINN', ['LINN', 29115, ['29115']])
+    ('LIVINGSTON', ['LIVINGSTON', 29117, ['29117']])
+    ('MACON', ['MACON', 29121, ['29121']])
+    ('MADISON', ['MADISON', 29123, ['29123']])
+    ('MARIES', ['MARIES', 29125, ['29125']])
+    ('MARION', ['MARION', 29127, ['29127']])
+    ('MCDONALD', ['MCDONALD', 29119, ['29119']])
+    ('MERCER', ['MERCER', 29129, ['29129']])
+    ('MILLER', ['MILLER', 29131, ['29131']])
+    ('MISSISSIPPI', ['MISSISSIPPI', 29133, ['29133']])
+    ('MONITEAU', ['MONITEAU', 29135, ['29135']])
+    ('MONROE', ['MONROE', 29137, ['29137']])
+    ('MONTGOMERY', ['MONTGOMERY', 29139, ['29139']])
+    ('MORGAN', ['MORGAN', 29141, ['29141']])
+    ('NEW MADRID', ['NEW MADRID', 29143, ['29143']])
+    ('NEWTON', ['NEWTON', 29145, ['29145']])
+    ('NODAWAY', ['NODAWAY', 29147, ['29147']])
+    ('OREGON', ['OREGON', 29149, ['29149']])
+    ('OSAGE', ['OSAGE', 29151, ['29151']])
+    ('OZARK', ['OZARK', 29153, ['29153']])
+    ('PEMISCOT', ['PEMISCOT', 29155, ['29155']])
+    ('PERRY', ['PERRY', 29157, ['29157']])
+    ('PETTIS', ['PETTIS', 29159, ['29159']])
+    ('PHELPS', ['PHELPS', 29161, ['29161']])
+    ('PIKE', ['PIKE', 29163, ['29163']])
+    ('PLATTE', ['PLATTE', 29165, ['29165']])
+    ('POLK', ['POLK', 29167, ['29167']])
+    ('PULASKI', ['PULASKI', 29169, ['29169']])
+    ('PUTNAM', ['PUTNAM', 29171, ['29171']])
+    ('RALLS', ['RALLS', 29173, ['29173']])
+    ('RANDOLPH', ['RANDOLPH', 29175, ['29175']])
+    ('RAY', ['RAY', 29177, ['29177']])
+    ('REYNOLDS', ['REYNOLDS', 29179, ['29179']])
+    ('RIPLEY', ['RIPLEY', 29181, ['29181']])
+    ('SALINE', ['SALINE', 29195, ['29195']])
+    ('SCHUYLER', ['SCHUYLER', 29197, ['29197']])
+    ('SCOTLAND', ['SCOTLAND', 29199, ['29199']])
+    ('SCOTT', ['SCOTT', 29201, ['29201']])
+    ('SHANNON', ['SHANNON', 29203, ['29203']])
+    ('SHELBY', ['SHELBY', 29205, ['29205']])
+    ('ST. CHARLES', ['ST. CHARLES', 29183, ['29183']])
+    ('ST. CLAIR', ['ST. CLAIR', 29185, ['29185']])
+    ('ST. FRANCOIS', ['ST. FRANCOIS', 29187, ['29187']])
+    ('ST. LOUIS CITY', ['ST. LOUIS CITY', 29510, ['29510']])
+    ('ST. LOUIS COUNTY', ['ST. LOUIS COUNTY', 29189, ['29189']])
+    ('STE. GENEVIEVE', ['STE. GENEVIEVE', 29186, ['29186']])
+    ('STODDARD', ['STODDARD', 29207, ['29207']])
+    ('STONE', ['STONE', 29209, ['29209']])
+    ('SULLIVAN', ['SULLIVAN', 29211, ['29211']])
+    ('TANEY', ['TANEY', 29213, ['29213']])
+    ('TEXAS', ['TEXAS', 29215, ['29215']])
+    ('VERNON', ['VERNON', 29217, ['29217']])
+    ('WARREN', ['WARREN', 29219, ['29219']])
+    ('WASHINGTON', ['WASHINGTON', 29221, ['29221']])
+    ('WAYNE', ['WAYNE', 29223, ['29223']])
+    ('WEBSTER', ['WEBSTER', 29225, ['29225']])
+    ('WORTH', ['WORTH', 29227, ['29227']])
+    ('WRIGHT', ['WRIGHT', 29229, ['29229']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAIR
+    ANDREW
+    ATCHISON
+    AUDRAIN
+    BARRY
+    BARTON
+    BATES
+    BENTON
+    BOLLINGER
+    BOONE
+    BUCHANAN
+    BUTLER
+    CALDWELL
+    CALLAWAY
+    CAMDEN
+    CAPE GIRARDEAU
+    CARROLL
+    CARTER
+    CASS
+    CEDAR
+    CHARITON
+    CHRISTIAN
+    CLARK
+    CLAY
+    CLINTON
+    COLE
+    COOPER
+    CRAWFORD
+    DADE
+    DALLAS
+    DAVIESS
+    DE KALB
+    DENT
+    DOUGLAS
+    DUNKLIN
+    FRANKLIN
+    GASCONADE
+    GENTRY
+    GREENE
+    GRUNDY
+    HARRISON
+    HENRY
+    HICKORY
+    HOLT
+    HOWARD
+    HOWELL
+    IRON
+    JACKSON
+    JASPER
+    JEFFERSON
+    JOHNSON
+    KANSAS CITY
+    KNOX
+    LACLEDE
+    LAFAYETTE
+    LAWRENCE
+    LEWIS
+    LINCOLN
+    LINN
+    LIVINGSTON
+    MACON
+    MADISON
+    MARIES
+    MARION
+    MCDONALD
+    MERCER
+    MILLER
+    MISSISSIPPI
+    MONITEAU
+    MONROE
+    MONTGOMERY
+    MORGAN
+    NEW MADRID
+    NEWTON
+    NODAWAY
+    OREGON
+    OSAGE
+    OZARK
+    PEMISCOT
+    PERRY
+    PETTIS
+    PHELPS
+    PIKE
+    PLATTE
+    POLK
+    PULASKI
+    PUTNAM
+    RALLS
+    RANDOLPH
+    RAY
+    REYNOLDS
+    RIPLEY
+    SALINE
+    SCHUYLER
+    SCOTLAND
+    SCOTT
+    SHANNON
+    SHELBY
+    ST. CHARLES
+    ST. CLAIR
+    ST. FRANCOIS
+    ST. LOUIS CITY
+    ST. LOUIS COUNTY
+    STE. GENEVIEVE
+    STODDARD
+    STONE
+    SULLIVAN
+    TANEY
+    TEXAS
+    VERNON
+    WARREN
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WORTH
+    WRIGHT
+------
+

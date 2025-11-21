@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('01-A', 'ATTORNEY GENERAL', 'DEMOCRAT', 'VIGO', 'DESTINY WELLS', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('01-A', 'ATTORNEY GENERAL', 'REPUBLICAN', 'VIGO', 'TODD ROKITA', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('01-A', 'GOVERNOR', 'DEMOCRAT', 'VIGO', 'JENNIFER G MCCORMICK', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ...(skipping 100483 elements)
+        ('York 1', 'US SENATE', 'DEMOCRAT', 'DEARBORN', 'VALERIE MCCRAY', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('York 1', 'US SENATE', 'LIBERTARIAN', 'DEARBORN', 'ANDREW HORNING', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('York 1', 'US SENATE', 'REPUBLICAN', 'DEARBORN', 'JIM BANKS', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+------
+

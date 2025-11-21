@@ -1,0 +1,186 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '38001')
+    ('BARNES', '38003')
+    ('BENSON', '38005')
+    ('BILLINGS', '38007')
+    ('BOTTINEAU', '38009')
+    ('BOWMAN', '38011')
+    ('BURKE', '38013')
+    ('BURLEIGH', '38015')
+    ('CASS', '38017')
+    ('CAVALIER', '38019')
+    ('DICKEY', '38021')
+    ('DIVIDE', '38023')
+    ('DUNN', '38025')
+    ('EDDY', '38027')
+    ('EMMONS', '38029')
+    ('FOSTER', '38031')
+    ('GOLDEN VALLEY', '38033')
+    ('GRAND FORKS', '38035')
+    ('GRANT', '38037')
+    ('GRIGGS', '38039')
+    ('HETTINGER', '38041')
+    ('KIDDER', '38043')
+    ('LAMOURE', '38045')
+    ('LOGAN', '38047')
+    ('MCHENRY', '38049')
+    ('MCINTOSH', '38051')
+    ('MCKENZIE', '38053')
+    ('MCLEAN', '38055')
+    ('MERCER', '38057')
+    ('MORTON', '38059')
+    ('MOUNTRAIL', '38061')
+    ('NELSON', '38063')
+    ('OLIVER', '38065')
+    ('PEMBINA', '38067')
+    ('PIERCE', '38069')
+    ('RAMSEY', '38071')
+    ('RANSOM', '38073')
+    ('RENVILLE', '38075')
+    ('RICHLAND', '38077')
+    ('ROLETTE', '38079')
+    ('SARGENT', '38081')
+    ('SHERIDAN', '38083')
+    ('SIOUX', '38085')
+    ('SLOPE', '38087')
+    ('STARK', '38089')
+    ('STEELE', '38091')
+    ('STUTSMAN', '38093')
+    ('TOWNER', '38095')
+    ('TRAILL', '38097')
+    ('WALSH', '38099')
+    ('WARD', '38101')
+    ('WELLS', '38103')
+    ('WILLIAMS', '38105')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    BARNES
+    BENSON
+    BILLINGS
+    BOTTINEAU
+    BOWMAN
+    BURKE
+    BURLEIGH
+    CASS
+    CAVALIER
+    DICKEY
+    DIVIDE
+    DUNN
+    EDDY
+    EMMONS
+    FOSTER
+    GOLDEN VALLEY
+    GRAND FORKS
+    GRANT
+    GRIGGS
+    HETTINGER
+    KIDDER
+    LAMOURE
+    LOGAN
+    MCHENRY
+    MCINTOSH
+    MCKENZIE
+    MCLEAN
+    MERCER
+    MORTON
+    MOUNTRAIL
+    NELSON
+    OLIVER
+    PEMBINA
+    PIERCE
+    RAMSEY
+    RANSOM
+    RENVILLE
+    RICHLAND
+    ROLETTE
+    SARGENT
+    SHERIDAN
+    SIOUX
+    SLOPE
+    STARK
+    STEELE
+    STUTSMAN
+    TOWNER
+    TRAILL
+    WALSH
+    WARD
+    WELLS
+    WILLIAMS
+------
+

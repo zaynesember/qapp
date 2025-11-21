@@ -1,0 +1,79 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+    STATE HOUSE: [1 2]
+    STATE SENATE: [1 2 3]
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['ESSEX HIGH BAILIFF' 'STATE HOUSE' 'LIEUTENANT GOVERNOR'
+ 'ADDISON HIGH BAILIFF' 'SECRETARY OF STATE' 'US SENATE'
+ 'CHITTENDEN HIGH BAILIFF' 'STATE SENATE' 'TREASURER'
+ 'WINDSOR HIGH BAILIFF' 'FRANKLIN HIGH BAILIFF' 'ORLEANS HIGH BAILIFF'
+ 'US PRESIDENT' 'GRAND ISLE HIGH BAILIFF' 'ATTORNEY GENERAL'
+ 'RUTLAND HIGH BAILIFF' 'GOVERNOR' 'LAMOILLE HIGH BAILIFF'
+ 'WINDHAM HIGH BAILIFF' 'AUDITOR' 'US HOUSE' 'WASHINGTON HIGH BAILIFF'
+ 'ORANGE HIGH BAILIFF' 'CALEDONIA HIGH BAILIFF' 'BENNINGTON HIGH BAILIFF']
+    2: ['STATE HOUSE' 'STATE SENATE']
+    3: ['STATE SENATE']
+------
+
+---------
+------
+ALL VALUES:
+    1
+    2
+    3
+------
+

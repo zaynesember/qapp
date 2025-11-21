@@ -1,0 +1,17 @@
+~ output/qa/md24_cleaned/SUMMARY.txt on 2025-11-13, begun at 09:47:39 ~
+
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+DUPLICATES CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+SPECIAL CHECK found potential issues in stage1_field_county_fips.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_magnitude.txt
+SPECIAL CHECK found potential issues in stage1_field_dataverse.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

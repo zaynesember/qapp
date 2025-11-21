@@ -1,0 +1,236 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    COURT OF APPEALS: ['LOCAL']
+    COURT OF CRIMINAL APPEALS: ['STATE']
+    COURT OF CRIMINAL APPEALS PRESIDING JUDGE: ['STATE']
+    DISTRICT JUDGE: ['LOCAL']
+    HARRIS COUNTY CRIMINAL COURT AT LAW: ['LOCAL']
+    HARRIS COUNTY JUSTICE OF THE PEACE: ['LOCAL']
+    HARRIS COUNTY PROBATE COURT: ['LOCAL']
+    STATE SUPREME COURT JUSTICE: ['STATE']
+    TARRANT COUNTY CRIMINAL DISTRICT COURT: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        BELL COUNTY ATTORNEY
+        BELL COUNTY TAX ASSESSOR-COLLECTOR
+        BEXAR COUNTY COMMISSIONER
+        BEXAR COUNTY CONSTABLE
+        BEXAR COUNTY SHERIFF
+        BRAZORIA COUNTY SHERIFF
+        CAMERON COUNTY SHERIFF
+        CAMERON COUNTY TAX ASSESSOR-COLLECTOR
+        COLLIN COUNTY TAX ASSESSOR-COLLECTOR
+        COURT OF APPEALS
+        DALLAS COUNTY COMMISSIONER
+        DENTON COUNTY SHERIFF
+        DISTRICT ATTORNEY
+        DISTRICT JUDGE
+        EL PASO COUNTY SHERIFF
+        EL PASO COUNTY TAX ASSESSOR-COLLECTOR
+        FORT BEND COUNTY SHERIFF
+        FORT BEND COUNTY TAX ASSESSOR-COLLECTOR
+        GALVESTON COUNTY SHERIFF
+        HARRIS COUNTY ATTORNEY
+        HARRIS COUNTY COMMISSIONER
+        HARRIS COUNTY CONSTABLE
+        HARRIS COUNTY CRIMINAL COURT AT LAW
+        HARRIS COUNTY JUSTICE OF THE PEACE
+        HARRIS COUNTY PROBATE COURT
+        HARRIS COUNTY SHERIFF
+        HARRIS COUNTY TAX ASSESSOR-COLLECTOR
+        HIDALGO COUNTY SHERIFF
+        HIDALGO COUNTY TAX ASSESSOR-COLLECTOR
+        JEFFERSON COUNTY SHERIFF
+        JEFFERSON COUNTY TAX ASSESSOR-COLLECTOR
+        TARRANT COUNTY COMMISSIONER
+        TARRANT COUNTY CONSTABLE
+        TARRANT COUNTY CRIMINAL DISTRICT COURT
+        TARRANT COUNTY SHERIFF
+        TARRANT COUNTY TAX ASSESSOR-COLLECTOR
+        WILLIAMSON COUNTY ATTORNEY
+        WILLIAMSON COUNTY SHERIFF
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        COURT OF CRIMINAL APPEALS
+        COURT OF CRIMINAL APPEALS PRESIDING JUDGE
+        RAILROAD COMMISSIONER
+        STATE BOARD OF EDUCATION
+        STATE HOUSE
+        STATE SENATE
+        STATE SUPREME COURT JUSTICE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BELL COUNTY ATTORNEY
+        1 counties for this office
+    BELL COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    BEXAR COUNTY COMMISSIONER
+        1 counties for this office
+    BEXAR COUNTY CONSTABLE
+        1 counties for this office
+    BEXAR COUNTY SHERIFF
+        1 counties for this office
+    BRAZORIA COUNTY SHERIFF
+        1 counties for this office
+    CAMERON COUNTY SHERIFF
+        1 counties for this office
+    CAMERON COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    COLLIN COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    COURT OF APPEALS
+        14 counties for this office
+    COURT OF CRIMINAL APPEALS
+        254 counties for this office
+    COURT OF CRIMINAL APPEALS PRESIDING JUDGE
+        254 counties for this office
+    DALLAS COUNTY COMMISSIONER
+        1 counties for this office
+    DENTON COUNTY SHERIFF
+        1 counties for this office
+    DISTRICT ATTORNEY
+        4 counties for this office
+    DISTRICT JUDGE
+        5 counties for this office
+    EL PASO COUNTY SHERIFF
+        1 counties for this office
+    EL PASO COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    FORT BEND COUNTY SHERIFF
+        1 counties for this office
+    FORT BEND COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    GALVESTON COUNTY SHERIFF
+        1 counties for this office
+    HARRIS COUNTY ATTORNEY
+        1 counties for this office
+    HARRIS COUNTY COMMISSIONER
+        1 counties for this office
+    HARRIS COUNTY CONSTABLE
+        1 counties for this office
+    HARRIS COUNTY CRIMINAL COURT AT LAW
+        1 counties for this office
+    HARRIS COUNTY JUSTICE OF THE PEACE
+        1 counties for this office
+    HARRIS COUNTY PROBATE COURT
+        1 counties for this office
+    HARRIS COUNTY SHERIFF
+        1 counties for this office
+    HARRIS COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    HIDALGO COUNTY SHERIFF
+        1 counties for this office
+    HIDALGO COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    JEFFERSON COUNTY SHERIFF
+        1 counties for this office
+    JEFFERSON COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    RAILROAD COMMISSIONER
+        254 counties for this office
+    STATE BOARD OF EDUCATION
+        178 counties for this office
+    STATE HOUSE
+        254 counties for this office
+    STATE SENATE
+        56 counties for this office
+    STATE SUPREME COURT JUSTICE
+        254 counties for this office
+    TARRANT COUNTY COMMISSIONER
+        1 counties for this office
+    TARRANT COUNTY CONSTABLE
+        1 counties for this office
+    TARRANT COUNTY CRIMINAL DISTRICT COURT
+        1 counties for this office
+    TARRANT COUNTY SHERIFF
+        1 counties for this office
+    TARRANT COUNTY TAX ASSESSOR-COLLECTOR
+        1 counties for this office
+    US HOUSE
+        254 counties for this office
+    US PRESIDENT
+        254 counties for this office
+    US SENATE
+        254 counties for this office
+    WILLIAMSON COUNTY ATTORNEY
+        1 counties for this office
+    WILLIAMSON COUNTY SHERIFF
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

@@ -1,0 +1,226 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    ELECTION DAY ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    MAIL IN ||| [[MAIL]]
+    ELECTION DAY ||| [[ELECTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('MAIL IN',)
+        ('01-01', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '""', 'HAWAII', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '""', 'HAWAII', 'YES', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', "2 HAWAI'I: MAYORAL APPOINTMENT OF DEPARTMENT HEADS", '""', 'HAWAII', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8395 elements)
+        ('51-05', 'US SENATE', 'GREEN', 'HONOLULU', 'EMMA JANE AVILA POHLMAN', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US SENATE', 'REPUBLICAN', 'HONOLULU', 'BOB MCDERMOTT', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US SENATE', 'WE THE PEOPLE', 'HONOLULU', 'SHELBY PIKACHU BILLIONAIRE', '""', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY',)
+        ('01-01 VSC', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '""', 'HAWAII', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01 VSC', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '""', 'HAWAII', 'YES', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01 VSC', "2 HAWAI'I: MAYORAL APPOINTMENT OF DEPARTMENT HEADS", '""', 'HAWAII', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 7651 elements)
+        ('51-05 VSC', 'US SENATE', 'DEMOCRAT', 'HONOLULU', 'MAZIE K HIRONO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05 VSC', 'US SENATE', 'REPUBLICAN', 'HONOLULU', 'BOB MCDERMOTT', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05 VSC', 'US SENATE', 'WE THE PEOPLE', 'HONOLULU', 'SHELBY PIKACHU BILLIONAIRE', '""', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY', 'MAIL IN')
+        ('39-05 VSC', 'AT-LARGE TRUSTEE', 'NONPARTISAN', 'HONOLULU', 'LEI AHU ISA', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('39-05 VSC', 'CHARTER QUESTION #1', '""', 'HONOLULU', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('39-05 VSC', 'CHARTER QUESTION #2', '""', 'HONOLULU', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 27 elements)
+        ('51-05 VSC', 'QUESTION #2', '""', 'HONOLULU', 'NO', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05 VSC', 'US PRESIDENT', 'REPUBLICAN', 'HONOLULU', 'DONALD J TRUMP', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05 VSC', 'US SENATE', 'GREEN', 'HONOLULU', 'EMMA JANE AVILA POHLMAN', '""', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ELECTION DAY
+    MAIL IN
+------
+

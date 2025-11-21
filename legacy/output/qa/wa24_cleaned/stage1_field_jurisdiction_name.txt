@@ -1,0 +1,153 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    WALLA WALLA ||| {'WALLA'}
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 53001, ['53001']])
+    ('ASOTIN', ['ASOTIN', 53003, ['53003']])
+    ('BENTON', ['BENTON', 53005, ['53005']])
+    ('CHELAN', ['CHELAN', 53007, ['53007']])
+    ('CLALLAM', ['CLALLAM', 53009, ['53009']])
+    ('CLARK', ['CLARK', 53011, ['53011']])
+    ('COLUMBIA', ['COLUMBIA', 53013, ['53013']])
+    ('COWLITZ', ['COWLITZ', 53015, ['53015']])
+    ('DOUGLAS', ['DOUGLAS', 53017, ['53017']])
+    ('FERRY', ['FERRY', 53019, ['53019']])
+    ('FRANKLIN', ['FRANKLIN', 53021, ['53021']])
+    ('GARFIELD', ['GARFIELD', 53023, ['53023']])
+    ('GRANT', ['GRANT', 53025, ['53025']])
+    ('GRAYS HARBOR', ['GRAYS HARBOR', 53027, ['53027']])
+    ('ISLAND', ['ISLAND', 53029, ['53029']])
+    ('JEFFERSON', ['JEFFERSON', 53031, ['53031']])
+    ('KING', ['KING', 53033, ['53033']])
+    ('KITSAP', ['KITSAP', 53035, ['53035']])
+    ('KITTITAS', ['KITTITAS', 53037, ['53037']])
+    ('KLICKITAT', ['KLICKITAT', 53039, ['53039']])
+    ('LEWIS', ['LEWIS', 53041, ['53041']])
+    ('LINCOLN', ['LINCOLN', 53043, ['53043']])
+    ('MASON', ['MASON', 53045, ['53045']])
+    ('OKANOGAN', ['OKANOGAN', 53047, ['53047']])
+    ('PACIFIC', ['PACIFIC', 53049, ['53049']])
+    ('PEND OREILLE', ['PEND OREILLE', 53051, ['53051']])
+    ('PIERCE', ['PIERCE', 53053, ['53053']])
+    ('SAN JUAN', ['SAN JUAN', 53055, ['53055']])
+    ('SKAGIT', ['SKAGIT', 53057, ['53057']])
+    ('SKAMANIA', ['SKAMANIA', 53059, ['53059']])
+    ('SNOHOMISH', ['SNOHOMISH', 53061, ['53061']])
+    ('SPOKANE', ['SPOKANE', 53063, ['53063']])
+    ('STEVENS', ['STEVENS', 53065, ['53065']])
+    ('THURSTON', ['THURSTON', 53067, ['53067']])
+    ('WAHKIAKUM', ['WAHKIAKUM', 53069, ['53069']])
+    ('WALLA WALLA', ['WALLA WALLA', 53071, ['53071']])
+    ('WHATCOM', ['WHATCOM', 53073, ['53073']])
+    ('WHITMAN', ['WHITMAN', 53075, ['53075']])
+    ('YAKIMA', ['YAKIMA', 53077, ['53077']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ASOTIN
+    BENTON
+    CHELAN
+    CLALLAM
+    CLARK
+    COLUMBIA
+    COWLITZ
+    DOUGLAS
+    FERRY
+    FRANKLIN
+    GARFIELD
+    GRANT
+    GRAYS HARBOR
+    ISLAND
+    JEFFERSON
+    KING
+    KITSAP
+    KITTITAS
+    KLICKITAT
+    LEWIS
+    LINCOLN
+    MASON
+    OKANOGAN
+    PACIFIC
+    PEND OREILLE
+    PIERCE
+    SAN JUAN
+    SKAGIT
+    SKAMANIA
+    SNOHOMISH
+    SPOKANE
+    STEVENS
+    THURSTON
+    WAHKIAKUM
+    WALLA WALLA
+    WHATCOM
+    WHITMAN
+    YAKIMA
+------
+

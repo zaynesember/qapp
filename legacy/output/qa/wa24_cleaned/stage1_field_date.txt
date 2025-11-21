@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        (1, 'ASOTIN COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'ASOTIN', 'WRITE-IN', 'TOTAL', '001', 'GEN', 'FALSE')
+        (1, 'ASOTIN COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'ASOTIN', 'WRITE-IN', 'TOTAL', '002', 'GEN', 'FALSE')
+        (1, 'ASOTIN COUNTY COMMISSIONER', 'NONPARTISAN', 'ASOTIN', 'BRIAN SHINN', 'TOTAL', '001', 'GEN', 'FALSE')
+        ...(skipping 438669 elements)
+        (9917, 'US SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KING', 'WRITE-IN', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (9917, 'US SENATE', 'DEMOCRAT', 'KING', 'MARIA CANTWELL', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        (9917, 'US SENATE', 'REPUBLICAN', 'KING', 'DR RAUL GARCIA', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

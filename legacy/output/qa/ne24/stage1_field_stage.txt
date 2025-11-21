@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('(Countywide) Cuming County PPD', 'CUMING COUNTY PUBLIC POWER DISTRICT', 'NONPARTISAN', 'COLFAX', 'TINA BITEGHE BI NDONG', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('(Countywide) NPPD', 'NEBRASKA PUBLIC POWER DISTRICT', 'NONPARTISAN', 'GARDEN', 'RUSTY M KEMP', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('(Countywide) Stanton County PPD', 'STANTON COUNTY PUBLIC POWER DISTRICT', 'NONPARTISAN', 'COLFAX', 'ROBERT E SCHELLPEPER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ...(skipping 37799 elements)
+        ('Yutan Rural', 'US SENATE - 2 YEAR TERM', 'REPUBLICAN', 'SAUNDERS', 'PETE RICKETTS', 'TOTAL', 'STATEWIDE', 'TRUE', '2024-11-05')
+        ('Yutan Rural', 'WORKERS COMPENSATION COURT - RETAIN JULIE A MARTIN', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'NO', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'WORKERS COMPENSATION COURT - RETAIN JULIE A MARTIN', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'YES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+------
+

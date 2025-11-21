@@ -1,0 +1,631 @@
+---------------------------
+---------------------------
+CANDIDATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID BEGINNING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID ENDING CHARACTERS
+    DUVAL 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) EXTRANEOUS SINGLE QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX NOT AT THE END
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INITIAL/MIDDLE NAME AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN candidate WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN candidate: 
+    DAY ||| [[CANNADAY]]
+    LEE ||| [[LEEMAN]]
+    ORR ||| [[TORRES SHELTON]]
+    BELL ||| [[CAMPBELL]]
+    COOK ||| [[COOKSEY]]
+    CRUZ ||| [[DE LA CRUZ]]
+    DEAN ||| [[DEANGELO]]
+    GILL ||| [[GILLESPIE]]
+    GOOD ||| [[GOODWIN]]
+    HART ||| [[SHUCHART]]
+    HOLT ||| [[TINDERHOLT]]
+    HUNT ||| [[HUNTER]]
+    ROSE ||| [[ROSENTHAL]]
+    WEST ||| [[WESTBROOK]]
+    BLACK ||| [[BLACKLOCK]]
+    GREEN ||| [[GREENE SCOTT]]
+    MORAN ||| [[MORGAN]]
+    MUNOZ ||| [[MUNOZ DETOTO]]
+    ORTIZ ||| [[SAENZ ORTIZ]]
+    PEREZ ||| [[ORDAZ PEREZ]]
+    SCOTT ||| [[GREENE SCOTT]]
+    FLORES ||| [[CLAY FLORES]]
+    GARCIA ||| [[GARCIA HERNANDEZ]]
+    HARRIS ||| [[KAMALA D HARRIS]]
+    HOWARD ||| [[HOWARD MULLINS]]
+    SIMONS ||| [[SIMMONS]]
+    STALEY ||| [[STANLEY]]
+    TORRES ||| [[TORRES SHELTON]]
+    WILSON ||| [[LEO WILSON]]
+    HAWKINS ||| [[GERVIN HAWKINS]]
+    JACKSON ||| [[ARMENDARIZ JACKSON]]
+    JOHNSON ||| [[WARD JOHNSON]]
+    MORALES ||| [[MORALES SHAW]]
+    MARTINEZ ||| [[MARTINEZ FISCHER]]
+    HERNANDEZ ||| [[GARCIA HERNANDEZ]]
+    RICHARDSON ||| [[COMPIAN RICHARDSON]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALDERS
+    ALLBRITTON
+    ALLEN
+    ALLRED
+    ALTEKAR
+    ALVARADO
+    ANCHIA
+    ANDRUS
+    ANTU
+    ANYIAM
+    ARCHER
+    ARMENDARIZ JACKSON
+    ARRINGTON
+    ASHBY
+    ASTON
+    AYERS
+    BABIN
+    BAIN
+    BAR SELA
+    BARBARE
+    BARBER
+    BARNES
+    BARROW
+    BARRY
+    BASSHAM
+    BECKLEY
+    BELL
+    BENAVIDES
+    BERNAL
+    BETTENCORT
+    BETTS
+    BHOJANI
+    BIRKHOLZ
+    BISHOP
+    BLACK
+    BLACKLOCK
+    BLANCO
+    BLAND
+    BOATMAN
+    BOHM
+    BOISSEAU
+    BOJORQUEZ
+    BONNEN
+    BOURLIOT
+    BOWERS
+    BOYD CORA
+    BRENDER
+    BREWER
+    BRIDGES
+    BROUSSARD
+    BROWN
+    BRUMMELL
+    BRYANT
+    BUCHANAN
+    BUCKLEY
+    BUCY
+    BUMGARNER
+    BURDETTE
+    BURGESS
+    BURROWS
+    BUTTON
+    BYRD
+    CAIN
+    CAMPBELL
+    CAMPOS
+    CANALES
+    CANNADAY
+    CAPRIGLIONE
+    CARDELL
+    CARRANZA
+    CARROLL
+    CARSTENS
+    CARTER
+    CASAR
+    CASAREZ
+    CASTELLANO
+    CASTRO
+    CAUGHEY
+    CENTONZE
+    CHAPA
+    CHASE OLIVER
+    CHENG
+    CHILDS
+    CHOWDHURY
+    CLARK
+    CLAY FLORES
+    CLAYTON
+    CLINTON
+    CLOUD
+    COFFEY
+    COLE
+    COLLIER
+    COMPIAN RICHARDSON
+    COOK
+    COOKS
+    COOKSEY
+    COOPER
+    COPELAND
+    COPPAGE
+    CORTEZ
+    COUNTISS
+    CRADDICK
+    CRAIN
+    CRENSHAW
+    CREWS
+    CROCKETT
+    CRON
+    CROW
+    CRUZ
+    CUELLAR
+    CULBERT
+    CUMMINGS
+    CUNNINGHAM
+    CURRY
+    DAGGETT
+    DALTON
+    DANIEL
+    DARBY
+    DAVIS
+    DAY
+    DE LA CRUZ
+    DEAN
+    DEANGELO
+    DEAYALA
+    DEBURR
+    DEVINE
+    DOGGETT
+    DOKUPIL
+    DONALD J TRUMP
+    DORAZIO
+    DOUGLAS
+    DRAKE
+    DRAPER
+    DUNCAN
+    DUNLAP
+    DURAL
+    DUTTON
+    DUVAL 
+    DYSON
+    EAGLETON
+    ECKHARDT
+    ELLIS
+    ELLZEY
+    EPPLER
+    ESCOBAR
+    ESPINOZA
+    EVANS
+    FAGAN
+    FAIRLY
+    FALLON
+    FAULKNER
+    FIERRO
+    FILLER
+    FINLEY
+    FIRSING
+    FLETCHER
+    FLORES
+    FONSECA
+    FOX
+    FRANK
+    FREY
+    FULLEN
+    FURMAN
+    GAMEZ
+    GARCIA
+    GARCIA HERNANDEZ
+    GARCIA SHARON
+    GARZA
+    GASSAWAY
+    GATES
+    GEARY
+    GERDES
+    GEREN
+    GERVIN HAWKINS
+    GILL
+    GILLESPIE
+    GINSBERG
+    GLASSER
+    GLEASON
+    GOLDMAN
+    GOLDSTEIN
+    GOMEZ
+    GONZALES
+    GONZALEZ
+    GOOD
+    GOODEN
+    GOODWIN
+    GOOLSBEE
+    GRABLE
+    GRACE
+    GRACIA
+    GRADY
+    GRANBERRY
+    GRAY
+    GREEN
+    GREENE SCOTT
+    GRIGG
+    GUERRA
+    GUILLEN
+    GUINEY
+    GUTIERREZ
+    GWINN
+    HAGAN
+    HAGENBUCH
+    HAGG
+    HALE
+    HALL
+    HAMILTON
+    HANDLEY
+    HARLESS
+    HARRIS
+    HARRISON
+    HART
+    HASSAN
+    HAWKINS
+    HAYES
+    HEFNER
+    HENNY ALEXANDER
+    HENRY
+    HERMAN
+    HERNANDEZ
+    HERRERA
+    HICKLAND
+    HICKS
+    HIGHTOWER
+    HINOJOSA
+    HOBBS
+    HOLK
+    HOLT
+    HOOK
+    HOPPER
+    HOWARD
+    HOWARD MULLINS
+    HUFFMAN
+    HULL
+    HUNT
+    HUNTER
+    HUTCHISON
+    ISAAC
+    JACKSON
+    JEFFERSON
+    JILL STEIN
+    JIMENEZ
+    JOHNSON
+    JOHNSTON
+    JONES
+    JOSEPH
+    JUN
+    JURADO
+    KAMALA D HARRIS
+    KANE
+    KERWIN
+    KIEFER
+    KINARD
+    KING
+    KINSEY
+    KIRKPATRICK
+    KITZMAN
+    KLEIN
+    KNIGHT
+    KNOX
+    KOCH
+    KOLODOSKI
+    KORBEL
+    KOSICH
+    KRAUSE
+    KRENEK
+    LAHOOD
+    LALANI
+    LAMANTIA
+    LAMBERT
+    LANDAU
+    LANDGRAF
+    LANDRUM
+    LEACH
+    LEE
+    LEEMAN
+    LEFKOWITZ
+    LEHR
+    LEMKUIL
+    LEO WILSON
+    LEWIS
+    LIMON
+    LINDEMANN
+    LINEBERGER
+    LITTLE
+    LLOYD
+    LOMBARDINO
+    LONGORIA
+    LOPEZ
+    LORENZEN
+    LOUDERBACK
+    LOVE
+    LOWE
+    LOZANO
+    LUEDEKE
+    LUJAN
+    LUTHER
+    LUTTRELL
+    MALIK
+    MANOR
+    MANRRIQUE
+    MANUEL
+    MARINO
+    MARTINEZ
+    MARTINEZ FISCHER
+    MASSEY BRISSETTE
+    MATHIS
+    MAX ALALIBO
+    MAYES GUICE
+    MAYNARD
+    MCAULIFFE
+    MCCARTHY
+    MCCAUL
+    MCCAULEY
+    MCCRAY
+    MCDONOUGH
+    MCGINTY
+    MCGUNEGLE
+    MCKIBBIN
+    MCLAUGHLIN
+    MCQUEENEY
+    MEDINA
+    MELLO
+    MENEFEE
+    MERUGUMALA
+    MESSINGER
+    METCALF
+    MEYER
+    MEZA
+    MIDLER
+    MILES
+    MILLER
+    MILLIRON
+    MISKEL
+    MOLBERG
+    MONEY
+    MONTANEZ
+    MONTOYA
+    MOODY
+    MOORE
+    MORALES
+    MORALES SHAW
+    MORAN
+    MORENO
+    MORGAN
+    MORRIS
+    MOSES
+    MOSTYN
+    MULDER
+    MUNOZ
+    MUNOZ DETOTO
+    MURPHREE
+    NEHLS
+    NICHOLS
+    NOBLE
+    NORMAN
+    NOWELL
+    OFUANI
+    OLCOTT
+    OLIVERSON
+    ONCKEN
+    ORDAZ PEREZ
+    ORR
+    ORTIZ
+    PALMER
+    PARKER
+    PARTIDA KIPNESS
+    PATINO
+    PATTERSON
+    PAUL
+    PAXTON
+    PENEGUY
+    PERDUE
+    PEREZ
+    PETERSON
+    PFLUGER
+    PHELAN
+    PHILLIPS
+    PIERSON
+    PLESA
+    POISSANT
+    PRADO
+    RADACK
+    RAMIREZ
+    RAMOS
+    RAMSEY
+    RAYMOND
+    REICHEK
+    REVELES
+    REYNOLDS
+    RICHARDSON
+    ROBERSON
+    ROBINSON
+    ROCHA
+    ROCHE
+    RODRIGUEZ
+    ROMERO
+    ROSE
+    ROSENTHAL
+    ROSSINI
+    ROY
+    SAENZ ORTIZ
+    SALAHUDDIN
+    SALAZAR
+    SALINAS
+    SALTER
+    SAWIN
+    SCHAFERSMAN
+    SCHATZLINE
+    SCHENCK
+    SCHOFIELD
+    SCHOOLCRAFT
+    SCHROPPEL
+    SCOTT
+    SELF
+    SESSIONS
+    SHAHEEN
+    SHAMSIE
+    SHANK
+    SHARP
+    SHOFNER
+    SHUCHART
+    SIMMONS
+    SIMONS
+    SLAWSON
+    SLOT
+    SMITH
+    SMITHEE
+    SOTO
+    SPAIN
+    SPEARS
+    SPILLER
+    SRIVASTAVA
+    STALEY
+    STALLMAN
+    STANLEY
+    STEELE
+    STEPHENS
+    STEVENS
+    STORMER
+    SWANN
+    SWANSON
+    SWIFT
+    TALARICO
+    TAYLOR
+    TEARE
+    TEPPER
+    THOMPSON
+    THORNTON
+    TIJERINA
+    TINDERHOLT
+    TORRES
+    TORRES SHELTON
+    TOTH
+    TRAHAN
+    TREVINO
+    TROXCLAIR
+    TRUONG
+    TURNER
+    UGARTE
+    VALDEZ
+    VALLEJO
+    VAN DUYNE
+    VANDEAVER
+    VANDER LYN
+    VARGAS
+    VASUT
+    VAZQUEZ
+    VEASEY
+    VENABLE
+    VILLALOBOS
+    VILLARREAL
+    VIRDELL
+    VO
+    WALKER
+    WALLE
+    WARD JOHNSON
+    WASHINGTON
+    WATSON
+    WAYBOURN
+    WEBB LOCKE
+    WEBER
+    WEEMS
+    WEST
+    WESTBROOK
+    WHARTON
+    WHITE
+    WHITLOW
+    WILKERSON
+    WILLIAMS
+    WILLIAMSON
+    WILSON
+    WINDMANN
+    WOLFE
+    WOODRUFF
+    WRIGHT
+    WRITE-IN
+    WU
+    WYMAN
+    YORK
+    ZWIENER
+------
+

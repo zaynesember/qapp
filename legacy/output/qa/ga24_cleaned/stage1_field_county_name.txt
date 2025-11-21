@@ -1,0 +1,400 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    CLAY ||| [[CLAYTON]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('APPLING', '13001')
+    ('ATKINSON', '13003')
+    ('BACON', '13005')
+    ('BAKER', '13007')
+    ('BALDWIN', '13009')
+    ('BANKS', '13011')
+    ('BARROW', '13013')
+    ('BARTOW', '13015')
+    ('BEN HILL', '13017')
+    ('BERRIEN', '13019')
+    ('BIBB', '13021')
+    ('BLECKLEY', '13023')
+    ('BRANTLEY', '13025')
+    ('BROOKS', '13027')
+    ('BRYAN', '13029')
+    ('BULLOCH', '13031')
+    ('BURKE', '13033')
+    ('BUTTS', '13035')
+    ('CALHOUN', '13037')
+    ('CAMDEN', '13039')
+    ('CANDLER', '13043')
+    ('CARROLL', '13045')
+    ('CATOOSA', '13047')
+    ('CHARLTON', '13049')
+    ('CHATHAM', '13051')
+    ('CHATTAHOOCHEE', '13053')
+    ('CHATTOOGA', '13055')
+    ('CHEROKEE', '13057')
+    ('CLARKE', '13059')
+    ('CLAY', '13061')
+    ('CLAYTON', '13063')
+    ('CLINCH', '13065')
+    ('COBB', '13067')
+    ('COFFEE', '13069')
+    ('COLQUITT', '13071')
+    ('COLUMBIA', '13073')
+    ('COOK', '13075')
+    ('COWETA', '13077')
+    ('CRAWFORD', '13079')
+    ('CRISP', '13081')
+    ('DADE', '13083')
+    ('DAWSON', '13085')
+    ('DECATUR', '13087')
+    ('DEKALB', '13089')
+    ('DODGE', '13091')
+    ('DOOLY', '13093')
+    ('DOUGHERTY', '13095')
+    ('DOUGLAS', '13097')
+    ('EARLY', '13099')
+    ('ECHOLS', '13101')
+    ('EFFINGHAM', '13103')
+    ('ELBERT', '13105')
+    ('EMANUEL', '13107')
+    ('EVANS', '13109')
+    ('FANNIN', '13111')
+    ('FAYETTE', '13113')
+    ('FLOYD', '13115')
+    ('FORSYTH', '13117')
+    ('FRANKLIN', '13119')
+    ('FULTON', '13121')
+    ('GILMER', '13123')
+    ('GLASCOCK', '13125')
+    ('GLYNN', '13127')
+    ('GORDON', '13129')
+    ('GRADY', '13131')
+    ('GREENE', '13133')
+    ('GWINNETT', '13135')
+    ('HABERSHAM', '13137')
+    ('HALL', '13139')
+    ('HANCOCK', '13141')
+    ('HARALSON', '13143')
+    ('HARRIS', '13145')
+    ('HART', '13147')
+    ('HEARD', '13149')
+    ('HENRY', '13151')
+    ('HOUSTON', '13153')
+    ('IRWIN', '13155')
+    ('JACKSON', '13157')
+    ('JASPER', '13159')
+    ('JEFF DAVIS', '13161')
+    ('JEFFERSON', '13163')
+    ('JENKINS', '13165')
+    ('JOHNSON', '13167')
+    ('JONES', '13169')
+    ('LAMAR', '13171')
+    ('LANIER', '13173')
+    ('LAURENS', '13175')
+    ('LEE', '13177')
+    ('LIBERTY', '13179')
+    ('LINCOLN', '13181')
+    ('LONG', '13183')
+    ('LOWNDES', '13185')
+    ('LUMPKIN', '13187')
+    ('MACON', '13193')
+    ('MADISON', '13195')
+    ('MARION', '13197')
+    ('MCDUFFIE', '13189')
+    ('MCINTOSH', '13191')
+    ('MERIWETHER', '13199')
+    ('MILLER', '13201')
+    ('MITCHELL', '13205')
+    ('MONROE', '13207')
+    ('MONTGOMERY', '13209')
+    ('MORGAN', '13211')
+    ('MURRAY', '13213')
+    ('MUSCOGEE', '13215')
+    ('NEWTON', '13217')
+    ('OCONEE', '13219')
+    ('OGLETHORPE', '13221')
+    ('PAULDING', '13223')
+    ('PEACH', '13225')
+    ('PICKENS', '13227')
+    ('PIERCE', '13229')
+    ('PIKE', '13231')
+    ('POLK', '13233')
+    ('PULASKI', '13235')
+    ('PUTNAM', '13237')
+    ('QUITMAN', '13239')
+    ('RABUN', '13241')
+    ('RANDOLPH', '13243')
+    ('RICHMOND', '13245')
+    ('ROCKDALE', '13247')
+    ('SCHLEY', '13249')
+    ('SCREVEN', '13251')
+    ('SEMINOLE', '13253')
+    ('SPALDING', '13255')
+    ('STATE FLOATING', '<<<EC: VALUE WAS EMPTY>>>')
+    ('STEPHENS', '13257')
+    ('STEWART', '13259')
+    ('SUMTER', '13261')
+    ('TALBOT', '13263')
+    ('TALIAFERRO', '13265')
+    ('TATTNALL', '13267')
+    ('TAYLOR', '13269')
+    ('TELFAIR', '13271')
+    ('TERRELL', '13273')
+    ('THOMAS', '13275')
+    ('TIFT', '13277')
+    ('TOOMBS', '13279')
+    ('TOWNS', '13281')
+    ('TREUTLEN', '13283')
+    ('TROUP', '13285')
+    ('TURNER', '13287')
+    ('TWIGGS', '13289')
+    ('UNION', '13291')
+    ('UPSON', '13293')
+    ('WALKER', '13295')
+    ('WALTON', '13297')
+    ('WARE', '13299')
+    ('WARREN', '13301')
+    ('WASHINGTON', '13303')
+    ('WAYNE', '13305')
+    ('WEBSTER', '13307')
+    ('WHEELER', '13309')
+    ('WHITE', '13311')
+    ('WHITFIELD', '13313')
+    ('WILCOX', '13315')
+    ('WILKES', '13317')
+    ('WILKINSON', '13319')
+    ('WORTH', '13321')
+------
+
+---------
+------
+ALL VALUES:
+    APPLING
+    ATKINSON
+    BACON
+    BAKER
+    BALDWIN
+    BANKS
+    BARROW
+    BARTOW
+    BEN HILL
+    BERRIEN
+    BIBB
+    BLECKLEY
+    BRANTLEY
+    BROOKS
+    BRYAN
+    BULLOCH
+    BURKE
+    BUTTS
+    CALHOUN
+    CAMDEN
+    CANDLER
+    CARROLL
+    CATOOSA
+    CHARLTON
+    CHATHAM
+    CHATTAHOOCHEE
+    CHATTOOGA
+    CHEROKEE
+    CLARKE
+    CLAY
+    CLAYTON
+    CLINCH
+    COBB
+    COFFEE
+    COLQUITT
+    COLUMBIA
+    COOK
+    COWETA
+    CRAWFORD
+    CRISP
+    DADE
+    DAWSON
+    DECATUR
+    DEKALB
+    DODGE
+    DOOLY
+    DOUGHERTY
+    DOUGLAS
+    EARLY
+    ECHOLS
+    EFFINGHAM
+    ELBERT
+    EMANUEL
+    EVANS
+    FANNIN
+    FAYETTE
+    FLOYD
+    FORSYTH
+    FRANKLIN
+    FULTON
+    GILMER
+    GLASCOCK
+    GLYNN
+    GORDON
+    GRADY
+    GREENE
+    GWINNETT
+    HABERSHAM
+    HALL
+    HANCOCK
+    HARALSON
+    HARRIS
+    HART
+    HEARD
+    HENRY
+    HOUSTON
+    IRWIN
+    JACKSON
+    JASPER
+    JEFF DAVIS
+    JEFFERSON
+    JENKINS
+    JOHNSON
+    JONES
+    LAMAR
+    LANIER
+    LAURENS
+    LEE
+    LIBERTY
+    LINCOLN
+    LONG
+    LOWNDES
+    LUMPKIN
+    MACON
+    MADISON
+    MARION
+    MCDUFFIE
+    MCINTOSH
+    MERIWETHER
+    MILLER
+    MITCHELL
+    MONROE
+    MONTGOMERY
+    MORGAN
+    MURRAY
+    MUSCOGEE
+    NEWTON
+    OCONEE
+    OGLETHORPE
+    PAULDING
+    PEACH
+    PICKENS
+    PIERCE
+    PIKE
+    POLK
+    PULASKI
+    PUTNAM
+    QUITMAN
+    RABUN
+    RANDOLPH
+    RICHMOND
+    ROCKDALE
+    SCHLEY
+    SCREVEN
+    SEMINOLE
+    SPALDING
+    STATE FLOATING
+    STEPHENS
+    STEWART
+    SUMTER
+    TALBOT
+    TALIAFERRO
+    TATTNALL
+    TAYLOR
+    TELFAIR
+    TERRELL
+    THOMAS
+    TIFT
+    TOOMBS
+    TOWNS
+    TREUTLEN
+    TROUP
+    TURNER
+    TWIGGS
+    UNION
+    UPSON
+    WALKER
+    WALTON
+    WARE
+    WARREN
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WHEELER
+    WHITE
+    WHITFIELD
+    WILCOX
+    WILKES
+    WILKINSON
+    WORTH
+------
+

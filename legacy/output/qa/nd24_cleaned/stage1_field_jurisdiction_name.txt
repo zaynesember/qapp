@@ -1,0 +1,181 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAMS', ['ADAMS', 38001, ['38001']])
+    ('BARNES', ['BARNES', 38003, ['38003']])
+    ('BENSON', ['BENSON', 38005, ['38005']])
+    ('BILLINGS', ['BILLINGS', 38007, ['38007']])
+    ('BOTTINEAU', ['BOTTINEAU', 38009, ['38009']])
+    ('BOWMAN', ['BOWMAN', 38011, ['38011']])
+    ('BURKE', ['BURKE', 38013, ['38013']])
+    ('BURLEIGH', ['BURLEIGH', 38015, ['38015']])
+    ('CASS', ['CASS', 38017, ['38017']])
+    ('CAVALIER', ['CAVALIER', 38019, ['38019']])
+    ('DICKEY', ['DICKEY', 38021, ['38021']])
+    ('DIVIDE', ['DIVIDE', 38023, ['38023']])
+    ('DUNN', ['DUNN', 38025, ['38025']])
+    ('EDDY', ['EDDY', 38027, ['38027']])
+    ('EMMONS', ['EMMONS', 38029, ['38029']])
+    ('FOSTER', ['FOSTER', 38031, ['38031']])
+    ('GOLDEN VALLEY', ['GOLDEN VALLEY', 38033, ['38033']])
+    ('GRAND FORKS', ['GRAND FORKS', 38035, ['38035']])
+    ('GRANT', ['GRANT', 38037, ['38037']])
+    ('GRIGGS', ['GRIGGS', 38039, ['38039']])
+    ('HETTINGER', ['HETTINGER', 38041, ['38041']])
+    ('KIDDER', ['KIDDER', 38043, ['38043']])
+    ('LAMOURE', ['LAMOURE', 38045, ['38045']])
+    ('LOGAN', ['LOGAN', 38047, ['38047']])
+    ('MCHENRY', ['MCHENRY', 38049, ['38049']])
+    ('MCINTOSH', ['MCINTOSH', 38051, ['38051']])
+    ('MCKENZIE', ['MCKENZIE', 38053, ['38053']])
+    ('MCLEAN', ['MCLEAN', 38055, ['38055']])
+    ('MERCER', ['MERCER', 38057, ['38057']])
+    ('MORTON', ['MORTON', 38059, ['38059']])
+    ('MOUNTRAIL', ['MOUNTRAIL', 38061, ['38061']])
+    ('NELSON', ['NELSON', 38063, ['38063']])
+    ('OLIVER', ['OLIVER', 38065, ['38065']])
+    ('PEMBINA', ['PEMBINA', 38067, ['38067']])
+    ('PIERCE', ['PIERCE', 38069, ['38069']])
+    ('RAMSEY', ['RAMSEY', 38071, ['38071']])
+    ('RANSOM', ['RANSOM', 38073, ['38073']])
+    ('RENVILLE', ['RENVILLE', 38075, ['38075']])
+    ('RICHLAND', ['RICHLAND', 38077, ['38077']])
+    ('ROLETTE', ['ROLETTE', 38079, ['38079']])
+    ('SARGENT', ['SARGENT', 38081, ['38081']])
+    ('SHERIDAN', ['SHERIDAN', 38083, ['38083']])
+    ('SIOUX', ['SIOUX', 38085, ['38085']])
+    ('SLOPE', ['SLOPE', 38087, ['38087']])
+    ('STARK', ['STARK', 38089, ['38089']])
+    ('STEELE', ['STEELE', 38091, ['38091']])
+    ('STUTSMAN', ['STUTSMAN', 38093, ['38093']])
+    ('TOWNER', ['TOWNER', 38095, ['38095']])
+    ('TRAILL', ['TRAILL', 38097, ['38097']])
+    ('WALSH', ['WALSH', 38099, ['38099']])
+    ('WARD', ['WARD', 38101, ['38101']])
+    ('WELLS', ['WELLS', 38103, ['38103']])
+    ('WILLIAMS', ['WILLIAMS', 38105, ['38105']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    BARNES
+    BENSON
+    BILLINGS
+    BOTTINEAU
+    BOWMAN
+    BURKE
+    BURLEIGH
+    CASS
+    CAVALIER
+    DICKEY
+    DIVIDE
+    DUNN
+    EDDY
+    EMMONS
+    FOSTER
+    GOLDEN VALLEY
+    GRAND FORKS
+    GRANT
+    GRIGGS
+    HETTINGER
+    KIDDER
+    LAMOURE
+    LOGAN
+    MCHENRY
+    MCINTOSH
+    MCKENZIE
+    MCLEAN
+    MERCER
+    MORTON
+    MOUNTRAIL
+    NELSON
+    OLIVER
+    PEMBINA
+    PIERCE
+    RAMSEY
+    RANSOM
+    RENVILLE
+    RICHLAND
+    ROLETTE
+    SARGENT
+    SHERIDAN
+    SIOUX
+    SLOPE
+    STARK
+    STEELE
+    STUTSMAN
+    TOWNER
+    TRAILL
+    WALSH
+    WARD
+    WELLS
+    WILLIAMS
+------
+

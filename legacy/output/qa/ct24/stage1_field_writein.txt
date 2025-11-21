@@ -1,0 +1,107 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    GWEN SAMUEL: ['FALSE' 'TRUE']
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+   No Problems Found :) 
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    AHMAD AJ DARWISH
+    AMY ROBERTS-PERRY
+    ANDRE MCNEIL
+    ASHLEY KATHLEEN FRAZER
+    BEATRICE CLEMENTS
+    BERTRAM FERGUSON
+    CHERNUDA FOX
+    CLAUDIA DE LA CRUZ
+    CORNEL WEST
+    DAYNA MCDERMOTT ARRIOLA
+    DENISE ES ARTURI
+    FUTURE MADAM POTUS
+    GWEN SAMUEL
+    JAMES R HOYNE
+    JEFFERY RUSSELL
+    JESSICA PATRAW
+    JOHN FLYNN
+    JUDY JOHNSON
+    KAREN KNAPP
+    KELLY SCALLON
+    KENNETH KUSMIERSKI JR
+    LEO ALMONEY
+    LOREEN HEGAN
+    LOUIS ANTHONY BEVILACQUA
+    OMAR SCOTT ANTAR
+    PATRICIA RASKAUSKAS
+    PAUL FERRONE
+    PETER DRIPPE
+    PETER SONSKI
+    SHAHD OMAR
+    SHAWN NORTHROP
+    SHIVA AYYADURAI
+    STUART R KORCHIN
+    TRACY L FUNNYE
+    VIOLET ALDAIA
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

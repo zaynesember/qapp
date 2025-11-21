@@ -1,0 +1,120 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    APPELLATE COURT JUDGE: ['LOCAL']
+    CIRCUIT COURT JUDGE: ['LOCAL']
+    COOK CIRCUIT COURT JUDGE: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        ADVISORY QUESTION 1
+        ADVISORY QUESTION 2
+        ADVISORY QUESTION 3
+        APPELLATE COURT JUDGE
+        BUREAU/HENRY/STARK - SUPERINTENDENT OF SCHOOLS
+        CIRCUIT COURT JUDGE
+        COOK CIRCUIT COURT JUDGE
+        PRAIRIE DUPONT LEVEE AND SANITARY DISTRICT
+    PRESIDENT
+        US PRESIDENT
+    STATE
+        STATE HOUSE
+        STATE SENATE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ADVISORY QUESTION 1
+        102 counties for this office
+    ADVISORY QUESTION 2
+        102 counties for this office
+    ADVISORY QUESTION 3
+        102 counties for this office
+    APPELLATE COURT JUDGE
+        65 counties for this office
+    BUREAU/HENRY/STARK - SUPERINTENDENT OF SCHOOLS
+        8 counties for this office
+    CIRCUIT COURT JUDGE
+        101 counties for this office
+    COOK CIRCUIT COURT JUDGE
+        6 counties for this office
+    PRAIRIE DUPONT LEVEE AND SANITARY DISTRICT
+        2 counties for this office
+    STATE HOUSE
+        102 counties for this office
+    STATE SENATE
+        52 counties for this office
+    US HOUSE
+        102 counties for this office
+    US PRESIDENT
+        102 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    STATE
+------
+

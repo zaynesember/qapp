@@ -1,0 +1,141 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('BERNALILLO', ['BERNALILLO', 35001, ['35001']])
+    ('CATRON', ['CATRON', 35003, ['35003']])
+    ('CHAVES', ['CHAVES', 35005, ['35005']])
+    ('CIBOLA', ['CIBOLA', 35006, ['35006']])
+    ('COLFAX', ['COLFAX', 35007, ['35007']])
+    ('CURRY', ['CURRY', 35009, ['35009']])
+    ('DE BACA', ['DE BACA', 35011, ['35011']])
+    ('DONA ANA', ['DONA ANA', 35013, ['35013']])
+    ('EDDY', ['EDDY', 35015, ['35015']])
+    ('GRANT', ['GRANT', 35017, ['35017']])
+    ('GUADALUPE', ['GUADALUPE', 35019, ['35019']])
+    ('HARDING', ['HARDING', 35021, ['35021']])
+    ('HIDALGO', ['HIDALGO', 35023, ['35023']])
+    ('LEA', ['LEA', 35025, ['35025']])
+    ('LINCOLN', ['LINCOLN', 35027, ['35027']])
+    ('LOS ALAMOS', ['LOS ALAMOS', 35028, ['35028']])
+    ('LUNA', ['LUNA', 35029, ['35029']])
+    ('MCKINLEY', ['MCKINLEY', 35031, ['35031']])
+    ('MORA', ['MORA', 35033, ['35033']])
+    ('OTERO', ['OTERO', 35035, ['35035']])
+    ('QUAY', ['QUAY', 35037, ['35037']])
+    ('RIO ARRIBA', ['RIO ARRIBA', 35039, ['35039']])
+    ('ROOSEVELT', ['ROOSEVELT', 35041, ['35041']])
+    ('SAN JUAN', ['SAN JUAN', 35045, ['35045']])
+    ('SAN MIGUEL', ['SAN MIGUEL', 35047, ['35047']])
+    ('SANDOVAL', ['SANDOVAL', 35043, ['35043']])
+    ('SANTA FE', ['SANTA FE', 35049, ['35049']])
+    ('SIERRA', ['SIERRA', 35051, ['35051']])
+    ('SOCORRO', ['SOCORRO', 35053, ['35053']])
+    ('TAOS', ['TAOS', 35055, ['35055']])
+    ('TORRANCE', ['TORRANCE', 35057, ['35057']])
+    ('UNION', ['UNION', 35059, ['35059']])
+    ('VALENCIA', ['VALENCIA', 35061, ['35061']])
+------
+
+---------
+------
+ALL VALUES:
+    BERNALILLO
+    CATRON
+    CHAVES
+    CIBOLA
+    COLFAX
+    CURRY
+    DE BACA
+    DONA ANA
+    EDDY
+    GRANT
+    GUADALUPE
+    HARDING
+    HIDALGO
+    LEA
+    LINCOLN
+    LOS ALAMOS
+    LUNA
+    MCKINLEY
+    MORA
+    OTERO
+    QUAY
+    RIO ARRIBA
+    ROOSEVELT
+    SAN JUAN
+    SAN MIGUEL
+    SANDOVAL
+    SANTA FE
+    SIERRA
+    SOCORRO
+    TAOS
+    TORRANCE
+    UNION
+    VALENCIA
+------
+

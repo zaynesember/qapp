@@ -1,0 +1,144 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    JUDGE OF THE CIRCUIT COURT: ['STATE']
+    RETENTION JUDGE SPECIAL APPEALS: ['STATE']
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE: ['STATE']
+    RETENTION STATE SUPREME COURT: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        BOARD OF EDUCATION
+        BOARD OF EDUCATION AT LARGE
+        COMPTROLLER
+        COUNCIL - CITY OF CUMBERLAND
+        COUNCIL - CITY OF HAGERSTOWN
+        COUNTY COUNCIL
+        COUNTY COUNCIL AT LARGE
+        COUNTY EXECUTIVE
+        MAYOR
+        MAYOR OF HAGERSTOWN
+        MEMBER CITY COUNCIL
+        PRESIDENT CITY COUNCIL
+        RETENTION STATE SUPREME COURT
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        JUDGE OF THE CIRCUIT COURT
+        RETENTION JUDGE SPECIAL APPEALS
+        RETENTION JUDGE SPECIAL APPEALS AT LARGE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BOARD OF EDUCATION
+        18 counties for this office
+    BOARD OF EDUCATION AT LARGE
+        4 counties for this office
+    COMPTROLLER
+        1 counties for this office
+    COUNCIL - CITY OF CUMBERLAND
+        1 counties for this office
+    COUNCIL - CITY OF HAGERSTOWN
+        1 counties for this office
+    COUNTY COUNCIL
+        1 counties for this office
+    COUNTY COUNCIL AT LARGE
+        1 counties for this office
+    COUNTY EXECUTIVE
+        1 counties for this office
+    JUDGE OF THE CIRCUIT COURT
+        12 counties for this office
+    MAYOR
+        1 counties for this office
+    MAYOR OF HAGERSTOWN
+        1 counties for this office
+    MEMBER CITY COUNCIL
+        1 counties for this office
+    PRESIDENT CITY COUNCIL
+        1 counties for this office
+    RETENTION JUDGE SPECIAL APPEALS
+        12 counties for this office
+    RETENTION JUDGE SPECIAL APPEALS AT LARGE
+        24 counties for this office
+    RETENTION STATE SUPREME COURT
+        9 counties for this office
+    US HOUSE
+        24 counties for this office
+    US PRESIDENT
+        24 counties for this office
+    US SENATE
+        24 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

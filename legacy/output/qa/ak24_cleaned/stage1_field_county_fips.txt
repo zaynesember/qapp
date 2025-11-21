@@ -1,0 +1,82 @@
+---------------------------
+---------------------------
+COUNTY_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    ""
+------
+
+------
+FIPS TOO LONG
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+COUNTY FIPS FOR COUNTY CHECK:
+    It was not possible to cast county fips as numeric and group them with county name. This could happen due to blank values in county names or county fips in the following states: set()
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    02013
+    02016
+    02020
+    02050
+    02060
+    02063
+    02066
+    02068
+    02070
+    02090
+    02100
+    02105
+    02110
+    02122
+    02130
+    02150
+    02158
+    02164
+    02170
+    02180
+    02185
+    02188
+    02195
+    02198
+    02220
+    02230
+    02240
+    02275
+    02282
+    02290
+------
+

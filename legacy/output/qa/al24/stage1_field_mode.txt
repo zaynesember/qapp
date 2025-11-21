@@ -1,0 +1,228 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    TOTAL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    TOTAL ||| [[TOTAL]]
+    ABSENTEE ||| [[ABS]]
+    PROVISIONAL ||| [[PROV]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('TOTAL',)
+        ('10 JONES COMM CTR', 'ASSOCIATE JUSTICE OF THE SUPREME COURT', '   ', 'AUTAUGA', 'OVER VOTES', '001', 'GEN', 'FALSE', '2022-11-05')
+        ('10 JONES COMM CTR', 'ASSOCIATE JUSTICE OF THE SUPREME COURT', '   ', 'AUTAUGA', 'OVER VOTES', '002', 'GEN', 'FALSE', '2022-11-05')
+        ('10 JONES COMM CTR', 'ASSOCIATE JUSTICE OF THE SUPREME COURT', '   ', 'AUTAUGA', 'OVER VOTES', '003', 'GEN', 'FALSE', '2022-11-05')
+        ...(skipping 219061 elements)
+        ('ZION REST BAPT CH', 'WILCOX COUNTY JUDGE OF PROBATE', '   ', 'WILCOX', 'UNDER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ZION REST BAPT CH', 'WILCOX COUNTY JUDGE OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'WILCOX', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ZION REST BAPT CH', 'WILCOX COUNTY JUDGE OF PROBATE', 'DEMOCRAT', 'WILCOX', 'BRITNEY JONES-ALEXANDER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+
+    ('ABSENTEE',)
+        ('ABSENTEE', '3 MILL SCHOOL TAX', '   ', 'MARENGO', 'OVER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ABSENTEE', '3 MILL SCHOOL TAX', '   ', 'MARENGO', 'UNDER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ABSENTEE', '3 MILL SCHOOL TAX', '<<<EC: VALUE WAS EMPTY>>>', 'MARENGO', 'AGAINST', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ...(skipping 8785 elements)
+        ('ABSENTEE', 'WINSTON COUNTY JUDGE OF PROBATE', '   ', 'WINSTON', 'UNDER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ABSENTEE', 'WINSTON COUNTY JUDGE OF PROBATE', '<<<EC: VALUE WAS EMPTY>>>', 'WINSTON', 'WRITE-IN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('ABSENTEE', 'WINSTON COUNTY JUDGE OF PROBATE', 'REPUBLICAN', 'WINSTON', 'SHEILA G MOORE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+
+    ('PROVISIONAL',)
+        ('PROVISIONAL', '3 MILL SCHOOL TAX', '   ', 'MARENGO', 'OVER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('PROVISIONAL', '3 MILL SCHOOL TAX', '   ', 'MARENGO', 'UNDER VOTES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('PROVISIONAL', '3 MILL SCHOOL TAX', '<<<EC: VALUE WAS EMPTY>>>', 'MARENGO', 'AGAINST', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ...(skipping 8785 elements)
+        ('PROVSIONAL', 'US PRESIDENT', 'REPUBLICAN', 'JACKSON', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('PROVSIONAL', 'US PRESIDENT', 'REPUBLICAN', 'MARSHALL', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+        ('PROVSIONAL', 'US PRESIDENT', 'REPUBLICAN', 'TALLAPOOSA', 'DONALD J TRUMP', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2022-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ABSENTEE
+    PROVISIONAL
+    TOTAL
+------
+

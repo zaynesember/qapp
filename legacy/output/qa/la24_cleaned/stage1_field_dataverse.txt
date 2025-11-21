@@ -1,0 +1,110 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    DISTRICT JUDGE: ['LOCAL']
+    JUDGE, COURT OF APPEAL: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        ALDERMEN
+        CHIEF OF POLICE
+        DISTRICT JUDGE
+        JUDGE, COURT OF APPEAL
+        MAYOR
+        PSC
+    PRESIDENT
+        US PRESIDENT
+    STATE
+        CA NO. 1 (ACT NO. 408, 2024 - HB 300) -- PROVIDES RELATIVE TO FEDERAL PROCEEDS FROM ALTERNATIVE ENERGY PRODUCTION
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ALDERMEN
+        2 counties for this office
+    CA NO. 1 (ACT NO. 408, 2024 - HB 300) -- PROVIDES RELATIVE TO FEDERAL PROCEEDS FROM ALTERNATIVE ENERGY PRODUCTION
+        64 counties for this office
+    CHIEF OF POLICE
+        2 counties for this office
+    DISTRICT JUDGE
+        6 counties for this office
+    JUDGE, COURT OF APPEAL
+        6 counties for this office
+    MAYOR
+        2 counties for this office
+    PSC
+        13 counties for this office
+    US HOUSE
+        64 counties for this office
+    US PRESIDENT
+        64 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    STATE
+------
+

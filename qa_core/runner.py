@@ -12,6 +12,7 @@ from qa_core import (
     io_utils,
     checks,
     report,
+    field_checks,
     stats_utils,
     check_field_formats,
     config,
@@ -70,6 +71,21 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     all_results["columns"] = checks.check_columns(df)
     all_results["fields"] = checks.check_fields(df)
     all_results["field_formats"] = check_field_formats.validate_field_patterns(df)
+    # Extended regex-based field checks (port of core legacy rules)
+    try:
+        logging.info("Running regex-based field checks...")
+        res = field_checks.validate_field_regexes(df)
+        if isinstance(res, tuple) and len(res) == 2:
+            summary, details = res
+            all_results["field_regex_checks"] = summary
+            # Add any detail DataFrames as top-level results so report writes them as sheets
+            for name, table in (details or {}).items():
+                if isinstance(table, pd.DataFrame):
+                    all_results[name] = table
+        else:
+            all_results["field_regex_checks"] = res
+    except Exception as e:
+        logging.warning(f"Field regex checks failed: {e}")
 
     # ------------------------------------------------------------------
     # FIPS Validation
@@ -133,9 +149,71 @@ def run_qa(file_path: str | pathlib.Path) -> None:
         all_results["duplicates"] = pd.DataFrame()
 
     # ------------------------------------------------------------------
+    # Zero‑vote precinct groups (aggregated zero totals)
+    # ------------------------------------------------------------------
+    try:
+        logging.info("Checking precinct-office groups with zero total votes...")
+        zero_groups_df = checks.find_zero_vote_precincts(df)
+        all_results["zero_vote_precincts"] = zero_groups_df
+
+        if not zero_groups_df.empty:
+            total = len(zero_groups_df)
+            logging.info(f"Found {total:,} precinct-office groups with zero total votes.")
+
+            # Add a concise entry into the main QA summary under 'fields'
+            # so the count appears in the 'QA Summary' sheet. Keep the
+            # full DataFrame in `zero_vote_precincts` so a detailed sheet
+            # with all groups is still written.
+            if "fields" not in all_results or not isinstance(all_results.get("fields"), dict):
+                all_results["fields"] = {} if not isinstance(all_results.get("fields"), dict) else all_results.get("fields")
+
+            # Prepare sample values (concat grouping columns) for context
+            sample_vals = []
+            try:
+                sample_rows = zero_groups_df.head(10)
+                # Prefer to show just precinct names (first 10) to keep summary concise
+                if 'precinct' in sample_rows.columns:
+                    sample_vals = [str(x) for x in sample_rows['precinct'].head(10).tolist()]
+                else:
+                    group_cols = [c for c in ['county_fips', 'jurisdiction_fips', 'precinct', 'office', 'district'] if c in sample_rows.columns]
+                    for _, r in sample_rows.iterrows():
+                        sample_vals.append("|".join([str(r[c]) for c in group_cols]))
+            except Exception:
+                sample_vals = []
+
+            all_results["fields"]["zero_vote_precinct_groups"] = {
+                "issues": int(total),
+                "issue_values": sample_vals,
+                "issue_row_numbers": [],
+            }
+        else:
+            logging.info("No zero-vote precinct-office groups found.")
+
+    except Exception as e:
+        logging.warning(f"Zero-vote precinct detection failed: {e}")
+        all_results["zero_vote_precincts"] = pd.DataFrame()
+
+    # ------------------------------------------------------------------
     # Output path — only one Excel report
     # ------------------------------------------------------------------
     xlsx_path = qa_dir / f"report_{file_path.stem}.xlsx"
+
+    # Add dataset-level info for high-level QA summary
+    try:
+        unique_counties = int(df['county_fips'].nunique(dropna=True)) if 'county_fips' in df.columns else int(df['county_name'].nunique(dropna=True)) if 'county_name' in df.columns else 0
+    except Exception:
+        unique_counties = 0
+    try:
+        unique_jurisdictions = int(df['jurisdiction_fips'].nunique(dropna=True)) if 'jurisdiction_fips' in df.columns else int(df['jurisdiction_name'].nunique(dropna=True)) if 'jurisdiction_name' in df.columns else 0
+    except Exception:
+        unique_jurisdictions = 0
+
+    all_results['dataset_info'] = {
+        'rows': len(df),
+        'columns': len(df.columns),
+        'unique_counties': unique_counties,
+        'unique_jurisdictions': unique_jurisdictions,
+    }
 
     # ------------------------------------------------------------------
     # Write single Excel report

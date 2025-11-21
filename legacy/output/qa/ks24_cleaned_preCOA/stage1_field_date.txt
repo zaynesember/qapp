@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        ('1 EAST ROSSVILLE', 'DISTRICT ATTORNEY', 'REPUBLICAN', 'SHAWNEE', 'MIKE KAGAY', 'TOTAL', '003', 'GEN', 'FALSE')
+        ('1 EAST ROSSVILLE', 'DISTRICT ATTORNEY', 'WRITE-IN', 'SHAWNEE', 'WRITE-IN', 'TOTAL', '003', 'GEN', 'FALSE')
+        ('1 EAST ROSSVILLE', 'DISTRICT COURT JUDGE', 'NONPARTISAN', 'SHAWNEE', 'NO', 'TOTAL', '3, div 12', 'GEN', 'FALSE')
+        ...(skipping 179070 elements)
+        ('ZEANDALE TOWNSHIP', 'US PRESIDENT', 'INDEPENDENT', 'RILEY', 'ROBERT F KENNEDY', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('ZEANDALE TOWNSHIP', 'US PRESIDENT', 'LIBERTARIAN', 'RILEY', 'CHASE OLIVER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('ZEANDALE TOWNSHIP', 'US PRESIDENT', 'REPUBLICAN', 'RILEY', 'DONALD J TRUMP', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

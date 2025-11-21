@@ -1,0 +1,226 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    ELECTION DAY ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    MAIL IN ||| [[MAIL]]
+    ELECTION DAY ||| [[ELECTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('ELECTION DAY', 'MAIL IN')
+        ('01-01', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '<<<EC: VALUE WAS EMPTY>>>', 'HAWAII', 'NO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', "1 HAWAI'I: COUNTY COUNCIL VACANCY IN OFFICE", '<<<EC: VALUE WAS EMPTY>>>', 'HAWAII', 'YES', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', "2 HAWAI'I: MAYORAL APPOINTMENT OF DEPARTMENT HEADS", '<<<EC: VALUE WAS EMPTY>>>', 'HAWAII', 'NO', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 7657 elements)
+        ('51-05', 'US SENATE', 'GREEN', 'HONOLULU', 'EMMA JANE AVILA POHLMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US SENATE', 'REPUBLICAN', 'HONOLULU', 'BOB MCDERMOTT', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US SENATE', 'WE THE PEOPLE', 'HONOLULU', 'SHELBY PIKACHU BILLIONAIRE', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('MAIL IN',)
+        ('01-02', 'US PRESIDENT', 'AMERICAN SOLIDARITY PARTY', 'HAWAII', 'PETER SONSKI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('01-02', 'US PRESIDENT', 'PARTY FOR SOCIALISM AND LIBERATION', 'HAWAII', 'CLAUDIA DE LA CRUZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('01-03', 'US PRESIDENT', 'AMERICAN SOLIDARITY PARTY', 'HAWAII', 'PETER SONSKI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 745 elements)
+        ('51-05', 'US PRESIDENT', 'AMERICAN SOLIDARITY PARTY', 'HONOLULU', 'PETER SONSKI', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US PRESIDENT', 'LIBERTARIAN', 'HONOLULU', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('51-05', 'US PRESIDENT', 'PARTY FOR SOCIALISM AND LIBERATION', 'HONOLULU', 'CLAUDIA DE LA CRUZ', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ELECTION DAY',)
+        ('05-02', 'US PRESIDENT', 'GREEN', 'HAWAII', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('12-05', 'US SENATE', 'GREEN', 'MAUI', 'EMMA JANE AVILA POHLMAN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('13-04', 'US PRESIDENT', 'GREEN', 'MAUI', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8 elements)
+        ('41-04', 'MOLOKAI RESIDENT TRUSTEE', '<<<EC: VALUE WAS EMPTY>>>', 'HONOLULU', 'LUANA ALAPA', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('41-04', 'US PRESIDENT', 'GREEN', 'HONOLULU', 'JILL STEIN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('42-01', 'US PRESIDENT', 'LIBERTARIAN', 'HONOLULU', 'CHASE OLIVER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ELECTION DAY
+    MAIL IN
+------
+

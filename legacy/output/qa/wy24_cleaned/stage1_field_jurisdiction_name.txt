@@ -1,0 +1,121 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ALBANY', ['ALBANY', 56001, ['56001']])
+    ('BIG HORN', ['BIG HORN', 56003, ['56003']])
+    ('CAMPBELL', ['CAMPBELL', 56005, ['56005']])
+    ('CARBON', ['CARBON', 56007, ['56007']])
+    ('CONVERSE', ['CONVERSE', 56009, ['56009']])
+    ('CROOK', ['CROOK', 56011, ['56011']])
+    ('FREMONT', ['FREMONT', 56013, ['56013']])
+    ('GOSHEN', ['GOSHEN', 56015, ['56015']])
+    ('HOT SPRINGS', ['HOT SPRINGS', 56017, ['56017']])
+    ('JOHNSON', ['JOHNSON', 56019, ['56019']])
+    ('LARAMIE', ['LARAMIE', 56021, ['56021']])
+    ('LINCOLN', ['LINCOLN', 56023, ['56023']])
+    ('NATRONA', ['NATRONA', 56025, ['56025']])
+    ('NIOBRARA', ['NIOBRARA', 56027, ['56027']])
+    ('PARK', ['PARK', 56029, ['56029']])
+    ('PLATTE', ['PLATTE', 56031, ['56031']])
+    ('SHERIDAN', ['SHERIDAN', 56033, ['56033']])
+    ('SUBLETTE', ['SUBLETTE', 56035, ['56035']])
+    ('SWEETWATER', ['SWEETWATER', 56037, ['56037']])
+    ('TETON', ['TETON', 56039, ['56039']])
+    ('UINTA', ['UINTA', 56041, ['56041']])
+    ('WASHAKIE', ['WASHAKIE', 56043, ['56043']])
+    ('WESTON', ['WESTON', 56045, ['56045']])
+------
+
+---------
+------
+ALL VALUES:
+    ALBANY
+    BIG HORN
+    CAMPBELL
+    CARBON
+    CONVERSE
+    CROOK
+    FREMONT
+    GOSHEN
+    HOT SPRINGS
+    JOHNSON
+    LARAMIE
+    LINCOLN
+    NATRONA
+    NIOBRARA
+    PARK
+    PLATTE
+    SHERIDAN
+    SUBLETTE
+    SWEETWATER
+    TETON
+    UINTA
+    WASHAKIE
+    WESTON
+------
+

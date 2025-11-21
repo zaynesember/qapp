@@ -1,0 +1,115 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    RETENTION COURT OF APPEALS: ['STATE']
+    RETENTION DISTRICT COURT: ['LOCAL']
+    RETENTION SUPERIOR COURT: ['STATE']
+    RETENTION SUPREME COURT: ['STATE']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        RETENTION DISTRICT COURT
+    PRESIDENT
+        US PRESIDENT
+    STATE
+        BALLOT MEASURE NO. 1 - 23AMLS
+        BALLOT MEASURE NO. 2 - 22AKHE
+        RETENTION COURT OF APPEALS
+        RETENTION SUPERIOR COURT
+        RETENTION SUPREME COURT
+        STATE HOUSE
+        STATE SENATE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BALLOT MEASURE NO. 1 - 23AMLS
+        31 counties for this office
+    BALLOT MEASURE NO. 2 - 22AKHE
+        31 counties for this office
+    RETENTION COURT OF APPEALS
+        31 counties for this office
+    RETENTION DISTRICT COURT
+        28 counties for this office
+    RETENTION SUPERIOR COURT
+        18 counties for this office
+    RETENTION SUPREME COURT
+        31 counties for this office
+    STATE HOUSE
+        31 counties for this office
+    STATE SENATE
+        16 counties for this office
+    US HOUSE
+        31 counties for this office
+    US PRESIDENT
+        31 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    STATE
+------
+

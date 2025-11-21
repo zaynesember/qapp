@@ -1,0 +1,1061 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    CIRCUIT JUDGEDIVISION 17 SUB2: ['STATE']
+    COURT OF APPEALS ASSOCIATE JUDGE: ['STATE']
+    DISTRICT JUDGE: ['STATE']
+    JUSTICE OF THE PEACE: ['LOCAL']
+    STATE SUPREME COURT CHIEF JUSTICE: ['STATE']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        0.75% SALES AND USE TAX
+        1% SALES AND USE TAX
+        1% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+        1.5% SALES AND USE TAX GREENLAND
+        38.50 BALD KNOB SCHOOL MILL TAX
+        5% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+        ALDERMAN OF OXFORD CITY OF OXFO
+        ANNEXATION SILOAM SPRINGS
+        BOARD OF DIRECTORS SILOAM SPRINGS
+        BONDS
+        BSD 349 TOTAL MILL SCHOOL TAX
+        CAMMACK VILLAGE TREASURER
+        CAVE CITY BOARD OF DIRECTORS
+        CCJPL 1% MILL TAX
+        CCRWDD BOARD OF DIRECTORS
+        CIRCUIT CLERK
+        CITY OF ALEXANDER CITY COUNCIL
+        CITY OF ALPENA CITY COUNCIL
+        CITY OF ALPENA LOCAL ISSUE NO 1
+        CITY OF ALPENA LOCAL ISSUE NO 2
+        CITY OF ANTHONYVILLE CITY COUNCIL
+        CITY OF ARKANSAS CITY ALDERMAN NORTHITIO
+        CITY OF ASH FLAT ALDERMAN
+        CITY OF AUGUSTA ALDERMAN
+        CITY OF AUSTIN CITY CLERK
+        CITY OF BALD KNOB CITY COUNCIL
+        CITY OF BARLING ORDINANCE 509
+        CITY OF BARLING ORDINANCE 511
+        CITY OF BAUXITE CITY COUNCIL
+        CITY OF BEAVER CITY MAYOR
+        CITY OF BELLA VISTA CITY COUNCIL
+        CITY OF BENTON CITY COUNCIL
+        CITY OF BENTONVILLE CITY ATTORNEY
+        CITY OF BENTONVILLE CITY COUNCIL
+        CITY OF BENTONVILLE MAYOR
+        CITY OF BLACK ROCK ALDERMAN
+        CITY OF BLUE EYE MAYOR
+        CITY OF BONANZA ALDERMAN
+        CITY OF BONO ALDERMAN
+        CITY OF BOONEVILLE ALDERMAN
+        CITY OF BRADFORD CITY COUNCIL
+        CITY OF BRINKLEY CITY COUNCIL
+        CITY OF BRYANT CITY COUNCIL
+        CITY OF BULL SHOALS CITY COUNCIL
+        CITY OF BULL SHOALS MAYOR SPECIAL
+        CITY OF CALION ALDERMAN
+        CITY OF CAMDEN ALDERMAN
+        CITY OF CARLISLE 3% GROSS RECEIPTS TAX
+        CITY OF CARLISLE CITY COUNCIL
+        CITY OF CEDARVILLE CITY COUNCIL
+        CITY OF CENTERTON CITY COUNCIL
+        CITY OF CHESTER CITY COUNCIL
+        CITY OF CLARENDON CITY COUNCIL
+        CITY OF CLARKEDALE CITY CLERK
+        CITY OF CLARKSVILLE CITY OF CLA
+        CITY OF CLINTON RECORDER/TREASURER
+        CITY OF COLT ORDINANCE NO 2024-06
+        CITY OF CONWAY CITY COUNCIL
+        CITY OF CONWAY MAYOR
+        CITY OF COTTON PLANT ALDERMAN
+        CITY OF DAMASCUS CITY COUNCIL
+        CITY OF DE QUEEN ALDERMAN
+        CITY OF DECATUR CITY COUNCIL
+        CITY OF DELIGHT ALDERMAN
+        CITY OF DENNING CITY COUNCIL
+        CITY OF DES ARC ALDERMAN
+        CITY OF DEVALLS ALDERMAN
+        CITY OF DEVALLS BLUFF CITY COUNCIL
+        CITY OF DEVALLS BLUFF LOCAL SALES AND USE TAX
+        CITY OF DEWITT ORDINANCE NO 883
+        CITY OF DIAMOND CITY COUNCIL RECORDER
+        CITY OF DIAMONDHEAD MAYOR
+        CITY OF DYER CITY COUNCIL
+        CITY OF EGYPT ALDERMAN
+        CITY OF EL DORADO ALDERMAN
+        CITY OF ELAINE 1.5% SALES AND USE TAX
+        CITY OF ELAINE ALDERMAN
+        CITY OF ELM SPRINGS CITY COUNCIL
+        CITY OF ENGLAND CHANGING THE TERMS OF CM
+        CITY OF EUDORA CITY CITY COUNCIL
+        CITY OF EVENING SHADE ALDERMAN
+        CITY OF FAIRFIELD BAY CITY COUNCIL
+        CITY OF FAIRFIELD BAY MAYORAL RECALL ELECTION
+        CITY OF FAIRFIELD BAY RECORDER/TREASURER
+        CITY OF FAIRFIELD CITY COUNCIL
+        CITY OF FARMINGTON CITY COUNCIL
+        CITY OF FAYETTEVILLE CITY COUNCIL
+        CITY OF FAYETTEVILLE CLERK/TREASURER
+        CITY OF FAYETTEVILLE MAYOR
+        CITY OF FAYETTEVILLE SPECIAL
+        CITY OF FELSENTHAL ALDERMAN
+        CITY OF FLIPPIN CITY COUNCIL
+        CITY OF FORDYCE ORDINANCE NO 2024-04
+        CITY OF FOREMAN ALDERMAN
+        CITY OF FORREST CITY ALDERMAN
+        CITY OF FORT SMITH DIRECTOR
+        CITY OF FULTON MAYOR
+        CITY OF GARFIELD CITY COUNCIL
+        CITY OF GARLAND CITY COUNCIL
+        CITY OF GATEWAY CITY COUNCIL
+        CITY OF GLENWOOD ALDERMAN
+        CITY OF GLENWOOD CITY COUNCIL
+        CITY OF GOSHEN ANNEXATION
+        CITY OF GOULD CITY COUNCIL
+        CITY OF GRADY CITY COUNCIL
+        CITY OF GRAVETTE CITY COUNCIL
+        CITY OF GREEN FOREST CITY COUNCIL
+        CITY OF GREENBRIER CITY COUNCIL
+        CITY OF GREENWOOD ALDERMAN
+        CITY OF GREERS FERRY CITY COUNCIL
+        CITY OF HAMBURG ALDERMAN
+        CITY OF HARDY ALDERMAN
+        CITY OF HARRISON CITY COUNCIL
+        CITY OF HARRISON LOCAL MEASURE NO 1
+        CITY OF HASKELL ORDINANCE NO 19-2023
+        CITY OF HASKELL RECORDER/TREASURER
+        CITY OF HAVANA CITY COUNCIL
+        CITY OF HELENA-WEST HELENA ALD
+        CITY OF HICKORY RIDGE 1% SALES AND USE TAX
+        CITY OF HIGHFILL CITY COUNCIL
+        CITY OF HOLIDAY ISLAND CITY COUNCIL
+        CITY OF HOLLAND RECORDER/TREASURER
+        CITY OF HOPE 0.125% SALES AND USE TAX
+        CITY OF HORSESHOE BEND ALDERMAN
+        CITY OF HORSESHOE BEND RECORDER/TREASURER
+        CITY OF HOXIE ALDERMAN
+        CITY OF HUGHES ALDERMAN
+        CITY OF HUMNOKE 0.5% SALES & USE TAX
+        CITY OF HUMNOKE CITY CLERK
+        CITY OF HUMPHERY CITY COUNCIL
+        CITY OF HUMPHREY CITY COUNCIL
+        CITY OF HUTTIG RECORDER/TREASURER
+        CITY OF JACKSONVILLE CITY COUNCIL
+        CITY OF JOHNSON CITY COUNCIL
+        CITY OF JONESBORO ALDERMAN
+        CITY OF JONESBORO MAYOR
+        CITY OF JUDSONIA CITY COUNCIL
+        CITY OF KENSETT CITY COUNCIL
+        CITY OF KNOXVILLE CITY COUNCIL
+        CITY OF LAKE CITY ALDERMAN
+        CITY OF LAKE VILLAGE CITY COUNCIL
+        CITY OF LAVACA ALDERMAN
+        CITY OF LEACHVILLE CITY COUNCIL
+        CITY OF LEAD HILL CITY COUNCIL
+        CITY OF LEPANTO CITY COUNCIL
+        CITY OF LESLIE CITY COUNCIL CIT
+        CITY OF LESLIE CITY COUNCILCIT
+        CITY OF LESLIE RECORDER/TREASURER
+        CITY OF LETONA CITY COUNCIL
+        CITY OF LITTLE FLOCK CITY COUNCIL
+        CITY OF LOUANN CLERK/TREASURER
+        CITY OF LOWELL CITY COUNCIL
+        CITY OF LUXORA CITY COUNCIL
+        CITY OF LYNN ALDERMAN
+        CITY OF MADISON ALDERMAN
+        CITY OF MADISON RECORDER/TREASURER
+        CITY OF MAGNOLIA CITY COUNCIL
+        CITY OF MAGNOLIA REFUNDING BONDS
+        CITY OF MAGNOLIA SEWER IMPROVEMENT BONDS BOND ELECTION
+        CITY OF MAGNOLIA STREET IMPROVEMENT BONDS
+        CITY OF MAGNOLIA WATER IMPROVEMENT BONDS BOND ELECTION
+        CITY OF MAMMOTH SPRING ALDERMAN
+        CITY OF MAMMOTH SPRING RECORDER/TREASURER
+        CITY OF MARIANNA CITY COUNCIL
+        CITY OF MARION CITY COUNCIL
+        CITY OF MARION HOTEL TAX
+        CITY OF MARKED TREE CITY COUNCIL
+        CITY OF MARSHALL CITY COUNCIL C
+        CITY OF MARVELL 1% LOCAL SALES AND USE TAX
+        CITY OF MAUMELLE CITY COUNCIL
+        CITY OF MCCRORY ALDERMAN
+        CITY OF MCGEHEE ALDERMAN
+        CITY OF MCRAE CITY COUNCIL
+        CITY OF MELBOURNE ALDERMAN
+        CITY OF MENA CITY COUNCIL
+        CITY OF MONTICELLO CITY COUNCIL
+        CITY OF MORRILTON CITY COUNCIL
+        CITY OF MOUNTAIN HOME CITY COUNCIL
+        CITY OF MOUNTAIN VIEW CITY COUNCIL
+        CITY OF MT PINE ALDERMAN
+        CITY OF MULBERRY CITY COUNCIL
+        CITY OF MURFREESBORO ALDERMAN
+        CITY OF NIMMONS MAYOR
+        CITY OF NORFORK CITY COUNCIL
+        CITY OF NORFORK RECORDER/TREASURER
+        CITY OF NORTH LITTLE ROCK CITY COUNCIL
+        CITY OF NORTH LITTLE ROCK MAYOR
+        CITY OF O'KEAN CITY COUNCIL
+        CITY OF OAKHAVEN MAYOR
+        CITY OF OPPELO ALDERMAN
+        CITY OF OSCEOLA CITY COUNCIL
+        CITY OF OZAN MAYOR
+        CITY OF PALESTINE ALDERMAN
+        CITY OF PANGBURN CITY COUNCIL
+        CITY OF PANGBURN RECORDER/TREASURER
+        CITY OF PARKIN ALDERMAN
+        CITY OF PARKIN MAYORAL RECALL
+        CITY OF PEA RIDGE CITY COUNCIL
+        CITY OF PERRY CITY TAX
+        CITY OF PINE BLUFF CITY COUNCIL
+        CITY OF PINE BLUFF MAYOR
+        CITY OF PLAINVIEW CITY COUNCIL
+        CITY OF PLEASANT PLAINS CITY COUNCIL
+        CITY OF PLEASANT PLAINS RECORDER/TREASURER
+        CITY OF PLEASANT VIEW VOLUNTEER FIRE DEPARTMENT
+        CITY OF POCAHONTAS CITY COUNCIL
+        CITY OF PORTLAND ALDERMAN
+        CITY OF POTTSVILLE CITY COUNCIL
+        CITY OF POWHATAN ORDINANCE NO 2024-002
+        CITY OF PRAIRIE GROVE CITY COUNCIL
+        CITY OF REDFIELD CITY COUNCIL
+        CITY OF REDFIELD RECORDER/TREASURER
+        CITY OF ROGERS CITY COUNCIL
+        CITY OF ROGERS MAYOR
+        CITY OF RUSSELLVILLE CITY COUNCIL
+        CITY OF SCRANTON ALDERMAN
+        CITY OF SHERIDAN CITY COUNCIL
+        CITY OF SHERWOOD CITY COUNCIL
+        CITY OF SILOAM SPRINGS MAYOR
+        CITY OF SMACKOVER RECORDER/TREASURER
+        CITY OF SPRINGDALE MAYOR
+        CITY OF SPRINGTOWN CITY COUNCIL
+        CITY OF STAMPS CITY COUNCIL
+        CITY OF STAMPS RECORDER/TREASURER
+        CITY OF STEPHENS SALES AND USE TAX
+        CITY OF STUTTGART CITY COUNCIL
+        CITY OF SULPHUR SPRINGS CITY COUNCIL
+        CITY OF SUNSET CITY COUNCIL
+        CITY OF TEXARKANA CITY COUNCIL
+        CITY OF TONTITOWN CITY COUNCIL
+        CITY OF TRASKWOOD CITY COUNCIL
+        CITY OF TRUMANN CITY CLERK
+        CITY OF TRUMANN CITY COUNCIL
+        CITY OF TUCKERMAN MAYOR
+        CITY OF VILONIA CITY COUNCIL
+        CITY OF VIOLA ALDERMAN
+        CITY OF WABBASEKA CITY COUNCIL
+        CITY OF WALDO CITY COUNCIL
+        CITY OF WARD CITY COUNCIL
+        CITY OF WARREN SCHOOL TAX
+        CITY OF WEST MEMPHIS 0.25% SALES AND USE TAX
+        CITY OF WEST MEMPHIS CITY COUNCIL
+        CITY OF WEST MEMPHIS DRAINAGE IMPROVEMENT BONDS
+        CITY OF WEST MEMPHIS PARK AND RECREATIONAL IMPROVEMENT BONDS
+        CITY OF WEST MEMPHIS POLICE IMRPOVEMENT BONDS
+        CITY OF WILMAR 1 CENT SALES TAX
+        CITY OF WILMOT ALDERMAN
+        CITY OF WINSLOW CITY COUNCIL
+        CITY OF WRIGHTSVILLE CITY COUNCIL
+        CITY OF WYNNE ALDERMAN
+        CITY OF WYNNE MAYORAL RECALL
+        CITY OF YELLVILLE CITY COUNCIL
+        CITY OF YELLVILLE RECORDER
+        CONSTABLE
+        CONSTABLE BIG ROCK TOWNSHIP
+        CONSTABLE CAMPGROUND TOWNSHIP
+        CONSTABLE CHALF BLUFF-LIDDELL TOWNSHIP
+        CONSTABLE GRAY TOWNSHIP
+        CONSTABLE HILL TOWNSHIP
+        CONSTABLE JEFFERSON TOWNSHIP
+        CONSTABLE WASHINGTON TOWNSHIP
+        CONSTABLE WESTERN TOWNSHIP
+        DIRECTOR
+        EASTERN DISTRICT DEPUTY SHERIFF
+        FIRE IMPROVEMENT BONDS CITY OF WEST MEMPHIS MEASU
+        FIRE IMPROVEMENT BONDS HOPE
+        GREENWAY SALES TAX GREENWAY
+        GSD 4090 MILL SCHOOL TAX
+        HAND MARKED HAND COUNTED PAPER BALLOT ORDINANCE
+        HICKORY CREEK VFD
+        HOSPITAL FACILITIES IMPROVEMENT BONDS
+        HOT SPRINGS HOT SPRINGS DIRECTOR
+        JUSTICE OF THE PEACE
+        KIMZEY WATER DISTRICT BOARD MEMBER
+        LAWRENCE COUNTY LIBRARY MILLAGE REDUCTION
+        LITTLE ROCK CITY DIRECTOR
+        LOCAL ISSUE #1 HOLIDAY ISLAND A&P
+        LOCAL ISSUE #3 EUREKA SPRINGS
+        MENIFEE ANNEXATION
+        N P C BOARD OF TRUSTEES
+        NWACC BOARD OF TRUSTEES
+        OFF-PREMISE SALE OF ALCOHOLIC BEVERAGES ON SUNDAY
+        ORDINANCE NO 2024-1 ROCKPORT
+        ORDINANCE NO 2024-23
+        OUACHITA COUNTY CIRCUIT CLERK
+        PARK AND RECREATIONAL IMPROVEMENT BONDS HOPE
+        PBSD SCHOOL BOARD
+        PCSSD 407 MILL SCHOOL TAX
+        PLEASURE HEIGHTS VFD
+        POLICE IMPROVEMENT BONDS TONTITOWN
+        PRAIRIE TOWNSHIP WET-DRY LOCAL OPTION
+        QSD 3600 MILLS SCHOOL TAX
+        QUESTION 1 CITY OF LITTLE ROCK
+        QUESTION 2 CITY OF LITTLE ROCK
+        REFERRED QUESTION TO ANNEX 479 ACRES TO THE CITY
+        REFUNDING BOND TONTITOWN
+        REPEAL ORDINANCE 2023-03 THAT PERMITS SHORT-TERM
+        SEWER IMPROVEMENT BONDS GREENLAND
+        SPECIAL ELECTION CITY OF DERMOTT 2% SALES AND USE TAX
+        SPECIAL ELECTION CITY OF PYATT SALES AND USE TAX
+        SPECIAL ELECTION FOR CITY OF CAMMACK VILLAGE
+        SPECIAL ELECTION FOR CITY OF TRUMANN
+        SPECIAL ELECTION FOR DEFUNCT GRAY TOWNSHIP
+        SPECIAL ELECTION FOR THE CITY OF PORTLAND
+        SPECIAL ELECTION JAIL TAX
+        ST JOE 1% SALES TAX
+        STREET IMPROVEMENT BONDS TONTITOWN
+        SUNDAY ALCOHOL SALES SILOAM SPRINGS
+        TAX LEVY ORDINANCES 2024-5-9A-MCNEIL ARKANSAS MC
+        TONTITOWN AREA FIRE DISTRICT
+        TOWN OF TILLAR 2% SALES AND USE TAX
+        TOWN OF TONTITOWN PARK/REC IMPROVEMENT BONDS
+        TOWN OF TONTITOWN WATER IMPROVEMENT BONDS
+        WRIGHTSVILLE TREASURER
+    PRESIDENT
+        US PRESIDENT
+    STATE
+        CIRCUIT JUDGEDIVISION 17 SUB2
+        COURT OF APPEALS ASSOCIATE JUDGE
+        DISTRICT JUDGE
+        STATE HOUSE
+        STATE ISSUE 1
+        STATE ISSUE 2
+        STATE SENATE
+        STATE SUPREME COURT CHIEF JUSTICE
+        STATE TREASURER
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    0.75% SALES AND USE TAX
+        2 counties for this office
+    1% SALES AND USE TAX
+        1 counties for this office
+    1% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+        1 counties for this office
+    1.5% SALES AND USE TAX GREENLAND
+        1 counties for this office
+    38.50 BALD KNOB SCHOOL MILL TAX
+        1 counties for this office
+    5% TOWNWIDE SALES AND USE TAX TOWN OF CHESTER
+        1 counties for this office
+    ALDERMAN OF OXFORD CITY OF OXFO
+        1 counties for this office
+    ANNEXATION SILOAM SPRINGS
+        1 counties for this office
+    BOARD OF DIRECTORS SILOAM SPRINGS
+        1 counties for this office
+    BONDS
+        1 counties for this office
+    BSD 349 TOTAL MILL SCHOOL TAX
+        1 counties for this office
+    CAMMACK VILLAGE TREASURER
+        1 counties for this office
+    CAVE CITY BOARD OF DIRECTORS
+        1 counties for this office
+    CCJPL 1% MILL TAX
+        1 counties for this office
+    CCRWDD BOARD OF DIRECTORS
+        1 counties for this office
+    CIRCUIT CLERK
+        1 counties for this office
+    CIRCUIT JUDGEDIVISION 17 SUB2
+        2 counties for this office
+    CITY OF ALEXANDER CITY COUNCIL
+        2 counties for this office
+    CITY OF ALPENA CITY COUNCIL
+        2 counties for this office
+    CITY OF ALPENA LOCAL ISSUE NO 1
+        1 counties for this office
+    CITY OF ALPENA LOCAL ISSUE NO 2
+        1 counties for this office
+    CITY OF ANTHONYVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF ARKANSAS CITY ALDERMAN NORTHITIO
+        1 counties for this office
+    CITY OF ASH FLAT ALDERMAN
+        2 counties for this office
+    CITY OF AUGUSTA ALDERMAN
+        1 counties for this office
+    CITY OF AUSTIN CITY CLERK
+        1 counties for this office
+    CITY OF BALD KNOB CITY COUNCIL
+        1 counties for this office
+    CITY OF BARLING ORDINANCE 509
+        1 counties for this office
+    CITY OF BARLING ORDINANCE 511
+        1 counties for this office
+    CITY OF BAUXITE CITY COUNCIL
+        1 counties for this office
+    CITY OF BEAVER CITY MAYOR
+        1 counties for this office
+    CITY OF BELLA VISTA CITY COUNCIL
+        1 counties for this office
+    CITY OF BENTON CITY COUNCIL
+        1 counties for this office
+    CITY OF BENTONVILLE CITY ATTORNEY
+        1 counties for this office
+    CITY OF BENTONVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF BENTONVILLE MAYOR
+        1 counties for this office
+    CITY OF BLACK ROCK ALDERMAN
+        1 counties for this office
+    CITY OF BLUE EYE MAYOR
+        1 counties for this office
+    CITY OF BONANZA ALDERMAN
+        1 counties for this office
+    CITY OF BONO ALDERMAN
+        1 counties for this office
+    CITY OF BOONEVILLE ALDERMAN
+        1 counties for this office
+    CITY OF BRADFORD CITY COUNCIL
+        1 counties for this office
+    CITY OF BRINKLEY CITY COUNCIL
+        1 counties for this office
+    CITY OF BRYANT CITY COUNCIL
+        1 counties for this office
+    CITY OF BULL SHOALS CITY COUNCIL
+        1 counties for this office
+    CITY OF BULL SHOALS MAYOR SPECIAL
+        1 counties for this office
+    CITY OF CALION ALDERMAN
+        1 counties for this office
+    CITY OF CAMDEN ALDERMAN
+        1 counties for this office
+    CITY OF CARLISLE 3% GROSS RECEIPTS TAX
+        1 counties for this office
+    CITY OF CARLISLE CITY COUNCIL
+        1 counties for this office
+    CITY OF CEDARVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF CENTERTON CITY COUNCIL
+        1 counties for this office
+    CITY OF CHESTER CITY COUNCIL
+        1 counties for this office
+    CITY OF CLARENDON CITY COUNCIL
+        1 counties for this office
+    CITY OF CLARKEDALE CITY CLERK
+        1 counties for this office
+    CITY OF CLARKSVILLE CITY OF CLA
+        1 counties for this office
+    CITY OF CLINTON RECORDER/TREASURER
+        1 counties for this office
+    CITY OF COLT ORDINANCE NO 2024-06
+        1 counties for this office
+    CITY OF CONWAY CITY COUNCIL
+        1 counties for this office
+    CITY OF CONWAY MAYOR
+        1 counties for this office
+    CITY OF COTTON PLANT ALDERMAN
+        1 counties for this office
+    CITY OF DAMASCUS CITY COUNCIL
+        2 counties for this office
+    CITY OF DE QUEEN ALDERMAN
+        1 counties for this office
+    CITY OF DECATUR CITY COUNCIL
+        1 counties for this office
+    CITY OF DELIGHT ALDERMAN
+        1 counties for this office
+    CITY OF DENNING CITY COUNCIL
+        1 counties for this office
+    CITY OF DES ARC ALDERMAN
+        1 counties for this office
+    CITY OF DEVALLS ALDERMAN
+        1 counties for this office
+    CITY OF DEVALLS BLUFF CITY COUNCIL
+        1 counties for this office
+    CITY OF DEVALLS BLUFF LOCAL SALES AND USE TAX
+        1 counties for this office
+    CITY OF DEWITT ORDINANCE NO 883
+        1 counties for this office
+    CITY OF DIAMOND CITY COUNCIL RECORDER
+        1 counties for this office
+    CITY OF DIAMONDHEAD MAYOR
+        1 counties for this office
+    CITY OF DYER CITY COUNCIL
+        1 counties for this office
+    CITY OF EGYPT ALDERMAN
+        1 counties for this office
+    CITY OF EL DORADO ALDERMAN
+        1 counties for this office
+    CITY OF ELAINE 1.5% SALES AND USE TAX
+        1 counties for this office
+    CITY OF ELAINE ALDERMAN
+        1 counties for this office
+    CITY OF ELM SPRINGS CITY COUNCIL
+        2 counties for this office
+    CITY OF ENGLAND CHANGING THE TERMS OF CM
+        1 counties for this office
+    CITY OF EUDORA CITY CITY COUNCIL
+        1 counties for this office
+    CITY OF EVENING SHADE ALDERMAN
+        1 counties for this office
+    CITY OF FAIRFIELD BAY CITY COUNCIL
+        1 counties for this office
+    CITY OF FAIRFIELD BAY MAYORAL RECALL ELECTION
+        2 counties for this office
+    CITY OF FAIRFIELD BAY RECORDER/TREASURER
+        2 counties for this office
+    CITY OF FAIRFIELD CITY COUNCIL
+        1 counties for this office
+    CITY OF FARMINGTON CITY COUNCIL
+        1 counties for this office
+    CITY OF FAYETTEVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF FAYETTEVILLE CLERK/TREASURER
+        1 counties for this office
+    CITY OF FAYETTEVILLE MAYOR
+        1 counties for this office
+    CITY OF FAYETTEVILLE SPECIAL
+        1 counties for this office
+    CITY OF FELSENTHAL ALDERMAN
+        1 counties for this office
+    CITY OF FLIPPIN CITY COUNCIL
+        1 counties for this office
+    CITY OF FORDYCE ORDINANCE NO 2024-04
+        1 counties for this office
+    CITY OF FOREMAN ALDERMAN
+        1 counties for this office
+    CITY OF FORREST CITY ALDERMAN
+        1 counties for this office
+    CITY OF FORT SMITH DIRECTOR
+        1 counties for this office
+    CITY OF FULTON MAYOR
+        1 counties for this office
+    CITY OF GARFIELD CITY COUNCIL
+        1 counties for this office
+    CITY OF GARLAND CITY COUNCIL
+        1 counties for this office
+    CITY OF GATEWAY CITY COUNCIL
+        1 counties for this office
+    CITY OF GLENWOOD ALDERMAN
+        1 counties for this office
+    CITY OF GLENWOOD CITY COUNCIL
+        1 counties for this office
+    CITY OF GOSHEN ANNEXATION
+        1 counties for this office
+    CITY OF GOULD CITY COUNCIL
+        1 counties for this office
+    CITY OF GRADY CITY COUNCIL
+        1 counties for this office
+    CITY OF GRAVETTE CITY COUNCIL
+        1 counties for this office
+    CITY OF GREEN FOREST CITY COUNCIL
+        1 counties for this office
+    CITY OF GREENBRIER CITY COUNCIL
+        1 counties for this office
+    CITY OF GREENWOOD ALDERMAN
+        1 counties for this office
+    CITY OF GREERS FERRY CITY COUNCIL
+        1 counties for this office
+    CITY OF HAMBURG ALDERMAN
+        1 counties for this office
+    CITY OF HARDY ALDERMAN
+        2 counties for this office
+    CITY OF HARRISON CITY COUNCIL
+        1 counties for this office
+    CITY OF HARRISON LOCAL MEASURE NO 1
+        1 counties for this office
+    CITY OF HASKELL ORDINANCE NO 19-2023
+        1 counties for this office
+    CITY OF HASKELL RECORDER/TREASURER
+        1 counties for this office
+    CITY OF HAVANA CITY COUNCIL
+        1 counties for this office
+    CITY OF HELENA-WEST HELENA ALD
+        1 counties for this office
+    CITY OF HICKORY RIDGE 1% SALES AND USE TAX
+        1 counties for this office
+    CITY OF HIGHFILL CITY COUNCIL
+        1 counties for this office
+    CITY OF HOLIDAY ISLAND CITY COUNCIL
+        1 counties for this office
+    CITY OF HOLLAND RECORDER/TREASURER
+        1 counties for this office
+    CITY OF HOPE 0.125% SALES AND USE TAX
+        1 counties for this office
+    CITY OF HORSESHOE BEND ALDERMAN
+        2 counties for this office
+    CITY OF HORSESHOE BEND RECORDER/TREASURER
+        2 counties for this office
+    CITY OF HOXIE ALDERMAN
+        1 counties for this office
+    CITY OF HUGHES ALDERMAN
+        1 counties for this office
+    CITY OF HUMNOKE 0.5% SALES & USE TAX
+        1 counties for this office
+    CITY OF HUMNOKE CITY CLERK
+        1 counties for this office
+    CITY OF HUMPHERY CITY COUNCIL
+        1 counties for this office
+    CITY OF HUMPHREY CITY COUNCIL
+        1 counties for this office
+    CITY OF HUTTIG RECORDER/TREASURER
+        1 counties for this office
+    CITY OF JACKSONVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF JOHNSON CITY COUNCIL
+        1 counties for this office
+    CITY OF JONESBORO ALDERMAN
+        1 counties for this office
+    CITY OF JONESBORO MAYOR
+        1 counties for this office
+    CITY OF JUDSONIA CITY COUNCIL
+        1 counties for this office
+    CITY OF KENSETT CITY COUNCIL
+        1 counties for this office
+    CITY OF KNOXVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF LAKE CITY ALDERMAN
+        1 counties for this office
+    CITY OF LAKE VILLAGE CITY COUNCIL
+        1 counties for this office
+    CITY OF LAVACA ALDERMAN
+        1 counties for this office
+    CITY OF LEACHVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF LEAD HILL CITY COUNCIL
+        1 counties for this office
+    CITY OF LEPANTO CITY COUNCIL
+        1 counties for this office
+    CITY OF LESLIE CITY COUNCIL CIT
+        1 counties for this office
+    CITY OF LESLIE CITY COUNCILCIT
+        1 counties for this office
+    CITY OF LESLIE RECORDER/TREASURER
+        1 counties for this office
+    CITY OF LETONA CITY COUNCIL
+        1 counties for this office
+    CITY OF LITTLE FLOCK CITY COUNCIL
+        1 counties for this office
+    CITY OF LOUANN CLERK/TREASURER
+        1 counties for this office
+    CITY OF LOWELL CITY COUNCIL
+        1 counties for this office
+    CITY OF LUXORA CITY COUNCIL
+        1 counties for this office
+    CITY OF LYNN ALDERMAN
+        1 counties for this office
+    CITY OF MADISON ALDERMAN
+        1 counties for this office
+    CITY OF MADISON RECORDER/TREASURER
+        1 counties for this office
+    CITY OF MAGNOLIA CITY COUNCIL
+        1 counties for this office
+    CITY OF MAGNOLIA REFUNDING BONDS
+        1 counties for this office
+    CITY OF MAGNOLIA SEWER IMPROVEMENT BONDS BOND ELECTION
+        1 counties for this office
+    CITY OF MAGNOLIA STREET IMPROVEMENT BONDS
+        1 counties for this office
+    CITY OF MAGNOLIA WATER IMPROVEMENT BONDS BOND ELECTION
+        1 counties for this office
+    CITY OF MAMMOTH SPRING ALDERMAN
+        1 counties for this office
+    CITY OF MAMMOTH SPRING RECORDER/TREASURER
+        1 counties for this office
+    CITY OF MARIANNA CITY COUNCIL
+        1 counties for this office
+    CITY OF MARION CITY COUNCIL
+        1 counties for this office
+    CITY OF MARION HOTEL TAX
+        1 counties for this office
+    CITY OF MARKED TREE CITY COUNCIL
+        1 counties for this office
+    CITY OF MARSHALL CITY COUNCIL C
+        1 counties for this office
+    CITY OF MARVELL 1% LOCAL SALES AND USE TAX
+        1 counties for this office
+    CITY OF MAUMELLE CITY COUNCIL
+        1 counties for this office
+    CITY OF MCCRORY ALDERMAN
+        1 counties for this office
+    CITY OF MCGEHEE ALDERMAN
+        1 counties for this office
+    CITY OF MCRAE CITY COUNCIL
+        1 counties for this office
+    CITY OF MELBOURNE ALDERMAN
+        1 counties for this office
+    CITY OF MENA CITY COUNCIL
+        1 counties for this office
+    CITY OF MONTICELLO CITY COUNCIL
+        1 counties for this office
+    CITY OF MORRILTON CITY COUNCIL
+        1 counties for this office
+    CITY OF MOUNTAIN HOME CITY COUNCIL
+        1 counties for this office
+    CITY OF MOUNTAIN VIEW CITY COUNCIL
+        1 counties for this office
+    CITY OF MT PINE ALDERMAN
+        1 counties for this office
+    CITY OF MULBERRY CITY COUNCIL
+        1 counties for this office
+    CITY OF MURFREESBORO ALDERMAN
+        1 counties for this office
+    CITY OF NIMMONS MAYOR
+        1 counties for this office
+    CITY OF NORFORK CITY COUNCIL
+        1 counties for this office
+    CITY OF NORFORK RECORDER/TREASURER
+        1 counties for this office
+    CITY OF NORTH LITTLE ROCK CITY COUNCIL
+        1 counties for this office
+    CITY OF NORTH LITTLE ROCK MAYOR
+        1 counties for this office
+    CITY OF O'KEAN CITY COUNCIL
+        1 counties for this office
+    CITY OF OAKHAVEN MAYOR
+        1 counties for this office
+    CITY OF OPPELO ALDERMAN
+        1 counties for this office
+    CITY OF OSCEOLA CITY COUNCIL
+        1 counties for this office
+    CITY OF OZAN MAYOR
+        1 counties for this office
+    CITY OF PALESTINE ALDERMAN
+        1 counties for this office
+    CITY OF PANGBURN CITY COUNCIL
+        1 counties for this office
+    CITY OF PANGBURN RECORDER/TREASURER
+        1 counties for this office
+    CITY OF PARKIN ALDERMAN
+        1 counties for this office
+    CITY OF PARKIN MAYORAL RECALL
+        1 counties for this office
+    CITY OF PEA RIDGE CITY COUNCIL
+        1 counties for this office
+    CITY OF PERRY CITY TAX
+        1 counties for this office
+    CITY OF PINE BLUFF CITY COUNCIL
+        1 counties for this office
+    CITY OF PINE BLUFF MAYOR
+        1 counties for this office
+    CITY OF PLAINVIEW CITY COUNCIL
+        1 counties for this office
+    CITY OF PLEASANT PLAINS CITY COUNCIL
+        1 counties for this office
+    CITY OF PLEASANT PLAINS RECORDER/TREASURER
+        1 counties for this office
+    CITY OF PLEASANT VIEW VOLUNTEER FIRE DEPARTMENT
+        1 counties for this office
+    CITY OF POCAHONTAS CITY COUNCIL
+        1 counties for this office
+    CITY OF PORTLAND ALDERMAN
+        1 counties for this office
+    CITY OF POTTSVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF POWHATAN ORDINANCE NO 2024-002
+        1 counties for this office
+    CITY OF PRAIRIE GROVE CITY COUNCIL
+        1 counties for this office
+    CITY OF REDFIELD CITY COUNCIL
+        1 counties for this office
+    CITY OF REDFIELD RECORDER/TREASURER
+        1 counties for this office
+    CITY OF ROGERS CITY COUNCIL
+        1 counties for this office
+    CITY OF ROGERS MAYOR
+        2 counties for this office
+    CITY OF RUSSELLVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF SCRANTON ALDERMAN
+        1 counties for this office
+    CITY OF SHERIDAN CITY COUNCIL
+        1 counties for this office
+    CITY OF SHERWOOD CITY COUNCIL
+        1 counties for this office
+    CITY OF SILOAM SPRINGS MAYOR
+        1 counties for this office
+    CITY OF SMACKOVER RECORDER/TREASURER
+        1 counties for this office
+    CITY OF SPRINGDALE MAYOR
+        2 counties for this office
+    CITY OF SPRINGTOWN CITY COUNCIL
+        1 counties for this office
+    CITY OF STAMPS CITY COUNCIL
+        1 counties for this office
+    CITY OF STAMPS RECORDER/TREASURER
+        1 counties for this office
+    CITY OF STEPHENS SALES AND USE TAX
+        1 counties for this office
+    CITY OF STUTTGART CITY COUNCIL
+        1 counties for this office
+    CITY OF SULPHUR SPRINGS CITY COUNCIL
+        1 counties for this office
+    CITY OF SUNSET CITY COUNCIL
+        1 counties for this office
+    CITY OF TEXARKANA CITY COUNCIL
+        1 counties for this office
+    CITY OF TONTITOWN CITY COUNCIL
+        1 counties for this office
+    CITY OF TRASKWOOD CITY COUNCIL
+        1 counties for this office
+    CITY OF TRUMANN CITY CLERK
+        1 counties for this office
+    CITY OF TRUMANN CITY COUNCIL
+        1 counties for this office
+    CITY OF TUCKERMAN MAYOR
+        1 counties for this office
+    CITY OF VILONIA CITY COUNCIL
+        1 counties for this office
+    CITY OF VIOLA ALDERMAN
+        1 counties for this office
+    CITY OF WABBASEKA CITY COUNCIL
+        1 counties for this office
+    CITY OF WALDO CITY COUNCIL
+        1 counties for this office
+    CITY OF WARD CITY COUNCIL
+        1 counties for this office
+    CITY OF WARREN SCHOOL TAX
+        1 counties for this office
+    CITY OF WEST MEMPHIS 0.25% SALES AND USE TAX
+        1 counties for this office
+    CITY OF WEST MEMPHIS CITY COUNCIL
+        1 counties for this office
+    CITY OF WEST MEMPHIS DRAINAGE IMPROVEMENT BONDS
+        1 counties for this office
+    CITY OF WEST MEMPHIS PARK AND RECREATIONAL IMPROVEMENT BONDS
+        1 counties for this office
+    CITY OF WEST MEMPHIS POLICE IMRPOVEMENT BONDS
+        1 counties for this office
+    CITY OF WILMAR 1 CENT SALES TAX
+        1 counties for this office
+    CITY OF WILMOT ALDERMAN
+        1 counties for this office
+    CITY OF WINSLOW CITY COUNCIL
+        1 counties for this office
+    CITY OF WRIGHTSVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF WYNNE ALDERMAN
+        1 counties for this office
+    CITY OF WYNNE MAYORAL RECALL
+        1 counties for this office
+    CITY OF YELLVILLE CITY COUNCIL
+        1 counties for this office
+    CITY OF YELLVILLE RECORDER
+        1 counties for this office
+    CONSTABLE
+        2 counties for this office
+    CONSTABLE BIG ROCK TOWNSHIP
+        1 counties for this office
+    CONSTABLE CAMPGROUND TOWNSHIP
+        1 counties for this office
+    CONSTABLE CHALF BLUFF-LIDDELL TOWNSHIP
+        1 counties for this office
+    CONSTABLE GRAY TOWNSHIP
+        1 counties for this office
+    CONSTABLE HILL TOWNSHIP
+        1 counties for this office
+    CONSTABLE JEFFERSON TOWNSHIP
+        1 counties for this office
+    CONSTABLE WASHINGTON TOWNSHIP
+        1 counties for this office
+    CONSTABLE WESTERN TOWNSHIP
+        1 counties for this office
+    COURT OF APPEALS ASSOCIATE JUDGE
+        3 counties for this office
+    DIRECTOR
+        1 counties for this office
+    DISTRICT JUDGE
+        4 counties for this office
+    EASTERN DISTRICT DEPUTY SHERIFF
+        1 counties for this office
+    FIRE IMPROVEMENT BONDS CITY OF WEST MEMPHIS MEASU
+        1 counties for this office
+    FIRE IMPROVEMENT BONDS HOPE
+        1 counties for this office
+    GREENWAY SALES TAX GREENWAY
+        1 counties for this office
+    GSD 4090 MILL SCHOOL TAX
+        2 counties for this office
+    HAND MARKED HAND COUNTED PAPER BALLOT ORDINANCE
+        1 counties for this office
+    HICKORY CREEK VFD
+        1 counties for this office
+    HOSPITAL FACILITIES IMPROVEMENT BONDS
+        1 counties for this office
+    HOT SPRINGS HOT SPRINGS DIRECTOR
+        1 counties for this office
+    JUSTICE OF THE PEACE
+        45 counties for this office
+    KIMZEY WATER DISTRICT BOARD MEMBER
+        1 counties for this office
+    LAWRENCE COUNTY LIBRARY MILLAGE REDUCTION
+        1 counties for this office
+    LITTLE ROCK CITY DIRECTOR
+        1 counties for this office
+    LOCAL ISSUE #1 HOLIDAY ISLAND A&P
+        1 counties for this office
+    LOCAL ISSUE #3 EUREKA SPRINGS
+        1 counties for this office
+    MENIFEE ANNEXATION
+        1 counties for this office
+    N P C BOARD OF TRUSTEES
+        1 counties for this office
+    NWACC BOARD OF TRUSTEES
+        1 counties for this office
+    OFF-PREMISE SALE OF ALCOHOLIC BEVERAGES ON SUNDAY
+        1 counties for this office
+    ORDINANCE NO 2024-1 ROCKPORT
+        1 counties for this office
+    ORDINANCE NO 2024-23
+        1 counties for this office
+    OUACHITA COUNTY CIRCUIT CLERK
+        1 counties for this office
+    PARK AND RECREATIONAL IMPROVEMENT BONDS HOPE
+        1 counties for this office
+    PBSD SCHOOL BOARD
+        1 counties for this office
+    PCSSD 407 MILL SCHOOL TAX
+        1 counties for this office
+    PLEASURE HEIGHTS VFD
+        1 counties for this office
+    POLICE IMPROVEMENT BONDS TONTITOWN
+        1 counties for this office
+    PRAIRIE TOWNSHIP WET-DRY LOCAL OPTION
+        1 counties for this office
+    QSD 3600 MILLS SCHOOL TAX
+        1 counties for this office
+    QUESTION 1 CITY OF LITTLE ROCK
+        1 counties for this office
+    QUESTION 2 CITY OF LITTLE ROCK
+        1 counties for this office
+    REFERRED QUESTION TO ANNEX 479 ACRES TO THE CITY
+        1 counties for this office
+    REFUNDING BOND TONTITOWN
+        1 counties for this office
+    REPEAL ORDINANCE 2023-03 THAT PERMITS SHORT-TERM
+        1 counties for this office
+    SEWER IMPROVEMENT BONDS GREENLAND
+        1 counties for this office
+    SPECIAL ELECTION CITY OF DERMOTT 2% SALES AND USE TAX
+        1 counties for this office
+    SPECIAL ELECTION CITY OF PYATT SALES AND USE TAX
+        1 counties for this office
+    SPECIAL ELECTION FOR CITY OF CAMMACK VILLAGE
+        1 counties for this office
+    SPECIAL ELECTION FOR CITY OF TRUMANN
+        1 counties for this office
+    SPECIAL ELECTION FOR DEFUNCT GRAY TOWNSHIP
+        1 counties for this office
+    SPECIAL ELECTION FOR THE CITY OF PORTLAND
+        1 counties for this office
+    SPECIAL ELECTION JAIL TAX
+        2 counties for this office
+    ST JOE 1% SALES TAX
+        1 counties for this office
+    STATE HOUSE
+        75 counties for this office
+    STATE ISSUE 1
+        75 counties for this office
+    STATE ISSUE 2
+        75 counties for this office
+    STATE SENATE
+        53 counties for this office
+    STATE SUPREME COURT CHIEF JUSTICE
+        75 counties for this office
+    STATE TREASURER
+        75 counties for this office
+    STREET IMPROVEMENT BONDS TONTITOWN
+        1 counties for this office
+    SUNDAY ALCOHOL SALES SILOAM SPRINGS
+        1 counties for this office
+    TAX LEVY ORDINANCES 2024-5-9A-MCNEIL ARKANSAS MC
+        1 counties for this office
+    TONTITOWN AREA FIRE DISTRICT
+        1 counties for this office
+    TOWN OF TILLAR 2% SALES AND USE TAX
+        2 counties for this office
+    TOWN OF TONTITOWN PARK/REC IMPROVEMENT BONDS
+        1 counties for this office
+    TOWN OF TONTITOWN WATER IMPROVEMENT BONDS
+        1 counties for this office
+    US HOUSE
+        75 counties for this office
+    US PRESIDENT
+        75 counties for this office
+    WRIGHTSVILLE TREASURER
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    STATE
+------
+

@@ -1,0 +1,116 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in writein!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    ANNA MARIE TOTH: ['FALSE' 'TRUE']
+    BRIAN MCDONALD: ['FALSE' 'TRUE']
+    DAVID A WILSON: ['FALSE' 'TRUE']
+    DAVID BROWN: ['TRUE' 'FALSE']
+    DEBRA MARIE JACKSON: ['FALSE' 'TRUE']
+    GRIFFIN SULLIVAN: ['FALSE' 'TRUE']
+    IAN HOFFER: ['FALSE' 'TRUE']
+    JAMES HEMSLEY: ['TRUE' 'FALSE']
+    JASON KAUFFMAN: ['FALSE' 'TRUE']
+    JEANNIE REID: ['FALSE' 'TRUE']
+    JEFF VAN DREW: ['TRUE' 'FALSE']
+    JOSE RODRIGUEZ: ['FALSE' 'TRUE']
+    MANUEL TEJEDA JR: ['FALSE' 'TRUE']
+    NATHANIEL AHERN: ['TRUE' 'FALSE']
+    PAUL COVELLO: ['FALSE' 'TRUE']
+    PETE BUTTIGIEG: ['TRUE' 'FALSE']
+    RAMIE NASSER-AMED: ['TRUE' 'FALSE']
+    ROBERT FOY: ['FALSE' 'TRUE']
+    SOPHIA L DUFFY: ['FALSE' 'TRUE']
+    TAYLOR SWIFT: ['FALSE' 'TRUE']
+    THOMAS MASSIE: ['FALSE' 'TRUE']
+    UMAR TOHEED: ['FALSE' 'TRUE']
+    UNDECIDED: ['TRUE' 'FALSE']
+    VIVEK RAMASWAMY: ['TRUE' 'FALSE']
+    WILLIE NELSON: ['FALSE' 'TRUE']
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+    WRITE-IN: TRUE
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    CARA MIA
+    CORNEL WEST
+    DAVID GOGGINS
+    DAVID L BAILEY JR
+    GAIL VENUTO
+    JAMES HEMSLEY
+    JEFF VAN DREW
+    JESUS KING OF KINGS
+    KATHY PARSONS
+    KENDALL A QUALLS
+    MATTHEW GOODMAN
+    NIKKI HAILEY
+    PETE BUTTIGIEG
+    PETER SONSKI
+    SAQUAN BARKLEY
+    TYLER JOHNSON
+    UNDECIDED
+    WRITE-IN
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    FALSE
+    TRUE
+------
+

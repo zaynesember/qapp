@@ -1,0 +1,72 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+   No Problems Found :) 
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['ADVISORY QUESTION 3' 'ADVISORY QUESTION 1' 'ADVISORY QUESTION 2'
+ 'US PRESIDENT' 'US HOUSE' 'APPELLATE COURT JUDGE' 'CIRCUIT COURT JUDGE'
+ 'STATE HOUSE' 'STATE SENATE' 'COOK CIRCUIT COURT JUDGE'
+ 'BUREAU/HENRY/STARK - SUPERINTENDENT OF SCHOOLS']
+    5: ['PRAIRIE DUPONT LEVEE AND SANITARY DISTRICT']
+------
+
+---------
+------
+ALL VALUES:
+    1
+    5
+------
+

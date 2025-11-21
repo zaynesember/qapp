@@ -1,0 +1,3628 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    Polk Twp ||| [[TW]]
+    Union Twp ||| [[TW]]
+    Wayne Twp ||| [[TW]]
+    Milton Twp ||| [[TW]]
+    Monroe Twp ||| [[TW]]
+    Saluda Twp ||| [[TW]]
+    Shelby Twp ||| [[TW]]
+    Warren Twp ||| [[TW]]
+    Dallas Twp 1 ||| [[TW]]
+    Dallas Twp 2 ||| [[TW]]
+    Clay Township ||| [[TOWN]]
+    Jackson Twp 1 ||| [[TW]]
+    Jackson Twp 2 ||| [[TW]]
+    Jackson Twp 3 ||| [[TW]]
+    Jackson Twp 4 ||| [[TW]]
+    Jefferson Twp ||| [[TW]]
+    Lancaster Twp ||| [[TW]]
+    Adams Township ||| [[TOWN]]
+    Fugit Township ||| [[TOWN]]
+    Republican Twp ||| [[TW]]
+    Rock Creek Twp ||| [[TW]]
+    Marion Township ||| [[TOWN]]
+    Salamonie Twp 1 ||| [[TW]]
+    Salamonie Twp 2 ||| [[TW]]
+    Clinton Township ||| [[TOWN]]
+    Jackson Township ||| [[TOWN]]
+    Vincennes City 1 ||| [[CITY]]
+    Vincennes City 2 ||| [[CITY]]
+    Vincennes City 3 ||| [[CITY]]
+    Vincennes City 4 ||| [[CITY]]
+    Vincennes City 5 ||| [[CITY]]
+    Vincennes City 6 ||| [[CITY]]
+    Vincennes City 7 ||| [[CITY]]
+    Vincennes City 8 ||| [[CITY]]
+    Rushville City 01 ||| [[CITY]]
+    Rushville City 02 ||| [[CITY]]
+    Rushville City 03 ||| [[CITY]]
+    Saltcreek Township ||| [[TOWN]]
+    Union Columbia City ||| [[CITY]]
+    Washington Township ||| [[TOWN]]
+    Vincennes Township 1 ||| [[TOWN]]
+    Vincennes Township 2 ||| [[TOWN]]
+    Vincennes Township 3 ||| [[TOWN]]
+    Vincennes Township 4 ||| [[TOWN]]
+    Vincennes Township 5 ||| [[TOWN]]
+    Rushville Township 07 ||| [[TOWN]]
+    Rushville Township 08 ||| [[TOWN]]
+    Plain 05 City Of Warsaw ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    Scott ||| [[CO ]]
+    Raccoon ||| [[CO ]]
+    Columbia ||| [[CO ]]
+    Coal Creek ||| [[CO ]]
+    Columbia 1 ||| [[CO ]]
+    Concord 01 ||| [[CO ]]
+    Concord 02 ||| [[CO ]]
+    Concord 03 ||| [[CO ]]
+    Concord 04 ||| [[CO ]]
+    Concord 05 ||| [[CO ]]
+    Concord 06 ||| [[CO ]]
+    Concord 07 ||| [[CO ]]
+    Concord 08 ||| [[CO ]]
+    Concord 09 ||| [[CO ]]
+    Concord 10 ||| [[CO ]]
+    Concord 11 ||| [[CO ]]
+    Concord 12 ||| [[CO ]]
+    Concord 13 ||| [[CO ]]
+    Concord 14 ||| [[CO ]]
+    Concord 15 ||| [[CO ]]
+    Concord 16 ||| [[CO ]]
+    Concord 17 ||| [[CO ]]
+    Concord 18 ||| [[CO ]]
+    Concord 19 ||| [[CO ]]
+    Concord 20 ||| [[CO ]]
+    Concord 21 ||| [[CO ]]
+    Concord 22 ||| [[CO ]]
+    Concord 23 ||| [[CO ]]
+    Concord 24 ||| [[CO ]]
+    Concord 25 ||| [[CO ]]
+    Concord 26 ||| [[CO ]]
+    Concord 27 ||| [[CO ]]
+    Concord 28 ||| [[CO ]]
+    Concord 29 ||| [[CO ]]
+    Concord 30 ||| [[CO ]]
+    Concord 31 ||| [[CO ]]
+    Concord 32 ||| [[CO ]]
+    Concord 33 ||| [[CO ]]
+    Columbia 01 ||| [[CO ]]
+    Columbia 02 ||| [[CO ]]
+    Columbia 03 ||| [[CO ]]
+    Columbia 04 ||| [[CO ]]
+    Columbia 05 ||| [[CO ]]
+    Columbia 06 ||| [[CO ]]
+    Columbia 07 ||| [[CO ]]
+    Second East ||| [[CO ]]
+    Second West ||| [[CO ]]
+    Corydon East ||| [[CO ]]
+    Corydon West ||| [[CO ]]
+    Corydon South ||| [[CO ]]
+    Columbia South ||| [[CO ]]
+    Columbus - 0100 ||| [[CO ]]
+    Columbus - 0200 ||| [[CO ]]
+    Columbus - 0225 ||| [[CO ]]
+    Columbus - 0250 ||| [[CO ]]
+    Columbus - 0300 ||| [[CO ]]
+    Columbus - 0400 ||| [[CO ]]
+    Columbus - 0500 ||| [[CO ]]
+    Columbus - 0600 ||| [[CO ]]
+    Columbus - 0700 ||| [[CO ]]
+    Columbus - 0800 ||| [[CO ]]
+    Columbus - 0900 ||| [[CO ]]
+    Columbus - 1000 ||| [[CO ]]
+    Columbus - 1100 ||| [[CO ]]
+    Columbus - 1200 ||| [[CO ]]
+    Columbus - 1300 ||| [[CO ]]
+    Columbus - 1400 ||| [[CO ]]
+    Columbus - 1500 ||| [[CO ]]
+    Columbus - 1600 ||| [[CO ]]
+    Columbus - 1700 ||| [[CO ]]
+    Columbus - 1800 ||| [[CO ]]
+    Columbus - 1900 ||| [[CO ]]
+    Columbus - 2000 ||| [[CO ]]
+    Columbus - 2100 ||| [[CO ]]
+    Columbus - 2200 ||| [[CO ]]
+    Columbus - 2300 ||| [[CO ]]
+    Columbus - 2400 ||| [[CO ]]
+    Columbus - 2500 ||| [[CO ]]
+    Columbus - 2600 ||| [[CO ]]
+    Columbus - 2700 ||| [[CO ]]
+    Columbus - 2800 ||| [[CO ]]
+    Columbus - 2850 ||| [[CO ]]
+    Columbus - 2900 ||| [[CO ]]
+    Columbus - 3100 ||| [[CO ]]
+    Columbus - 3200 ||| [[CO ]]
+    Columbus - 3300 ||| [[CO ]]
+    Columbus - 3350 ||| [[CO ]]
+    Columbus - 3400 ||| [[CO ]]
+    Connersville 01 ||| [[CO ]]
+    Connersville 02 ||| [[CO ]]
+    Connersville 03 ||| [[CO ]]
+    Connersville 04 ||| [[CO ]]
+    Connersville 05 ||| [[CO ]]
+    Connersville 06 ||| [[CO ]]
+    Connersville 07 ||| [[CO ]]
+    Connersville 08 ||| [[CO ]]
+    Connersville 09 ||| [[CO ]]
+    Connersville 10 ||| [[CO ]]
+    Connersville 11 ||| [[CO ]]
+    Connersville 12 ||| [[CO ]]
+    Connersville 13 ||| [[CO ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    Smyrna ||| [[YR]]
+    Palmyra ||| [[YR]]
+    Morgan Palmyra ||| [[YR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    Howard ||| [[WARD]]
+    Ward 3 ||| [[WARD]]
+    Howard A ||| [[WARD]]
+    Howard B ||| [[WARD]]
+    Seward 01 ||| [[WARD]]
+    Seward 02 ||| [[WARD]]
+    1 Howard 1 ||| [[WARD]]
+    3 Howard 1 ||| [[WARD]]
+    Ward 01 Precinct 01 ||| [[WARD]]
+    Ward 01 Precinct 02 ||| [[WARD]]
+    Ward 01 Precinct 03 ||| [[WARD]]
+    Ward 01 Precinct 05 ||| [[WARD]]
+    Ward 01 Precinct 06 ||| [[WARD]]
+    Ward 01 Precinct 07 ||| [[WARD]]
+    Ward 01 Precinct 08 ||| [[WARD]]
+    Ward 01 Precinct 09 ||| [[WARD]]
+    Ward 01 Precinct 10 ||| [[WARD]]
+    Ward 01 Precinct 13 ||| [[WARD]]
+    Ward 01 Precinct 14 ||| [[WARD]]
+    Ward 01 Precinct 15 ||| [[WARD]]
+    Ward 01 Precinct 16 ||| [[WARD]]
+    Ward 01 Precinct 17 ||| [[WARD]]
+    Ward 02 Precinct 01 ||| [[WARD]]
+    Ward 02 Precinct 02 ||| [[WARD]]
+    Ward 02 Precinct 03 ||| [[WARD]]
+    Ward 02 Precinct 04 ||| [[WARD]]
+    Ward 02 Precinct 05 ||| [[WARD]]
+    Ward 02 Precinct 06 ||| [[WARD]]
+    Ward 02 Precinct 09 ||| [[WARD]]
+    Ward 02 Precinct 10 ||| [[WARD]]
+    Ward 02 Precinct 11 ||| [[WARD]]
+    Ward 02 Precinct 12 ||| [[WARD]]
+    Ward 02 Precinct 14 ||| [[WARD]]
+    Ward 02 Precinct 15 ||| [[WARD]]
+    Ward 02 Precinct 16 ||| [[WARD]]
+    Ward 02 Precinct 18 ||| [[WARD]]
+    Ward 03 Precinct 01 ||| [[WARD]]
+    Ward 03 Precinct 02 ||| [[WARD]]
+    Ward 03 Precinct 05 ||| [[WARD]]
+    Ward 03 Precinct 06 ||| [[WARD]]
+    Ward 03 Precinct 09 ||| [[WARD]]
+    Ward 03 Precinct 11 ||| [[WARD]]
+    Ward 03 Precinct 12 ||| [[WARD]]
+    Ward 03 Precinct 14 ||| [[WARD]]
+    Ward 03 Precinct 15 ||| [[WARD]]
+    Ward 03 Precinct 16 ||| [[WARD]]
+    Ward 03 Precinct 17 ||| [[WARD]]
+    Ward 03 Precinct 18 ||| [[WARD]]
+    Ward 03 Precinct 19 ||| [[WARD]]
+    Ward 03 Precinct 20 ||| [[WARD]]
+    Ward 03 Precinct 21 ||| [[WARD]]
+    Ward 03 Precinct 22 ||| [[WARD]]
+    Ward 03 Precinct 23 ||| [[WARD]]
+    Ward 04 Precinct 01 ||| [[WARD]]
+    Ward 04 Precinct 02 ||| [[WARD]]
+    Ward 04 Precinct 03 ||| [[WARD]]
+    Ward 04 Precinct 04 ||| [[WARD]]
+    Ward 04 Precinct 05 ||| [[WARD]]
+    Ward 04 Precinct 06 ||| [[WARD]]
+    Ward 04 Precinct 09 ||| [[WARD]]
+    Ward 04 Precinct 11 ||| [[WARD]]
+    Ward 04 Precinct 17 ||| [[WARD]]
+    Ward 04 Precinct 18 ||| [[WARD]]
+    Ward 04 Precinct 19 ||| [[WARD]]
+    Ward 04 Precinct 20 ||| [[WARD]]
+    Ward 04 Precinct 21 ||| [[WARD]]
+    Ward 04 Precinct 22 ||| [[WARD]]
+    Ward 04 Precinct 23 ||| [[WARD]]
+    Ward 04 Precinct 24 ||| [[WARD]]
+    Ward 05 Precinct 01 ||| [[WARD]]
+    Ward 05 Precinct 02 ||| [[WARD]]
+    Ward 05 Precinct 03 ||| [[WARD]]
+    Ward 05 Precinct 05 ||| [[WARD]]
+    Ward 05 Precinct 07 ||| [[WARD]]
+    Ward 05 Precinct 08 ||| [[WARD]]
+    Ward 05 Precinct 09 ||| [[WARD]]
+    Ward 05 Precinct 10 ||| [[WARD]]
+    Ward 05 Precinct 11 ||| [[WARD]]
+    Ward 05 Precinct 12 ||| [[WARD]]
+    Ward 05 Precinct 13 ||| [[WARD]]
+    Ward 05 Precinct 14 ||| [[WARD]]
+    Ward 05 Precinct 15 ||| [[WARD]]
+    Ward 05 Precinct 16 ||| [[WARD]]
+    Ward 06 Precinct 01 ||| [[WARD]]
+    Ward 06 Precinct 02 ||| [[WARD]]
+    Ward 06 Precinct 03 ||| [[WARD]]
+    Ward 06 Precinct 04 ||| [[WARD]]
+    Ward 06 Precinct 05 ||| [[WARD]]
+    Ward 06 Precinct 07 ||| [[WARD]]
+    Ward 06 Precinct 08 ||| [[WARD]]
+    Ward 06 Precinct 09 ||| [[WARD]]
+    Ward 06 Precinct 11 ||| [[WARD]]
+    Ward 06 Precinct 12 ||| [[WARD]]
+    Ward 06 Precinct 13 ||| [[WARD]]
+    Ward 06 Precinct 14 ||| [[WARD]]
+    Ward 06 Precinct 15 ||| [[WARD]]
+    Ward 06 Precinct 16 ||| [[WARD]]
+    Ward 06 Precinct 17 ||| [[WARD]]
+    Ward 06 Precinct 0 (Nv) ||| [[WARD]]
+    Ward 01 Precinct 03 (Nv) ||| [[WARD]]
+    Ward 02 Precinct 03 (Nv) ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    Posey ||| [[POS ]]
+    Posey 1 ||| [[POS ]]
+    Posey 11 ||| [[POS ]]
+    Posey West ||| [[POS ]]
+    Posey Elizabeth ||| [[POS ]]
+    Posey Northeast ||| [[POS ]]
+    Posey Southeast ||| [[POS ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    Howard ||| [[WARD]]
+    Ward 3 ||| [[WARD]]
+    Howard A ||| [[WARD]]
+    Howard B ||| [[WARD]]
+    Seward 01 ||| [[WARD]]
+    Seward 02 ||| [[WARD]]
+    1 Howard 1 ||| [[WARD]]
+    3 Howard 1 ||| [[WARD]]
+    Precinct 01 ||| [[PRECINCT]]
+    Precinct 02 ||| [[PRECINCT]]
+    Precinct 03 ||| [[PRECINCT]]
+    Precinct 04 ||| [[PRECINCT]]
+    Precinct 05 ||| [[PRECINCT]]
+    Precinct 06 ||| [[PRECINCT]]
+    Precinct 07 ||| [[PRECINCT]]
+    Precinct 08 ||| [[PRECINCT]]
+    Precinct 09 ||| [[PRECINCT]]
+    Precinct 10 ||| [[PRECINCT]]
+    Precinct 11 ||| [[PRECINCT]]
+    Precinct 12 ||| [[PRECINCT]]
+    Precinct 13 ||| [[PRECINCT]]
+    Precinct 14 ||| [[PRECINCT]]
+    Precinct 15 ||| [[PRECINCT]]
+    Precinct 16 ||| [[PRECINCT]]
+    Precinct 17 ||| [[PRECINCT]]
+    Precinct 18 ||| [[PRECINCT]]
+    Precinct 19 ||| [[PRECINCT]]
+    Precinct 20 ||| [[PRECINCT]]
+    Precinct 21 ||| [[PRECINCT]]
+    Precinct 22 ||| [[PRECINCT]]
+    Precinct 23 ||| [[PRECINCT]]
+    Precinct 24 ||| [[PRECINCT]]
+    Precinct 25 ||| [[PRECINCT]]
+    Precinct 26 ||| [[PRECINCT]]
+    Precinct 27 ||| [[PRECINCT]]
+    Precinct 28 ||| [[PRECINCT]]
+    Precinct 29 ||| [[PRECINCT]]
+    Precinct 30 ||| [[PRECINCT]]
+    Precinct 31 ||| [[PRECINCT]]
+    Precinct 32 ||| [[PRECINCT]]
+    Precinct 33 ||| [[PRECINCT]]
+    Precinct 34 ||| [[PRECINCT]]
+    Precinct 35 ||| [[PRECINCT]]
+    Precinct 36 ||| [[PRECINCT]]
+    Precinct 37 ||| [[PRECINCT]]
+    Precinct 38 ||| [[PRECINCT]]
+    Precinct 39 ||| [[PRECINCT]]
+    Precinct 40 ||| [[PRECINCT]]
+    Precinct 41 ||| [[PRECINCT]]
+    Precinct 42 ||| [[PRECINCT]]
+    Precinct 43 ||| [[PRECINCT]]
+    Precinct 44 ||| [[PRECINCT]]
+    Precinct 45 ||| [[PRECINCT]]
+    Precinct 46 ||| [[PRECINCT]]
+    Precinct 47 ||| [[PRECINCT]]
+    Precinct 48 ||| [[PRECINCT]]
+    Precinct 49 ||| [[PRECINCT]]
+    Precinct 50 ||| [[PRECINCT]]
+    Precinct 51 ||| [[PRECINCT]]
+    Precinct 52 ||| [[PRECINCT]]
+    Precinct 53 ||| [[PRECINCT]]
+    Precinct 54 ||| [[PRECINCT]]
+    Precinct 55 ||| [[PRECINCT]]
+    Precinct 56 ||| [[PRECINCT]]
+    Precinct 57 ||| [[PRECINCT]]
+    Precinct 58 ||| [[PRECINCT]]
+    Precinct 59 ||| [[PRECINCT]]
+    Precinct 60 ||| [[PRECINCT]]
+    Precinct 61 ||| [[PRECINCT]]
+    Precinct 62 ||| [[PRECINCT]]
+    Precinct 63 ||| [[PRECINCT]]
+    Precinct 64 ||| [[PRECINCT]]
+    Precinct 65 ||| [[PRECINCT]]
+    Precinct 66 ||| [[PRECINCT]]
+    Precinct 67 ||| [[PRECINCT]]
+    Precinct 68 ||| [[PRECINCT]]
+    Precinct 69 ||| [[PRECINCT]]
+    Precinct 70 ||| [[PRECINCT]]
+    Precinct 71 ||| [[PRECINCT]]
+    Precinct 73 ||| [[PRECINCT]]
+    Precinct 74 ||| [[PRECINCT]]
+    Precinct 75 ||| [[PRECINCT]]
+    Precinct 77 ||| [[PRECINCT]]
+    Precinct 78 ||| [[PRECINCT]]
+    Precinct 81 ||| [[PRECINCT]]
+    Precinct 87 ||| [[PRECINCT]]
+    Precinct 88 ||| [[PRECINCT]]
+    Precinct 90 ||| [[PRECINCT]]
+    Precinct 91 ||| [[PRECINCT]]
+    Precinct 92 ||| [[PRECINCT]]
+    Precinct 93 ||| [[PRECINCT]]
+    Precinct 94 ||| [[PRECINCT]]
+    Precinct 95 ||| [[PRECINCT]]
+    Precinct 98 ||| [[PRECINCT]]
+    Precinct 05 Nv ||| [[PRECINCT]]
+    Perry Precinct 01 ||| [[PRECINCT]]
+    Perry Precinct 02 ||| [[PRECINCT]]
+    Perry Precinct 03 ||| [[PRECINCT]]
+    Perry Precinct 04 ||| [[PRECINCT]]
+    Perry Precinct 05 ||| [[PRECINCT]]
+    Perry Precinct 06 ||| [[PRECINCT]]
+    Perry Precinct 07 ||| [[PRECINCT]]
+    Perry Precinct 08 ||| [[PRECINCT]]
+    Perry Precinct 09 ||| [[PRECINCT]]
+    Perry Precinct 10 ||| [[PRECINCT]]
+    Scott Precinct 01 ||| [[PRECINCT]]
+    Scott Precinct 02 ||| [[PRECINCT]]
+    Scott Precinct 03 ||| [[PRECINCT]]
+    Scott Precinct 04 ||| [[PRECINCT]]
+    Scott Precinct 05 ||| [[PRECINCT]]
+    Scott Precinct 06 ||| [[PRECINCT]]
+    Union Precinct 01 ||| [[PRECINCT]]
+    Center Precinct 01 ||| [[PRECINCT]]
+    Center Precinct 02 ||| [[PRECINCT]]
+    Center Precinct 03 ||| [[PRECINCT]]
+    Center Precinct 04 ||| [[PRECINCT]]
+    Center Precinct 05 ||| [[PRECINCT]]
+    Center Precinct 06 ||| [[PRECINCT]]
+    Center Precinct 07 ||| [[PRECINCT]]
+    Center Precinct 08 ||| [[PRECINCT]]
+    Center Precinct 09 ||| [[PRECINCT]]
+    Center Precinct 10 ||| [[PRECINCT]]
+    Center Precinct 11 ||| [[PRECINCT]]
+    Center Precinct 12 ||| [[PRECINCT]]
+    Center Precinct 13 ||| [[PRECINCT]]
+    Center Precinct 14 ||| [[PRECINCT]]
+    Center Precinct 15 ||| [[PRECINCT]]
+    Center Precinct 16 ||| [[PRECINCT]]
+    Center Precinct 17 ||| [[PRECINCT]]
+    German Precinct 01 ||| [[PRECINCT]]
+    German Precinct 02 ||| [[PRECINCT]]
+    German Precinct 03 ||| [[PRECINCT]]
+    German Precinct 04 ||| [[PRECINCT]]
+    German Precinct 05 ||| [[PRECINCT]]
+    German Precinct 06 ||| [[PRECINCT]]
+    German Precinct 07 ||| [[PRECINCT]]
+    Knight Precinct 01 ||| [[PRECINCT]]
+    Knight Precinct 02 ||| [[PRECINCT]]
+    Knight Precinct 03 ||| [[PRECINCT]]
+    Knight Precinct 04 ||| [[PRECINCT]]
+    Ward 01 Precinct 01 ||| [[WARD]]
+    Ward 01 Precinct 02 ||| [[WARD]]
+    Ward 01 Precinct 03 ||| [[WARD]]
+    Ward 01 Precinct 05 ||| [[WARD]]
+    Ward 01 Precinct 06 ||| [[WARD]]
+    Ward 01 Precinct 07 ||| [[WARD]]
+    Ward 01 Precinct 08 ||| [[WARD]]
+    Ward 01 Precinct 09 ||| [[WARD]]
+    Ward 01 Precinct 10 ||| [[WARD]]
+    Ward 01 Precinct 13 ||| [[WARD]]
+    Ward 01 Precinct 14 ||| [[WARD]]
+    Ward 01 Precinct 15 ||| [[WARD]]
+    Ward 01 Precinct 16 ||| [[WARD]]
+    Ward 01 Precinct 17 ||| [[WARD]]
+    Ward 02 Precinct 01 ||| [[WARD]]
+    Ward 02 Precinct 02 ||| [[WARD]]
+    Ward 02 Precinct 03 ||| [[WARD]]
+    Ward 02 Precinct 04 ||| [[WARD]]
+    Ward 02 Precinct 05 ||| [[WARD]]
+    Ward 02 Precinct 06 ||| [[WARD]]
+    Ward 02 Precinct 09 ||| [[WARD]]
+    Ward 02 Precinct 10 ||| [[WARD]]
+    Ward 02 Precinct 11 ||| [[WARD]]
+    Ward 02 Precinct 12 ||| [[WARD]]
+    Ward 02 Precinct 14 ||| [[WARD]]
+    Ward 02 Precinct 15 ||| [[WARD]]
+    Ward 02 Precinct 16 ||| [[WARD]]
+    Ward 02 Precinct 18 ||| [[WARD]]
+    Ward 03 Precinct 01 ||| [[WARD]]
+    Ward 03 Precinct 02 ||| [[WARD]]
+    Ward 03 Precinct 05 ||| [[WARD]]
+    Ward 03 Precinct 06 ||| [[WARD]]
+    Ward 03 Precinct 09 ||| [[WARD]]
+    Ward 03 Precinct 11 ||| [[WARD]]
+    Ward 03 Precinct 12 ||| [[WARD]]
+    Ward 03 Precinct 14 ||| [[WARD]]
+    Ward 03 Precinct 15 ||| [[WARD]]
+    Ward 03 Precinct 16 ||| [[WARD]]
+    Ward 03 Precinct 17 ||| [[WARD]]
+    Ward 03 Precinct 18 ||| [[WARD]]
+    Ward 03 Precinct 19 ||| [[WARD]]
+    Ward 03 Precinct 20 ||| [[WARD]]
+    Ward 03 Precinct 21 ||| [[WARD]]
+    Ward 03 Precinct 22 ||| [[WARD]]
+    Ward 03 Precinct 23 ||| [[WARD]]
+    Ward 04 Precinct 01 ||| [[WARD]]
+    Ward 04 Precinct 02 ||| [[WARD]]
+    Ward 04 Precinct 03 ||| [[WARD]]
+    Ward 04 Precinct 04 ||| [[WARD]]
+    Ward 04 Precinct 05 ||| [[WARD]]
+    Ward 04 Precinct 06 ||| [[WARD]]
+    Ward 04 Precinct 09 ||| [[WARD]]
+    Ward 04 Precinct 11 ||| [[WARD]]
+    Ward 04 Precinct 17 ||| [[WARD]]
+    Ward 04 Precinct 18 ||| [[WARD]]
+    Ward 04 Precinct 19 ||| [[WARD]]
+    Ward 04 Precinct 20 ||| [[WARD]]
+    Ward 04 Precinct 21 ||| [[WARD]]
+    Ward 04 Precinct 22 ||| [[WARD]]
+    Ward 04 Precinct 23 ||| [[WARD]]
+    Ward 04 Precinct 24 ||| [[WARD]]
+    Ward 05 Precinct 01 ||| [[WARD]]
+    Ward 05 Precinct 02 ||| [[WARD]]
+    Ward 05 Precinct 03 ||| [[WARD]]
+    Ward 05 Precinct 05 ||| [[WARD]]
+    Ward 05 Precinct 07 ||| [[WARD]]
+    Ward 05 Precinct 08 ||| [[WARD]]
+    Ward 05 Precinct 09 ||| [[WARD]]
+    Ward 05 Precinct 10 ||| [[WARD]]
+    Ward 05 Precinct 11 ||| [[WARD]]
+    Ward 05 Precinct 12 ||| [[WARD]]
+    Ward 05 Precinct 13 ||| [[WARD]]
+    Ward 05 Precinct 14 ||| [[WARD]]
+    Ward 05 Precinct 15 ||| [[WARD]]
+    Ward 05 Precinct 16 ||| [[WARD]]
+    Ward 06 Precinct 01 ||| [[WARD]]
+    Ward 06 Precinct 02 ||| [[WARD]]
+    Ward 06 Precinct 03 ||| [[WARD]]
+    Ward 06 Precinct 04 ||| [[WARD]]
+    Ward 06 Precinct 05 ||| [[WARD]]
+    Ward 06 Precinct 07 ||| [[WARD]]
+    Ward 06 Precinct 08 ||| [[WARD]]
+    Ward 06 Precinct 09 ||| [[WARD]]
+    Ward 06 Precinct 11 ||| [[WARD]]
+    Ward 06 Precinct 12 ||| [[WARD]]
+    Ward 06 Precinct 13 ||| [[WARD]]
+    Ward 06 Precinct 14 ||| [[WARD]]
+    Ward 06 Precinct 15 ||| [[WARD]]
+    Ward 06 Precinct 16 ||| [[WARD]]
+    Ward 06 Precinct 17 ||| [[WARD]]
+    Armstrong Precinct 01 ||| [[PRECINCT]]
+    Pigeon Precinct 02 Nv ||| [[PRECINCT]]
+    Pigeon Precinct 03 Nv ||| [[PRECINCT]]
+    Pigeon Precinct 01 (Nv) ||| [[PRECINCT]]
+    Ward 06 Precinct 0 (Nv) ||| [[WARD]]
+    Ward 01 Precinct 03 (Nv) ||| [[WARD]]
+    Ward 02 Precinct 03 (Nv) ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    Greene ||| [[GREEN]]
+    Green 1 ||| [[GREEN]]
+    Liberty ||| [[LIB]]
+    Green 01 ||| [[GREEN]]
+    Green 02 ||| [[GREEN]]
+    Liberty 1 ||| [[LIB]]
+    Liberty 2 ||| [[LIB]]
+    Liberty A ||| [[LIB]]
+    Liberty B ||| [[LIB]]
+    Liberty C ||| [[LIB]]
+    Liberty D ||| [[LIB]]
+    Greenfield ||| [[GREEN]]
+    Greensboro ||| [[GREEN]]
+    Greendale 1 ||| [[GREEN]]
+    Greendale 2 ||| [[GREEN]]
+    Greendale 3 ||| [[GREEN]]
+    Greendale 4 ||| [[GREEN]]
+    Greendale 5 ||| [[GREEN]]
+    Greensburg 01 ||| [[GREEN]]
+    Greensburg 02 ||| [[GREEN]]
+    Greensburg 03 ||| [[GREEN]]
+    Greensburg 04 ||| [[GREEN]]
+    Greensburg 05 ||| [[GREEN]]
+    Greensburg 06 ||| [[GREEN]]
+    Greensburg 07 ||| [[GREEN]]
+    Greensburg 08 ||| [[GREEN]]
+    Republican Twp ||| [[REPUBLICAN]]
+    Greencastle North ||| [[GREEN]]
+    Greensburg 07 / Clay (Nv) ||| [[GREEN]]
+    Greensburg 07 / Adams (Nv) ||| [[GREEN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    Center 1 ||| [[CENTER]]
+    Center 2 ||| [[CENTER]]
+    Center 3 ||| [[CENTER]]
+    Center 4 ||| [[CENTER]]
+    Center 5 ||| [[CENTER]]
+    Center 6 ||| [[CENTER]]
+    Center A ||| [[CENTER]]
+    Center B ||| [[CENTER]]
+    Center C ||| [[CENTER]]
+    Center D ||| [[CENTER]]
+    Center 01 ||| [[CENTER]]
+    Center 02 ||| [[CENTER]]
+    Center 03 ||| [[CENTER]]
+    Center 04 ||| [[CENTER]]
+    Center 05 ||| [[CENTER]]
+    Center 06 ||| [[CENTER]]
+    Center 07 ||| [[CENTER]]
+    Center 08 ||| [[CENTER]]
+    Center 09 ||| [[CENTER]]
+    Center 10 ||| [[CENTER]]
+    Center 11 ||| [[CENTER]]
+    Center 12 ||| [[CENTER]]
+    Center 13 ||| [[CENTER]]
+    Center 14 ||| [[CENTER]]
+    Center 15 ||| [[CENTER]]
+    Center 16 ||| [[CENTER]]
+    Center 17 ||| [[CENTER]]
+    Center 18 ||| [[CENTER]]
+    Center 19 ||| [[CENTER]]
+    Center 20 ||| [[CENTER]]
+    Center 24 ||| [[CENTER]]
+    Center East ||| [[CENTER]]
+    Center West ||| [[CENTER]]
+    Center North ||| [[CENTER]]
+    Center South ||| [[CENTER]]
+    Marrs Center ||| [[CENTER]]
+    North Center ||| [[CENTER]]
+    South Center ||| [[CENTER]]
+    Center Precinct 01 ||| [[CENTER]]
+    Center Precinct 02 ||| [[CENTER]]
+    Center Precinct 03 ||| [[CENTER]]
+    Center Precinct 04 ||| [[CENTER]]
+    Center Precinct 05 ||| [[CENTER]]
+    Center Precinct 06 ||| [[CENTER]]
+    Center Precinct 07 ||| [[CENTER]]
+    Center Precinct 08 ||| [[CENTER]]
+    Center Precinct 09 ||| [[CENTER]]
+    Center Precinct 10 ||| [[CENTER]]
+    Center Precinct 11 ||| [[CENTER]]
+    Center Precinct 12 ||| [[CENTER]]
+    Center Precinct 13 ||| [[CENTER]]
+    Center Precinct 14 ||| [[CENTER]]
+    Center Precinct 15 ||| [[CENTER]]
+    Center Precinct 16 ||| [[CENTER]]
+    Center Precinct 17 ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    01-A
+    01-B
+    01-C
+    01-D
+    010001
+    010002
+    010003
+    010004
+    010005
+    02-A
+    02-B
+    02-C
+    02-D
+    02-E
+    02-F
+    020001
+    020002
+    020003
+    020004
+    020005
+    020006
+    020007
+    020008
+    020009
+    020010
+    020011
+    020012
+    020013
+    020014
+    020015
+    020016
+    020017
+    020018
+    020019
+    020020
+    020021
+    020022
+    020023
+    020025
+    03-A
+    03-B
+    03-C
+    03-D
+    03-E
+    03-F
+    03-G
+    03-H
+    030001
+    030002
+    030003
+    04-A
+    04-B
+    04-C
+    04-D
+    040001
+    040002
+    040003
+    05-A
+    05-B
+    05-C
+    05-D
+    05-E
+    050001
+    050002
+    050003
+    050004
+    050005
+    050006
+    050007
+    050008
+    050009
+    050010
+    050011
+    050012
+    050013
+    050014
+    050015
+    050016
+    050017
+    06-A
+    06-B
+    06-C
+    060001
+    060002
+    060003
+    07-A
+    07-B
+    07-C
+    07-D
+    07-E
+    07-F
+    07-G
+    070001
+    070002
+    070003
+    08-A
+    08-B
+    08-C
+    08-D
+    08-E
+    08-F
+    08-G
+    080001
+    09-A
+    09-B
+    09-C
+    09-D
+    09-E
+    09-F
+    09-G
+    09-H Nv
+    09-I
+    090101
+    090102
+    090103
+    090104
+    090105
+    090106
+    090201
+    090202
+    090203
+    090204
+    090205
+    090206
+    090207
+    090301
+    090302
+    090303
+    090304
+    090305
+    090306
+    090307
+    090308
+    090401
+    090402
+    090403
+    090404
+    090405
+    090406
+    090407
+    090501
+    090502
+    090503
+    090504
+    090506
+    090507
+    090508
+    090602
+    090603
+    090604
+    090605
+    090606
+    090607 (Nv)
+    1 Clay 1
+    1 Clay 2
+    1 Howard 1
+    1-1
+    1-2
+    100001
+    100002
+    100003
+    100004
+    101
+    102
+    103
+    104
+    105
+    106
+    107
+    108
+    109
+    110001
+    110002
+    110003
+    110004
+    110005
+    110006
+    110007
+    110009
+    110010
+    110011
+    110012
+    110013
+    110014
+    110015
+    110016
+    110017
+    120001
+    120002
+    120003
+    130101
+    130102
+    130103
+    130104
+    130105
+    130106
+    130107
+    130108
+    130110
+    130111
+    130112
+    130113 (Nv)
+    130114
+    130115
+    130201
+    130202
+    130203
+    130204
+    130205
+    130206
+    130207
+    130208
+    130209
+    130210
+    130211
+    130301
+    130302
+    130303
+    130304
+    130305
+    130306
+    130307
+    130308
+    130309
+    130310
+    130311
+    130312
+    130313
+    130314
+    130401
+    130402
+    130403
+    130404
+    130405
+    130406
+    130407
+    130408
+    130409
+    130410
+    130411
+    130412
+    130413
+    130414
+    130415
+    130416
+    130501
+    130502
+    130503
+    130504
+    130505
+    130506
+    130508
+    130509
+    130510
+    130511
+    130512
+    130513
+    130514
+    130515
+    130516
+    130517
+    130518
+    130601
+    130602
+    130603
+    130604
+    130605
+    130606
+    130607
+    130608
+    130609
+    130611
+    130612
+    140001
+    140002
+    140003
+    150001
+    150002
+    150003
+    150004
+    150005
+    150006
+    2-1
+    2-2
+    201
+    202
+    203
+    204
+    205
+    206
+    207
+    208
+    3 Howard 1
+    3 Taylor 1
+    3 Taylor 2
+    3 Taylor 3
+    3 Taylor 4
+    301
+    302
+    303
+    304
+    305
+    306
+    4 Harrison 1
+    4-1
+    4-1a
+    4-2
+    4-3
+    401
+    402
+    403
+    404
+    405
+    406
+    5 Harrison 1
+    5 Harrison 2
+    5 Harrison 3
+    5 Harrison 4
+    5 Taylor 1
+    5 Taylor 2
+    5-1
+    5-2
+    503
+    601
+    602
+    603
+    604
+    605
+    606
+    607
+    Adams 01
+    Adams 1
+    Adams 2
+    Adams 3
+    Adams 4
+    Adams Township
+    Airport 01
+    Anderson 14
+    Armstrong Precinct 01
+    Ashland 01
+    Baker 01
+    Batesville 1
+    Bath
+    Baugo 01
+    Baugo 02
+    Baugo 03
+    Baugo 04
+    Baugo 05
+    Baugo 06
+    Baugo 07
+    Baugo A Nv
+    Beech Creek 1
+    Beech Creek 2
+    Benton 01
+    Benton 02
+    Berne A
+    Berne B
+    Berne C
+    Bethel
+    Bicknell 1
+    Bicknell 2
+    Bicknell 3
+    Bicknell 4
+    Bigger
+    Black 01
+    Black 02
+    Black 03
+    Black 04
+    Black 05
+    Black 06
+    Black 07
+    Black 08
+    Black 09
+    Black 10
+    Black 11
+    Black 12
+    Black 13
+    Bloomfield 1
+    Bloomfield 2
+    Bloomfield 3
+    Bloomfield 4
+    Blooming Grove
+    Blue Creek
+    Blue River
+    Blue River 1
+    Blue River 2
+    Blue River 3
+    Blue River 4
+    Blue River 5
+    Blue River North
+    Blue River South
+    Bluffton 02
+    Bluffton 03
+    Bluffton 04
+    Bluffton 05
+    Bluffton 06
+    Bluffton Lancaster 03
+    Bluffton Lancaster East
+    Bluffton Lancaster West
+    Boone
+    Boone East
+    Boone West
+    Brookville 1
+    Brookville 2
+    Brookville 3
+    Brookville 4
+    Brookville 5
+    Brown
+    Brown 01
+    Brown 02
+    Brown 03
+    Brown 04
+    Brown 05
+    Brown 06
+    Brown 07
+    Brown 08
+    Brown 09
+    Busseron
+    Butler
+    Caesar Creek
+    Cal 05
+    Cal 06
+    Cal 10
+    Cal 12
+    Cal 14
+    Campbell
+    Carter 1
+    Carter 2
+    Carter 3
+    Carter 4
+    Cass
+    Cass 07
+    Cass 1
+    Cass 2
+    Cct 01
+    Cct 02
+    Cct 04
+    Cct 05
+    Cct 06
+    Cct 07
+    Cct 08
+    Cct 09
+    Center 01
+    Center 02
+    Center 03
+    Center 04
+    Center 05
+    Center 06
+    Center 07
+    Center 08
+    Center 09
+    Center 1
+    Center 10
+    Center 11
+    Center 12
+    Center 13
+    Center 14
+    Center 15
+    Center 16
+    Center 17
+    Center 18
+    Center 19
+    Center 2
+    Center 20
+    Center 24
+    Center 3
+    Center 4
+    Center 5
+    Center 6
+    Center A
+    Center B
+    Center C
+    Center D
+    Center East
+    Center North
+    Center Precinct 01
+    Center Precinct 02
+    Center Precinct 03
+    Center Precinct 04
+    Center Precinct 05
+    Center Precinct 06
+    Center Precinct 07
+    Center Precinct 08
+    Center Precinct 09
+    Center Precinct 10
+    Center Precinct 11
+    Center Precinct 12
+    Center Precinct 13
+    Center Precinct 14
+    Center Precinct 15
+    Center Precinct 16
+    Center Precinct 17
+    Center South
+    Center West
+    Chester
+    Cl 01
+    Cl 02
+    Cl 03
+    Cl 04
+    Cl 05
+    Cl 06
+    Cl 07
+    Cl 08
+    Cl 09
+    Cl 10
+    Clark
+    Clark 1
+    Clark 2
+    Clark 3
+    Clay
+    Clay - 3500
+    Clay - 3550
+    Clay - 3600
+    Clay 01
+    Clay 02
+    Clay 03
+    Clay 04
+    Clay 05
+    Clay 06
+    Clay 07
+    Clay 08
+    Clay 09
+    Clay 1
+    Clay 10
+    Clay 11
+    Clay 12
+    Clay 13
+    Clay 14
+    Clay 15
+    Clay 16 Nv
+    Clay 17
+    Clay 19
+    Clay 2
+    Clay 20
+    Clay 22
+    Clay 23
+    Clay 24
+    Clay 27
+    Clay 28
+    Clay 29
+    Clay 3
+    Clay 30
+    Clay 31
+    Clay 32
+    Clay 33
+    Clay 35
+    Clay 36
+    Clay 37
+    Clay 38
+    Clay 39
+    Clay 40
+    Clay 41
+    Clay 42
+    Clay 43
+    Clay 46
+    Clay 47
+    Clay 48
+    Clay 49
+    Clay 51
+    Clay 52
+    Clay 53
+    Clay 54
+    Clay 55
+    Clay 56
+    Clay 57
+    Clay 58
+    Clay 59
+    Clay 60
+    Clay 61
+    Clay 62
+    Clay 63
+    Clay 64
+    Clay 65
+    Clay 66
+    Clay 67
+    Clay 68
+    Clay 69
+    Clay 70
+    Clay 71
+    Clay A
+    Clay B
+    Clay C
+    Clay Township
+    Clear Creek Twp 1
+    Clear Creek Twp 2
+    Clearspring
+    Cleveland 01
+    Cleveland 02
+    Cleveland 03
+    Cleveland 04
+    Cleveland 05
+    Cleveland 06
+    Cleveland 07
+    Cleveland Northeast
+    Cleveland Northwest
+    Cleveland South
+    Clifty - 3700
+    Clinton
+    Clinton 01
+    Clinton Township
+    Cloverdale 01
+    Cloverdale 02
+    Cloverdale 03
+    Cn001
+    Cn002
+    Cn003
+    Cn004
+    Cn005
+    Cn006
+    Cn007
+    Cn008
+    Cn009
+    Cn010
+    Cn011
+    Cn012
+    Cn013
+    Cn014
+    Cn015
+    Cn016
+    Cn017
+    Cn018
+    Cn019
+    Cn020
+    Cn021
+    Cn022
+    Cn023
+    Cn024
+    Cn025
+    Cn026
+    Cn027
+    Cn028
+    Cn029
+    Cn030
+    Cn031
+    Cn032
+    Cn033
+    Cn034
+    Cn035
+    Cn036
+    Cn037
+    Cn038
+    Cn039
+    Cn040
+    Cn041
+    Cn042
+    Cn043
+    Cn044
+    Cn045
+    Cn046
+    Cn047
+    Cn048
+    Cn049
+    Cn050
+    Cn051
+    Cn052
+    Cn053
+    Cn054
+    Cn055
+    Cn056
+    Cn057
+    Cn058
+    Cn059
+    Cn060
+    Cn061
+    Cn062
+    Cn063
+    Cn064
+    Cn065
+    Cn066
+    Cn067
+    Cn068
+    Cn069
+    Cn070
+    Cn071
+    Cn072
+    Cn073
+    Cn074
+    Cn075
+    Cn076
+    Cn077
+    Cn078
+    Cn079
+    Cn080
+    Cn081
+    Cn082
+    Cn083
+    Cn084
+    Cn085
+    Cn086
+    Cn087
+    Cn088
+    Cn089
+    Cn090
+    Cn091
+    Cn092
+    Cn093
+    Cn094
+    Cn095
+    Cn096
+    Cn097
+    Cn098
+    Cn099
+    Cn100
+    Cn101
+    Cn102
+    Cn103
+    Cn104
+    Cn105
+    Cn106
+    Cn107
+    Coal Creek
+    Columbia
+    Columbia 01
+    Columbia 02
+    Columbia 03
+    Columbia 04
+    Columbia 05
+    Columbia 06
+    Columbia 07
+    Columbia 1
+    Columbia Northeast
+    Columbia Northwest
+    Columbia South
+    Columbus - 0100
+    Columbus - 0200
+    Columbus - 0225
+    Columbus - 0250
+    Columbus - 0300
+    Columbus - 0400
+    Columbus - 0500
+    Columbus - 0600
+    Columbus - 0700
+    Columbus - 0800
+    Columbus - 0900
+    Columbus - 1000
+    Columbus - 1100
+    Columbus - 1200
+    Columbus - 1300
+    Columbus - 1400
+    Columbus - 1500
+    Columbus - 1600
+    Columbus - 1700
+    Columbus - 1800
+    Columbus - 1900
+    Columbus - 2000
+    Columbus - 2100
+    Columbus - 2200
+    Columbus - 2300
+    Columbus - 2400
+    Columbus - 2500
+    Columbus - 2600
+    Columbus - 2700
+    Columbus - 2800
+    Columbus - 2850
+    Columbus - 2900
+    Columbus - 3100
+    Columbus - 3200
+    Columbus - 3300
+    Columbus - 3350
+    Columbus - 3400
+    Concord 01
+    Concord 02
+    Concord 03
+    Concord 04
+    Concord 05
+    Concord 06
+    Concord 07
+    Concord 08
+    Concord 09
+    Concord 10
+    Concord 11
+    Concord 12
+    Concord 13
+    Concord 14
+    Concord 15
+    Concord 16
+    Concord 17
+    Concord 18
+    Concord 19
+    Concord 20
+    Concord 21
+    Concord 22
+    Concord 23
+    Concord 24
+    Concord 25
+    Concord 26
+    Concord 27
+    Concord 28
+    Concord 29
+    Concord 30
+    Concord 31
+    Concord 32
+    Concord 33
+    Connersville 01
+    Connersville 02
+    Connersville 03
+    Connersville 04
+    Connersville 05
+    Connersville 06
+    Connersville 07
+    Connersville 08
+    Connersville 09
+    Connersville 10
+    Connersville 11
+    Connersville 12
+    Connersville 13
+    Corydon East
+    Corydon South
+    Corydon West
+    Cp 02
+    Cp 04
+    Cp 05
+    Cp 06
+    Cp 07
+    Cp 09
+    Cp 10
+    Cp 11
+    Cp 12
+    Cp 13
+    Cp 14
+    Cp 15
+    Cp 18
+    Cp 19
+    Cp 20
+    Cp 21
+    Cp 24
+    Cp 25
+    Cp 26
+    Cp 29
+    Cp 30
+    Cp 31
+    Cp 32
+    Crane
+    Crawfordsville 01
+    Crawfordsville 02
+    Crawfordsville 03
+    Crawfordsville 04
+    Crawfordsville 05
+    Crawfordsville 06
+    Crawfordsville 07
+    Crawfordsville 08
+    Crawfordsville 09
+    Crawfordsville 10
+    Ct 03
+    Ct 04
+    Ct 05
+    Ct 06
+    Ct 07 Nv
+    Curry 1
+    Curry 2
+    Curry 3
+    D 01
+    D 02
+    D 03
+    D 04
+    D 05
+    D 06
+    D 07
+    D 08
+    D 09
+    D 10
+    D 11
+    D 14
+    Dallas Twp 1
+    Dallas Twp 2
+    De001
+    De002
+    De003
+    De004
+    De005
+    De006
+    De007
+    De008
+    De009
+    De010
+    De011
+    De012
+    De013
+    De014
+    De015
+    De016
+    De017
+    De018
+    Decatur 1
+    Decatur 2
+    Decatur 3
+    Decatur 4
+    Decatur 5
+    Decker
+    Delaware 01
+    Delaware 02
+    Delaware 03
+    Delaware 04
+    Delaware 05
+    Delaware 06
+    Delaware 07
+    Delaware 08
+    Delaware 09
+    Delaware 10
+    Delaware 12
+    Delaware 13
+    Delaware 14
+    Delaware 15
+    Delaware 16
+    Delaware 17
+    Delaware 18
+    Delaware 19
+    Delaware 20
+    Delaware 21
+    Delaware 22
+    Delaware 23
+    Delaware 25
+    Dudley
+    East Memphis
+    East Root
+    Ec 02
+    Ec 03
+    Ec 05
+    Ec 07
+    Ec 08
+    Ec 11
+    Ec 13
+    Ec 17
+    Ec 22
+    Ec 23
+    Ec 24
+    Ec 25
+    Ec 28
+    Ec 31
+    Ec 33
+    Ec 35
+    Ec 36
+    Ect 01
+    Ect 02
+    Eden
+    Elkhart 01
+    Elkhart 02
+    Elkhart 03
+    Elkhart 04
+    Elkhart 05
+    Elkhart 06
+    Elkhart 07
+    Elkhart 08
+    Elkhart 09
+    Elkhart 10
+    Elkhart 11
+    Elkhart 12
+    Elkhart 13
+    Elkhart 14
+    Elkhart 15
+    Elkhart 16
+    Elkhart 17
+    Elkhart 18
+    Elkhart 19
+    Elkhart 20
+    Elkhart 21
+    Ervin A
+    Ervin B
+    Etna
+    Fairbanks
+    Fairfield
+    Fairmount 1
+    Fairmount 2
+    Fairmount 3
+    Fairmount 4
+    Fairplay
+    Fairview 1
+    Fall Creek 01
+    Fall Creek 02
+    Fall Creek 03
+    Fall Creek 04
+    Fall Creek 05
+    Fall Creek 06
+    Fall Creek 07
+    Fall Creek 08
+    Fall Creek 09
+    Fall Creek 1
+    Fall Creek 10
+    Fall Creek 11
+    Fall Creek 12
+    Fall Creek 13
+    Fall Creek 14
+    Fall Creek 15
+    Fall Creek 16
+    Fall Creek 17
+    Fall Creek 18
+    Fall Creek 19
+    Fall Creek 2
+    Fall Creek 20
+    Fall Creek 21
+    Fall Creek 22
+    Fall Creek 23
+    Fall Creek 24
+    Fall Creek 25
+    Fall Creek 26
+    Fall Creek 27
+    Fall Creek 28
+    Fall Creek 29
+    Fall Creek 3
+    Fall Creek 30
+    Fall Creek 31
+    Fall Creek 32
+    Fall Creek 33
+    Fall Creek 34
+    Fall Creek 35
+    Fall Creek 36
+    Fall Creek 37
+    Fall Creek 39
+    Fall Creek 4
+    Fall Creek 40
+    Fall Creek 41
+    Fall Creek 42
+    Fall Creek 43
+    Fall Creek 44
+    Fayette-A
+    Fayette-B
+    First North
+    First South
+    Flatrock - 3800
+    Flatrock 3850
+    Florida 1
+    Florida 2
+    Floyd East
+    Floyd South
+    Floyd West
+    Fourth East
+    Fourth West
+    Foxridge
+    Fr001
+    Fr002
+    Fr003
+    Fr004
+    Fr005
+    Fr006
+    Fr007
+    Fr008
+    Fr009
+    Fr010
+    Fr011
+    Fr012
+    Fr013
+    Fr014
+    Fr015
+    Fr016
+    Fr017
+    Fr018
+    Fr019
+    Fr020
+    Fr021
+    Fr022
+    Fr023
+    Fr024
+    Fr025
+    Fr026
+    Fr027
+    Fr028
+    Fr029
+    Fr030
+    Fr031
+    Fr032
+    Fr033
+    Fr034
+    Fr035
+    Fr036
+    Fr037
+    Fr038
+    Fr039
+    Fr040
+    Franklin
+    Franklin 01
+    Franklin 02
+    Franklin 03
+    Franklin 04
+    Franklin 05
+    Franklin 06
+    Franklin 07
+    Franklin 08
+    Franklin 09
+    Franklin 1
+    Franklin 10
+    Franklin 11
+    Franklin 12
+    Franklin 13
+    Franklin 14
+    Franklin 15
+    Franklin 16
+    Franklin 17
+    Franklin 18
+    Franklin 19
+    Franklin 2
+    Franklin 20
+    Franklin 3
+    Franklin 4
+    Franklin 5
+    Franklin 6
+    Franklin 7
+    Franklin Central
+    Franklin Lanesville
+    Franklin North
+    Franklin South
+    Franklin West
+    French
+    French Lick East
+    French Lick East West Baden
+    French Lick North
+    French Lick South
+    French Lick West
+    French Lick West West Baden
+    Fugit Township
+    G1 03
+    G1 08
+    G1 16
+    G1 18
+    G1 20
+    G1 22
+    G1 24
+    G2 01
+    G2 03
+    G2 04
+    G2 10
+    G2 11
+    G2 12
+    G2 17
+    G2 20
+    G3 03
+    G3 11
+    G3 15
+    G3 16
+    G3 17
+    G3 19
+    G3 21
+    G3 26
+    G4 01
+    G4 03
+    G4 05
+    G4 10
+    G4 14
+    G4 16
+    G4 23
+    G4 25
+    G5 01
+    G5 02
+    G5 04
+    G5 06
+    G5 13
+    G5 14
+    G5 16
+    G5 20
+    G5 22
+    G5 24 N.v.
+    G5 28
+    G6 02
+    G6 05
+    G6 07
+    G6 10
+    G6 12
+    G6 14
+    G6 16
+    G6 18
+    Geneva
+    Geneva 01 East
+    Geneva 01 West
+    Geneva 02
+    Geneva 03
+    German - 3900
+    German - 4000
+    German - 4100
+    German - 4200
+    German - 4250
+    German - 4300
+    German - 4350
+    German Precinct 01
+    German Precinct 02
+    German Precinct 03
+    German Precinct 04
+    German Precinct 05
+    German Precinct 06
+    German Precinct 07
+    Gill 1
+    Gill 2
+    Gr 01
+    Gr 02
+    Gr 03
+    Gr 05
+    Gr 06
+    Gr 07
+    Gr 09
+    Gr 10
+    Gr 11
+    Gr 12
+    Gr 15
+    Gr 16
+    Gr 17
+    Gr 19 Nv
+    Graham
+    Grant
+    Grass 1
+    Grass 2
+    Green 01
+    Green 02
+    Green 1
+    Greencastle North
+    Greendale 1
+    Greendale 2
+    Greendale 3
+    Greendale 4
+    Greendale 5
+    Greene
+    Greenfield
+    Greensboro
+    Greensburg 01
+    Greensburg 02
+    Greensburg 03
+    Greensburg 04
+    Greensburg 05
+    Greensburg 06
+    Greensburg 07
+    Greensburg 07 / Adams (Nv)
+    Greensburg 07 / Clay (Nv)
+    Greensburg 08
+    Gregg 01
+    Gregg 02
+    H1 01
+    H1 03
+    H1 05
+    H1 07
+    H1 08
+    H1 10
+    H1 12
+    H1 16
+    H2 03
+    H2 05
+    H2 06
+    H2 11
+    H2 12
+    H2 14
+    H3 03
+    H3 04
+    H3 05
+    H3 07
+    H3 09
+    H3 11
+    H3 16
+    H4 05
+    H4 06
+    H4 07
+    H4 09
+    H4 11
+    H4 12
+    H4 14
+    H4 18
+    H5 04
+    H5 08
+    H5 12
+    H5 13
+    H5 14
+    H5 15
+    H5 17
+    H6 04
+    H6 05
+    H6 07
+    H6 08
+    H6 09
+    H6 10
+    H6 12
+    H6 13
+    H6 15
+    Haddon 1
+    Haddon 2
+    Hamilton 1
+    Hamilton 2
+    Hamilton 3
+    Hamilton 4
+    Hamilton 5
+    Hamilton 6
+    Hammond 1
+    Hammond 2
+    Hanover 1
+    Hanover 2
+    Hanover 2a
+    Hanover 3
+    Harmony 1
+    Harmony 2
+    Harmony 3
+    Harrison
+    Harrison - 4400
+    Harrison - 4450
+    Harrison - 4500
+    Harrison - 4550
+    Harrison 01
+    Harrison 02
+    Harrison 03
+    Harrison 1
+    Harrison 2
+    Harrison 3
+    Harrison 4
+    Harrison 5
+    Harrison 6
+    Harrison 7
+    Harrison 8
+    Harrison A
+    Harrison B
+    Harrison C
+    Harrison Central
+    Harrison East
+    Harrison East Southeast
+    Harrison North
+    Harrison Northeast
+    Harrison Northwest
+    Harrison South
+    Harrison Southeast
+    Harrison Southwest
+    Harrison West
+    Hartford
+    Hawcreek - 4600
+    Hawcreek - 4700
+    Hawcreek - 4800
+    Hawcreek - 4900
+    Henry 01
+    Henry 02
+    Henry 03
+    Henry 04
+    Henry 05
+    Henry 06
+    Henry 07
+    Henry 08
+    Henry 09
+    Henry 10
+    Henry 11
+    Henry 12
+    Henry 13
+    Henry 14
+    Henry 15
+    Henry 16
+    Henry 17
+    Henry 18
+    Henry 19
+    Henry 20
+    Hensley 1
+    Hensley 2
+    Hensley 3
+    Heth East
+    Heth West
+    Highland
+    Highland 1
+    Highland 2
+    Hl 03
+    Hl 04
+    Hl 05
+    Hl 06
+    Hl 08
+    Hl 09
+    Hl 10
+    Hl 11
+    Hl 12
+    Hl 15
+    Hl 16
+    Hl 19
+    Hl 20
+    Hl 23
+    Hl 24
+    Hl 25
+    Hl 26
+    Ho 02
+    Ho 03
+    Ho 04
+    Ho 05
+    Ho 06
+    Ho 07
+    Ho 10
+    Ho 11
+    Ho 12
+    Ho 15
+    Ho 16
+    Ho 19
+    Ho 21
+    Ho 22
+    Ho 23
+    Ho 25
+    Ho 27
+    Ho 29
+    Hogan
+    Honey Creek A
+    Honey Creek B
+    Honey Creek-A
+    Honey Creek-B
+    Honey Creek-C
+    Honey Creek-D
+    Honey Creek-E
+    Honey Creek-F
+    Honey Creek-G
+    Honey Creek-H
+    Honey Creek-I
+    Hot 05
+    Hot 08
+    Hot 09
+    Howard
+    Howard A
+    Howard B
+    Ht 01
+    Ht 02
+    Ht 03
+    Huff
+    Huntington 01
+    Huntington 01a
+    Huntington 02
+    Huntington 02a
+    Huntington 03
+    Huntington 04
+    Huntington 05
+    Huntington 05a
+    Huntington 06
+    Huntington 06a
+    Huntington 07
+    Huntington 07a
+    Huntington 08
+    Huntington 09
+    Huntington 10
+    Huntington 11
+    Huntington 11a
+    Huntington 12
+    Huntington 12a
+    Huntington 13 Nv
+    Jackson
+    Jackson - 5000
+    Jackson 01
+    Jackson 02
+    Jackson 03
+    Jackson 04
+    Jackson 05
+    Jackson 06
+    Jackson 07
+    Jackson 08
+    Jackson 09 Nv
+    Jackson 1
+    Jackson 10 Nv
+    Jackson 15
+    Jackson 2
+    Jackson Crandall
+    Jackson East
+    Jackson North
+    Jackson Northeast
+    Jackson Northwest
+    Jackson Southeast
+    Jackson Southwest
+    Jackson Township
+    Jackson Twp 1
+    Jackson Twp 2
+    Jackson Twp 3
+    Jackson Twp 4
+    Jefferson
+    Jefferson 01
+    Jefferson 02
+    Jefferson 03
+    Jefferson 04
+    Jefferson 05
+    Jefferson 06
+    Jefferson 1
+    Jefferson 2
+    Jefferson 3
+    Jefferson East
+    Jefferson Twp
+    Jefferson West
+    Jennings 1
+    Jennings 2
+    Johnson
+    Johnson 1
+    Johnson 2
+    Johnson North
+    Johnson South
+    Kelso 1
+    Kelso 2
+    Kelso 3
+    Kirkland
+    Knight Precinct 01
+    Knight Precinct 02
+    Knight Precinct 03
+    Knight Precinct 04
+    La001
+    La002
+    La003
+    La004
+    La005
+    La006
+    La007
+    La008
+    La009
+    La010
+    La011
+    La012
+    La013
+    La014
+    La015
+    La016
+    La017
+    La018
+    La019
+    La020
+    La021
+    La022
+    La023
+    La024
+    La025
+    La026
+    La027
+    La028
+    La029
+    La030
+    La031
+    La032
+    La033
+    La034
+    La035
+    La036
+    La037
+    La038
+    La039
+    La040
+    La041
+    La042
+    La043
+    La044
+    La045
+    La046
+    La047
+    La048
+    La049
+    La050
+    La051
+    La052
+    La053
+    La054
+    La055
+    La056
+    La057
+    La058
+    La059
+    La060
+    La061
+    La062
+    La063
+    La064
+    La065
+    La066
+    La067
+    La068
+    La069
+    La070
+    La071
+    La072
+    La073
+    La074
+    La075
+    La076
+    La077
+    La078
+    La079
+    La080
+    La081
+    La082
+    La083
+    Lake 01
+    Lake 02
+    Lake Michigan Nv
+    Lancaster
+    Lancaster East
+    Lancaster Twp
+    Lancaster West
+    Laurel 1
+    Lawrenceburg 01
+    Lawrenceburg 02
+    Lawrenceburg 03
+    Lawrenceburg 04
+    Lawrenceburg 08
+    Lawrenceburg 09
+    Liberty
+    Liberty 1
+    Liberty 2
+    Liberty A
+    Liberty B
+    Liberty C
+    Liberty D
+    Lima
+    Limedale
+    Linton-A
+    Locke 01
+    Locke 02
+    Lockhart
+    Logan
+    Logan 1
+    Logan 2
+    Lost Creek-A
+    Lost Creek-B
+    Lost Creek-C
+    Lost Creek-D
+    Lost River
+    Lovett
+    Ls 01
+    Ls 02
+    Ls 03
+    Ls 04
+    Ls 05
+    Ls 06
+    Ls 07
+    Ls 08
+    Ls 09
+    Ls 11
+    Ls 13
+    Ls 14 Nv
+    Ls 15 Nv
+    Luce 1
+    Luce 2
+    Luce 3
+    Lynn East
+    Lynn West
+    M 01
+    M 02
+    M 04
+    M 05
+    M 06
+    M 08
+    M 09
+    M 11
+    M 12
+    M 13
+    M 14
+    M 15
+    M 16
+    M 18
+    M 19
+    M 20
+    M 21
+    M 22
+    M 24
+    M 25
+    Madison
+    Madison 01
+    Madison 02
+    Madison 03
+    Madison 04
+    Madison 05
+    Madison 06
+    Madison 1
+    Madison 2
+    Madison 3
+    Manchester 1
+    Manchester 2
+    Marion
+    Marion North
+    Marion South
+    Marion Township
+    Marrs Center
+    Marrs North
+    Marrs South
+    Marrs West
+    Mer 01
+    Mer 02
+    Mer 03
+    Mer 04
+    Mer 05
+    Mer 07
+    Mer 08
+    Mer 09
+    Mer 10
+    Mer 11
+    Mer 12
+    Mer 13
+    Mer 15
+    Mer 16
+    Mer 18
+    Mer 19
+    Mer 21
+    Mer 22
+    Mer 23
+    Mer 28
+    Mer 29
+    Mer 30
+    Mer 33
+    Mer 34
+    Metamora
+    Middlebury 01
+    Middlebury 02
+    Middlebury 03
+    Middlebury 04
+    Middlebury 05
+    Milford East
+    Milford West
+    Mill 01
+    Mill 02
+    Mill 03
+    Mill 04
+    Mill 05
+    Mill 06
+    Mill 07
+    Mill 08
+    Mill 09
+    Mill 10
+    Mill 11
+    Miller 1
+    Miller 2
+    Miller 3
+    Miller 4
+    Miller 5
+    Miller 6
+    Miller 7
+    Milton Twp
+    Mitcheltree
+    Monroe
+    Monroe 01
+    Monroe 02
+    Monroe 03
+    Monroe 1
+    Monroe A
+    Monroe B
+    Monroe East
+    Monroe Twp
+    Monroe West
+    Montgomery
+    Morgan Northeast
+    Morgan Palmyra
+    Morgan Southeast
+    Morgan West
+    Needham 1
+    Needham 2
+    Needham 3
+    Needham 4
+    Needham 5
+    Nevins-A
+    Nevins-B
+    Newbury
+    Nineveh 1
+    Nineveh 2
+    Nineveh 3
+    Nineveh 4
+    Noble 19
+    Noblesville 01
+    Noblesville 02
+    Noblesville 03
+    Noblesville 04
+    Noblesville 05
+    Noblesville 06
+    Noblesville 07
+    Noblesville 08
+    Noblesville 09
+    Noblesville 10
+    Noblesville 11
+    Noblesville 12
+    Noblesville 13
+    Noblesville 14
+    Noblesville 15
+    Noblesville 16
+    Noblesville 17
+    Noblesville 18
+    Noblesville 19
+    Noblesville 20
+    Noblesville 21
+    Noblesville 22
+    Noblesville 23
+    Noblesville 24
+    Noblesville 25
+    Noblesville 26
+    Noblesville 27
+    Noblesville 28
+    Noblesville 29
+    Noblesville 30
+    Noblesville 31
+    Noblesville 32
+    Noblesville 33
+    Noblesville 34
+    Noblesville 35 Nv
+    Noblesville 36
+    Noblesville 37
+    Noblesville 38
+    Noblesville 39
+    Noblesville 40
+    Noblesville 41
+    Noblesville 42
+    Noblesville 43 Nv
+    Noblesville 44
+    North Center
+    North Halbert
+    North Vernon 01a
+    North Vernon 01b
+    North Vernon 02a
+    North Vernon 02b
+    North Vernon 03a
+    North Vernon 03b
+    North Vernon 04a
+    North Vernon 04b
+    North Washington
+    Northeast
+    Northwest
+    Nottingham
+    Ohio - 5100
+    Ohio 1
+    Ohio 2
+    Ohio 3
+    Ohio 4
+    Ohio 5
+    Ohio 6
+    Oldenburg
+    Olive 01
+    Olive 02
+    Orange 1
+    Orange 13
+    Orangeville
+    Orleans East
+    Orleans Northwest
+    Orleans Southwest
+    Osolo 01
+    Osolo 02
+    Osolo 03
+    Osolo 04
+    Osolo 05
+    Osolo 06
+    Osolo 07
+    Osolo 08
+    Osolo 09
+    Osolo 10
+    Osolo 11
+    Osolo 12
+    Osolo 13
+    Osolo 14
+    Osolo 15
+    Osolo 16
+    Ossian East
+    Ossian West
+    Otter Creek-A
+    Otter Creek-B
+    Otter Creek-C
+    Otter Creek-D
+    Otter Creek-E
+    Otter Creek-F
+    Otter Creek-G
+    Palmyra
+    Paoli North
+    Paoli Northeast
+    Paoli Northwest
+    Paoli South
+    Paoli Southeast
+    Paoli Southwest
+    Patoka 1
+    Patoka 2
+    Pe001
+    Pe002
+    Pe003
+    Pe004
+    Pe005
+    Pe006
+    Pe007
+    Pe008
+    Pe009
+    Pe010
+    Pe011
+    Pe012
+    Pe013
+    Pe014
+    Pe015
+    Pe016
+    Pe017
+    Pe018
+    Pe019
+    Pe020
+    Pe021
+    Pe022
+    Pe023
+    Pe024
+    Pe025
+    Pe026
+    Pe027
+    Pe028
+    Pe029
+    Pe030
+    Pe031
+    Pe032
+    Pe033
+    Pe034
+    Pe035
+    Pe036
+    Pe037
+    Pe038
+    Pe039
+    Pe040
+    Pe041
+    Pe042
+    Pe043
+    Pe044
+    Pe045
+    Pe046
+    Pe047
+    Pe048
+    Pe049
+    Pe050
+    Pe051
+    Pe052
+    Pe053
+    Pe054
+    Pe055
+    Pe056
+    Pe057
+    Pe058
+    Pe059
+    Pe060
+    Pe061
+    Pe062
+    Pe063
+    Pe064
+    Penn
+    Perry 1
+    Perry 2
+    Perry 3
+    Perry 4
+    Perry 5
+    Perry 6
+    Perry 7
+    Perry Precinct 01
+    Perry Precinct 02
+    Perry Precinct 03
+    Perry Precinct 04
+    Perry Precinct 05
+    Perry Precinct 06
+    Perry Precinct 07
+    Perry Precinct 08
+    Perry Precinct 09
+    Perry Precinct 10
+    Petersburg 1
+    Petersburg 2
+    Petersburg 3
+    Petersburg 4
+    Pierson- A
+    Pigeon Precinct 01 (Nv)
+    Pigeon Precinct 02 Nv
+    Pigeon Precinct 03 Nv
+    Pike 08
+    Pk001
+    Pk002
+    Pk003
+    Pk004
+    Pk005
+    Pk006
+    Pk007
+    Pk008
+    Pk009
+    Pk010
+    Pk011
+    Pk012
+    Pk013
+    Pk014
+    Pk015
+    Pk016
+    Pk017
+    Pk018
+    Pk019
+    Pk020
+    Pk021
+    Pk022
+    Pk023
+    Pk024
+    Pk025
+    Pk026
+    Pk027
+    Pk028
+    Pk029
+    Pk030
+    Pk031
+    Pk032
+    Pk033
+    Pk034
+    Pk035
+    Pk036
+    Pk037
+    Pk038
+    Pk039
+    Pk040
+    Pk041
+    Pk042
+    Pk043
+    Pk044
+    Pk045
+    Pk046
+    Pk047
+    Pk048
+    Pk049
+    Pk050
+    Pk051
+    Pk052
+    Pk053
+    Pk054
+    Plain 01
+    Plain 02
+    Plain 03
+    Plain 04
+    Plain 05 City Of Warsaw
+    Plain 07
+    Pleasant 01
+    Pleasant 02
+    Pleasant 03
+    Pleasant 04
+    Pleasant 05
+    Pleasant 06
+    Pleasant 07
+    Pleasant 08
+    Pleasant 09
+    Pleasant 1
+    Pleasant 10
+    Pleasant 11
+    Pleasant 12
+    Pleasant 13
+    Pleasant 14
+    Pleasant 15
+    Pleasant 16
+    Pleasant 17
+    Pleasant 18
+    Pleasant 19
+    Pleasant 2
+    Pleasant 20
+    Pleasant 21
+    Pleasant 22
+    Pleasant 23
+    Pleasant 24
+    Pleasant 25
+    Pleasant 26
+    Pleasant 27
+    Pleasant 28
+    Pleasant 29
+    Pleasant 3
+    Pleasant 30
+    Pleasant 31
+    Pleasant 32
+    Pleasant 33
+    Pleasant 34
+    Pleasant 35
+    Pleasant 36
+    Pleasant 37
+    Pleasant 38
+    Pleasant 39
+    Pleasant 4
+    Pleasant 40
+    Pleasant 41
+    Pleasant 42
+    Pleasant 43
+    Pleasant 44
+    Pleasant 45
+    Pleasant 46
+    Pleasant 47
+    Pleasant 48
+    Pleasant 49
+    Pleasant 5
+    Pleasant 50
+    Pleasant 51 Non-Voting
+    Pleasant 6
+    Pleasant 7
+    Point
+    Polk Twp
+    Posey
+    Posey 1
+    Posey 11
+    Posey Elizabeth
+    Posey Northeast
+    Posey Southeast
+    Posey West
+    Prairie 01
+    Prairie 02
+    Prairie 1
+    Prairie 2
+    Prairie 2 - Warsaw
+    Prairie 3
+    Prairie Creek-A
+    Prairieton-A
+    Preble
+    Precinct 01
+    Precinct 02
+    Precinct 03
+    Precinct 04
+    Precinct 05
+    Precinct 05 Nv
+    Precinct 06
+    Precinct 07
+    Precinct 08
+    Precinct 09
+    Precinct 10
+    Precinct 11
+    Precinct 12
+    Precinct 13
+    Precinct 14
+    Precinct 15
+    Precinct 16
+    Precinct 17
+    Precinct 18
+    Precinct 19
+    Precinct 20
+    Precinct 21
+    Precinct 22
+    Precinct 23
+    Precinct 24
+    Precinct 25
+    Precinct 26
+    Precinct 27
+    Precinct 28
+    Precinct 29
+    Precinct 30
+    Precinct 31
+    Precinct 32
+    Precinct 33
+    Precinct 34
+    Precinct 35
+    Precinct 36
+    Precinct 37
+    Precinct 38
+    Precinct 39
+    Precinct 40
+    Precinct 41
+    Precinct 42
+    Precinct 43
+    Precinct 44
+    Precinct 45
+    Precinct 46
+    Precinct 47
+    Precinct 48
+    Precinct 49
+    Precinct 50
+    Precinct 51
+    Precinct 52
+    Precinct 53
+    Precinct 54
+    Precinct 55
+    Precinct 56
+    Precinct 57
+    Precinct 58
+    Precinct 59
+    Precinct 60
+    Precinct 61
+    Precinct 62
+    Precinct 63
+    Precinct 64
+    Precinct 65
+    Precinct 66
+    Precinct 67
+    Precinct 68
+    Precinct 69
+    Precinct 70
+    Precinct 71
+    Precinct 73
+    Precinct 74
+    Precinct 75
+    Precinct 77
+    Precinct 78
+    Precinct 81
+    Precinct 87
+    Precinct 88
+    Precinct 90
+    Precinct 91
+    Precinct 92
+    Precinct 93
+    Precinct 94
+    Precinct 95
+    Precinct 98
+    Raccoon
+    Randolph 01
+    Randolph 02
+    Randolph 03
+    Randolph 04
+    Randolph 05
+    Randolph 06
+    Randolph 10
+    Randolph 11
+    Ray 01
+    Ray 02
+    Ray 1
+    Ray 2
+    Republican Twp
+    Reserve
+    Richland 1
+    Richland 2
+    Richland 20
+    Richland 3
+    Richland 4
+    Richland North
+    Richland South
+    Riley-A
+    Riley-B
+    Ripley
+    Ripley 09
+    Ripley 10
+    Robb 1
+    Robb 2
+    Robb 3
+    Robinson 1
+    Robinson 2
+    Robinson 3
+    Rock Creek
+    Rock Creek Twp
+    Rockcreek - 5200
+    Rt 20
+    Rushville City 01
+    Rushville City 02
+    Rushville City 03
+    Rushville Township 07
+    Rushville Township 08
+    Russell
+    Rutherford
+    Salamonie Twp 1
+    Salamonie Twp 2
+    Salt Creek 1
+    Salt Creek 2
+    Saltcreek Township
+    Saluda Twp
+    Sandcreek
+    Sandcreek - 5300
+    Sandcreek - 5350
+    Sandcreek North
+    Sandcreek South
+    Sch 02
+    Sch 04
+    Sch 06
+    Sch 07
+    Sch 09
+    Sch 10
+    Sch 13
+    Sch 14
+    Sch 15
+    Sch 16
+    Sch 17
+    Sch 18
+    Sch 19
+    Sch 20
+    Sch 22
+    Sch 24
+    Sch 26
+    Sch 27
+    Sch 28
+    Sch 32
+    Sch 33
+    Scott
+    Scott Precinct 01
+    Scott Precinct 02
+    Scott Precinct 03
+    Scott Precinct 04
+    Scott Precinct 05
+    Scott Precinct 06
+    Second East
+    Second West
+    Seward 01
+    Seward 02
+    Shelby Twp
+    Sheridan 01
+    Sheridan 02
+    Sheridan 03
+    Sheridan 04
+    Sims 1
+    Sj 01
+    Sj 02
+    Sj 03
+    Sj 04
+    Sj 05
+    Sj 06
+    Sj 07
+    Sj 08
+    Sj 09
+    Sj 10
+    Sj 11
+    Sj 12
+    Sj 13
+    Sj 14
+    Sj 15
+    Sj 16
+    Sj 17
+    Sj 18
+    Sj 19
+    Sjt 01
+    Sjt 02
+    Sjt 03
+    Sjt 04
+    Sjt 07
+    Sjt 08
+    Sjt 09
+    Smith
+    Smith East
+    Smith Northeast
+    Smith Northwest
+    Smith South
+    Smith West
+    Smyrna
+    South Center
+    South Halbert
+    South Monroe
+    South Washington
+    Southeast
+    Southeast Halbert
+    Sparta 1
+    Sparta 2
+    Sparta 3
+    Spencer North
+    Spencer South
+    Spiceland 1
+    Spiceland 2
+    Springfield
+    St Marys
+    St. Paul
+    Stafford
+    Stamperscreek
+    Steen
+    Sterling 1
+    Sterling 2
+    Sterling 3
+    Stockton 1
+    Stockton 2
+    Stockton 3
+    Stockton 4
+    Stockton 5
+    Stockton 6
+    Stockton 7
+    Stoneycreek
+    Sugar Creek
+    Sugar Creek-A
+    Sugar Creek-B
+    Sugar Creek-C
+    Sugar Creek-D
+    Sugar Creek-E
+    Sugar Creek-F
+    Taylor
+    Taylor A
+    Taylor B
+    Taylor C
+    Third East
+    Third West
+    Thorncreek North
+    Thorncreek Northeast
+    Thorncreek Northwest
+    Thorncreek South
+    Tippecanoe 01
+    Tippecanoe 02
+    Tippecanoe 03
+    Tippecanoe 04
+    Troy
+    Turkey Creek 01
+    Turkey Creek 02
+    Turkey Creek 03
+    Turkey Creek 04
+    Turkey Creek 05
+    Turkey Creek 06
+    Turkey Creek 07 (Nv)
+    Turman
+    Union
+    Union 01
+    Union 02
+    Union 03
+    Union 04
+    Union 05
+    Union 06
+    Union 07
+    Union 09
+    Union 1
+    Union 18
+    Union 2
+    Union 3
+    Union Columbia City
+    Union East
+    Union Precinct 01
+    Union Twp
+    Union West
+    Van Buren
+    Van Buren 01
+    Van Buren 02
+    Van Buren 03
+    Van Buren 1
+    Vernon East
+    Vernon West
+    Vigo 1
+    Vincennes City 1
+    Vincennes City 2
+    Vincennes City 3
+    Vincennes City 4
+    Vincennes City 5
+    Vincennes City 6
+    Vincennes City 7
+    Vincennes City 8
+    Vincennes Township 1
+    Vincennes Township 2
+    Vincennes Township 3
+    Vincennes Township 4
+    Vincennes Township 5
+    W 01
+    W 03
+    W 04
+    Wabash
+    Walker 12
+    Walnut
+    Ward 01 Precinct 01
+    Ward 01 Precinct 02
+    Ward 01 Precinct 03
+    Ward 01 Precinct 03 (Nv)
+    Ward 01 Precinct 05
+    Ward 01 Precinct 06
+    Ward 01 Precinct 07
+    Ward 01 Precinct 08
+    Ward 01 Precinct 09
+    Ward 01 Precinct 10
+    Ward 01 Precinct 13
+    Ward 01 Precinct 14
+    Ward 01 Precinct 15
+    Ward 01 Precinct 16
+    Ward 01 Precinct 17
+    Ward 02 Precinct 01
+    Ward 02 Precinct 02
+    Ward 02 Precinct 03
+    Ward 02 Precinct 03 (Nv)
+    Ward 02 Precinct 04
+    Ward 02 Precinct 05
+    Ward 02 Precinct 06
+    Ward 02 Precinct 09
+    Ward 02 Precinct 10
+    Ward 02 Precinct 11
+    Ward 02 Precinct 12
+    Ward 02 Precinct 14
+    Ward 02 Precinct 15
+    Ward 02 Precinct 16
+    Ward 02 Precinct 18
+    Ward 03 Precinct 01
+    Ward 03 Precinct 02
+    Ward 03 Precinct 05
+    Ward 03 Precinct 06
+    Ward 03 Precinct 09
+    Ward 03 Precinct 11
+    Ward 03 Precinct 12
+    Ward 03 Precinct 14
+    Ward 03 Precinct 15
+    Ward 03 Precinct 16
+    Ward 03 Precinct 17
+    Ward 03 Precinct 18
+    Ward 03 Precinct 19
+    Ward 03 Precinct 20
+    Ward 03 Precinct 21
+    Ward 03 Precinct 22
+    Ward 03 Precinct 23
+    Ward 04 Precinct 01
+    Ward 04 Precinct 02
+    Ward 04 Precinct 03
+    Ward 04 Precinct 04
+    Ward 04 Precinct 05
+    Ward 04 Precinct 06
+    Ward 04 Precinct 09
+    Ward 04 Precinct 11
+    Ward 04 Precinct 17
+    Ward 04 Precinct 18
+    Ward 04 Precinct 19
+    Ward 04 Precinct 20
+    Ward 04 Precinct 21
+    Ward 04 Precinct 22
+    Ward 04 Precinct 23
+    Ward 04 Precinct 24
+    Ward 05 Precinct 01
+    Ward 05 Precinct 02
+    Ward 05 Precinct 03
+    Ward 05 Precinct 05
+    Ward 05 Precinct 07
+    Ward 05 Precinct 08
+    Ward 05 Precinct 09
+    Ward 05 Precinct 10
+    Ward 05 Precinct 11
+    Ward 05 Precinct 12
+    Ward 05 Precinct 13
+    Ward 05 Precinct 14
+    Ward 05 Precinct 15
+    Ward 05 Precinct 16
+    Ward 06 Precinct 0 (Nv)
+    Ward 06 Precinct 01
+    Ward 06 Precinct 02
+    Ward 06 Precinct 03
+    Ward 06 Precinct 04
+    Ward 06 Precinct 05
+    Ward 06 Precinct 07
+    Ward 06 Precinct 08
+    Ward 06 Precinct 09
+    Ward 06 Precinct 11
+    Ward 06 Precinct 12
+    Ward 06 Precinct 13
+    Ward 06 Precinct 14
+    Ward 06 Precinct 15
+    Ward 06 Precinct 16
+    Ward 06 Precinct 17
+    Ward 3
+    Warren
+    Warren Twp
+    Washington
+    Washington 01
+    Washington 02
+    Washington 03
+    Washington 04
+    Washington 05
+    Washington 06
+    Washington 07
+    Washington 08
+    Washington 09
+    Washington 1
+    Washington 10
+    Washington 17
+    Washington 2
+    Washington 3
+    Washington 4
+    Washington North
+    Washington South
+    Washington Township
+    Waterloo 1
+    Wayne
+    Wayne - 5600
+    Wayne - 5700
+    Wayne - 5800
+    Wayne 01
+    Wayne 02
+    Wayne 03
+    Wayne 04
+    Wayne 05
+    Wayne 06
+    Wayne 06 Nv
+    Wayne 07
+    Wayne 08
+    Wayne 09
+    Wayne 1
+    Wayne 10
+    Wayne 11
+    Wayne 12
+    Wayne 13
+    Wayne 2
+    Wayne 3
+    Wayne Twp
+    Wct 01
+    Wct 02
+    Wct 03
+    Wct 04
+    Wct 06
+    Webster East
+    Webster West
+    West Memphis
+    West Root
+    Westfield 01
+    Westfield 02
+    Westfield 03
+    Westfield 04
+    Westfield 05
+    Westfield 06
+    Westfield 07
+    Westfield 08
+    Westfield 09
+    Westfield 10
+    Westfield 11
+    Westfield 12
+    Westfield 13
+    Westfield 14
+    Westfield 15
+    Westfield 16
+    Westfield 17
+    Westfield 18
+    Westfield 19
+    Westfield 20
+    Westfield 21
+    Westfield 22
+    Westfield 23
+    Westfield 24
+    Westfield 25
+    Westfield 26
+    Westfield 27
+    Westfield 28
+    Westfield 29
+    Westfield 30
+    Westfield 31
+    Westport
+    Whiskey Run 1
+    Whiskey Run 2
+    White River
+    White River 01
+    White River 02
+    White River 03
+    White River 04
+    White River 05
+    White River 06
+    White River 07
+    White River 08
+    White River 09
+    White River 10
+    White River 11
+    White River 12
+    White River 13
+    White River 14
+    White River 15
+    White River 16
+    White River 17
+    White River 18
+    White River 19
+    White River 20
+    White River 21
+    White River 22
+    White River 23
+    White River 24
+    White River 25
+    White River 26
+    White River 27
+    White River 28
+    White River 29
+    White River 30
+    White River 31
+    White River 32
+    White River 33
+    White River 34
+    White River 35
+    White River 36
+    White River 37
+    White River 38
+    White River 39
+    White River 40
+    White River 41
+    White River 42
+    White River 43
+    White River 44
+    White River 45
+    White River 46
+    Whitewater 1
+    Whitewater 2
+    Widner
+    Winslow
+    Wr001
+    Wr002
+    Wr003
+    Wr004
+    Wr005
+    Wr006
+    Wr007
+    Wr008
+    Wr009
+    Wr010
+    Wr011
+    Wr012
+    Wr013
+    Wr014
+    Wr015
+    Wr016
+    Wr017
+    Wr018
+    Wr019
+    Wr020
+    Wr021
+    Wr022
+    Wr023
+    Wr024
+    Wr025
+    Wr026
+    Wr027
+    Wr028
+    Wr029
+    Wr030
+    Wr031
+    Wr032
+    Wr033
+    Wr034
+    Wr035
+    Wr036
+    Wr037
+    Wr038
+    Wr039
+    Wr040
+    Wr041
+    Wr042
+    Wr043
+    Wr044
+    Wr045
+    Wr046
+    Wr047
+    Wr048
+    Wr049
+    Wr050
+    Wr051
+    Wr052
+    Wr053
+    Wr054
+    Wr055
+    Wr056
+    Wr057
+    Wr058
+    Wr059
+    Wr060
+    Wr061
+    Wr062
+    Wr063
+    Wright 1
+    Wright 2
+    Wright 3
+    Wright 4
+    Wright 5
+    Ws001
+    Ws002
+    Ws003
+    Ws004
+    Ws005
+    Ws006
+    Ws007
+    Ws008
+    Ws009
+    Ws010
+    Ws011
+    Ws012
+    Ws013
+    Ws014
+    Ws015
+    Ws016
+    Ws017
+    Ws018
+    Ws019
+    Ws020
+    Ws021
+    Ws022
+    Ws023
+    Ws024
+    Ws025
+    Ws026
+    Ws027
+    Ws028
+    Ws029
+    Ws030
+    Ws031
+    Ws032
+    Ws033
+    Ws034
+    Ws035
+    Ws036
+    Ws037
+    Ws038
+    Ws039
+    Ws040
+    Ws041
+    Ws042
+    Ws043
+    Ws044
+    Ws045
+    Ws046
+    Ws047
+    Ws048
+    Ws049
+    Ws050
+    Ws051
+    Ws052
+    Ws053
+    Ws054
+    Ws055
+    Ws056
+    Ws057
+    Ws058
+    Ws059
+    Ws060
+    Ws061
+    Ws062
+    Ws063
+    Ws064
+    Ws065
+    Ws066
+    Ws067
+    Ws068
+    Ws069
+    Ws070
+    Ws071
+    Ws072
+    Ws073
+    Ws074
+    Ws075
+    Ws076
+    Ws077
+    Ws078
+    Ws079
+    Ws080
+    Ws081
+    Ws082
+    Ws083
+    Ws084
+    Ws085
+    Ws086
+    Ws087
+    Ws088
+    Ws089
+    Ws090
+    Ws091
+    Ws092
+    Ws093
+    Ws094
+    Ws095
+    Ws096
+    Ws097
+    Ws098
+    Ws099
+    Ws100
+    Ws101
+    Ws102
+    Ws103
+    Ws104
+    Ws105
+    Ws106
+    Ws107
+    Wt 01
+    Wt 02
+    Wt 05
+    Wt 06
+    Wt 07
+    Wt 08
+    Wt 09
+    Wt 10
+    Wy001
+    Wy002
+    Wy003
+    Wy004
+    Wy005
+    Wy006
+    Wy007
+    Wy008
+    Wy009
+    Wy010
+    Wy011
+    Wy012
+    Wy013
+    Wy014
+    Wy015
+    Wy016
+    Wy017
+    Wy018
+    Wy019
+    Wy020
+    Wy021
+    Wy022
+    Wy023
+    Wy024
+    Wy025
+    Wy026
+    Wy027
+    Wy028
+    Wy029
+    Wy030
+    Wy031
+    Wy032
+    Wy033
+    Wy034
+    Wy035
+    Wy036
+    Wy037
+    Wy038
+    Wy039
+    Wy040
+    Wy041
+    Wy042
+    Wy043
+    Wy044
+    Wy045
+    Wy046
+    Wy047
+    Wy048
+    Wy049
+    Wy050
+    Wy051
+    Wy052
+    Wy053
+    Wy054
+    Wy055
+    Wy056
+    Wy057
+    Wy058
+    Wy059
+    Wy060
+    Wy061
+    Wy062
+    Wy063
+    Wy064
+    Wy065
+    Wy066
+    Wy067
+    Wy068
+    Wy069
+    Wy070
+    Wy071
+    Wy072
+    Wy073
+    Wy074
+    Wy075
+    Wy076
+    Wy077
+    Wy078
+    Wy079
+    Wy080
+    Wy081
+    Wy082
+    Wy083
+    Wy084
+    Wy085
+    York 01
+    York 02
+    York 1
+------
+

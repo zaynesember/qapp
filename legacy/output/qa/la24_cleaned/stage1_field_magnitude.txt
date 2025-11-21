@@ -1,0 +1,73 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    1.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in magnitude!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+   No Problems Found :) 
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1.0: ['US PRESIDENT' 'US HOUSE'
+ 'CA NO. 1 (ACT NO. 408, 2024 - HB 300) -- PROVIDES RELATIVE TO FEDERAL PROCEEDS FROM ALTERNATIVE ENERGY PRODUCTION']
+    <<<EC: VALUE WAS EMPTY>>>: ['JUDGE, COURT OF APPEAL' 'PSC' 'DISTRICT JUDGE' 'MAYOR' 'CHIEF OF POLICE'
+ 'ALDERMEN']
+------
+
+---------
+------
+ALL VALUES:
+    1.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+

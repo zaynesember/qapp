@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        ('BARRINGTON 0101', 'MODERATOR TOWN OF BARRINGTON', 'DEMOCRAT', 'BRISTOL', 'RICHARD F STAPLES JR', 'EARLY VOTING', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('BARRINGTON 0101', 'MODERATOR TOWN OF BARRINGTON', 'DEMOCRAT', 'BRISTOL', 'RICHARD F STAPLES JR', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('BARRINGTON 0101', 'MODERATOR TOWN OF BARRINGTON', 'DEMOCRAT', 'BRISTOL', 'RICHARD F STAPLES JR', 'MAIL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ...(skipping 83678 elements)
+        ('WOONSOCKET PRESIDENTIAL', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'PROVIDENCE', 'CLAUDIA DE LA CRUZ', 'ELECTION DAY', 'STATEWIDE', 'GEN', 'FALSE')
+        ('WOONSOCKET PRESIDENTIAL', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'PROVIDENCE', 'CLAUDIA DE LA CRUZ', 'MAIL', 'STATEWIDE', 'GEN', 'FALSE')
+        ('WOONSOCKET PRESIDENTIAL', 'US PRESIDENT', 'SOCIALISM AND LIBERATION', 'PROVIDENCE', 'CLAUDIA DE LA CRUZ', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

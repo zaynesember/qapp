@@ -1,0 +1,225 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ARKANSAS', ['ARKANSAS', 5001, ['05001']])
+    ('ASHLEY', ['ASHLEY', 5003, ['05003']])
+    ('BAXTER', ['BAXTER', 5005, ['05005']])
+    ('BENTON', ['BENTON', 5007, ['05007']])
+    ('BOONE', ['BOONE', 5009, ['05009']])
+    ('BRADLEY', ['BRADLEY', 5011, ['05011']])
+    ('CALHOUN', ['CALHOUN', 5013, ['05013']])
+    ('CARROLL', ['CARROLL', 5015, ['05015']])
+    ('CHICOT', ['CHICOT', 5017, ['05017']])
+    ('CLARK', ['CLARK', 5019, ['05019']])
+    ('CLAY', ['CLAY', 5021, ['05021']])
+    ('CLEBURNE', ['CLEBURNE', 5023, ['05023']])
+    ('CLEVELAND', ['CLEVELAND', 5025, ['05025']])
+    ('COLUMBIA', ['COLUMBIA', 5027, ['05027']])
+    ('CONWAY', ['CONWAY', 5029, ['05029']])
+    ('CRAIGHEAD', ['CRAIGHEAD', 5031, ['05031']])
+    ('CRAWFORD', ['CRAWFORD', 5033, ['05033']])
+    ('CRITTENDEN', ['CRITTENDEN', 5035, ['05035']])
+    ('CROSS', ['CROSS', 5037, ['05037']])
+    ('DALLAS', ['DALLAS', 5039, ['05039']])
+    ('DESHA', ['DESHA', 5041, ['05041']])
+    ('DREW', ['DREW', 5043, ['05043']])
+    ('FAULKNER', ['FAULKNER', 5045, ['05045']])
+    ('FRANKLIN', ['FRANKLIN', 5047, ['05047']])
+    ('FULTON', ['FULTON', 5049, ['05049']])
+    ('GARLAND', ['GARLAND', 5051, ['05051']])
+    ('GRANT', ['GRANT', 5053, ['05053']])
+    ('GREENE', ['GREENE', 5055, ['05055']])
+    ('HEMPSTEAD', ['HEMPSTEAD', 5057, ['05057']])
+    ('HOT SPRING', ['HOT SPRING', 5059, ['05059']])
+    ('HOWARD', ['HOWARD', 5061, ['05061']])
+    ('INDEPENDENCE', ['INDEPENDENCE', 5063, ['05063']])
+    ('IZARD', ['IZARD', 5065, ['05065']])
+    ('JACKSON', ['JACKSON', 5067, ['05067']])
+    ('JEFFERSON', ['JEFFERSON', 5069, ['05069']])
+    ('JOHNSON', ['JOHNSON', 5071, ['05071']])
+    ('LAFAYETTE', ['LAFAYETTE', 5073, ['05073']])
+    ('LAWRENCE', ['LAWRENCE', 5075, ['05075']])
+    ('LEE', ['LEE', 5077, ['05077']])
+    ('LINCOLN', ['LINCOLN', 5079, ['05079']])
+    ('LITTLE RIVER', ['LITTLE RIVER', 5081, ['05081']])
+    ('LOGAN', ['LOGAN', 5083, ['05083']])
+    ('LONOKE', ['LONOKE', 5085, ['05085']])
+    ('MADISON', ['MADISON', 5087, ['05087']])
+    ('MARION', ['MARION', 5089, ['05089']])
+    ('MILLER', ['MILLER', 5091, ['05091']])
+    ('MISSISSIPPI', ['MISSISSIPPI', 5093, ['05093']])
+    ('MONROE', ['MONROE', 5095, ['05095']])
+    ('MONTGOMERY', ['MONTGOMERY', 5097, ['05097']])
+    ('NEVADA', ['NEVADA', 5099, ['05099']])
+    ('NEWTON', ['NEWTON', 5101, ['05101']])
+    ('OUACHITA', ['OUACHITA', 5103, ['05103']])
+    ('PERRY', ['PERRY', 5105, ['05105']])
+    ('PHILLIPS', ['PHILLIPS', 5107, ['05107']])
+    ('PIKE', ['PIKE', 5109, ['05109']])
+    ('POINSETT', ['POINSETT', 5111, ['05111']])
+    ('POLK', ['POLK', 5113, ['05113']])
+    ('POPE', ['POPE', 5115, ['05115']])
+    ('PRAIRIE', ['PRAIRIE', 5117, ['05117']])
+    ('PULASKI', ['PULASKI', 5119, ['05119']])
+    ('RANDOLPH', ['RANDOLPH', 5121, ['05121']])
+    ('SALINE', ['SALINE', 5125, ['05125']])
+    ('SCOTT', ['SCOTT', 5127, ['05127']])
+    ('SEARCY', ['SEARCY', 5129, ['05129']])
+    ('SEBASTIAN', ['SEBASTIAN', 5131, ['05131']])
+    ('SEVIER', ['SEVIER', 5133, ['05133']])
+    ('SHARP', ['SHARP', 5135, ['05135']])
+    ('ST FRANCIS', ['ST FRANCIS', 5123, ['05123']])
+    ('STONE', ['STONE', 5137, ['05137']])
+    ('UNION', ['UNION', 5139, ['05139']])
+    ('VAN BUREN', ['VAN BUREN', 5141, ['05141']])
+    ('WASHINGTON', ['WASHINGTON', 5143, ['05143']])
+    ('WHITE', ['WHITE', 5145, ['05145']])
+    ('WOODRUFF', ['WOODRUFF', 5147, ['05147']])
+    ('YELL', ['YELL', 5149, ['05149']])
+------
+
+---------
+------
+ALL VALUES:
+    ARKANSAS
+    ASHLEY
+    BAXTER
+    BENTON
+    BOONE
+    BRADLEY
+    CALHOUN
+    CARROLL
+    CHICOT
+    CLARK
+    CLAY
+    CLEBURNE
+    CLEVELAND
+    COLUMBIA
+    CONWAY
+    CRAIGHEAD
+    CRAWFORD
+    CRITTENDEN
+    CROSS
+    DALLAS
+    DESHA
+    DREW
+    FAULKNER
+    FRANKLIN
+    FULTON
+    GARLAND
+    GRANT
+    GREENE
+    HEMPSTEAD
+    HOT SPRING
+    HOWARD
+    INDEPENDENCE
+    IZARD
+    JACKSON
+    JEFFERSON
+    JOHNSON
+    LAFAYETTE
+    LAWRENCE
+    LEE
+    LINCOLN
+    LITTLE RIVER
+    LOGAN
+    LONOKE
+    MADISON
+    MARION
+    MILLER
+    MISSISSIPPI
+    MONROE
+    MONTGOMERY
+    NEVADA
+    NEWTON
+    OUACHITA
+    PERRY
+    PHILLIPS
+    PIKE
+    POINSETT
+    POLK
+    POPE
+    PRAIRIE
+    PULASKI
+    RANDOLPH
+    SALINE
+    SCOTT
+    SEARCY
+    SEBASTIAN
+    SEVIER
+    SHARP
+    ST FRANCIS
+    STONE
+    UNION
+    VAN BUREN
+    WASHINGTON
+    WHITE
+    WOODRUFF
+    YELL
+------
+

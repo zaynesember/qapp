@@ -1,0 +1,643 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    1
+    10
+    11
+    13
+    15
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in district!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    AT LARGE ||| [[AT-LARGE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+    1 ||| [[041]]
+    2 ||| [[029]]
+    3 ||| [[043]]
+    4 ||| [[049]]
+    5 ||| [[045]]
+    7 ||| [[047]]
+    9 ||| [[049]]
+    11 ||| [[011]]
+    13 ||| [[013]]
+    15 ||| [[015]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('<<<EC: VALUE WAS EMPTY>>>',)
+        ('(Countywide) Cuming County PPD', 'CUMING COUNTY PUBLIC POWER DISTRICT', 'NONPARTISAN', 'COLFAX', 'TINA BITEGHE BI NDONG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('(Countywide) NPPD', 'NEBRASKA PUBLIC POWER DISTRICT', 'NONPARTISAN', 'GARDEN', 'RUSTY M KEMP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('(Countywide) Stanton County PPD', 'STANTON COUNTY PUBLIC POWER DISTRICT', 'NONPARTISAN', 'COLFAX', 'ROBERT E SCHELLPEPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 16514 elements)
+        ('Yutan Rural', 'US PRESIDENT', 'REPUBLICAN', 'SAUNDERS', 'DONALD J TRUMP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'WORKERS COMPENSATION COURT - RETAIN JULIE A MARTIN', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'WORKERS COMPENSATION COURT - RETAIN JULIE A MARTIN', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('6',)
+        ('01', 'COUNTY COURT - RETAIN JAMES ORR', '<<<EC: VALUE WAS EMPTY>>>', 'LOUP', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01', 'COUNTY COURT - RETAIN JAMES ORR', '<<<EC: VALUE WAS EMPTY>>>', 'LOUP', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Antelope, Iowa & Verdigris', 'COUNTY COURT - RETAIN JAMES ORR', '<<<EC: VALUE WAS EMPTY>>>', 'HOLT', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 598 elements)
+        ('Woodriver', 'COUNTY COURT - RETAIN JAMES ORR', '<<<EC: VALUE WAS EMPTY>>>', 'CUSTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wounded Knee', 'DISTRICT COURT - RETAIN DEREK C WEIMER', '<<<EC: VALUE WAS EMPTY>>>', 'SHERIDAN', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wounded Knee', 'DISTRICT COURT - RETAIN DEREK C WEIMER', '<<<EC: VALUE WAS EMPTY>>>', 'SHERIDAN', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('AT LARGE',)
+        ('01', 'MID-PLAINS COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'LOUP', 'TED A KLUG JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 - SSC Ward 1', 'NORTHEAST COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'DAKOTA', 'JEFF SCHERER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Antelope, Iowa & Verdigris', 'NORTHEAST COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'HOLT', 'JEFF SCHERER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1228 elements)
+        ('Yankee Hill', 'SOUTHEAST COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'LANCASTER', 'NEAL STENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan City', 'SOUTHEAST COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'SAUNDERS', 'NEAL STENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'SOUTHEAST COMMUNITY COLLEGE FOR BOARD OF GOVERNORS', 'NONPARTISAN', 'SAUNDERS', 'NEAL STENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('043',)
+        ('01', 'STATE SENATE', 'NONPARTISAN', 'LOUP', 'TANYA STORER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01', 'STATE SENATE', 'NONPARTISAN', 'LOUP', 'TONY TANGWALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('ANSELMO', 'STATE SENATE', 'NONPARTISAN', 'CUSTER', 'TANYA STORER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 116 elements)
+        ('Woodriver', 'STATE SENATE', 'NONPARTISAN', 'CUSTER', 'TONY TANGWALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wounded Knee', 'STATE SENATE', 'NONPARTISAN', 'SHERIDAN', 'TANYA STORER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wounded Knee', 'STATE SENATE', 'NONPARTISAN', 'SHERIDAN', 'TONY TANGWALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('003',)
+        ('01', 'US HOUSE', 'DEMOCRAT', 'LOUP', 'DANIEL EBERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01', 'US HOUSE', 'REPUBLICAN', 'LOUP', 'ADRIAN SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 - SSC Ward 1', 'US HOUSE', 'DEMOCRAT', 'DAKOTA', 'DANIEL EBERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1296 elements)
+        ('Wounded Knee', 'US HOUSE', 'REPUBLICAN', 'SHERIDAN', 'ADRIAN SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'US HOUSE', 'DEMOCRAT', 'GAGE', 'DANIEL EBERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'US HOUSE', 'REPUBLICAN', 'GAGE', 'ADRIAN SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('STATEWIDE',)
+        ('01', 'US SENATE', 'DEMOCRAT', 'LOUP', 'DAN OSBORN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01', 'US SENATE', 'REPUBLICAN', 'LOUP', 'DEB FISCHER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01', 'US SENATE - 2 YEAR TERM', 'DEMOCRAT', 'LOUP', 'PRESTON LOVE JR', 'TOTAL', 'GEN', 'TRUE', '2024-11-05')
+        ...(skipping 5297 elements)
+        ('Yutan Rural', 'US SENATE', 'REPUBLICAN', 'SAUNDERS', 'DEB FISCHER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'US SENATE - 2 YEAR TERM', 'DEMOCRAT', 'SAUNDERS', 'PRESTON LOVE JR', 'TOTAL', 'GEN', 'TRUE', '2024-11-05')
+        ('Yutan Rural', 'US SENATE - 2 YEAR TERM', 'REPUBLICAN', 'SAUNDERS', 'PETE RICKETTS', 'TOTAL', 'GEN', 'TRUE', '2024-11-05')
+
+    ('8',)
+        ('01 - SSC Ward 1', 'COUNTY COURT - RETAIN EDWARD H MATNEY', '<<<EC: VALUE WAS EMPTY>>>', 'DAKOTA', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 - SSC Ward 1', 'COUNTY COURT - RETAIN EDWARD H MATNEY', '<<<EC: VALUE WAS EMPTY>>>', 'DAKOTA', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 - SSC Ward 1', 'COUNTY COURT - RETAIN FRANCIS W BARRON III', '<<<EC: VALUE WAS EMPTY>>>', 'DAKOTA', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 560 elements)
+        ('Winnebago', 'COUNTY COURT - RETAIN FRANCIS W BARRON III', '<<<EC: VALUE WAS EMPTY>>>', 'THURSTON', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'DISTRICT COURT - RETAIN LINDA A BAUER', '<<<EC: VALUE WAS EMPTY>>>', 'GAGE', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'DISTRICT COURT - RETAIN LINDA A BAUER', '<<<EC: VALUE WAS EMPTY>>>', 'GAGE', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('017',)
+        ('01 - SSC Ward 1', 'STATE SENATE', 'NONPARTISAN', 'DAKOTA', 'GLEN MEYER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01 - SSC Ward 1', 'STATE SENATE', 'NONPARTISAN', 'DAKOTA', 'MIKE ALBRECHT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02 - SSC Ward 2', 'STATE SENATE', 'NONPARTISAN', 'DAKOTA', 'GLEN MEYER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 56 elements)
+        ('Wakefield', 'STATE SENATE', 'NONPARTISAN', 'DIXON', 'MIKE ALBRECHT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winnebago', 'STATE SENATE', 'NONPARTISAN', 'THURSTON', 'GLEN MEYER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Winnebago', 'STATE SENATE', 'NONPARTISAN', 'THURSTON', 'MIKE ALBRECHT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('4',)
+        ('01-01', 'COUNTY COURT - RETAIN STEPHANIE R HANSEN', '<<<EC: VALUE WAS EMPTY>>>', 'DOUGLAS', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', 'COUNTY COURT - RETAIN STEPHANIE R HANSEN', '<<<EC: VALUE WAS EMPTY>>>', 'DOUGLAS', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', 'DISTRICT COURT - RETAIN HORACIO J WHEELOCK', '<<<EC: VALUE WAS EMPTY>>>', 'DOUGLAS', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4681 elements)
+        ('Stockton', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'LANCASTER', 'CHERI WIRTHELE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Table Rock', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'PAWNEE', 'LANA WILLMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('WMuddy/Porter', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'RICHARDSON', 'LANA WILLMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('013',)
+        ('01-01', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ASHLEI SPIVEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'NICK BATTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-02', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ASHLEI SPIVEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 28 elements)
+        ('08-09', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'NICK BATTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-12', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ASHLEI SPIVEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-12', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'NICK BATTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('002',)
+        ('01-01', 'US HOUSE', 'DEMOCRAT', 'DOUGLAS', 'TONY VARGAS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-01', 'US HOUSE', 'REPUBLICAN', 'DOUGLAS', 'DON BACON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('01-02', 'US HOUSE', 'DEMOCRAT', 'DOUGLAS', 'TONY VARGAS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 546 elements)
+        ('Yutan City', 'US HOUSE', 'REPUBLICAN', 'SAUNDERS', 'DON BACON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'US HOUSE', 'DEMOCRAT', 'SAUNDERS', 'TONY VARGAS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'US HOUSE', 'REPUBLICAN', 'SAUNDERS', 'DON BACON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('011',)
+        ('02-06', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02-07', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02-08', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8 elements)
+        ('02-21', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02-22', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02-23', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TERRELL MCKINNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('007',)
+        ('02-24', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'DUNIXI GUERECA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('02-24', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TIM C PENDRELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-03', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'DUNIXI GUERECA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('04-12', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TIM C PENDRELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('04-13', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'DUNIXI GUERECA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('04-13', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TIM C PENDRELL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('009',)
+        ('03-01', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JOHN CAVANAUGH JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-01', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JULIA K PALZER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-02', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JOHN CAVANAUGH JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20 elements)
+        ('03-19', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JULIA K PALZER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-20', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JOHN CAVANAUGH JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-20', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'JULIA K PALZER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('005',)
+        ('03-21', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'GILBERT AYALA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('03-21', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARGO R JUAREZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('04-05', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'GILBERT AYALA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('04-17', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARGO R JUAREZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('04-18', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'GILBERT AYALA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('04-18', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARGO R JUAREZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('3',)
+        ('05-03', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DOUGLAS', 'MARY SCARBOROUGH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('05-04', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DOUGLAS', 'MARY SCARBOROUGH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('05-05', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DOUGLAS', 'MARY SCARBOROUGH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2899 elements)
+        ('Yankee Hill', 'SEPARATE JUVENILE COURT - RETAIN ELISE MW WHITE', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'SEPARATE JUVENILE COURT - RETAIN SHELLIE D SABATA', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'SEPARATE JUVENILE COURT - RETAIN SHELLIE D SABATA', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('031',)
+        ('05-10', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'KATHLEEN KAUTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('05-10', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARY ANN FOLCHERT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('05-11', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'KATHLEEN KAUTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 28 elements)
+        ('08-37', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARY ANN FOLCHERT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-38', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'KATHLEEN KAUTH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-38', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'MARY ANN FOLCHERT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('039',)
+        ('05-20', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ALLISON HEIMES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('05-20', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TONY SORRENTINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('06-24', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ALLISON HEIMES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('08-47', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TONY SORRENTINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-48', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ALLISON HEIMES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-48', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'TONY SORRENTINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('015',)
+        ('08-33', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'DAVE WORDEKEMPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-33', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'ROXIE KRACL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('08-35', 'STATE SENATE', 'NONPARTISAN', 'DOUGLAS', 'DAVE WORDEKEMPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 64 elements)
+        ('Union/Cott/Ridg/PV Twps', 'STATE SENATE', 'NONPARTISAN', 'DODGE', 'ROXIE KRACL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Webster Township', 'STATE SENATE', 'NONPARTISAN', 'DODGE', 'DAVE WORDEKEMPER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Webster Township', 'STATE SENATE', 'NONPARTISAN', 'DODGE', 'ROXIE KRACL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('2',)
+        ('08-46', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DOUGLAS', 'GEORGE J ROBERTSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ashland Rural', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SAUNDERS', 'GEORGE J ROBERTSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ashland Ward 1', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SAUNDERS', 'GEORGE J ROBERTSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 192 elements)
+        ('West Point', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'CUMING', 'WAYNE ERICKSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan City', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SAUNDERS', 'GEORGE J ROBERTSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SAUNDERS', 'GEORGE J ROBERTSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('7',)
+        ('1', 'COUNTY COURT - RETAIN JOHN P RADEMACHER', '<<<EC: VALUE WAS EMPTY>>>', 'HALL', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1', 'COUNTY COURT - RETAIN JOHN P RADEMACHER', '<<<EC: VALUE WAS EMPTY>>>', 'HALL', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10', 'COUNTY COURT - RETAIN JOHN P RADEMACHER', '<<<EC: VALUE WAS EMPTY>>>', 'HALL', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 450 elements)
+        ('Wilber', 'DISTRICT COURT - RETAIN JEFFREY A GAERTIG', '<<<EC: VALUE WAS EMPTY>>>', 'SALINE', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'DISTRICT COURT - RETAIN JEFFREY A GAERTIG', '<<<EC: VALUE WAS EMPTY>>>', 'GAGE', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wymore Area', 'DISTRICT COURT - RETAIN JEFFREY A GAERTIG', '<<<EC: VALUE WAS EMPTY>>>', 'GAGE', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('10',)
+        ('1', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HALL', 'MARY V STOLTENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HALL', 'MARY V STOLTENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('11', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HALL', 'MARY V STOLTENBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('Precinct 9', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'BUFFALO', 'LANNY R KIZER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 9', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'BUFFALO', 'MARK J REID', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ringgold', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DAWSON', 'TERESA L OSBORN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('035',)
+        ('1', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'DAN QUICK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'RAY AGUILAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'DAN QUICK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('8', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'RAY AGUILAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('9', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'DAN QUICK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('9', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'RAY AGUILAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('027',)
+        ('1 A', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'DAWN LIPHARDT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'JASON PROKOP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A-1', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'DAWN LIPHARDT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('5 E-9', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'JASON PROKOP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'DAWN LIPHARDT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'JASON PROKOP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('1',)
+        ('1 A', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A-1', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 410 elements)
+        ('West Salt', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'SUPREME COURT - RETAIN STEPHANIE F STACY', '<<<EC: VALUE WAS EMPTY>>>', 'LANCASTER', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('001',)
+        ('1 A', 'US HOUSE', 'DEMOCRAT', 'LANCASTER', 'CAROL BLOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A', 'US HOUSE', 'REPUBLICAN', 'LANCASTER', 'MIKE FLOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 A-1', 'US HOUSE', 'DEMOCRAT', 'LANCASTER', 'CAROL BLOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 912 elements)
+        ('Western', 'STATE SENATE', 'NONPARTISAN', 'JOHNSON', 'ROBERT HALLSTROM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'US HOUSE', 'DEMOCRAT', 'LANCASTER', 'CAROL BLOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yankee Hill', 'US HOUSE', 'REPUBLICAN', 'LANCASTER', 'MIKE FLOOD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('021',)
+        ('1 D-10', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'BEAU BALLARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 D-10', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'SETH DERNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1 D-11', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'BEAU BALLARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('Waverly South', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'SETH DERNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('West Salt', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'BEAU BALLARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('West Salt', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'SETH DERNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('029',)
+        ('10 B-3', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10 D-1', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10 D-2', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('9 F-9', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('9 G-2', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('9 G-4', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'ELIOT BOSTAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('025',)
+        ('10 E-10', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'CAROLYN BOSN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10 E-10', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'NICKI BEHMER POPP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('10 E-11', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'CAROLYN BOSN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 56 elements)
+        ('Nemaha #1', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'NICKI BEHMER POPP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stockton', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'CAROLYN BOSN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stockton', 'STATE SENATE', 'NONPARTISAN', 'LANCASTER', 'NICKI BEHMER POPP', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('5',)
+        ('1A', 'COUNTY COURT - RETAIN LYNELLE D HOMOLKA', '<<<EC: VALUE WAS EMPTY>>>', 'PLATTE', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1A', 'COUNTY COURT - RETAIN LYNELLE D HOMOLKA', '<<<EC: VALUE WAS EMPTY>>>', 'PLATTE', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1A', 'DISTRICT COURT - RETAIN JAMES C STECKER', '<<<EC: VALUE WAS EMPTY>>>', 'PLATTE', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 840 elements)
+        ('Yutan Rural', 'DISTRICT COURT - RETAIN JAMES C STECKER', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'DISTRICT COURT - RETAIN RACHEL DAUGHERTY', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'NO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'DISTRICT COURT - RETAIN RACHEL DAUGHERTY', '<<<EC: VALUE WAS EMPTY>>>', 'SAUNDERS', 'YES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('9',)
+        ('1A', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'ADAMS', 'MARY YILK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1B', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'ADAMS', 'MARY YILK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1C', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'ADAMS', 'MARY YILK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 32 elements)
+        ('Ward 3', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HAMILTON', 'JULIE L JENSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('West Blue/Grafton/Bennett', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'FILLMORE', 'KENNETH A SPRAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('West Blue/Highland', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'ADAMS', 'BETH KOHMETSCHER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('033',)
+        ('1A', 'STATE SENATE', 'NONPARTISAN', 'ADAMS', 'DAN LONOWSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1A', 'STATE SENATE', 'NONPARTISAN', 'ADAMS', 'MICHELLE R SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('1B', 'STATE SENATE', 'NONPARTISAN', 'ADAMS', 'DAN LONOWSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 68 elements)
+        ('Westmark-Center', 'STATE SENATE', 'NONPARTISAN', 'PHELPS', 'MICHELLE R SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westside-Williamsburg', 'STATE SENATE', 'NONPARTISAN', 'PHELPS', 'DAN LONOWSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westside-Williamsburg', 'STATE SENATE', 'NONPARTISAN', 'PHELPS', 'MICHELLE R SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('13',)
+        ('1st Ward', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'KIMBALL', 'STEPHEN C DIEMOZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('2nd Ward', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'KIMBALL', 'STEPHEN C DIEMOZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Antelope', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'KIMBALL', 'STEPHEN C DIEMOZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('WEST CAMP CLARKE', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'MORRILL', 'THOMAS J MILLETTE JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('West Gordon', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SHERIDAN', 'KIM MARX', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wounded Knee', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'SHERIDAN', 'KIM MARX', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('041',)
+        ('21', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'DANIEL D MCKEON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('21', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'ETHAN CLARK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('22', 'STATE SENATE', 'NONPARTISAN', 'HALL', 'DANIEL D MCKEON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('Wheeler', 'STATE SENATE', 'NONPARTISAN', 'WHEELER', 'ETHAN CLARK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolbach', 'STATE SENATE', 'NONPARTISAN', 'GREELEY', 'DANIEL D MCKEON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Wolbach', 'STATE SENATE', 'NONPARTISAN', 'GREELEY', 'ETHAN CLARK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('047',)
+        ('Arthur', 'STATE SENATE', 'NONPARTISAN', 'ARTHUR', 'LARRY LS BOLINGER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Arthur', 'STATE SENATE', 'NONPARTISAN', 'ARTHUR', 'PAUL E STROMMEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('BROADWATER', 'STATE SENATE', 'NONPARTISAN', 'MORRILL', 'LARRY LS BOLINGER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('WEST BAYARD', 'STATE SENATE', 'NONPARTISAN', 'MORRILL', 'PAUL E STROMMEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST CAMP CLARKE', 'STATE SENATE', 'NONPARTISAN', 'MORRILL', 'LARRY LS BOLINGER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST CAMP CLARKE', 'STATE SENATE', 'NONPARTISAN', 'MORRILL', 'PAUL E STROMMEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('023',)
+        ('Ashland Rural', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'DENNIS C FUJAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ashland Rural', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'JARED STORM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Ashland Ward 1', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'DENNIS C FUJAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('Yutan City', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'JARED STORM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'DENNIS C FUJAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Yutan Rural', 'STATE SENATE', 'NONPARTISAN', 'SAUNDERS', 'JARED STORM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('019',)
+        ('BC City-BC Pct', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'JEANNE M REIGLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('BC City-BC Pct', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'ROB DOVER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('MG-J-G-H-Tilden City', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'JEANNE M REIGLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('U-F-GG-Madison Pct', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'ROB DOVER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Warnerville Pct.', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'JEANNE M REIGLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Warnerville Pct.', 'STATE SENATE', 'NONPARTISAN', 'MADISON', 'ROB DOVER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('15',)
+        ('Benkelman I', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DUNDY', 'NATHAN EUGENE BEHLKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benkelman II', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DUNDY', 'NATHAN EUGENE BEHLKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Benkelman III', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'DUNDY', 'NATHAN EUGENE BEHLKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('Stockville', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'FRONTIER', 'LARRY GOSSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Stratton', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HITCHCOCK', 'NATHAN EUGENE BEHLKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Trenton', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'HITCHCOCK', 'KATHRYN REPASS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('11',)
+        ('Bertrand', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'PHELPS', 'DENIS REESE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Campbell', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'FRANKLIN', 'MACHELLE A HAVENRIDGE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('East Franklin', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'FRANKLIN', 'MACHELLE A HAVENRIDGE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8 elements)
+        ('West Franklin', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'FRANKLIN', 'MACHELLE A HAVENRIDGE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westmark-Center', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'PHELPS', 'DENIS REESE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Westside-Williamsburg', 'EDUCATIONAL SERVICE UNIT', 'NONPARTISAN', 'PHELPS', 'DENIS REESE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('037',)
+        ('Precinct 1', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'LANA PEISTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 1', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'STANLEY CLOUSE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 10', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'LANA PEISTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 32 elements)
+        ('Precinct 8', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'STANLEY CLOUSE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 9', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'LANA PEISTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 9', 'STATE SENATE', 'NONPARTISAN', 'BUFFALO', 'STANLEY CLOUSE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('045',)
+        ('Precinct 1', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'RITA SANDERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 1', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'SARAH F CENTINEO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 10', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'RITA SANDERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 20 elements)
+        ('Precinct 8', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'SARAH F CENTINEO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 9', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'RITA SANDERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 9', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'SARAH F CENTINEO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+    ('049',)
+        ('Precinct 46', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'BOB ANDERSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 46', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'JEN DAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 47', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'BOB ANDERSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('Precinct 62', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'JEN DAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 63', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'BOB ANDERSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('Precinct 63', 'STATE SENATE', 'NONPARTISAN', 'SARPY', 'JEN DAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    001
+    002
+    003
+    005
+    007
+    009
+    011
+    013
+    015
+    017
+    019
+    021
+    023
+    025
+    027
+    029
+    031
+    033
+    035
+    037
+    039
+    041
+    043
+    045
+    047
+    049
+    1
+    10
+    11
+    13
+    15
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    <<<EC: VALUE WAS EMPTY>>>
+    AT LARGE
+    STATEWIDE
+------
+

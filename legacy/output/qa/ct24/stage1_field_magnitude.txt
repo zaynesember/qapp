@@ -1,0 +1,72 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    1.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in magnitude!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+   No Problems Found :) 
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1.0: ['US PRESIDENT' 'US SENATE' 'US HOUSE' 'STATE SENATE' 'STATE HOUSE']
+    <<<EC: VALUE WAS EMPTY>>>: ['REGISTRAR OF VOTERS' 'BOARD OF EDUCATION' 'JUDGE OF PROBATE'
+ 'REPRESENTATIVE TOWN MEETING' 'TOWN COUNCIL']
+------
+
+---------
+------
+ALL VALUES:
+    1.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+

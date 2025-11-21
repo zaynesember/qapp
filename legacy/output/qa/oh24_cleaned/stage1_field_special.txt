@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('01NEWLEXAB', 'BALLOTS COUNTED', '<<<EC: VALUE WAS EMPTY>>>', 'PERRY', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('01NEWLEXAB', 'CLERK OF THE COURT OF COMMON PLEAS', 'REPUBLICAN', 'PERRY', 'WES HARLAN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('01NEWLEXAB', 'COUNTY COMMISSIONER TERM COMMENCING 01/02/2025', 'REPUBLICAN', 'PERRY', 'BENJAMIN CARPENTER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 3060492 elements)
+        ('YORK TOWNSHIP', 'US SENATE', 'DEMOCRAT', 'ATHENS', 'SHERROD BROWN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('YORK TOWNSHIP', 'US SENATE', 'NONPARTISAN', 'ATHENS', 'DON KISSICK', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('YORK TOWNSHIP', 'US SENATE', 'REPUBLICAN', 'ATHENS', 'BERNIE MORENO', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('01NEWLEXAB', 'COUNTY AUDITOR UNEXPIRED TERM ENDING 03/07/2027', 'NONPARTISAN', 'PERRY', 'DEREK HOUSEHOLDER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('01NEWLEXAB', 'COUNTY AUDITOR UNEXPIRED TERM ENDING 03/07/2027', 'NONPARTISAN', 'PERRY', 'LUCINDA REICHLEY YINGER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('01NEWLEXAB', 'COUNTY AUDITOR UNEXPIRED TERM ENDING 03/07/2027', 'NONPARTISAN', 'PERRY', 'RON BAKER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 20065 elements)
+        ('YORK B', 'JUSTICE OF THE SUPREME COURT UNEXPIRED TERM ENDING 12/31/2026', 'REPUBLICAN', 'SANDUSKY', 'DANIEL R HAWKINS', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('YORK TOWNSHIP', 'JUSTICE OF THE SUPREME COURT UNEXPIRED TERM ENDING 12/31/2026', 'DEMOCRAT', 'ATHENS', 'LISA FORBES', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('YORK TOWNSHIP', 'JUSTICE OF THE SUPREME COURT UNEXPIRED TERM ENDING 12/31/2026', 'REPUBLICAN', 'ATHENS', 'DANIEL R HAWKINS', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

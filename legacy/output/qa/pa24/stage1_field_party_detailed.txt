@@ -1,0 +1,122 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+    DEMOCRATIC / REPUBLICAN ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+    DEMOCRATIC / REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    GREEN ||| [[GRE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+    DEMOCRAT ||| [[DEMOCRATIC / REPUBLICAN]]
+    REPUBLICAN ||| [[DEMOCRATIC / REPUBLICAN]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    AMERICAN SOLIDATORY
+    CONSTITUTION
+    DEMOCRAT
+    DEMOCRATIC / REPUBLICAN
+    FORWARD
+    GREEN
+    LIBERTARIAN
+    REPUBLICAN
+------
+

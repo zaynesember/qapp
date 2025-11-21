@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('1000001', 'COURT OF CRIMINAL APPEALS', 'DEMOCRAT', 'HARDIN', 'ANYIAM', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ('1000001', 'COURT OF CRIMINAL APPEALS', 'DEMOCRAT', 'HARDIN', 'MULDER', 'TOTAL', '007', 'GEN', '2024-11-05')
+        ('1000001', 'COURT OF CRIMINAL APPEALS', 'REPUBLICAN', 'HARDIN', 'FINLEY', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ...(skipping 457992 elements)
+        ('990004', 'US SENATE', 'INDEPENDENT', 'HARDEMAN', 'ROCHE', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('990004', 'US SENATE', 'LIBERTARIAN', 'HARDEMAN', 'BROWN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('990004', 'US SENATE', 'REPUBLICAN', 'HARDEMAN', 'CRUZ', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('1010001', 'US HOUSE', 'DEMOCRAT', 'HARRIS', 'TURNER', 'TOTAL', '018', 'GEN', '2024-11-05')
+        ('1010001', 'US HOUSE', 'INDEPENDENT', 'HARRIS', 'DUNCAN', 'TOTAL', '018', 'GEN', '2024-11-05')
+        ('1010001', 'US HOUSE', 'REPUBLICAN', 'HARRIS', 'CENTONZE', 'TOTAL', '018', 'GEN', '2024-11-05')
+        ...(skipping 1082 elements)
+        ('1550084', 'STATE HOUSE', 'REPUBLICAN', 'MCLENNAN', 'CURRY', 'TOTAL', '056', 'GEN', '2024-11-05')
+        ('1550091', 'STATE HOUSE', 'DEMOCRAT', 'MCLENNAN', 'SHANK', 'TOTAL', '056', 'GEN', '2024-11-05')
+        ('1550091', 'STATE HOUSE', 'REPUBLICAN', 'MCLENNAN', 'CURRY', 'TOTAL', '056', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

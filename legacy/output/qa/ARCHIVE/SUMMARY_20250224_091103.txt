@@ -1,0 +1,21 @@
+~ output/qa/WI-cleaned/SUMMARY.txt on 2025-02-24, begun at 09:10:29 ~
+
+SIMILARITY CHECK found potential issues in stage1_field_precinct.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SPECIAL CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+CHARACTER CHECK found potential issues in stage1_field_votes.txt
+SIMILARITY CHECK found potential issues in stage1_field_votes.txt
+SPECIAL CHECK found potential issues in stage1_field_county_fips.txt
+DUPLICATES CHECK found potential issues in stage1_field_jurisdiction_name.txt
+SPECIAL CHECK found potential issues in stage1_field_jurisdiction_name.txt
+CHARACTER CHECK found potential issues in stage1_field_candidate.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

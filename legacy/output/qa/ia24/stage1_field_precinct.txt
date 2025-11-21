@@ -1,0 +1,2571 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    MAY CITY ||| [[CITY]]
+    Sac City ||| [[CITY]]
+    TAMA TWP ||| [[TW]]
+    Pella Two ||| [[TW]]
+    DEWITT TWP ||| [[TW]]
+    ADEL TWP AT ||| [[TW]]
+    Eldora City ||| [[CITY]]
+    MILFORD TWP ||| [[TW]]
+    POLK CITY 1 ||| [[CITY]]
+    POLK CITY 2 ||| [[CITY]]
+    Wilton City ||| [[CITY]]
+    CAMANCHE TWP ||| [[TW]]
+    FRANKLIN TWP ||| [[TW]]
+    Marengo City ||| [[CITY]]
+    STORY CITY 1 ||| [[CITY]]
+    CONCORDIA TWP ||| [[TW]]
+    Falls Twp Pct ||| [[TW]]
+    Knoxville Two ||| [[TW]]
+    Oran Township ||| [[TOWN]]
+    Dover Township ||| [[TOWN]]
+    Grant Township ||| [[TOWN]]
+    Grimes Twp Pct ||| [[TW]]
+    Maine Township ||| [[TOWN]]
+    Union Township ||| [[TOWN]]
+    WASHINGTON TWP ||| [[TW]]
+    Wapsi Township ||| [[TOWN]]
+    Essex City Hall ||| [[CITY]]
+    Putnam Township ||| [[TOWN]]
+    Wilton Township ||| [[TOWN]]
+    #7 Jefferson Twp ||| [[TW]]
+    AMES 3/GRANT TWP ||| [[TW]]
+    Bertram Township ||| [[TOWN]]
+    Clinton Township ||| [[TOWN]]
+    Fairfax Township ||| [[TOWN]]
+    Fayette Township ||| [[TOWN]]
+    Illyria Township ||| [[TOWN]]
+    Indiana Township ||| [[TOWN]]
+    Jackson Township ||| [[TOWN]]
+    #8 City of Denver ||| [[CITY]]
+    AMES 5/WASH TWP 2 ||| [[TW]]
+    Clermont Township ||| [[TOWN]]
+    Franklin Township ||| [[TOWN]]
+    Glenwood Township ||| [[TOWN]]
+    ROLAND/HOWARD TWP ||| [[TW]]
+    VAN METER CITY VM ||| [[CITY]]
+    AMES 16/WASH TWP 3 ||| [[TW]]
+    Forest City Ward 1 ||| [[CITY]]
+    Forest City Ward 2 ||| [[CITY]]
+    Forest City Ward 4 ||| [[CITY]]
+    Knoxville Township ||| [[TOWN]]
+    Marion Township 01 ||| [[TOWN]]
+    Marion Township 02 ||| [[TOWN]]
+    Mason City W-1 P-1 ||| [[CITY]]
+    Mason City W-1 P-2 ||| [[CITY]]
+    Mason City W-1 P-3 ||| [[CITY]]
+    Mason City W-2 P-1 ||| [[CITY]]
+    Mason City W-2 P-2 ||| [[CITY]]
+    Mason City W-2 P-3 ||| [[CITY]]
+    Mason City W-3 P-1 ||| [[CITY]]
+    Mason City W-3 P-2 ||| [[CITY]]
+    Mason City W-3 P-3 ||| [[CITY]]
+    Mason City W-4 P-1 ||| [[CITY]]
+    Mason City W-4 P-2 ||| [[CITY]]
+    Mason City W-4 P-3 ||| [[CITY]]
+    Monroe Township 01 ||| [[TOWN]]
+    Monroe Township 02 ||| [[TOWN]]
+    21 Asbury City Hall ||| [[CITY]]
+    29 Farley City Hall ||| [[CITY]]
+    COLLINS/COLLINS TWP ||| [[TW]]
+    COLO/NEW ALBANY TWP ||| [[TW]]
+    Danville Hanlontown ||| [[TOWN]]
+    Doon City Hall - P5 ||| [[CITY]]
+    NEVADA 4/NEVADA TWP ||| [[TW]]
+    Washington Township ||| [[TOWN]]
+    30 Cascade City Hall ||| [[CITY]]
+    32 Woodbury Township ||| [[TOWN]]
+    Auburn-Eden Township ||| [[TOWN]]
+    Galva Twp/Galva City ||| [[CITY]]
+    HUXLEY 1/UNION TWP 2 ||| [[TW]]
+    NEVADA 2/GRANT TWP 2 ||| [[TW]]
+    Otter Creek Township ||| [[TOWN]]
+    Pike/City of Nichols ||| [[CITY]]
+    Silver City/Ingraham ||| [[CITY]]
+    VAN METER TWP VM TWP ||| [[TW]]
+    (BU) Buffalo Township ||| [[TOWN]]
+    AMES 7/FRANKLIN TWP 2 ||| [[TW]]
+    CAMBRIDGE/UNION TWP 1 ||| [[TW]]
+    EMMET-ESTHERVILLE TWP ||| [[TW]]
+    GRIMES/WALNUT TWP GWT ||| [[TW]]
+    Lake Prairie Township ||| [[TOWN]]
+    NEVADA 1/RICHLAND TWP ||| [[TW]]
+    Pct 3 - PO/FK/PV City ||| [[CITY]]
+    Pct 4 - LT/PC/WV City ||| [[CITY]]
+    Pct 5 - FV/TL/HF City ||| [[CITY]]
+    Pct 7 - IA/UC/NA City ||| [[CITY]]
+    Spring Grove Township ||| [[TOWN]]
+    #8-Perry Township Hall ||| [[TOWN]]
+    (EL1) City of Eldridge ||| [[CITY]]
+    (EL2) City of Eldridge ||| [[CITY]]
+    (LC1) City of LeClaire ||| [[CITY]]
+    (LC2) City of LeClaire ||| [[CITY]]
+    (RV) City of Riverdale ||| [[CITY]]
+    Banks-Fremont Township ||| [[TOWN]]
+    Center-Harlan Township ||| [[TOWN]]
+    City of Spencer Ward 1 ||| [[CITY]]
+    City of Spencer Ward 2 ||| [[CITY]]
+    City of Spencer Ward 3 ||| [[CITY]]
+    City of Spencer Ward 5 ||| [[CITY]]
+    HUXLEY 2/PALESTINE TWP ||| [[TW]]
+    LNT - Lincoln Township ||| [[TOWN]]
+    MAXWELL/INDIAN CRK TWP ||| [[TW]]
+    MCCALLSBURG/WARREN TWP ||| [[TW]]
+    (D11) City of Davenport ||| [[CITY]]
+    (D12) City of Davenport ||| [[CITY]]
+    (D13) City of Davenport ||| [[CITY]]
+    (D14) City of Davenport ||| [[CITY]]
+    (D21) City of Davenport ||| [[CITY]]
+    (D22) City of Davenport ||| [[CITY]]
+    (D23) City of Davenport ||| [[CITY]]
+    (D24) City of Davenport ||| [[CITY]]
+    (D31) City of Davenport ||| [[CITY]]
+    (D32) City of Davenport ||| [[CITY]]
+    (D33) City of Davenport ||| [[CITY]]
+    (D34) City of Davenport ||| [[CITY]]
+    (D41) City of Davenport ||| [[CITY]]
+    (D42) City of Davenport ||| [[CITY]]
+    (D43) City of Davenport ||| [[CITY]]
+    (D44) City of Davenport ||| [[CITY]]
+    (D51) City of Davenport ||| [[CITY]]
+    (D52) City of Davenport ||| [[CITY]]
+    (D53) City of Davenport ||| [[CITY]]
+    (D54) City of Davenport ||| [[CITY]]
+    (D61) City of Davenport ||| [[CITY]]
+    (D62) City of Davenport ||| [[CITY]]
+    (D63) City of Davenport ||| [[CITY]]
+    (D64) City of Davenport ||| [[CITY]]
+    (D71) City of Davenport ||| [[CITY]]
+    (D72) City of Davenport ||| [[CITY]]
+    (D73) City of Davenport ||| [[CITY]]
+    (D74) City of Davenport ||| [[CITY]]
+    (D81) City of Davenport ||| [[CITY]]
+    (D82) City of Davenport ||| [[CITY]]
+    (D83) City of Davenport ||| [[CITY]]
+    (D84) City of Davenport ||| [[CITY]]
+    (LCT) LeClaire Township ||| [[TOWN]]
+    25 Holy Cross City Hall ||| [[CITY]]
+    26 New Vienna City Hall ||| [[CITY]]
+    Bethel-Windsor Township ||| [[TOWN]]
+    Goshen/City of Atalissa ||| [[CITY]]
+    Pct 4- Andrew City Hall ||| [[CITY]]
+    Pct 8- Sabula City Hall ||| [[CITY]]
+    SL01 Storm Lake 01 City ||| [[CITY]]
+    SL02 Storm Lake 02 City ||| [[CITY]]
+    SL04 Storm Lake 04 City ||| [[CITY]]
+    (B11) City of Bettendorf ||| [[CITY]]
+    (B12) City of Bettendorf ||| [[CITY]]
+    (B13) City of Bettendorf ||| [[CITY]]
+    (B21) City of Bettendorf ||| [[CITY]]
+    (B22) City of Bettendorf ||| [[CITY]]
+    (B23) City of Bettendorf ||| [[CITY]]
+    (B31) City of Bettendorf ||| [[CITY]]
+    (B32) City of Bettendorf ||| [[CITY]]
+    (B33) City of Bettendorf ||| [[CITY]]
+    (B41) City of Bettendorf ||| [[CITY]]
+    (B42) City of Bettendorf ||| [[CITY]]
+    (B43) City of Bettendorf ||| [[CITY]]
+    (B51) City of Bettendorf ||| [[CITY]]
+    (B52) City of Bettendorf ||| [[CITY]]
+    (B53) City of Bettendorf ||| [[CITY]]
+    Jefferson-Scott Township ||| [[TOWN]]
+    Marshalltown City Ward 1 ||| [[CITY]]
+    Marshalltown City Ward 2 ||| [[CITY]]
+    Marshalltown City Ward 3 ||| [[CITY]]
+    Marshalltown City Ward 4 ||| [[CITY]]
+    Orono/City of Conesville ||| [[CITY]]
+    Pct 6 - CN/LF/LS/LS City ||| [[CITY]]
+    Pleasant Valley Township ||| [[TOWN]]
+    Waterford-City of Everly ||| [[CITY]]
+    Fairfield-Putnam Township ||| [[TOWN]]
+    Larchwood City Hall - P10 ||| [[CITY]]
+    Orange City #1/Holland SW ||| [[CITY]]
+    Orange City #2/Holland SE ||| [[CITY]]
+    Smithfield-Westfield Town ||| [[TOWN]]
+    #10 City of Waverly Ward 1 ||| [[CITY]]
+    #11 City of Waverly Ward 2 ||| [[CITY]]
+    #12 City of Waverly Ward 3 ||| [[CITY]]
+    #13 City of Waverly Ward 4 ||| [[CITY]]
+    #14 City of Waverly Ward 5 ||| [[CITY]]
+    Chariton City Hall Precinct ||| [[CITY]]
+    Jamestown/Oakdale/Riceville ||| [[TOWN]]
+    Lockridge-City of Lockridge ||| [[CITY]]
+    GRUVER, CENTER-SWAN LAKE TWP ||| [[TW]]
+    Pct 5- Springbrook City Hall ||| [[CITY]]
+    Iowa-Leroy-Luzerne-Blairstown ||| [[TOWN]]
+    West Massena Township/Massena ||| [[TOWN]]
+    #1 Polk Twp/City of Plainfield ||| [[CITY]]
+    Denison 2nd Ward / Denison TWP ||| [[TW]]
+    Pct 9- 1st Ward Maquoketa City ||| [[CITY]]
+    Albion/Forest City/Lime Springs ||| [[CITY]]
+    DOLLIVER, ELLSWORTH-LINCOLN TWP ||| [[TW]]
+    Denison 3rd Ward / Goodrich TWP ||| [[TW]]
+    Pct 10- 2nd Ward Maquoketa City ||| [[CITY]]
+    Pct 11- 3rd Ward Maquoketa City ||| [[CITY]]
+    Pct 12- 4th Ward Maquoketa City ||| [[CITY]]
+    Pct 13- 5th Ward Maquoketa City ||| [[CITY]]
+    STORY CITY 2/LAFAYETTE/HOWARD 2 ||| [[CITY]]
+    #6 Jackson Twp/City of Janesville ||| [[CITY]]
+    Little Rock Town and Country - P2 ||| [[TOWN]]
+    ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP ||| [[TW]]
+    CITY OF RINGSTED, DENMARK-JACK CREEK TWP ||| [[CITY]]
+    WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP ||| [[TW]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    UN ||| [[COUNTY]]
+    Colfax ||| [[CO ]]
+    Colony ||| [[CO ]]
+    Moscow ||| [[CO ]]
+    HANCOCK ||| [[CO ]]
+    Lincoln ||| [[CO ]]
+    Cresco 2 ||| [[CO ]]
+    Cresco 3 ||| [[CO ]]
+    Cresco 1A ||| [[CO ]]
+    Lincoln 1 ||| [[CO ]]
+    Lincoln 2 ||| [[CO ]]
+    Lincoln 3 ||| [[CO ]]
+    Courthouse ||| [[CO ]]
+    Lincoln NE ||| [[CO ]]
+    C02 Corydon ||| [[CO ]]
+    (WC) Walcott ||| [[CO ]]
+    Adams/Colfax ||| [[CO ]]
+    CASS-LINCOLN ||| [[CO ]]
+    Hull/Lincoln ||| [[CO ]]
+    Wisner/Scott ||| [[CO ]]
+    CONCORDIA TWP ||| [[CO ]]
+    Lincoln Manly ||| [[CO ]]
+    13 Comiskey Park ||| [[CO ]]
+    CC1 - Courthouse ||| [[CO ]]
+    COX CREEK-SPERRY ||| [[CO ]]
+    Muscatine Second ||| [[CO ]]
+    Page County Courthouse 1 ||| [[COUNTY]]
+    Page County Courthouse 2 ||| [[COUNTY]]
+    4 Dubuque County Fairgrounds ||| [[COUNTY]]
+    22 Dubuque County West Campus ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    BONDURANT 1 ||| [[BOND]]
+    BONDURANT 2 ||| [[BOND]]
+    BONDURANT 3 ||| [[BOND]]
+    Charter Oak ||| [[CHARTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    UN ||| [[UNDER VOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    RM ||| [[Y TERM]]
+    UN ||| [[UNEXPIRED]]
+    Palmyra ||| [[YR]]
+    Mount Ayr ||| [[YR]]
+    Mount Ayr 2 ||| [[YR]]
+    Illyria Township ||| [[YR]]
+    Waterman-Grant-Liberty ||| [[TERM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    CGWS ||| [[CG]]
+    CGLW_CASTLE GRV-LOV-WAYN ||| [[CG]]
+    #11-Wesley United Methodist Church ||| [[DIST]]
+    AF - Afton United Methodist Church ||| [[DIST]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    CM/WDM ||| [[WD]]
+    WARD 1 ||| [[WARD]]
+    Onawa Ward 1 ||| [[WARD]]
+    Onawa Ward 2 ||| [[WARD]]
+    Onawa Ward 3 ||| [[WARD]]
+    Onawa Ward 4 ||| [[WARD]]
+    1st Ward - GR ||| [[WARD]]
+    2nd Ward - GR ||| [[WARD]]
+    3rd Ward - GR ||| [[WARD]]
+    4th Ward - GR ||| [[WARD]]
+    HARLAN WARD 1 ||| [[WARD]]
+    HARLAN WARD 2 ||| [[WARD]]
+    HARLAN WARD 3 ||| [[WARD]]
+    HARLAN WARD 4 ||| [[WARD]]
+    Boone 1st Ward ||| [[WARD]]
+    Boone 2nd Ward ||| [[WARD]]
+    Boone 3rd Ward ||| [[WARD]]
+    Boone 4th Ward ||| [[WARD]]
+    Boone 5th Ward ||| [[WARD]]
+    Oelwein Ward 1 ||| [[WARD]]
+    Oelwein Ward 2 ||| [[WARD]]
+    Oelwein Ward 3 ||| [[WARD]]
+    Oelwein Ward 4 ||| [[WARD]]
+    Spencer Ward 4 ||| [[WARD]]
+    Atlantic Ward 1 ||| [[WARD]]
+    Atlantic Ward 2 ||| [[WARD]]
+    Atlantic Ward 3 ||| [[WARD]]
+    Atlantic Ward 4 ||| [[WARD]]
+    Atlantic Ward 5 ||| [[WARD]]
+    Glenwood Ward 1 ||| [[WARD]]
+    Glenwood Ward 2 ||| [[WARD]]
+    Glenwood Ward 3 ||| [[WARD]]
+    Madrid 1st Ward ||| [[WARD]]
+    Madrid 2nd Ward ||| [[WARD]]
+    Madrid 3rd Ward ||| [[WARD]]
+    WARD 2 PRECINCT ||| [[WARD]]
+    WARD 3 PRECINCT ||| [[WARD]]
+    WARD 4 PRECINCT ||| [[WARD]]
+    Denison 1st Ward ||| [[WARD]]
+    EDM/GF/JF/WDM/BE ||| [[WD]]
+    Evansdale Ward 1 ||| [[WARD]]
+    Evansdale Ward 2 ||| [[WARD]]
+    Evansdale Ward 3 ||| [[WARD]]
+    Evansdale Ward 4 ||| [[WARD]]
+    Ida Grove Ward 1 ||| [[WARD]]
+    Ida Grove Ward 2 ||| [[WARD]]
+    OSCEOLA 1ST WARD ||| [[WARD]]
+    OSCEOLA 2ND WARD ||| [[WARD]]
+    OSCEOLA 3RD WARD ||| [[WARD]]
+    Sheldon 1st Ward ||| [[WARD]]
+    Sheldon 2nd Ward ||| [[WARD]]
+    Sheldon 3rd Ward ||| [[WARD]]
+    BLOOMFIELD WARD 1 ||| [[WARD]]
+    BLOOMFIELD WARD 2 ||| [[WARD]]
+    BLOOMFIELD WARD 3 ||| [[WARD]]
+    Carroll Ward Four ||| [[WARD]]
+    Emmetsburg Ward 1 ||| [[WARD]]
+    Emmetsburg Ward 2 ||| [[WARD]]
+    Manchester Ward 1 ||| [[WARD]]
+    Manchester Ward 2 ||| [[WARD]]
+    Manchester Ward 3 ||| [[WARD]]
+    ROLAND/HOWARD TWP ||| [[WARD]]
+    West Union Ward 1 ||| [[WARD]]
+    West Union Ward 2 ||| [[WARD]]
+    West Union Ward 3 ||| [[WARD]]
+    Centerville Ward 1 ||| [[WARD]]
+    Centerville Ward 2 ||| [[WARD]]
+    Centerville Ward 3 ||| [[WARD]]
+    ESTHERVILLE WARD 1 ||| [[WARD]]
+    ESTHERVILLE WARD 2 ||| [[WARD]]
+    ESTHERVILLE WARD 3 ||| [[WARD]]
+    ESTHERVILLE WARD 4 ||| [[WARD]]
+    ESTHERVILLE WARD 5 ||| [[WARD]]
+    Fairfield 1st Ward ||| [[WARD]]
+    Fairfield 2nd Ward ||| [[WARD]]
+    Fairfield 3rd Ward ||| [[WARD]]
+    Fairfield 4th Ward ||| [[WARD]]
+    Fairfield 5th Ward ||| [[WARD]]
+    Forest City Ward 1 ||| [[WARD]]
+    Forest City Ward 2 ||| [[WARD]]
+    Forest City Ward 4 ||| [[WARD]]
+    New Hampton Ward 1 ||| [[WARD]]
+    New Hampton Ward 2 ||| [[WARD]]
+    New Hampton Ward 3 ||| [[WARD]]
+    New Hampton Ward 4 ||| [[WARD]]
+    1 - Cherokee Ward 1 ||| [[WARD]]
+    2 - Cherokee Ward 2 ||| [[WARD]]
+    3 - Cherokee Ward 3 ||| [[WARD]]
+    Clear Lake Ward 1 - ||| [[WARD]]
+    Clear Lake Ward 2 - ||| [[WARD]]
+    Clear Lake Ward 3 - ||| [[WARD]]
+    Independence 1st Ward ||| [[WARD]]
+    Independence 2nd Ward ||| [[WARD]]
+    Independence 3rd Ward ||| [[WARD]]
+    Independence 4th Ward ||| [[WARD]]
+    Independence 5th Ward ||| [[WARD]]
+    Pct 8 - Waukon Ward 1 ||| [[WARD]]
+    Pct 9 - Waukon Ward 2 ||| [[WARD]]
+    City of Spencer Ward 1 ||| [[WARD]]
+    City of Spencer Ward 2 ||| [[WARD]]
+    City of Spencer Ward 3 ||| [[WARD]]
+    City of Spencer Ward 5 ||| [[WARD]]
+    Pct 10 - Waukon Ward 3 ||| [[WARD]]
+    Paris/Afton/Howard/Elma ||| [[WARD]]
+    Marshalltown City Ward 1 ||| [[WARD]]
+    Marshalltown City Ward 2 ||| [[WARD]]
+    Marshalltown City Ward 3 ||| [[WARD]]
+    Marshalltown City Ward 4 ||| [[WARD]]
+    No. 1 - Albia First Ward ||| [[WARD]]
+    No. 3 - Albia Third Ward ||| [[WARD]]
+    Carroll Ward One Precinct ||| [[WARD]]
+    No. 2 - Albia Second Ward ||| [[WARD]]
+    No. 4 - Albia Fourth Ward ||| [[WARD]]
+    #10 City of Waverly Ward 1 ||| [[WARD]]
+    #11 City of Waverly Ward 2 ||| [[WARD]]
+    #12 City of Waverly Ward 3 ||| [[WARD]]
+    #13 City of Waverly Ward 4 ||| [[WARD]]
+    #14 City of Waverly Ward 5 ||| [[WARD]]
+    WEST DES MOINES 221 WDM 221 ||| [[WD]]
+    WEST DES MOINES 222 WDM 222 ||| [[WD]]
+    WEST DES MOINES 223 WDM 223 ||| [[WD]]
+    WEST DES MOINES 224 WDM 224 ||| [[WD]]
+    WEST DES MOINES 225 WDM 225 ||| [[WD]]
+    WEST DES MOINES 226 WDM 226 ||| [[WD]]
+    WEST DES MOINES 227 WDM 227 ||| [[WD]]
+    WEST DES MOINES 321 WDM 321 ||| [[WD]]
+    WEST DES MOINES 322 WDM 322 ||| [[WD]]
+    EM Ward 3/EM/pts SL,HL,LI,WL ||| [[WARD]]
+    EMWard4/FR/NV/ptsFV,FF,VN,IN ||| [[WARD]]
+    Denison 2nd Ward / Denison TWP ||| [[WARD]]
+    Pct 9- 1st Ward Maquoketa City ||| [[WARD]]
+    Denison 3rd Ward / Goodrich TWP ||| [[WARD]]
+    Pct 10- 2nd Ward Maquoketa City ||| [[WARD]]
+    Pct 11- 3rd Ward Maquoketa City ||| [[WARD]]
+    Pct 12- 4th Ward Maquoketa City ||| [[WARD]]
+    Pct 13- 5th Ward Maquoketa City ||| [[WARD]]
+    STORY CITY 2/LAFAYETTE/HOWARD 2 ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    3 Area Residential Care ||| [[AREA]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    IV ||| [[DIV ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    GR ||| [[GROUP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    PC ||| [[PCT]]
+    PCT 1 ||| [[PCT]]
+    PCT 2 ||| [[PCT]]
+    PCT 3 ||| [[PCT]]
+    PCT 4 ||| [[PCT]]
+    PCT 5 ||| [[PCT]]
+    PCT 6 ||| [[PCT]]
+    PCT 7 ||| [[PCT]]
+    PCT 8 ||| [[PCT]]
+    CM/WDM ||| [[WD]]
+    PCT DM ||| [[PCT]]
+    PCT FM ||| [[PCT]]
+    PCT PW ||| [[PCT]]
+    PCT WB ||| [[PCT]]
+    WARD 1 ||| [[WARD]]
+    PCT BHJ ||| [[PCT]]
+    PCT MYF ||| [[PCT]]
+    PCT UNION ||| [[PCT]]
+    Precinct 1 ||| [[PRECINCT]]
+    Precinct 2 ||| [[PRECINCT]]
+    Precinct 3 ||| [[PRECINCT]]
+    Precinct 4 ||| [[PRECINCT]]
+    Precinct 5 ||| [[PRECINCT]]
+    Precinct 6 ||| [[PRECINCT]]
+    Precinct 7 ||| [[PRECINCT]]
+    Precinct 8 ||| [[PRECINCT]]
+    Precinct 9 ||| [[PRECINCT]]
+    Precinct #1 ||| [[PRECINCT]]
+    Precinct #2 ||| [[PRECINCT]]
+    Precinct #3 ||| [[PRECINCT]]
+    Precinct #4 ||| [[PRECINCT]]
+    Precinct #5 ||| [[PRECINCT]]
+    Precinct #6 ||| [[PRECINCT]]
+    Precinct #7 ||| [[PRECINCT]]
+    Precinct #8 ||| [[PRECINCT]]
+    Precinct #9 ||| [[PRECINCT]]
+    Onawa Ward 1 ||| [[WARD]]
+    Onawa Ward 2 ||| [[WARD]]
+    Onawa Ward 3 ||| [[WARD]]
+    Onawa Ward 4 ||| [[WARD]]
+    PCT 4 - DEW2 ||| [[PCT]]
+    PCT 7 - DEW4 ||| [[PCT]]
+    PCT 8 - DEW5 ||| [[PCT]]
+    Precinct #10 ||| [[PRECINCT]]
+    Precinct #11 ||| [[PRECINCT]]
+    Precinct #12 ||| [[PRECINCT]]
+    SRK Precinct ||| [[PRECINCT]]
+    1st Ward - GR ||| [[WARD]]
+    2nd Ward - GR ||| [[WARD]]
+    3rd Ward - GR ||| [[WARD]]
+    4th Ward - GR ||| [[WARD]]
+    DCAB Precinct ||| [[PRECINCT]]
+    Dows Precinct ||| [[PRECINCT]]
+    East Precinct ||| [[PRECINCT]]
+    Eden Precinct ||| [[PRECINCT]]
+    Falls Twp Pct ||| [[PCT]]
+    HARLAN WARD 1 ||| [[WARD]]
+    HARLAN WARD 2 ||| [[WARD]]
+    HARLAN WARD 3 ||| [[WARD]]
+    HARLAN WARD 4 ||| [[WARD]]
+    PCT 5 - DEW3A ||| [[PCT]]
+    PCT 6 - DEW3B ||| [[PCT]]
+    Pct 1 - WL/HV ||| [[PCT]]
+    West Precinct ||| [[PRECINCT]]
+    Boone 1st Ward ||| [[WARD]]
+    Boone 2nd Ward ||| [[WARD]]
+    Boone 3rd Ward ||| [[WARD]]
+    Boone 4th Ward ||| [[WARD]]
+    Boone 5th Ward ||| [[WARD]]
+    EG #1 Precinct ||| [[PRECINCT]]
+    EG #2 Precinct ||| [[PRECINCT]]
+    EG #3 Precinct ||| [[PRECINCT]]
+    EG #4 Precinct ||| [[PRECINCT]]
+    Grimes Twp Pct ||| [[PCT]]
+    NORTH PRECINCT ||| [[PRECINCT]]
+    North Precinct ||| [[PRECINCT]]
+    Oelwein Ward 1 ||| [[WARD]]
+    Oelwein Ward 2 ||| [[WARD]]
+    Oelwein Ward 3 ||| [[WARD]]
+    Oelwein Ward 4 ||| [[WARD]]
+    PCT 12 - LI/SU ||| [[PCT]]
+    Precinct 4 MP1 ||| [[PRECINCT]]
+    Precinct 5 MP2 ||| [[PRECINCT]]
+    Precinct 6 MP3 ||| [[PRECINCT]]
+    Precinct 7 MP4 ||| [[PRECINCT]]
+    Precinct No. 1 ||| [[PRECINCT]]
+    Precinct No. 2 ||| [[PRECINCT]]
+    Precinct No. 3 ||| [[PRECINCT]]
+    Precinct No. 4 ||| [[PRECINCT]]
+    Precinct No. 5 ||| [[PRECINCT]]
+    Precinct No. 6 ||| [[PRECINCT]]
+    Precinct No. 7 ||| [[PRECINCT]]
+    Precinct No. 8 ||| [[PRECINCT]]
+    Precinct No. 9 ||| [[PRECINCT]]
+    Spencer Ward 4 ||| [[WARD]]
+    Union Precinct ||| [[PRECINCT]]
+    Atlantic Ward 1 ||| [[WARD]]
+    Atlantic Ward 2 ||| [[WARD]]
+    Atlantic Ward 3 ||| [[WARD]]
+    Atlantic Ward 4 ||| [[WARD]]
+    Atlantic Ward 5 ||| [[WARD]]
+    Ewoldt Precinct ||| [[PRECINCT]]
+    Glenwood Ward 1 ||| [[WARD]]
+    Glenwood Ward 2 ||| [[WARD]]
+    Glenwood Ward 3 ||| [[WARD]]
+    MIDDLE PRECINCT ||| [[PRECINCT]]
+    MURRAY PRECINCT ||| [[PRECINCT]]
+    Madrid 1st Ward ||| [[WARD]]
+    Madrid 2nd Ward ||| [[WARD]]
+    Madrid 3rd Ward ||| [[WARD]]
+    Precinct 1 WC 1 ||| [[PRECINCT]]
+    Precinct 2 WC 2 ||| [[PRECINCT]]
+    Precinct No. 10 ||| [[PRECINCT]]
+    Precinct No. 11 ||| [[PRECINCT]]
+    Precinct No. 12 ||| [[PRECINCT]]
+    WARD 2 PRECINCT ||| [[PRECINCT]]
+    WARD 3 PRECINCT ||| [[PRECINCT]]
+    WARD 4 PRECINCT ||| [[PRECINCT]]
+    Arcadia Precinct ||| [[PRECINCT]]
+    Belmond Precinct ||| [[PRECINCT]]
+    Central Precinct ||| [[PRECINCT]]
+    Clarion Precinct ||| [[PRECINCT]]
+    Denison 1st Ward ||| [[WARD]]
+    EDM/GF/JF/WDM/BE ||| [[WD]]
+    Evansdale Ward 1 ||| [[WARD]]
+    Evansdale Ward 2 ||| [[WARD]]
+    Evansdale Ward 3 ||| [[WARD]]
+    Evansdale Ward 4 ||| [[WARD]]
+    Ida Grove Ward 1 ||| [[WARD]]
+    Ida Grove Ward 2 ||| [[WARD]]
+    LENOX PRECINCT 3 ||| [[PRECINCT]]
+    OSCEOLA 1ST WARD ||| [[WARD]]
+    OSCEOLA 2ND WARD ||| [[WARD]]
+    OSCEOLA 3RD WARD ||| [[WARD]]
+    Rural Precinct 1 ||| [[PRECINCT]]
+    Rural Precinct 2 ||| [[PRECINCT]]
+    Rural Precinct 3 ||| [[PRECINCT]]
+    Rural Precinct 4 ||| [[PRECINCT]]
+    Rural Precinct 5 ||| [[PRECINCT]]
+    Rural Precinct 6 ||| [[PRECINCT]]
+    Sheldon 1st Ward ||| [[WARD]]
+    Sheldon 2nd Ward ||| [[WARD]]
+    Sheldon 3rd Ward ||| [[WARD]]
+    WELLMAN PRECINCT ||| [[PRECINCT]]
+    BLOOMFIELD WARD 1 ||| [[WARD]]
+    BLOOMFIELD WARD 2 ||| [[WARD]]
+    BLOOMFIELD WARD 3 ||| [[WARD]]
+    Carroll Ward Four ||| [[WARD]]
+    Emmetsburg Ward 1 ||| [[WARD]]
+    Emmetsburg Ward 2 ||| [[WARD]]
+    Manchester Ward 1 ||| [[WARD]]
+    Manchester Ward 2 ||| [[WARD]]
+    Manchester Ward 3 ||| [[WARD]]
+    PCT 10 - FK/BM/MI ||| [[PCT]]
+    PCT 11 - CA/WA/JA ||| [[PCT]]
+    Precinct #8 Logan ||| [[PRECINCT]]
+    ROLAND/HOWARD TWP ||| [[WARD]]
+    WOODBURN PRECINCT ||| [[PRECINCT]]
+    West Union Ward 1 ||| [[WARD]]
+    West Union Ward 2 ||| [[WARD]]
+    West Union Ward 3 ||| [[WARD]]
+    Centerville Ward 1 ||| [[WARD]]
+    Centerville Ward 2 ||| [[WARD]]
+    Centerville Ward 3 ||| [[WARD]]
+    ESTHERVILLE WARD 1 ||| [[WARD]]
+    ESTHERVILLE WARD 2 ||| [[WARD]]
+    ESTHERVILLE WARD 3 ||| [[WARD]]
+    ESTHERVILLE WARD 4 ||| [[WARD]]
+    ESTHERVILLE WARD 5 ||| [[WARD]]
+    Fairfield 1st Ward ||| [[WARD]]
+    Fairfield 2nd Ward ||| [[WARD]]
+    Fairfield 3rd Ward ||| [[WARD]]
+    Fairfield 4th Ward ||| [[WARD]]
+    Fairfield 5th Ward ||| [[WARD]]
+    Forest City Ward 1 ||| [[WARD]]
+    Forest City Ward 2 ||| [[WARD]]
+    Forest City Ward 4 ||| [[WARD]]
+    GRAVITY PRECINCT 4 ||| [[PRECINCT]]
+    Goldfield Precinct ||| [[PRECINCT]]
+    New Hampton Ward 1 ||| [[WARD]]
+    New Hampton Ward 2 ||| [[WARD]]
+    New Hampton Ward 3 ||| [[WARD]]
+    New Hampton Ward 4 ||| [[WARD]]
+    Northeast Precinct ||| [[PRECINCT]]
+    PCT 9 - DETSUP4/SP ||| [[PCT]]
+    Precinct #3 Dunlap ||| [[PRECINCT]]
+    Precinct #7 Modale ||| [[PRECINCT]]
+    Southeast Precinct ||| [[PRECINCT]]
+    1 - Cherokee Ward 1 ||| [[WARD]]
+    2 - Cherokee Ward 2 ||| [[WARD]]
+    3 - Cherokee Ward 3 ||| [[WARD]]
+    Clear Lake Ward 1 - ||| [[WARD]]
+    Clear Lake Ward 2 - ||| [[WARD]]
+    Clear Lake Ward 3 - ||| [[WARD]]
+    Precinct # 2 Pisgah ||| [[PRECINCT]]
+    Precinct #11 Persia ||| [[PRECINCT]]
+    Precinct #9 St John ||| [[PRECINCT]]
+    Washington Precinct ||| [[PRECINCT]]
+    Jefferson 1 Precinct ||| [[PRECINCT]]
+    Jefferson 2 Precinct ||| [[PRECINCT]]
+    PCT 3 - DEW1/DETSUP2 ||| [[PCT]]
+    Precinct #4 Mondamin ||| [[PRECINCT]]
+    Precinct #5 Magnolia ||| [[PRECINCT]]
+    Precinct #6 Woodbine ||| [[PRECINCT]]
+    Precinct 4 Northwest ||| [[PRECINCT]]
+    Precinct 5 Northeast ||| [[PRECINCT]]
+    Precinct 6 Southwest ||| [[PRECINCT]]
+    Precinct 7 Southeast ||| [[PRECINCT]]
+    COURTHOUSE PRECINCT 1 ||| [[PRECINCT]]
+    COURTHOUSE PRECINCT 2 ||| [[PRECINCT]]
+    Independence 1st Ward ||| [[WARD]]
+    Independence 2nd Ward ||| [[WARD]]
+    Independence 3rd Ward ||| [[WARD]]
+    Independence 4th Ward ||| [[WARD]]
+    Independence 5th Ward ||| [[WARD]]
+    NEW MARKEY PRECINCT 5 ||| [[PRECINCT]]
+    Pct 3 - PO/FK/PV City ||| [[PCT]]
+    Pct 4 - LT/PC/WV City ||| [[PCT]]
+    Pct 5 - FV/TL/HF City ||| [[PCT]]
+    Pct 7 - IA/UC/NA City ||| [[PCT]]
+    Pct 8 - Waukon Ward 1 ||| [[WARD]]
+    Pct 9 - Waukon Ward 2 ||| [[WARD]]
+    City of Spencer Ward 1 ||| [[WARD]]
+    City of Spencer Ward 2 ||| [[WARD]]
+    City of Spencer Ward 3 ||| [[WARD]]
+    City of Spencer Ward 5 ||| [[WARD]]
+    PCT 2 - HE/HI/CN/PL/GL ||| [[PCT]]
+    Pct 10 - Waukon Ward 3 ||| [[WARD]]
+    Pct 2 - FC/JK/LL/MK/UP ||| [[PCT]]
+    Pin Oak Marsh Precinct ||| [[PRECINCT]]
+    Rural Clarion Precinct ||| [[PRECINCT]]
+    L.C. Extension Precinct ||| [[PRECINCT]]
+    Lake / Lincoln Twps Pct ||| [[PCT]]
+    PCT 1 - FM/BO/OR/BLF/MA ||| [[PCT]]
+    Paris/Afton/Howard/Elma ||| [[WARD]]
+    Pct 4- Andrew City Hall ||| [[PCT]]
+    Pct 8- Sabula City Hall ||| [[PCT]]
+    Marshalltown City Ward 1 ||| [[WARD]]
+    Marshalltown City Ward 2 ||| [[WARD]]
+    Marshalltown City Ward 3 ||| [[WARD]]
+    Marshalltown City Ward 4 ||| [[WARD]]
+    No. 1 - Albia First Ward ||| [[WARD]]
+    No. 3 - Albia Third Ward ||| [[WARD]]
+    Pct 6 - CN/LF/LS/LS City ||| [[PCT]]
+    Precinct #1 Little Sioux ||| [[PRECINCT]]
+    Carroll Ward One Precinct ||| [[PRECINCT]]
+    Glidden-Richland Precinct ||| [[PRECINCT]]
+    No. 2 - Albia Second Ward ||| [[WARD]]
+    No. 4 - Albia Fourth Ward ||| [[WARD]]
+    Wheatland-Kniest Precinct ||| [[PRECINCT]]
+    #10 City of Waverly Ward 1 ||| [[WARD]]
+    #11 City of Waverly Ward 2 ||| [[WARD]]
+    #12 City of Waverly Ward 3 ||| [[WARD]]
+    #13 City of Waverly Ward 4 ||| [[WARD]]
+    #14 City of Waverly Ward 5 ||| [[WARD]]
+    Rural Eagle Grove Precinct ||| [[PRECINCT]]
+    Chariton City Hall Precinct ||| [[PRECINCT]]
+    WEST DES MOINES 221 WDM 221 ||| [[WD]]
+    WEST DES MOINES 222 WDM 222 ||| [[WD]]
+    WEST DES MOINES 223 WDM 223 ||| [[WD]]
+    WEST DES MOINES 224 WDM 224 ||| [[WD]]
+    WEST DES MOINES 225 WDM 225 ||| [[WD]]
+    WEST DES MOINES 226 WDM 226 ||| [[WD]]
+    WEST DES MOINES 227 WDM 227 ||| [[WD]]
+    WEST DES MOINES 321 WDM 321 ||| [[WD]]
+    WEST DES MOINES 322 WDM 322 ||| [[WD]]
+    Washington-Roselle Precinct ||| [[PRECINCT]]
+    EM Ward 3/EM/pts SL,HL,LI,WL ||| [[WARD]]
+    EMWard4/FR/NV/ptsFV,FF,VN,IN ||| [[WARD]]
+    Precinct #10 Missouri Valley ||| [[PRECINCT]]
+    Denison 2nd Ward / Denison TWP ||| [[WARD]]
+    Gold Fair Building Precinct #1 ||| [[PRECINCT]]
+    Gold Fair Building Precinct #2 ||| [[PRECINCT]]
+    Pct 9- 1st Ward Maquoketa City ||| [[WARD]]
+    Sheridan-Grant-Jasper Precinct ||| [[PRECINCT]]
+    Denison 3rd Ward / Goodrich TWP ||| [[WARD]]
+    Lucas Community Center Precinct ||| [[PRECINCT]]
+    Pct 10- 2nd Ward Maquoketa City ||| [[WARD]]
+    Pct 11- 3rd Ward Maquoketa City ||| [[WARD]]
+    Pct 12- 4th Ward Maquoketa City ||| [[WARD]]
+    Pct 13- 5th Ward Maquoketa City ||| [[WARD]]
+    Pleasant Valley-Newton Precinct ||| [[PRECINCT]]
+    STORY CITY 2/LAFAYETTE/HOWARD 2 ||| [[WARD]]
+    Russell Community Center Precinct ||| [[PRECINCT]]
+    Chariton Community Center Precinct ||| [[PRECINCT]]
+    First Christian Church Precinct #3 ||| [[PRECINCT]]
+    Williamson Community Center Precinct ||| [[PRECINCT]]
+    Elliott Community Building Precinct #4 ||| [[PRECINCT]]
+    Elliott Community Building Precinct #5 ||| [[PRECINCT]]
+    Stanton Community Building Precinct #6 ||| [[PRECINCT]]
+    Villisca Community Building Precinct #7 ||| [[PRECINCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    GR ||| [[GRN]]
+    NP ||| [[NP]]
+    PA ||| [[PARTISAN]]
+    EMO ||| [[DEMOCRAT]]
+    CFNP ||| [[NP]]
+    GBDNPR ||| [[NP]]
+    MINDEN ||| [[IND]]
+    LIBERTY ||| [[LIB]]
+    Liberty ||| [[LIB]]
+    Clarinda 1 ||| [[IND]]
+    Clarinda 2 ||| [[IND]]
+    Indianola 1 ||| [[IND]]
+    Indianola 2 ||| [[IND]]
+    Indianola 3 ||| [[IND]]
+    Indianola 4 ||| [[IND]]
+    Indianola 5 ||| [[IND]]
+    Indianola 6 ||| [[IND]]
+    Indianola 7 ||| [[IND]]
+    Indianola 8 ||| [[IND]]
+    King Linden ||| [[IND]]
+    (LB) Liberty ||| [[LIB]]
+    Greenfield 1 ||| [[GREEN]]
+    Greenfield 2 ||| [[GREEN]]
+    Greenfield 3 ||| [[GREEN]]
+    Greenfield 4 ||| [[GREEN]]
+    Hinde Center ||| [[IND]]
+    Linn-Pioneer ||| [[NP]]
+    GF_GREENFIELD ||| [[GREEN]]
+    West Liberty 1 ||| [[LIB]]
+    West Liberty 2 ||| [[LIB]]
+    12 Windsor Park ||| [[IND]]
+    Fillmore/ Greene ||| [[GREEN]]
+    Indiana Township ||| [[IND]]
+    1 Tri-State Blind ||| [[IND]]
+    2 Tri State Blind ||| [[IND]]
+    Adams/Hazel Green ||| [[GREEN]]
+    Indian Settlement ||| [[IND]]
+    WINDSOR HEIGHTS 1 ||| [[IND]]
+    WINDSOR HEIGHTS 2 ||| [[IND]]
+    Green Castle/LeGrand ||| [[GREEN]]
+    Green/Riverside/Scott ||| [[GREEN]]
+    Independence 1st Ward ||| [[IND]]
+    Independence 2nd Ward ||| [[IND]]
+    Independence 3rd Ward ||| [[IND]]
+    Independence 4th Ward ||| [[IND]]
+    Independence 5th Ward ||| [[IND]]
+    MAXWELL/INDIAN CRK TWP ||| [[IND]]
+    Waterman-Grant-Liberty ||| [[LIB]]
+    Bethel-Windsor Township ||| [[IND]]
+    #5-Remsen Public Library ||| [[LIB]]
+    Clear Creek-Independence ||| [[IND]]
+    Liberty/Marietta/Minerva ||| [[LIB]]
+    04 Cedar and S Greenfield ||| [[GREEN]]
+    02 Lincoln-Manson-Sherman and N Greenfield ||| [[GREEN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    UN ||| [[UNAVAIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    CE ||| [[CENTER]]
+    HI ||| [[MACHINE]]
+    Early ||| [[EARLY]]
+    Center ||| [[CENTER]]
+    Hinde Center ||| [[CENTER]]
+    State Center ||| [[CENTER]]
+    CENTER-JACKSON ||| [[CENTER]]
+    Guthrie Center ||| [[CENTER]]
+    Sioux Center #2 ||| [[CENTER]]
+    Sioux Center #3 ||| [[CENTER]]
+    Sioux Center #4 ||| [[CENTER]]
+    Centerville Ward 1 ||| [[CENTER]]
+    Centerville Ward 2 ||| [[CENTER]]
+    Centerville Ward 3 ||| [[CENTER]]
+    20 Fogarty Hall Center ||| [[CENTER]]
+    Center-Harlan Township ||| [[CENTER]]
+    Sioux Center #1/Welcome ||| [[CENTER]]
+    #9-Hinton Community Center ||| [[CENTER]]
+    32 Peosta Community Center ||| [[CENTER]]
+    Cass-Center-Iowa-Rochester ||| [[CENTER]]
+    27 Dyersville Social Center ||| [[CENTER]]
+    28 Dyersville Social Center ||| [[CENTER]]
+    Summit-Center-Dale-Highland ||| [[CENTER]]
+    #1-Le Mars Convention Center ||| [[CENTER]]
+    #2-Le Mars Convention Center ||| [[CENTER]]
+    #3-Le Mars Convention Center ||| [[CENTER]]
+    CENTER DEEP CREEK GOOSE LAKE ||| [[CENTER]]
+    GRUVER, CENTER-SWAN LAKE TWP ||| [[CENTER]]
+    George Community Center - P1 ||| [[CENTER]]
+    Inwood Community Center - P6 ||| [[CENTER]]
+    Lester Community Center - P9 ||| [[CENTER]]
+    #10-Kingsley Community Center ||| [[CENTER]]
+    #7-Kissinger Community Center ||| [[CENTER]]
+    33 Swiss Valley Nature Center ||| [[CENTER]]
+    Pct 6- Fairgrds-Pearson Center ||| [[CENTER]]
+    SUGAR GROVE/DALLAS CENTER SGDC ||| [[CENTER]]
+    Lucas Community Center Precinct ||| [[CENTER]]
+    Eldora/Pleasant/Providence/Union ||| [[PROV]]
+    Pct 1- Bellevue Community Center ||| [[CENTER]]
+    Pct 2- LaMotte Recreation Center ||| [[CENTER]]
+    Russell Community Center Precinct ||| [[CENTER]]
+    Chariton Community Center Precinct ||| [[CENTER]]
+    Ireton/Center/Eagle East/Reading/WE ||| [[CENTER]]
+    Williamson Community Center Precinct ||| [[CENTER]]
+    Logan N - Lester Community Center - P8 ||| [[CENTER]]
+    Logan S - Inwood Community Center - P7 ||| [[CENTER]]
+    Malvern/Tabor/Silver Creek/Center/Rawles ||| [[CENTER]]
+    Saratoga/Howard Center/Chester/Chester City ||| [[CENTER]]
+    No. 6 - Lovilia Comm Center (LV City,BC,CE,UN) ||| [[CENTER]]
+    Center-Cedar-Round Prairie-Maharishi Vedic City ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    UN ||| [[RUNOFF]]
+    Pct 7- Preston Community Hall ||| [[PRES]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    #1 Audubon
+    #1 Polk Twp/City of Plainfield
+    #1-Le Mars Convention Center
+    #10 City of Waverly Ward 1
+    #10-Kingsley Community Center
+    #11 City of Waverly Ward 2
+    #11-Wesley United Methodist Church
+    #12 City of Waverly Ward 3
+    #13 City of Waverly Ward 4
+    #14 City of Waverly Ward 5
+    #2 Douglas/Frederika/Leroy/City of Frederika
+    #2 Exira
+    #2-Le Mars Convention Center
+    #3 Dayton Twp/Sumner No. 2 Twp/City of Sumner
+    #3-Le Mars Convention Center
+    #4 Warren Twp/Fremont Twp/City of Tripoli
+    #4-Courthouse Annex
+    #5 Lafayette Twp/Washington Twp
+    #5-Remsen Public Library
+    #6 Jackson Twp/City of Janesville
+    #6-Brunsville Legion Club
+    #7 Jefferson Twp
+    #7-Kissinger Community Center
+    #8 City of Denver
+    #8-Perry Township Hall
+    #9 Maxfield Twp/Franklin Twp/City of Readlyn
+    #9-Hinton Community Center
+    (AG) Allens Grove
+    (B11) City of Bettendorf
+    (B12) City of Bettendorf
+    (B13) City of Bettendorf
+    (B21) City of Bettendorf
+    (B22) City of Bettendorf
+    (B23) City of Bettendorf
+    (B31) City of Bettendorf
+    (B32) City of Bettendorf
+    (B33) City of Bettendorf
+    (B41) City of Bettendorf
+    (B42) City of Bettendorf
+    (B43) City of Bettendorf
+    (B51) City of Bettendorf
+    (B52) City of Bettendorf
+    (B53) City of Bettendorf
+    (BF) Buffalo
+    (BG) Blue Grass
+    (BU) Buffalo Township
+    (D11) City of Davenport
+    (D12) City of Davenport
+    (D13) City of Davenport
+    (D14) City of Davenport
+    (D21) City of Davenport
+    (D22) City of Davenport
+    (D23) City of Davenport
+    (D24) City of Davenport
+    (D31) City of Davenport
+    (D32) City of Davenport
+    (D33) City of Davenport
+    (D34) City of Davenport
+    (D41) City of Davenport
+    (D42) City of Davenport
+    (D43) City of Davenport
+    (D44) City of Davenport
+    (D51) City of Davenport
+    (D52) City of Davenport
+    (D53) City of Davenport
+    (D54) City of Davenport
+    (D61) City of Davenport
+    (D62) City of Davenport
+    (D63) City of Davenport
+    (D64) City of Davenport
+    (D71) City of Davenport
+    (D72) City of Davenport
+    (D73) City of Davenport
+    (D74) City of Davenport
+    (D81) City of Davenport
+    (D82) City of Davenport
+    (D83) City of Davenport
+    (D84) City of Davenport
+    (EL1) City of Eldridge
+    (EL2) City of Eldridge
+    (HG) Hickory Grove
+    (LB) Liberty
+    (LC1) City of LeClaire
+    (LC2) City of LeClaire
+    (LCT) LeClaire Township
+    (LS) Lincoln Sheridan
+    (MC) McCausland
+    (PKV) Park View
+    (PR) Princeton
+    (PV) Pleasant Valley
+    (RV) City of Riverdale
+    (WC) Walcott
+    (WF) Winfield
+    01 Butler and Williams
+    02 Lincoln-Manson-Sherman and N Greenfield
+    03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C
+    04 Cedar and S Greenfield
+    05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City
+    06 Reading-Union and S Logan
+    1 - Cherokee Ward 1
+    1 Riverside Elementary School
+    1 Tri-State Blind
+    1-GR
+    10 Loess Hills Elementary Scho
+    10 Westminster Presbyterian Church
+    11 Liberty Elementary School
+    11 U.A.W. Union Hall
+    12 Perry Creek Elementary Scho
+    12 Windsor Park
+    13 Comiskey Park
+    13 North Middle School
+    14 North Middle School
+    14 Sacred Heart Church
+    15 Holy Trinity Church
+    15 Leeds Elementary School
+    16 Depot at the River Museum
+    16 Unity Elementary School
+    17 Lawton -
+    17 St. John's Parish House
+    18 Bryant Elementary School
+    18 Dubuque Museum of Art
+    19 Bryant Elementary School
+    19 St. Elias Church
+    1NW
+    1st Ward - GR
+    2 - Cherokee Ward 2
+    2 Tri State Blind
+    2 West Middle School
+    2-CL
+    20 Fogarty Hall Center
+    20 Irving Elementary School
+    21 Asbury City Hall
+    21 Unity Elementary School
+    22 Dubuque County West Campus
+    22 Spalding Elementary School
+    23 Hope Evangelical Church
+    23 Morningside Branch Library
+    24 Morningside Branch Library
+    24 St. Joseph's Catholic Church
+    25 East Middle School
+    25 Holy Cross City Hall
+    26 Morningside Elementary Scho
+    26 New Vienna City Hall
+    27 Dyersville Social Center
+    27 Morningside Elementary Scho
+    28 Dyersville Social Center
+    28 East High School
+    29 East High School
+    29 Farley City Hall
+    2NE
+    2nd Ward - GR
+    3 - Cherokee Ward 3
+    3 Area Residential Care
+    3 Loess Hills Elementary Schoo
+    3-DU
+    30 Cascade City Hall
+    30 Sgt Bluff West
+    31 Epworth Council Chambers
+    31 Sgt Bluff East
+    32 Peosta Community Center
+    32 Woodbury Township
+    33 Salix
+    33 Swiss Valley Nature Center
+    34 Key West Fire Station
+    34 Moville
+    35 Pierson
+    36 Correctionville
+    37 Bronson
+    38 Cushing
+    39 Hornick
+    3SW
+    3rd Ward - GR
+    4 - Cherokee
+    4 Dubuque County Fairgrounds
+    4 Hunt Elementary School
+    4-AL
+    40 Anthon
+    41 Danbury
+    42 Sloan
+    43 Smithland
+    44 Oto
+    4SE
+    4th Ward - GR
+    5 - Aurelia
+    5 Liberty Elementary School
+    5 Resurrection Catholic Church
+    5-AP
+    5GF
+    6 - Quimby
+    6 Hunt Elementary School
+    6 Summit Congregational Church
+    6-SR
+    7 - Marcus
+    7 Loess Hills Elementary Schoo
+    7 St. Peter Lutheran Church
+    7-PB
+    76/CEDAR
+    8 Emmaus Bible College
+    8 Liberty Elementary School
+    8-NH
+    9 Hunt Elementary School
+    9 Westminster Presbyterian Church
+    A01 Allerton
+    AD-PR-WS
+    AD/BL/PO
+    AD/LN/MN/SP/KE/UP
+    ADEL 1 A1
+    ADEL 2 A2
+    ADEL 3 A3
+    ADEL TWP AT
+    AF - Afton United Methodist Church
+    AGT/AGC/PL
+    AINSWORTH
+    AL1
+    AL2
+    AL3
+    AL4
+    ALLEMAN
+    ALLEN
+    ALTOONA 1
+    ALTOONA 2
+    ALTOONA 3
+    ALTOONA 4
+    ALTOONA 5
+    ALTOONA 6
+    AMES 1
+    AMES 10
+    AMES 11
+    AMES 12
+    AMES 13
+    AMES 14
+    AMES 15
+    AMES 16/WASH TWP 3
+    AMES 17
+    AMES 18
+    AMES 19
+    AMES 2
+    AMES 20
+    AMES 21
+    AMES 22
+    AMES 23
+    AMES 24
+    AMES 3/GRANT TWP
+    AMES 4
+    AMES 5/WASH TWP 2
+    AMES 6
+    AMES 7/FRANKLIN TWP 2
+    AMES 8
+    AMES 9
+    ANKENY 1
+    ANKENY 10
+    ANKENY 11
+    ANKENY 12
+    ANKENY 13
+    ANKENY 14
+    ANKENY 15
+    ANKENY 16
+    ANKENY 17
+    ANKENY 18
+    ANKENY 19
+    ANKENY 2
+    ANKENY 20
+    ANKENY 21
+    ANKENY 22
+    ANKENY 3
+    ANKENY 4
+    ANKENY 5
+    ANKENY 6
+    ANKENY 7
+    ANKENY 8
+    ANKENY 9
+    ANN_ANAMOSA NORTH-CASS
+    ANS_ANAMOSA SOUTH-JACKSON
+    AR - Arispe United Methodist Church
+    ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP
+    AS-BV-CS-CN-KB-TU
+    ASHTON
+    AVOCA
+    Adams 1
+    Adams 2
+    Adams 3
+    Adams 4
+    Adams 5
+    Adams/Colfax
+    Adams/Hazel Green
+    Albion/Forest City/Lime Springs
+    Alden/Buckeye
+    Allen 2
+    Allen 3
+    Alton/Nassau
+    Arcadia Precinct
+    Athens
+    Atlantic Ward 1
+    Atlantic Ward 2
+    Atlantic Ward 3
+    Atlantic Ward 4
+    Atlantic Ward 5
+    Auburn
+    Auburn-Eden Township
+    Aurora
+    BBLL
+    BF GM PT
+    BG/SO.ANX
+    BL-FR-SH-SX
+    BLOOMFIELD BROOKFIELD DELMAR
+    BLOOMFIELD WARD 1
+    BLOOMFIELD WARD 2
+    BLOOMFIELD WARD 3
+    BMWJ
+    BN-SR
+    BO/RL/ST/LT/PL
+    BOARDMAN-HIGHLAND-READ
+    BONDURANT 1
+    BONDURANT 2
+    BONDURANT 3
+    BOOMER
+    BRIGHTON
+    BT
+    BUENA VISTA-MILLVILLE
+    Badger-Cooper-Newark
+    Bangor/Liscomb/Taylor
+    Banks-Fremont Township
+    Barclay/Benn/Lester/Dunkerton
+    Bayard
+    Bear Grove/Cass Twp/Lewis
+    Beaver/Des Moines
+    Belle Plaine 1
+    Belle Plaine 2
+    Belle Plaine 3
+    Belmond Precinct
+    Belmont
+    Benton-Canton-Shellsburg
+    Bertram Township
+    Bethel-Windsor Township
+    Big Creek/Spring Creek/LPC
+    Big Grove-Union-Van Horne
+    Black Hawk/Cedar Falls/Lincoln
+    Blackhawk-Polk-Packwood
+    Blaine/Hayes/Silver Creek Twp/Arthur City
+    Bloomington/Fruitland 2
+    Boone 1st Ward
+    Boone 2nd Ward
+    Boone 3rd Ward
+    Boone 4th Ward
+    Boone 5th Ward
+    Boulder-Buffalo
+    Bradford
+    Brandon
+    Brighton/Marne/Grove/Pymosa/Washington Twp
+    Brookfield Kensett
+    Brown-Linn
+    Bruce-Cedar-Monroe-Mt Auburn
+    Buchanan
+    Buena Vista-Elk Creek
+    Buffalo Grant Lincoln
+    Burnside-Elkhorn-Otho-Pleasant Valley-Sumner
+    C02 Corydon
+    CAMANCHE 1
+    CAMANCHE 2
+    CAMANCHE TWP
+    CAMBRIDGE/UNION TWP 1
+    CARSON
+    CARTER LAKE 1
+    CARTER LAKE 2
+    CASS
+    CASS-LINCOLN
+    CB 01
+    CB 02
+    CB 03
+    CB 04
+    CB 05
+    CB 06
+    CB 07
+    CB 08
+    CB 09
+    CB 10
+    CB 11
+    CB 12
+    CB 13
+    CB 14
+    CB 15
+    CB 16
+    CB 17
+    CB 18
+    CB 19
+    CB 20
+    CB 21
+    CB 22
+    CB/EV
+    CC1 - Courthouse
+    CC2 - Messiah Lutheran Church
+    CC3 / St Charles N-Trinity United Methodist Church
+    CE
+    CE CH
+    CE/HA/WO/EV/FM/RH
+    CENTER DEEP CREEK GOOSE LAKE
+    CENTER-JACKSON
+    CENTRAL
+    CF 1-1
+    CF 1-2
+    CF 1-3
+    CF 2-1
+    CF 2-2
+    CF 2-3
+    CF 3-1
+    CF 3-2
+    CF 3-3
+    CF 4-1
+    CF 4-2
+    CF 4-3
+    CF 5-1
+    CF 5-2
+    CF 5-3
+    CFNP
+    CGLW_CASTLE GRV-LOV-WAYN
+    CGWS
+    CITY OF RINGSTED, DENMARK-JACK CREEK TWP
+    CLAY
+    CLAY 1
+    CLAY 2
+    CLAY MONROE
+    CLAYTON-GARNAVILLO
+    CLINTON 1-1
+    CLINTON 1-2
+    CLINTON 2-1
+    CLINTON 2-2
+    CLINTON 3-1
+    CLINTON 3-2
+    CLINTON 4-1
+    CLINTON 4-2
+    CLIVE 1
+    CLIVE 2
+    CLIVE 3
+    CLIVE 4
+    CLIVE 5 C5
+    CLIVE 6 C6
+    CLIVE 7 C7
+    CLIVE 8 C8
+    CM/WDM
+    CN
+    COLLINS/COLLINS TWP
+    COLO/NEW ALBANY TWP
+    CONCORDIA TWP
+    COURTHOUSE PRECINCT 1
+    COURTHOUSE PRECINCT 2
+    COX CREEK-SPERRY
+    CP
+    CP-MA-MT
+    CR RV
+    CR1
+    CR2
+    CRESCENT
+    CROCKER 1
+    CROCKER 2
+    CS/CH
+    CS1 - Salem Lutheran Church
+    CS2 - SWCC
+    CS3 - Trinity Lutheran Church
+    CS4 - Supertel
+    CS5 - Crest Baptist Church
+    CV01
+    CV02
+    CV03
+    CV04
+    CV05
+    CV06
+    CV07
+    CV08
+    CV09
+    Caldwell
+    Capel/Grant/Lynn/Sheridan
+    Carroll Ward Four
+    Carroll Ward One Precinct
+    Carroll Ward Three and S1/2 Maple River Township
+    Carroll Ward Two and N1/2 Maple River Township
+    Carroll-Floyd
+    Casey
+    Cass-Center-Iowa-Rochester
+    Cedar Rapids 01
+    Cedar Rapids 02
+    Cedar Rapids 03
+    Cedar Rapids 04
+    Cedar Rapids 05
+    Cedar Rapids 06
+    Cedar Rapids 07
+    Cedar Rapids 08
+    Cedar Rapids 09
+    Cedar Rapids 10
+    Cedar Rapids 11
+    Cedar Rapids 12
+    Cedar Rapids 13
+    Cedar Rapids 14
+    Cedar Rapids 15
+    Cedar Rapids 16
+    Cedar Rapids 17
+    Cedar Rapids 18
+    Cedar Rapids 19
+    Cedar Rapids 20
+    Cedar Rapids 21
+    Cedar Rapids 22
+    Cedar Rapids 23
+    Cedar Rapids 24
+    Cedar Rapids 25
+    Cedar Rapids 26
+    Cedar Rapids 27
+    Cedar Rapids 28
+    Cedar Rapids 29
+    Cedar Rapids 30
+    Cedar Rapids 31
+    Cedar Rapids 32
+    Cedar Rapids 33
+    Cedar Rapids 34
+    Cedar Rapids 35
+    Cedar Rapids 36
+    Cedar Rapids 37
+    Cedar Rapids 38
+    Cedar Rapids 39
+    Cedar Rapids 40
+    Cedar Rapids 41
+    Cedar Rapids 42
+    Cedar Rapids 43
+    Cedar Rapids 44
+    Cedar Rapids 45
+    Cedar Rapids 46
+    Cedar Rapids 47
+    Cedar Rapids 48
+    Cedar Rapids 49
+    Cedar Rapids 50
+    Cedar Rapids 51
+    Cedar/Poyner2/Gilbertville
+    Center
+    Center-Cedar-Round Prairie-Maharishi Vedic City
+    Center-Harlan Township
+    Centerville Ward 1
+    Centerville Ward 2
+    Centerville Ward 3
+    Central
+    Central Precinct
+    Chariton City Hall Precinct
+    Chariton Community Center Precinct
+    Charter Oak
+    Chelsea
+    Chickasaw North
+    City of Spencer Ward 1
+    City of Spencer Ward 2
+    City of Spencer Ward 3
+    City of Spencer Ward 5
+    Clarinda 1
+    Clarinda 2
+    Clarion Precinct
+    Clay-Fulton-Johnson-Roland
+    Clear Creek-Independence
+    Clear Lake / Grant / Union Twps Pct
+    Clear Lake Ward 1 -
+    Clear Lake Ward 2 -
+    Clear Lake Ward 3 -
+    Clermont Township
+    Clinton
+    Clinton Township
+    Clutier
+    Colfax
+    Colfax-Hardin-Washington-Webster-Yell
+    Colony
+    Columbus Junction
+    Concord/Sherman/Grant/Tipton
+    Courthouse
+    Cresco 1A
+    Cresco 2
+    Cresco 3
+    DA
+    DALLAS
+    DCAB Precinct
+    DELAWARE 1
+    DES MOINES 1
+    DES MOINES 10
+    DES MOINES 11
+    DES MOINES 12
+    DES MOINES 13
+    DES MOINES 14
+    DES MOINES 15
+    DES MOINES 16
+    DES MOINES 17
+    DES MOINES 18
+    DES MOINES 19
+    DES MOINES 2
+    DES MOINES 20
+    DES MOINES 21
+    DES MOINES 22
+    DES MOINES 23
+    DES MOINES 24
+    DES MOINES 25
+    DES MOINES 26
+    DES MOINES 27
+    DES MOINES 28
+    DES MOINES 29
+    DES MOINES 3
+    DES MOINES 30
+    DES MOINES 31
+    DES MOINES 32
+    DES MOINES 33
+    DES MOINES 34
+    DES MOINES 35
+    DES MOINES 36
+    DES MOINES 37
+    DES MOINES 38
+    DES MOINES 39
+    DES MOINES 4
+    DES MOINES 40
+    DES MOINES 41
+    DES MOINES 42
+    DES MOINES 43
+    DES MOINES 44
+    DES MOINES 45
+    DES MOINES 46
+    DES MOINES 47
+    DES MOINES 48
+    DES MOINES 49
+    DES MOINES 5
+    DES MOINES 50
+    DES MOINES 51
+    DES MOINES 52
+    DES MOINES 53
+    DES MOINES 54
+    DES MOINES 55
+    DES MOINES 56
+    DES MOINES 57
+    DES MOINES 58
+    DES MOINES 59
+    DES MOINES 6
+    DES MOINES 60
+    DES MOINES 61
+    DES MOINES 62
+    DES MOINES 63
+    DES MOINES 64
+    DES MOINES 65
+    DES MOINES 66
+    DES MOINES 67
+    DES MOINES 68
+    DES MOINES 69
+    DES MOINES 7
+    DES MOINES 70
+    DES MOINES 71
+    DES MOINES 72
+    DES MOINES 8
+    DES MOINES 9
+    DESOTO DS
+    DEWITT 1
+    DEWITT 2
+    DEWITT TWP
+    DM JK
+    DM73
+    DM74
+    DOLLIVER, ELLSWORTH-LINCOLN TWP
+    DOUGLAS
+    DOUGLAS POLK
+    DRL
+    Danville Hanlontown
+    Davis
+    Dayton
+    Dayton-Fairfield
+    Dayton/English 1
+    Dayton/Richland
+    Deer Creek Barton Union Grove Grafton
+    Deer Creek-Jackson
+    Deer Creek/White Cloud
+    Delaware
+    Delhi/Delaware Corp
+    Denison 1st Ward
+    Denison 2nd Ward / Denison TWP
+    Denison 3rd Ward / Goodrich TWP
+    Des Moines
+    Des Moines-Liberty-Libertyville
+    Doon City Hall - P5
+    Douglas-Peterson
+    Dover Township
+    Dows Precinct
+    Dysart
+    EDEN LOW MOOR
+    EDEN/LOGAN/WASHINGTON
+    EDM/GF/JF/WDM/BE
+    EG #1 Precinct
+    EG #2 Precinct
+    EG #3 Precinct
+    EG #4 Precinct
+    EG GT HS SW
+    EL-WL-WN
+    ELK RIVER HAMPSHIRE ANDOVER
+    ELK-MALLORY-VOLGA
+    ELKHART
+    EM Ward 3/EM/pts SL,HL,LI,WL
+    EMMET-ESTHERVILLE TWP
+    EMNS
+    EMO
+    EMWard4/FR/NV/ptsFV,FF,VN,IN
+    ER-LB
+    ESTHERVILLE WARD 1
+    ESTHERVILLE WARD 2
+    ESTHERVILLE WARD 3
+    ESTHERVILLE WARD 4
+    ESTHERVILLE WARD 5
+    Eagle/Orange
+    Early
+    East
+    East Orange/Floyd/Holland North 1/2
+    East Precinct
+    Eden Logan Norway
+    Eden Precinct
+    Eden-Harrison-Taylor-Jackson-Garrison
+    Elberon
+    Eldora City
+    Eldora/Pleasant/Providence/Union
+    Eldorado-Newhall
+    Elk Run Heights
+    Elliott Community Building Precinct #4
+    Elliott Community Building Precinct #5
+    Emerson/Hastings/Indian Creek
+    Emmetsburg Ward 1
+    Emmetsburg Ward 2
+    English 2
+    Essex City Hall
+    Etna/Clay
+    Evansdale Ward 1
+    Evansdale Ward 2
+    Evansdale Ward 3
+    Evansdale Ward 4
+    Ewoldt Precinct
+    FAIRVIEW SHELBY
+    FARMERSBURG-WAGNER
+    FC3 Forest S3
+    FM1
+    FM2
+    FM3
+    FM4A
+    FM4B
+    FM5
+    FOUR MILE
+    FR/LN/LT
+    FRANKLIN
+    FRANKLIN TWP
+    FT LC
+    FUMO/Stockton/Blue Grass
+    FV-GT-LK-LN-RO-WF-WT
+    FV_FAIRVIEW 8
+    Fairbank
+    Fairfax
+    Fairfax Township
+    Fairfield 1st Ward
+    Fairfield 2nd Ward
+    Fairfield 3rd Ward
+    Fairfield 4th Ward
+    Fairfield 5th Ward
+    Fairfield-Putnam Township
+    Fairview
+    Falls Twp Pct
+    Farmington-Sugar Creek
+    Farragut
+    Fayette Township
+    Fertile
+    Fillmore/ Greene
+    First Christian Church Precinct #3
+    Florence-St Clair-Norway
+    Fonda
+    Forest City Ward 1
+    Forest City Ward 2
+    Forest City Ward 4
+    Forster Community Building N - P3
+    Forster Community Building S - P4
+    Fort Dodge #1
+    Fort Dodge #10
+    Fort Dodge #11
+    Fort Dodge #12
+    Fort Dodge #2
+    Fort Dodge #3
+    Fort Dodge #4-Douglas
+    Fort Dodge #5
+    Fort Dodge #6
+    Fort Dodge #7
+    Fort Dodge #8
+    Fort Dodge #9
+    Franklin
+    Franklin Township
+    Fremont-Atkins
+    Fremont-Red Oak
+    Fruitland 1
+    GARNER
+    GBDNPR
+    GF WM
+    GF_GREENFIELD
+    GHPW
+    GIARD-MONONA
+    GILBERT
+    GR
+    GR/pt WL/pt LI
+    GRAND MEADOW-MARION
+    GRANT/GRANGER GG
+    GRAVITY PRECINCT 4
+    GREELEY JEFFERSON
+    GRIMES 1
+    GRIMES 2
+    GRIMES 3
+    GRIMES 4
+    GRIMES 5
+    GRIMES/WALNUT TWP GWT
+    GROVE-UNION-WASHINGTON-WESTPHALIA
+    GRUVER, CENTER-SWAN LAKE TWP
+    GW SN
+    Galva Twp/Galva City
+    Garfield-Herdland
+    Garwin
+    Geneseo / Dougherty Twps Pct
+    Geneva/Ingham/East Mott
+    George Community Center - P1
+    Gladbrook
+    Glenwood Township
+    Glenwood Ward 1
+    Glenwood Ward 2
+    Glenwood Ward 3
+    Glidden-Richland Precinct
+    Gold Fair Building Precinct #1
+    Gold Fair Building Precinct #2
+    Goldfield Precinct
+    Goshen/City of Atalissa
+    Gower-Springdale
+    Gowrie-Lost Grove
+    Grand River - Monroe - Webster -Lincoln SW
+    Grandview Port Louisa
+    Grant Township
+    Grant/Anita/Lincoln/Benton/Franklin/Wiota
+    Grant/Osceola
+    Green Castle/LeGrand
+    Green/Riverside/Scott
+    Greenfield 1
+    Greenfield 2
+    Greenfield 3
+    Greenfield 4
+    Griggs/Pt. Douglas Twps/Holstein City
+    Grimes Twp Pct
+    Guthrie Center
+    H03 Humeston
+    HANCOCK
+    HARLAN WARD 1
+    HARLAN WARD 2
+    HARLAN WARD 3
+    HARLAN WARD 4
+    HARRIS
+    HB LY LN SF
+    HD
+    HG-K-M-RC
+    HI
+    HS/LB/PV
+    HUXLEY 1/UNION TWP 2
+    HUXLEY 2/PALESTINE TWP
+    HW/BC/EW/GF/LG/WW
+    Hamburg/Washington
+    Hamilton/Reeve
+    Hampton 1 - HD School
+    Hampton 2 - HD School
+    Hampton 3 - HD School
+    Hampton 4 - HD School
+    Hardin/Ellis/Jackson
+    Hartford 1/ Sumner
+    Hartford 2/ Lincoln
+    Hartland Grove Northwood
+    Hartley-Lincoln-Omega
+    Havelock
+    Hazleton
+    Henderson/Anderson
+    Hiawatha 01
+    Hiawatha 02
+    Hiawatha 03
+    Hilton/ Washington
+    Hinde Center
+    Homer-Kane-Keystone
+    Honey Creek/Elk
+    Honey Creek/Marengo Rural
+    Hudson
+    Hull/Lincoln
+    IC01
+    IC02
+    IC03
+    IC04
+    IC05
+    IC06
+    IC07
+    IC08
+    IC09
+    IC10/ELSW
+    IC11
+    IC12
+    IC13
+    IC14
+    IC15/ELSE
+    IC16/SC.90
+    IC17
+    IC18
+    IC19
+    IC20
+    IC21
+    IC22/ELN
+    IC23
+    IC24
+    IC25
+    IC26
+    IC27
+    IV
+    Ida Grove Ward 1
+    Ida Grove Ward 2
+    Ida Grove Ward 3/Corwin/Pt Grant Twps
+    Illyria Township
+    Independence 1st Ward
+    Independence 2nd Ward
+    Independence 3rd Ward
+    Independence 4th Ward
+    Independence 5th Ward
+    Indian Settlement
+    Indiana Township
+    Indianola 1
+    Indianola 2
+    Indianola 3
+    Indianola 4
+    Indianola 5
+    Indianola 6
+    Indianola 7
+    Indianola 8
+    Inland
+    Inwood Community Center - P6
+    Iowa Falls #1
+    Iowa Falls #2
+    Iowa-Leroy-Luzerne-Blairstown
+    Ireton/Center/Eagle East/Reading/WE
+    JA-RL
+    JE/SH
+    JEFFERSON
+    JF WMO
+    JO-MH-SO-SOC-SV-WL
+    JOHNSTON 1
+    JOHNSTON 2
+    JOHNSTON 3
+    JOHNSTON 4
+    JOHNSTON 5
+    JOHNSTON 6
+    JOHNSTON 7
+    JOHNSTON 8
+    JUPS
+    JW/MN/SW
+    Jackson
+    Jackson - Douglas - Lincoln NW
+    Jackson Township
+    Jamestown/Oakdale/Riceville
+    Jefferson
+    Jefferson - Lee
+    Jefferson 1 Precinct
+    Jefferson 2 Precinct
+    Jefferson-Scott Township
+    Jefferson/Timber Creek
+    Jesup
+    Johns/Independence/Lincoln
+    KALONA
+    KE
+    KE1
+    KE2A
+    KE2B
+    KE3
+    KE4
+    KE5
+    KE6
+    KE7
+    KELLEY
+    King Linden
+    Knoxville Four
+    Knoxville One
+    Knoxville Three
+    Knoxville Township
+    Knoxville Two
+    L.C. Extension Precinct
+    LBRTY SPRNG RCK TRNTO WHTLND
+    LENOX PRECINCT 3
+    LEWIS 1
+    LEWIS 2
+    LF-CC
+    LIBERTY
+    LINCOLN/WASHINGTON/LINN
+    LNT - Lincoln Township
+    LODOMILLO
+    LR - Lorimor
+    LV SM
+    Lake
+    Lake / Lincoln Twps Pct
+    Lake Prairie Township
+    Lake View
+    Lake-Freeman
+    Lamoni
+    Larchwood City Hall - P10
+    Laurens
+    Lawler/Fredericksburg
+    Lenox/ Iowa
+    Leon
+    Lester Community Center - P9
+    Liberty
+    Liberty/Marietta/Minerva
+    Lime Creek / Mason North Twps Pct
+    Lincoln
+    Lincoln 1
+    Lincoln 2
+    Lincoln 3
+    Lincoln Manly
+    Lincoln NE
+    Lincoln-Clay-Lone Tree-Riverton
+    Linn
+    Linn-Pioneer
+    Little Rock Town and Country - P2
+    Lockridge-City of Lockridge
+    Locust Grove-Batavia
+    Logan N - Lester Community Center - P8
+    Logan S - Inwood Community Center - P7
+    Logan-Gillett Grove
+    Lucas Community Center Precinct
+    Lynngrove-Richland
+    Lytton
+    M-N-S
+    MACEDONIA
+    MADISON
+    MAXWELL/INDIAN CRK TWP
+    MAY CITY
+    MCCALLSBURG/WARREN TWP
+    MCCLELLAND
+    MD/NL.ANX
+    MD/PG/PR/UN/BC/NS
+    MELVIN
+    MENDON
+    MIDDLE PRECINCT
+    MILFORD TWP
+    MINDEN
+    MITCHELLVILLE
+    ML/EL/RL/BO/GO/pt SL
+    MN1_MONTICELLO 1
+    MN2_MONTICELLO 2
+    MN3_MONTICELLO 3
+    MN4_MONTICELLO 4
+    MP-P-W
+    MR FR
+    MS
+    MURRAY PRECINCT
+    Madrid 1st Ward
+    Madrid 2nd Ward
+    Madrid 3rd Ward
+    Maine Township
+    Malvern/Tabor/Silver Creek/Center/Rawles
+    Manchester Ward 1
+    Manchester Ward 2
+    Manchester Ward 3
+    Maple/Garfield/Pt.Grant/Battle/Logan/Pt.Douglas/BC
+    Marengo City
+    Marion
+    Marion 01
+    Marion 02
+    Marion 03
+    Marion 04
+    Marion 05
+    Marion 06
+    Marion 07
+    Marion 08
+    Marion 09
+    Marion 10
+    Marion 11
+    Marion 12
+    Marion 13
+    Marion 14
+    Marion 15
+    Marion 16
+    Marion 17
+    Marion 18
+    Marion Township 01
+    Marion Township 02
+    Marion/Vienna
+    Marshalltown City Ward 1
+    Marshalltown City Ward 2
+    Marshalltown City Ward 3
+    Marshalltown City Ward 4
+    Mason City W-1 P-1
+    Mason City W-1 P-2
+    Mason City W-1 P-3
+    Mason City W-2 P-1
+    Mason City W-2 P-2
+    Mason City W-2 P-3
+    Mason City W-3 P-1
+    Mason City W-3 P-2
+    Mason City W-3 P-3
+    Mason City W-4 P-1
+    Mason City W-4 P-2
+    Mason City W-4 P-3
+    Mason South / Bath / Portland / Owen Twps Pct
+    Massillon-Springfield
+    Maurice/Sherman
+    Milo/Prairie
+    Monroe Township 01
+    Monroe Township 02
+    Montezuma
+    Montour
+    Morning Sun Marshall
+    Moscow
+    Mount Ayr
+    Mount Ayr 2
+    Mount Vernon 01
+    Mount Vernon 02
+    Mt Valley
+    Mt Vernon / Pleasant Valley Twps Pct
+    Mt. Vernon
+    Muscatine Eighth
+    Muscatine Fifth
+    Muscatine First
+    Muscatine Fourth
+    Muscatine Ninth
+    Muscatine Second
+    Muscatine Seventh
+    Muscatine Sixth
+    Muscatine Tenth
+    Muscatine Third
+    NEOLA
+    NEVADA 1/RICHLAND TWP
+    NEVADA 2/GRANT TWP 2
+    NEVADA 3
+    NEVADA 4/NEVADA TWP
+    NEW MARKEY PRECINCT 5
+    NL01
+    NL02
+    NL03
+    NL04
+    NL05
+    NL06
+    NL07/MD.85
+    NL08
+    NORTH PRECINCT
+    NORTHEAST
+    NORTHWEST
+    NP
+    NT 1-1
+    NT 1-2
+    NT 2-1
+    NT 2-2
+    NT 3-1
+    NT 3-2
+    NT 4-1
+    NT 4-2
+    Nemaha
+    New Hampton Rural
+    New Hampton Ward 1
+    New Hampton Ward 2
+    New Hampton Ward 3
+    New Hampton Ward 4
+    New Oregon/Protivin
+    Newton Forest
+    No. 1 - Albia First Ward
+    No. 2 - Albia Second Ward
+    No. 3 - Albia Third Ward
+    No. 4 - Albia Fourth Ward
+    No. 5 - Courthouse (PL,GL,TR,MT,UR and MN)
+    No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)
+    No. 7 - St. Patrick's Church (ML City,FR,JK,WY)
+    Noble Twp/Pleasant Twp/Griswold
+    North
+    North Precinct
+    Northeast Precinct
+    Norwalk 1
+    Norwalk 2
+    Norwalk 3
+    Norwalk 4
+    Norwalk 5
+    Norwalk 6
+    Norwalk 7
+    OAKLAND
+    OCHEYEDAN
+    OLIVE GRANT CALAMUS
+    ORANGE GRAND MOUND
+    OS1
+    OS2
+    OS3
+    OS4
+    OSCEOLA 1
+    OSCEOLA 1ST WARD
+    OSCEOLA 2
+    OSCEOLA 2ND WARD
+    OSCEOLA 3
+    OSCEOLA 3RD WARD
+    OT/01
+    OT/02
+    OT/03
+    OT/04
+    OT/05
+    OT/06
+    OT/07
+    OT/08
+    OT/09
+    OT/10
+    OTLEY
+    OX/OC
+    OX_OXFORD
+    Oak/St. Mary
+    Oakland/Morgan/Lee
+    Odebolt
+    Oelwein Ward 1
+    Oelwein Ward 2
+    Oelwein Ward 3
+    Oelwein Ward 4
+    Ogden
+    Onawa Ward 1
+    Onawa Ward 2
+    Onawa Ward 3
+    Onawa Ward 4
+    Oneida/N Fork/Bremen
+    Oran Township
+    Orange City #1/Holland SW
+    Orange City #2/Holland SE
+    Orono/City of Conesville
+    Otter
+    Otter Creek Township
+    PA
+    PC
+    PCT 1
+    PCT 1 - FM/BO/OR/BLF/MA
+    PCT 10 - FK/BM/MI
+    PCT 11 - CA/WA/JA
+    PCT 12 - LI/SU
+    PCT 2
+    PCT 2 - HE/HI/CN/PL/GL
+    PCT 3
+    PCT 3 - DEW1/DETSUP2
+    PCT 4
+    PCT 4 - DEW2
+    PCT 5
+    PCT 5 - DEW3A
+    PCT 6
+    PCT 6 - DEW3B
+    PCT 7
+    PCT 7 - DEW4
+    PCT 8
+    PCT 8 - DEW5
+    PCT 9 - DETSUP4/SP
+    PCT BHJ
+    PCT DM
+    PCT FM
+    PCT MYF
+    PCT PW
+    PCT UNION
+    PCT WB
+    PERRY 1 P1
+    PERRY 2 P2
+    PERRY 3 P3
+    PLEASANT HILL 1
+    PLEASANT HILL 2
+    PLEASANT HILL 3
+    PLEASANT HILL 4
+    PLEASANTVILLE
+    PN/CV.ANX
+    POLK CITY 1
+    POLK CITY 2
+    PR WL
+    Pacific Junction/Lyons/Plattville
+    Page County Courthouse 1
+    Page County Courthouse 2
+    Palmer
+    Palmyra
+    Panora
+    Paris/Afton/Howard/Elma
+    Pct 1 - WL/HV
+    Pct 1- Bellevue Community Center
+    Pct 10 - Waukon Ward 3
+    Pct 10- 2nd Ward Maquoketa City
+    Pct 11- 3rd Ward Maquoketa City
+    Pct 12- 4th Ward Maquoketa City
+    Pct 13- 5th Ward Maquoketa City
+    Pct 2 - FC/JK/LL/MK/UP
+    Pct 2- LaMotte Recreation Center
+    Pct 3 - PO/FK/PV City
+    Pct 3- St Lawrence Community Hall
+    Pct 4 - LT/PC/WV City
+    Pct 4- Andrew City Hall
+    Pct 5 - FV/TL/HF City
+    Pct 5- Springbrook City Hall
+    Pct 6 - CN/LF/LS/LS City
+    Pct 6- Fairgrds-Pearson Center
+    Pct 7 - IA/UC/NA City
+    Pct 7- Preston Community Hall
+    Pct 8 - Waukon Ward 1
+    Pct 8- Sabula City Hall
+    Pct 9 - Waukon Ward 2
+    Pct 9- 1st Ward Maquoketa City
+    Pella Four
+    Pella One
+    Pella Three
+    Pella Two
+    Penn - Madison
+    Penn-Walnut-Pleasant Plain-Coppock
+    Perry-Washington
+    Pike/City of Nichols
+    Pilot/ Troy/ York
+    Pin Oak Marsh Precinct
+    Plato/Rock/Settlers/Sioux
+    Pleasant Valley Township
+    Pleasant Valley-Newton Precinct
+    Pleasant/Franklin
+    Polk-Urbana
+    Poyner1/EWL/Raymond/Fox/Jesup
+    Precinct # 2 Pisgah
+    Precinct #1
+    Precinct #1 Little Sioux
+    Precinct #10
+    Precinct #10 Missouri Valley
+    Precinct #11
+    Precinct #11 Persia
+    Precinct #12
+    Precinct #2
+    Precinct #3
+    Precinct #3 Dunlap
+    Precinct #4
+    Precinct #4 Mondamin
+    Precinct #5
+    Precinct #5 Magnolia
+    Precinct #6
+    Precinct #6 Woodbine
+    Precinct #7
+    Precinct #7 Modale
+    Precinct #8
+    Precinct #8 Logan
+    Precinct #9
+    Precinct #9 St John
+    Precinct 1
+    Precinct 1 WC 1
+    Precinct 2
+    Precinct 2 WC 2
+    Precinct 3
+    Precinct 4
+    Precinct 4 MP1
+    Precinct 4 Northwest
+    Precinct 5
+    Precinct 5 MP2
+    Precinct 5 Northeast
+    Precinct 6
+    Precinct 6 MP3
+    Precinct 6 Southwest
+    Precinct 7
+    Precinct 7 MP4
+    Precinct 7 Southeast
+    Precinct 8
+    Precinct 9
+    Precinct No. 1
+    Precinct No. 10
+    Precinct No. 11
+    Precinct No. 12
+    Precinct No. 2
+    Precinct No. 3
+    Precinct No. 4
+    Precinct No. 5
+    Precinct No. 6
+    Precinct No. 7
+    Precinct No. 8
+    Precinct No. 9
+    Precninct 3 WC 3
+    Putnam Township
+    Quasqueton
+    RICHMOND
+    RIVERSIDE
+    RL/KV
+    RLWS_RICHLAND-WASHINGTON
+    RM
+    ROHA_ROME-HALE
+    ROLAND/HOWARD TWP
+    RUNNELLS
+    RV/pt HL
+    Richland
+    Richland/Coffins Grove
+    Richland/Ross/West Fork
+    Riverton
+    Robins
+    Rock Grove
+    Rock Valley #1
+    Rock Valley #2
+    Rockford
+    Rolfe
+    Rowley
+    Rudd- Floyd - Cedar - Niles
+    Rural Clarion Precinct
+    Rural Eagle Grove Precinct
+    Rural Precinct 1
+    Rural Precinct 2
+    Rural Precinct 3
+    Rural Precinct 4
+    Rural Precinct 5
+    Rural Precinct 6
+    Russell Community Center Precinct
+    S04 Seymour
+    SAYLOR 1
+    SAYLOR 2
+    SC-UT
+    SC/WB/IC.ANX
+    SG-PL-VB
+    SG1
+    SG2
+    SG3
+    SG4
+    SGMC_SC GRV-MADISON-CLAY
+    SHARON LOST NATION
+    SHELDAHL
+    SL01 Storm Lake 01 City
+    SL02 Storm Lake 02 City
+    SL03
+    SL04 Storm Lake 04 City
+    SLATER/SHELDAHL
+    SN
+    SO/BG.85
+    SOUTHEAST
+    SOUTHWEST
+    SPRING VALLEY/DALLAS SVD
+    SRK Precinct
+    STORY CITY 1
+    STORY CITY 2/LAFAYETTE/HOWARD 2
+    SUGAR GROVE/DALLAS CENTER SGDC
+    Sac City
+    Saratoga/Howard Center/Chester/Chester City
+    Schaller
+    Scott - Union - Pleasant Grove
+    Sheldon 1st Ward
+    Sheldon 2nd Ward
+    Sheldon 3rd Ward
+    Shenandoah 1
+    Shenandoah 2
+    Shenandoah 3
+    Shenandoah Fire Station
+    Sheridan-Grant-Jasper Precinct
+    Sidney
+    Silver City/Ingraham
+    Silver Lake Bristol Hartland Joice
+    Sioux Center #1/Welcome
+    Sioux Center #2
+    Sioux Center #3
+    Sioux Center #4
+    Smithfield-Westfield Town
+    South
+    South Fork/Union
+    Southeast Louisa
+    Southeast Precinct
+    Southwest
+    Spencer Ward 4
+    Spring Grove Township
+    Squaw Creek
+    Stanton Community Building Precinct #6
+    State Center
+    Stuart
+    Summit-Center-Dale-Highland
+    Summit-Meadow-Sioux
+    Sweetland
+    TAMA TWP
+    TF01/CC
+    TF02
+    TREYNOR
+    Tama
+    Taylor/Chariton
+    Tingley
+    Tipton 1
+    Tipton 2
+    Tipton 3
+    Toledo
+    Traer
+    UH
+    UN
+    UN CR
+    UNDERWOOD
+    UNION
+    URBANDALE 1
+    URBANDALE 10
+    URBANDALE 11
+    URBANDALE 12
+    URBANDALE 14 URB 14
+    URBANDALE 15 URB 15
+    URBANDALE 16 URB 16
+    URBANDALE 17 URB 17
+    URBANDALE 18 URB 18
+    URBANDALE 2
+    URBANDALE 3
+    URBANDALE 4
+    URBANDALE 5
+    URBANDALE 6
+    URBANDALE 7
+    URBANDALE 8
+    URBANDALE 9
+    Ulster - St. Charles - Riverton
+    Union
+    Union - Crawford - Scott - Lincoln SE
+    Union Precinct
+    Union Township
+    Union Twp/Cumberland
+    Union-Baker-Caledonia
+    Union/Udell
+    Union/Washington/Janesville
+    VAN METER CITY VM
+    VAN METER TWP VM TWP
+    Van Wert
+    Vermillion/Douglas/Sharon/Bellair
+    Vernon Springs/Cresco 1B
+    Victoria/Edna/East Side of Massena Twp
+    Villisca Community Building Precinct #7
+    Vinton 1
+    Vinton 2
+    Vinton 3
+    Vinton 4
+    Virginia
+    WA/EL
+    WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP
+    WALNUT
+    WARD 1
+    WARD 2 PRECINCT
+    WARD 3 PRECINCT
+    WARD 4 PRECINCT
+    WASHINGTON
+    WASHINGTON TWP
+    WATERFORD CHARLOTTE
+    WAUKEE 10
+    WAUKEE 3 WK 3
+    WAUKEE 4 WK 4
+    WAUKEE 5 WK 5
+    WAUKEE 6 WK 6
+    WAUKEE 7
+    WAUKEE 8
+    WAUKEE 9 WK 9
+    WB/pt FV
+    WEBSTER 1
+    WELLMAN PRECINCT
+    WELTON WASHINGTON WELTON
+    WEST DES MOINES 111
+    WEST DES MOINES 112
+    WEST DES MOINES 113
+    WEST DES MOINES 114
+    WEST DES MOINES 115
+    WEST DES MOINES 116
+    WEST DES MOINES 117
+    WEST DES MOINES 118
+    WEST DES MOINES 211
+    WEST DES MOINES 212
+    WEST DES MOINES 221 WDM 221
+    WEST DES MOINES 222 WDM 222
+    WEST DES MOINES 223 WDM 223
+    WEST DES MOINES 224 WDM 224
+    WEST DES MOINES 225 WDM 225
+    WEST DES MOINES 226 WDM 226
+    WEST DES MOINES 227 WDM 227
+    WEST DES MOINES 311
+    WEST DES MOINES 312
+    WEST DES MOINES 313
+    WEST DES MOINES 314
+    WEST DES MOINES 315
+    WEST DES MOINES 316
+    WEST DES MOINES 321 WDM 321
+    WEST DES MOINES 322 WDM 322
+    WINDSOR HEIGHTS 1
+    WINDSOR HEIGHTS 2
+    WL
+    WL 1-1
+    WL 1-2
+    WL 1-3
+    WL 1-4
+    WL 1-5
+    WL 1-6
+    WL 2-1
+    WL 2-2
+    WL 2-3
+    WL 2-4
+    WL 2-5
+    WL 2-6
+    WL 3-1
+    WL 3-2
+    WL 3-3
+    WL 3-4
+    WL 3-5
+    WL 3-6
+    WL 4-1
+    WL 4-2
+    WL 4-3
+    WL 4-4
+    WL 4-5
+    WL 4-6
+    WL 5-1
+    WL 5-2
+    WL 5-3
+    WL 5-4
+    WL 5-5
+    WL 5-6
+    WOODBURN PRECINCT
+    WP
+    WS
+    WS-WS
+    WY_WYOMING
+    Walford
+    Wall Lake
+    Walnut
+    Walnut - Ohio
+    Wapsi Township
+    Washington Precinct
+    Washington Township
+    Washington-Roselle Precinct
+    Washington/Wells
+    Waterford-City of Everly
+    Waterman-Grant-Liberty
+    Waukee 1
+    Waukee 2
+    West Branch
+    West Branch 1
+    West Liberty 1
+    West Liberty 2
+    West Louisa
+    West Massena Township/Massena
+    West Mott
+    West Precinct
+    West Union Ward 1
+    West Union Ward 2
+    West Union Ward 3
+    Wheatland-Kniest Precinct
+    White Breast
+    White Oak
+    Williamsburg
+    Williamson Community Center Precinct
+    Wilton City
+    Wilton Township
+    Winterset I
+    Winterset II
+    Winthrop
+    Wisner/Scott
+    Yale
+    ZEARING/LINCOLN/SHERMAN
+------
+

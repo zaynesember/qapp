@@ -1,0 +1,9 @@
+wheel
+numpy
+pandas
+Levenshtein
+fuzzywuzzy
+tqdm
+openpyxl
+xlsxwriter
+xlrd

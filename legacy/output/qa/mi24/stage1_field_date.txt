@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        ('ACME TOWNSHIP 1 Ward 0', 'GRAND TRAVERSE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'GRAND TRAVERSE', 'JENNIFER L WHITTEN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT', 'NONPARTISAN', 'GRAND TRAVERSE', 'STEPHEN L BORRELLO', 'TOTAL', '4', 'GEN', 'FALSE')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT - PARTIAL TERM ENDING 1/1/2027', 'NONPARTISAN', 'GRAND TRAVERSE', 'ALLIE GREENLEAF MALDONADO', 'TOTAL', '4', 'GEN', 'TRUE')
+        ...(skipping 326204 elements)
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'REPUBLICAN', 'VAN BUREN', 'MIKE ROGERS', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'US TAXPAYERS', 'HURON', 'DAVE STEIN', 'TOTAL', 'STATEWIDE', 'GEN', 'FALSE')
+        ('{Statistical Adjustments} 9999 Ward 0', 'WAYNE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'WAYNE', 'DANIEL L MERCIER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

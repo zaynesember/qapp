@@ -1,0 +1,85 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        (13901, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'WRITE-IN', 'TOTAL', 'AT-LARGE ', 'GEN', '2024-11-05')
+        (13901, 'COUNTY COMMISSIONER', 'NONPARTISAN', 'ADAMS', 'ANTHONY DEAN LARSON', 'TOTAL', 'AT-LARGE ', 'GEN', '2024-11-05')
+        (13901, 'COUNTY COMMISSIONER', 'NONPARTISAN', 'ADAMS', 'DUSTIN MICHAEL LAUFER', 'TOTAL', 'AT-LARGE ', 'GEN', '2024-11-05')
+        ...(skipping 18515 elements)
+        (532352, 'US PRESIDENT', 'REPUBLICAN', 'WILLIAMS', 'DONALD J TRUMP', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        (532352, 'US SENATE', 'DEMOCRATIC-NPL', 'WILLIAMS', 'KATRINA CHRISTIANSEN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        (532352, 'US SENATE', 'REPUBLICAN', 'WILLIAMS', 'KEVIN CRAMER', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        (13901, 'COUNTY RECORDER', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (13901, 'COUNTY RECORDER', 'NONPARTISAN', 'ADAMS', 'SHERI DEE UECKER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (22401, 'COUNTY AUDITOR', '<<<EC: VALUE WAS EMPTY>>>', 'BARNES', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 358 elements)
+        (532343, 'STATE HOUSE', 'REPUBLICAN', 'WILLIAMS', 'DENNIS NEHRING', 'TOTAL', '023', 'GEN', '2024-11-05')
+        (532352, 'STATE HOUSE', 'DEMOCRATIC-NPL', 'WILLIAMS', 'MARK CASLER', 'TOTAL', '023', 'GEN', '2024-11-05')
+        (532352, 'STATE HOUSE', 'REPUBLICAN', 'WILLIAMS', 'DENNIS NEHRING', 'TOTAL', '023', 'GEN', '2024-11-05')
+
+    ('FALSE', 'TRUE')
+        (471240, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'STUTSMAN', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (471250, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'STUTSMAN', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (471260, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'STUTSMAN', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ...(skipping 5 elements)
+        (472930, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'STUTSMAN', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (501902, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'WALSH', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (502001, 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'WALSH', 'WRITE-IN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

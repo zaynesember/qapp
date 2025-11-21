@@ -1,0 +1,89 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    NICHOLS: ['TRUE' 'FALSE']
+    SMITH: ['FALSE' 'TRUE']
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+    WRITE-IN: TRUE
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    ANDRUS
+    AYERS
+    BRUMMELL
+    DALTON
+    DUNCAN
+    DURAL
+    HAGG
+    MCGUNEGLE
+    MCKIBBIN
+    MONTANEZ
+    NICHOLS
+    OFUANI
+    ROCHE
+    SCHROPPEL
+    SMITH
+    WRITE-IN
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

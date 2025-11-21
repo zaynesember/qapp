@@ -1,0 +1,151 @@
+---------------------------
+---------------------------
+CANDIDATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID BEGINNING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID ENDING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) EXTRANEOUS SINGLE QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX NOT AT THE END
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INITIAL/MIDDLE NAME AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN candidate WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN candidate: 
+   No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    ADRIAN SMITH
+    ALLISON HEIMES
+    ASHLEI SPIVEY
+    BEAU BALLARD
+    BOB ANDERSEN
+    CAROL BLOOD
+    CAROLYN BOSN
+    DAN LONOWSKI
+    DAN OSBORN
+    DAN QUICK
+    DANIEL D MCKEON
+    DANIEL EBERS
+    DAVE WORDEKEMPER
+    DAWN LIPHARDT
+    DEB FISCHER
+    DENNIS C FUJAN
+    DENNIS SCHAARDT
+    DON BACON
+    DUNIXI GUERECA
+    ELIOT BOSTAR
+    ETHAN CLARK
+    FELIX UNGERMAN
+    GILBERT AYALA
+    GLEN MEYER
+    JARED STORM
+    JASON PROKOP
+    JEANNE M REIGLE
+    JEN DAY
+    JOHN CAVANAUGH JR
+    JULIA K PALZER
+    KATHLEEN KAUTH
+    LANA PEISTER
+    LARRY LS BOLINGER
+    MARGO R JUAREZ
+    MARY ANN FOLCHERT
+    MICHELLE R SMITH
+    MIKE ALBRECHT
+    MIKE FLOOD
+    NICK BATTER
+    NICKI BEHMER POPP
+    PAUL E STROMMEN
+    PETE RICKETTS
+    PRESTON LOVE JR
+    RAY AGUILAR
+    RITA SANDERS
+    ROB DOVER
+    ROBERT HALLSTROM
+    ROXIE KRACL
+    SARAH F CENTINEO
+    SETH DERNER
+    STANLEY CLOUSE
+    TANYA STORER
+    TERRELL MCKINNEY
+    TIM C PENDRELL
+    TONY SORRENTINO
+    TONY TANGWALL
+    TONY VARGAS
+    VICTOR ROUNTREE
+------
+

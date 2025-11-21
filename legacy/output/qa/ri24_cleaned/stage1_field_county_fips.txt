@@ -1,0 +1,58 @@
+---------------------------
+---------------------------
+COUNTY_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+FIPS TOO LONG
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in county_fips!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+COUNTY FIPS FOR COUNTY CHECK:
+    It was not possible to cast county fips as numeric and group them with county name. This could happen due to blank values in county names or county fips in the following states: {'RHODE ISLAND'}
+------
+
+---------
+------
+ALL VALUES:
+    44001
+    44003
+    44005
+    44007
+    44009
+    <<<EC: VALUE WAS EMPTY>>>
+------
+

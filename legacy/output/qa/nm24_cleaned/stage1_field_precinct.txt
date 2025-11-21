@@ -1,0 +1,2161 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    PCT 001 ||| [[PCT]]
+    PCT 002 ||| [[PCT]]
+    PCT 003 ||| [[PCT]]
+    PCT 004 ||| [[PCT]]
+    PCT 005 ||| [[PCT]]
+    PCT 006 ||| [[PCT]]
+    PCT 007 ||| [[PCT]]
+    PCT 008 ||| [[PCT]]
+    PCT 009 ||| [[PCT]]
+    PCT 010 ||| [[PCT]]
+    PCT 011 ||| [[PCT]]
+    PCT 012 ||| [[PCT]]
+    PCT 013 ||| [[PCT]]
+    PCT 014 ||| [[PCT]]
+    PCT 015 ||| [[PCT]]
+    PCT 016 ||| [[PCT]]
+    PCT 017 ||| [[PCT]]
+    PCT 018 ||| [[PCT]]
+    PCT 019 ||| [[PCT]]
+    PCT 020 ||| [[PCT]]
+    PCT 021 ||| [[PCT]]
+    PCT 022 ||| [[PCT]]
+    PCT 023 ||| [[PCT]]
+    PCT 024 ||| [[PCT]]
+    PCT 025 ||| [[PCT]]
+    PCT 026 ||| [[PCT]]
+    PCT 027 ||| [[PCT]]
+    PCT 028 ||| [[PCT]]
+    PCT 029 ||| [[PCT]]
+    PCT 030 ||| [[PCT]]
+    PCT 031 ||| [[PCT]]
+    PCT 032 ||| [[PCT]]
+    PCT 033 ||| [[PCT]]
+    PCT 034 ||| [[PCT]]
+    PCT 035 ||| [[PCT]]
+    PCT 036 ||| [[PCT]]
+    PCT 037 ||| [[PCT]]
+    PCT 038 ||| [[PCT]]
+    PCT 039 ||| [[PCT]]
+    PCT 040 ||| [[PCT]]
+    PCT 041 ||| [[PCT]]
+    PCT 042 ||| [[PCT]]
+    PCT 043 ||| [[PCT]]
+    PCT 044 ||| [[PCT]]
+    PCT 045 ||| [[PCT]]
+    PCT 046 ||| [[PCT]]
+    PCT 047 ||| [[PCT]]
+    PCT 048 ||| [[PCT]]
+    PCT 049 ||| [[PCT]]
+    PCT 050 ||| [[PCT]]
+    PCT 051 ||| [[PCT]]
+    PCT 052 ||| [[PCT]]
+    PCT 053 ||| [[PCT]]
+    PCT 054 ||| [[PCT]]
+    PCT 055 ||| [[PCT]]
+    PCT 056 ||| [[PCT]]
+    PCT 057 ||| [[PCT]]
+    PCT 058 ||| [[PCT]]
+    PCT 059 ||| [[PCT]]
+    PCT 060 ||| [[PCT]]
+    PCT 061 ||| [[PCT]]
+    PCT 062 ||| [[PCT]]
+    PCT 063 ||| [[PCT]]
+    PCT 064 ||| [[PCT]]
+    PCT 065 ||| [[PCT]]
+    PCT 066 ||| [[PCT]]
+    PCT 067 ||| [[PCT]]
+    PCT 068 ||| [[PCT]]
+    PCT 069 ||| [[PCT]]
+    PCT 070 ||| [[PCT]]
+    PCT 071 ||| [[PCT]]
+    PCT 072 ||| [[PCT]]
+    PCT 073 ||| [[PCT]]
+    PCT 074 ||| [[PCT]]
+    PCT 075 ||| [[PCT]]
+    PCT 076 ||| [[PCT]]
+    PCT 077 ||| [[PCT]]
+    PCT 078 ||| [[PCT]]
+    PCT 079 ||| [[PCT]]
+    PCT 080 ||| [[PCT]]
+    PCT 081 ||| [[PCT]]
+    PCT 082 ||| [[PCT]]
+    PCT 083 ||| [[PCT]]
+    PCT 084 ||| [[PCT]]
+    PCT 085 ||| [[PCT]]
+    PCT 086 ||| [[PCT]]
+    PCT 087 ||| [[PCT]]
+    PCT 088 ||| [[PCT]]
+    PCT 089 ||| [[PCT]]
+    PCT 090 ||| [[PCT]]
+    PCT 091 ||| [[PCT]]
+    PCT 092 ||| [[PCT]]
+    PCT 093 ||| [[PCT]]
+    PCT 094 ||| [[PCT]]
+    PCT 095 ||| [[PCT]]
+    PCT 096 ||| [[PCT]]
+    PCT 097 ||| [[PCT]]
+    PCT 098 ||| [[PCT]]
+    PCT 099 ||| [[PCT]]
+    PCT 100 ||| [[PCT]]
+    PCT 101 ||| [[PCT]]
+    PCT 102 ||| [[PCT]]
+    PCT 103 ||| [[PCT]]
+    PCT 104 ||| [[PCT]]
+    PCT 105 ||| [[PCT]]
+    PCT 106 ||| [[PCT]]
+    PCT 107 ||| [[PCT]]
+    PCT 108 ||| [[PCT]]
+    PCT 109 ||| [[PCT]]
+    PCT 110 ||| [[PCT]]
+    PCT 111 ||| [[PCT]]
+    PCT 112 ||| [[PCT]]
+    PCT 113 ||| [[PCT]]
+    PCT 114 ||| [[PCT]]
+    PCT 115 ||| [[PCT]]
+    PCT 116 ||| [[PCT]]
+    PCT 117 ||| [[PCT]]
+    PCT 118 ||| [[PCT]]
+    PCT 119 ||| [[PCT]]
+    PCT 120 ||| [[PCT]]
+    PCT 121 ||| [[PCT]]
+    PCT 122 ||| [[PCT]]
+    PCT 123 ||| [[PCT]]
+    PCT 124 ||| [[PCT]]
+    PCT 125 ||| [[PCT]]
+    PCT 126 ||| [[PCT]]
+    PCT 127 ||| [[PCT]]
+    PCT 128 ||| [[PCT]]
+    PCT 129 ||| [[PCT]]
+    PCT 130 ||| [[PCT]]
+    PCT 131 ||| [[PCT]]
+    PCT 132 ||| [[PCT]]
+    PCT 133 ||| [[PCT]]
+    PCT 134 ||| [[PCT]]
+    PCT 135 ||| [[PCT]]
+    PCT 136 ||| [[PCT]]
+    PCT 137 ||| [[PCT]]
+    PCT 138 ||| [[PCT]]
+    PCT 139 ||| [[PCT]]
+    PCT 140 ||| [[PCT]]
+    PCT 141 ||| [[PCT]]
+    PCT 142 ||| [[PCT]]
+    PCT 143 ||| [[PCT]]
+    PCT 144 ||| [[PCT]]
+    PCT 145 ||| [[PCT]]
+    PCT 146 ||| [[PCT]]
+    PCT 147 ||| [[PCT]]
+    PCT 148 ||| [[PCT]]
+    PCT 149 ||| [[PCT]]
+    PCT 150 ||| [[PCT]]
+    PCT 151 ||| [[PCT]]
+    PCT 152 ||| [[PCT]]
+    PCT 153 ||| [[PCT]]
+    PCT 154 ||| [[PCT]]
+    PCT 155 ||| [[PCT]]
+    PCT 156 ||| [[PCT]]
+    PCT 157 ||| [[PCT]]
+    PCT 158 ||| [[PCT]]
+    PCT 159 ||| [[PCT]]
+    PCT 160 ||| [[PCT]]
+    PCT 161 ||| [[PCT]]
+    PCT 162 ||| [[PCT]]
+    PCT 163 ||| [[PCT]]
+    PCT 164 ||| [[PCT]]
+    PCT 165 ||| [[PCT]]
+    PCT 166 ||| [[PCT]]
+    PCT 167 ||| [[PCT]]
+    PCT 168 ||| [[PCT]]
+    PCT 169 ||| [[PCT]]
+    PCT 170 ||| [[PCT]]
+    PCT 171 ||| [[PCT]]
+    PCT 172 ||| [[PCT]]
+    PCT 173 ||| [[PCT]]
+    PCT 174 ||| [[PCT]]
+    PCT 175 ||| [[PCT]]
+    PCT 176 ||| [[PCT]]
+    PCT 177 ||| [[PCT]]
+    PCT 178 ||| [[PCT]]
+    PCT 179 ||| [[PCT]]
+    PCT 180 ||| [[PCT]]
+    PCT 181 ||| [[PCT]]
+    PCT 182 ||| [[PCT]]
+    PCT 183 ||| [[PCT]]
+    PCT 184 ||| [[PCT]]
+    PCT 185 ||| [[PCT]]
+    PCT 186 ||| [[PCT]]
+    PCT 187 ||| [[PCT]]
+    PCT 188 ||| [[PCT]]
+    PCT 189 ||| [[PCT]]
+    PCT 190 ||| [[PCT]]
+    PCT 191 ||| [[PCT]]
+    PCT 192 ||| [[PCT]]
+    PCT 193 ||| [[PCT]]
+    PCT 194 ||| [[PCT]]
+    PCT 195 ||| [[PCT]]
+    PCT 196 ||| [[PCT]]
+    PCT 197 ||| [[PCT]]
+    PCT 198 ||| [[PCT]]
+    PCT 199 ||| [[PCT]]
+    PCT 200 ||| [[PCT]]
+    PCT 201 ||| [[PCT]]
+    PCT 202 ||| [[PCT]]
+    PCT 203 ||| [[PCT]]
+    PCT 204 ||| [[PCT]]
+    PCT 205 ||| [[PCT]]
+    PCT 206 ||| [[PCT]]
+    PCT 207 ||| [[PCT]]
+    PCT 208 ||| [[PCT]]
+    PCT 209 ||| [[PCT]]
+    PCT 210 ||| [[PCT]]
+    PCT 211 ||| [[PCT]]
+    PCT 212 ||| [[PCT]]
+    PCT 213 ||| [[PCT]]
+    PCT 214 ||| [[PCT]]
+    PCT 215 ||| [[PCT]]
+    PCT 216 ||| [[PCT]]
+    PCT 217 ||| [[PCT]]
+    PCT 218 ||| [[PCT]]
+    PCT 219 ||| [[PCT]]
+    PCT 220 ||| [[PCT]]
+    PCT 221 ||| [[PCT]]
+    PCT 222 ||| [[PCT]]
+    PCT 223 ||| [[PCT]]
+    PCT 224 ||| [[PCT]]
+    PCT 225 ||| [[PCT]]
+    PCT 226 ||| [[PCT]]
+    PCT 227 ||| [[PCT]]
+    PCT 228 ||| [[PCT]]
+    PCT 229 ||| [[PCT]]
+    PCT 230 ||| [[PCT]]
+    PCT 231 ||| [[PCT]]
+    PCT 232 ||| [[PCT]]
+    PCT 233 ||| [[PCT]]
+    PCT 234 ||| [[PCT]]
+    PCT 235 ||| [[PCT]]
+    PCT 236 ||| [[PCT]]
+    PCT 237 ||| [[PCT]]
+    PCT 238 ||| [[PCT]]
+    PCT 239 ||| [[PCT]]
+    PCT 240 ||| [[PCT]]
+    PCT 241 ||| [[PCT]]
+    PCT 242 ||| [[PCT]]
+    PCT 243 ||| [[PCT]]
+    PCT 244 ||| [[PCT]]
+    PCT 245 ||| [[PCT]]
+    PCT 246 ||| [[PCT]]
+    PCT 247 ||| [[PCT]]
+    PCT 248 ||| [[PCT]]
+    PCT 249 ||| [[PCT]]
+    PCT 250 ||| [[PCT]]
+    PCT 251 ||| [[PCT]]
+    PCT 252 ||| [[PCT]]
+    PCT 253 ||| [[PCT]]
+    PCT 254 ||| [[PCT]]
+    PCT 255 ||| [[PCT]]
+    PCT 256 ||| [[PCT]]
+    PCT 257 ||| [[PCT]]
+    PCT 258 ||| [[PCT]]
+    PCT 259 ||| [[PCT]]
+    PCT 260 ||| [[PCT]]
+    PCT 261 ||| [[PCT]]
+    PCT 262 ||| [[PCT]]
+    PCT 263 ||| [[PCT]]
+    PCT 264 ||| [[PCT]]
+    PCT 265 ||| [[PCT]]
+    PCT 266 ||| [[PCT]]
+    PCT 267 ||| [[PCT]]
+    PCT 268 ||| [[PCT]]
+    PCT 269 ||| [[PCT]]
+    PCT 270 ||| [[PCT]]
+    PCT 271 ||| [[PCT]]
+    PCT 272 ||| [[PCT]]
+    PCT 273 ||| [[PCT]]
+    PCT 274 ||| [[PCT]]
+    PCT 275 ||| [[PCT]]
+    PCT 276 ||| [[PCT]]
+    PCT 277 ||| [[PCT]]
+    PCT 278 ||| [[PCT]]
+    PCT 279 ||| [[PCT]]
+    PCT 280 ||| [[PCT]]
+    PCT 281 ||| [[PCT]]
+    PCT 282 ||| [[PCT]]
+    PCT 283 ||| [[PCT]]
+    PCT 284 ||| [[PCT]]
+    PCT 285 ||| [[PCT]]
+    PCT 286 ||| [[PCT]]
+    PCT 287 ||| [[PCT]]
+    PCT 288 ||| [[PCT]]
+    PCT 289 ||| [[PCT]]
+    PCT 290 ||| [[PCT]]
+    PCT 291 ||| [[PCT]]
+    PCT 292 ||| [[PCT]]
+    PCT 293 ||| [[PCT]]
+    PCT 294 ||| [[PCT]]
+    PCT 295 ||| [[PCT]]
+    PCT 296 ||| [[PCT]]
+    PCT 297 ||| [[PCT]]
+    PCT 298 ||| [[PCT]]
+    PCT 299 ||| [[PCT]]
+    PCT 300 ||| [[PCT]]
+    PCT 301 ||| [[PCT]]
+    PCT 302 ||| [[PCT]]
+    PCT 303 ||| [[PCT]]
+    PCT 304 ||| [[PCT]]
+    PCT 305 ||| [[PCT]]
+    PCT 306 ||| [[PCT]]
+    PCT 307 ||| [[PCT]]
+    PCT 308 ||| [[PCT]]
+    PCT 309 ||| [[PCT]]
+    PCT 310 ||| [[PCT]]
+    PCT 311 ||| [[PCT]]
+    PCT 312 ||| [[PCT]]
+    PCT 313 ||| [[PCT]]
+    PCT 314 ||| [[PCT]]
+    PCT 315 ||| [[PCT]]
+    PCT 316 ||| [[PCT]]
+    PCT 317 ||| [[PCT]]
+    PCT 318 ||| [[PCT]]
+    PCT 319 ||| [[PCT]]
+    PCT 320 ||| [[PCT]]
+    PCT 321 ||| [[PCT]]
+    PCT 322 ||| [[PCT]]
+    PCT 323 ||| [[PCT]]
+    PCT 324 ||| [[PCT]]
+    PCT 325 ||| [[PCT]]
+    PCT 326 ||| [[PCT]]
+    PCT 327 ||| [[PCT]]
+    PCT 328 ||| [[PCT]]
+    PCT 329 ||| [[PCT]]
+    PCT 330 ||| [[PCT]]
+    PCT 331 ||| [[PCT]]
+    PCT 332 ||| [[PCT]]
+    PCT 333 ||| [[PCT]]
+    PCT 334 ||| [[PCT]]
+    PCT 335 ||| [[PCT]]
+    PCT 336 ||| [[PCT]]
+    PCT 337 ||| [[PCT]]
+    PCT 338 ||| [[PCT]]
+    PCT 339 ||| [[PCT]]
+    PCT 340 ||| [[PCT]]
+    PCT 341 ||| [[PCT]]
+    PCT 342 ||| [[PCT]]
+    PCT 343 ||| [[PCT]]
+    PCT 344 ||| [[PCT]]
+    PCT 345 ||| [[PCT]]
+    PCT 346 ||| [[PCT]]
+    PCT 347 ||| [[PCT]]
+    PCT 348 ||| [[PCT]]
+    PCT 349 ||| [[PCT]]
+    PCT 350 ||| [[PCT]]
+    PCT 351 ||| [[PCT]]
+    PCT 352 ||| [[PCT]]
+    PCT 353 ||| [[PCT]]
+    PCT 354 ||| [[PCT]]
+    PCT 355 ||| [[PCT]]
+    PCT 356 ||| [[PCT]]
+    PCT 357 ||| [[PCT]]
+    PCT 358 ||| [[PCT]]
+    PCT 359 ||| [[PCT]]
+    PCT 360 ||| [[PCT]]
+    PCT 361 ||| [[PCT]]
+    PCT 362 ||| [[PCT]]
+    PCT 363 ||| [[PCT]]
+    PCT 364 ||| [[PCT]]
+    PCT 365 ||| [[PCT]]
+    PCT 366 ||| [[PCT]]
+    PCT 367 ||| [[PCT]]
+    PCT 368 ||| [[PCT]]
+    PCT 369 ||| [[PCT]]
+    PCT 370 ||| [[PCT]]
+    PCT 371 ||| [[PCT]]
+    PCT 372 ||| [[PCT]]
+    PCT 373 ||| [[PCT]]
+    PCT 374 ||| [[PCT]]
+    PCT 375 ||| [[PCT]]
+    PCT 376 ||| [[PCT]]
+    PCT 377 ||| [[PCT]]
+    PCT 378 ||| [[PCT]]
+    PCT 379 ||| [[PCT]]
+    PCT 380 ||| [[PCT]]
+    PCT 381 ||| [[PCT]]
+    PCT 382 ||| [[PCT]]
+    PCT 383 ||| [[PCT]]
+    PCT 384 ||| [[PCT]]
+    PCT 385 ||| [[PCT]]
+    PCT 386 ||| [[PCT]]
+    PCT 387 ||| [[PCT]]
+    PCT 388 ||| [[PCT]]
+    PCT 389 ||| [[PCT]]
+    PCT 390 ||| [[PCT]]
+    PCT 391 ||| [[PCT]]
+    PCT 392 ||| [[PCT]]
+    PCT 393 ||| [[PCT]]
+    PCT 394 ||| [[PCT]]
+    PCT 395 ||| [[PCT]]
+    PCT 396 ||| [[PCT]]
+    PCT 397 ||| [[PCT]]
+    PCT 398 ||| [[PCT]]
+    PCT 399 ||| [[PCT]]
+    PCT 400 ||| [[PCT]]
+    PCT 401 ||| [[PCT]]
+    PCT 402 ||| [[PCT]]
+    PCT 403 ||| [[PCT]]
+    PCT 404 ||| [[PCT]]
+    PCT 405 ||| [[PCT]]
+    PCT 406 ||| [[PCT]]
+    PCT 407 ||| [[PCT]]
+    PCT 408 ||| [[PCT]]
+    PCT 409 ||| [[PCT]]
+    PCT 410 ||| [[PCT]]
+    PCT 411 ||| [[PCT]]
+    PCT 412 ||| [[PCT]]
+    PCT 413 ||| [[PCT]]
+    PCT 414 ||| [[PCT]]
+    PCT 415 ||| [[PCT]]
+    PCT 416 ||| [[PCT]]
+    PCT 417 ||| [[PCT]]
+    PCT 418 ||| [[PCT]]
+    PCT 419 ||| [[PCT]]
+    PCT 420 ||| [[PCT]]
+    PCT 421 ||| [[PCT]]
+    PCT 422 ||| [[PCT]]
+    PCT 423 ||| [[PCT]]
+    PCT 424 ||| [[PCT]]
+    PCT 425 ||| [[PCT]]
+    PCT 426 ||| [[PCT]]
+    PCT 427 ||| [[PCT]]
+    PCT 428 ||| [[PCT]]
+    PCT 429 ||| [[PCT]]
+    PCT 430 ||| [[PCT]]
+    PCT 431 ||| [[PCT]]
+    PCT 432 ||| [[PCT]]
+    PCT 433 ||| [[PCT]]
+    PCT 434 ||| [[PCT]]
+    PCT 435 ||| [[PCT]]
+    PCT 436 ||| [[PCT]]
+    PCT 437 ||| [[PCT]]
+    PCT 438 ||| [[PCT]]
+    PCT 439 ||| [[PCT]]
+    PCT 440 ||| [[PCT]]
+    PCT 441 ||| [[PCT]]
+    PCT 442 ||| [[PCT]]
+    PCT 443 ||| [[PCT]]
+    PCT 444 ||| [[PCT]]
+    PCT 445 ||| [[PCT]]
+    PCT 446 ||| [[PCT]]
+    PCT 447 ||| [[PCT]]
+    PCT 448 ||| [[PCT]]
+    PCT 449 ||| [[PCT]]
+    PCT 450 ||| [[PCT]]
+    PCT 451 ||| [[PCT]]
+    PCT 452 ||| [[PCT]]
+    PCT 453 ||| [[PCT]]
+    PCT 454 ||| [[PCT]]
+    PCT 455 ||| [[PCT]]
+    PCT 456 ||| [[PCT]]
+    PCT 457 ||| [[PCT]]
+    PCT 458 ||| [[PCT]]
+    PCT 459 ||| [[PCT]]
+    PCT 460 ||| [[PCT]]
+    PCT 461 ||| [[PCT]]
+    PCT 462 ||| [[PCT]]
+    PCT 463 ||| [[PCT]]
+    PCT 464 ||| [[PCT]]
+    PCT 465 ||| [[PCT]]
+    PCT 466 ||| [[PCT]]
+    PCT 467 ||| [[PCT]]
+    PCT 468 ||| [[PCT]]
+    PCT 469 ||| [[PCT]]
+    PCT 470 ||| [[PCT]]
+    PCT 471 ||| [[PCT]]
+    PCT 472 ||| [[PCT]]
+    PCT 473 ||| [[PCT]]
+    PCT 474 ||| [[PCT]]
+    PCT 475 ||| [[PCT]]
+    PCT 476 ||| [[PCT]]
+    PCT 477 ||| [[PCT]]
+    PCT 478 ||| [[PCT]]
+    PCT 479 ||| [[PCT]]
+    PCT 480 ||| [[PCT]]
+    PCT 481 ||| [[PCT]]
+    PCT 482 ||| [[PCT]]
+    PCT 483 ||| [[PCT]]
+    PCT 484 ||| [[PCT]]
+    PCT 485 ||| [[PCT]]
+    PCT 486 ||| [[PCT]]
+    PCT 487 ||| [[PCT]]
+    PCT 488 ||| [[PCT]]
+    PCT 489 ||| [[PCT]]
+    PCT 490 ||| [[PCT]]
+    PCT 491 ||| [[PCT]]
+    PCT 492 ||| [[PCT]]
+    PCT 493 ||| [[PCT]]
+    PCT 494 ||| [[PCT]]
+    PCT 495 ||| [[PCT]]
+    PCT 496 ||| [[PCT]]
+    PCT 497 ||| [[PCT]]
+    PCT 498 ||| [[PCT]]
+    PCT 499 ||| [[PCT]]
+    PCT 500 ||| [[PCT]]
+    PCT 501 ||| [[PCT]]
+    PCT 502 ||| [[PCT]]
+    PCT 503 ||| [[PCT]]
+    PCT 504 ||| [[PCT]]
+    PCT 505 ||| [[PCT]]
+    PCT 506 ||| [[PCT]]
+    PCT 507 ||| [[PCT]]
+    PCT 508 ||| [[PCT]]
+    PCT 509 ||| [[PCT]]
+    PCT 510 ||| [[PCT]]
+    PCT 511 ||| [[PCT]]
+    PCT 512 ||| [[PCT]]
+    PCT 513 ||| [[PCT]]
+    PCT 514 ||| [[PCT]]
+    PCT 515 ||| [[PCT]]
+    PCT 516 ||| [[PCT]]
+    PCT 517 ||| [[PCT]]
+    PCT 518 ||| [[PCT]]
+    PCT 519 ||| [[PCT]]
+    PCT 520 ||| [[PCT]]
+    PCT 521 ||| [[PCT]]
+    PCT 522 ||| [[PCT]]
+    PCT 523 ||| [[PCT]]
+    PCT 524 ||| [[PCT]]
+    PCT 525 ||| [[PCT]]
+    PCT 526 ||| [[PCT]]
+    PCT 527 ||| [[PCT]]
+    PCT 528 ||| [[PCT]]
+    PCT 529 ||| [[PCT]]
+    PCT 530 ||| [[PCT]]
+    PCT 531 ||| [[PCT]]
+    PCT 532 ||| [[PCT]]
+    PCT 533 ||| [[PCT]]
+    PCT 534 ||| [[PCT]]
+    PCT 535 ||| [[PCT]]
+    PCT 536 ||| [[PCT]]
+    PCT 537 ||| [[PCT]]
+    PCT 538 ||| [[PCT]]
+    PCT 539 ||| [[PCT]]
+    PCT 540 ||| [[PCT]]
+    PCT 541 ||| [[PCT]]
+    PCT 542 ||| [[PCT]]
+    PCT 543 ||| [[PCT]]
+    PCT 544 ||| [[PCT]]
+    PCT 545 ||| [[PCT]]
+    PCT 546 ||| [[PCT]]
+    PCT 547 ||| [[PCT]]
+    PCT 548 ||| [[PCT]]
+    PCT 549 ||| [[PCT]]
+    PCT 550 ||| [[PCT]]
+    PCT 551 ||| [[PCT]]
+    PCT 552 ||| [[PCT]]
+    PCT 553 ||| [[PCT]]
+    PCT 554 ||| [[PCT]]
+    PCT 555 ||| [[PCT]]
+    PCT 556 ||| [[PCT]]
+    PCT 557 ||| [[PCT]]
+    PCT 558 ||| [[PCT]]
+    PCT 559 ||| [[PCT]]
+    PCT 560 ||| [[PCT]]
+    PCT 561 ||| [[PCT]]
+    PCT 562 ||| [[PCT]]
+    PCT 563 ||| [[PCT]]
+    PCT 564 ||| [[PCT]]
+    PCT 565 ||| [[PCT]]
+    PCT 566 ||| [[PCT]]
+    PCT 567 ||| [[PCT]]
+    PCT 568 ||| [[PCT]]
+    PCT 569 ||| [[PCT]]
+    PCT 570 ||| [[PCT]]
+    PCT 571 ||| [[PCT]]
+    PCT 572 ||| [[PCT]]
+    PCT 573 ||| [[PCT]]
+    PCT 574 ||| [[PCT]]
+    PCT 575 ||| [[PCT]]
+    PCT 576 ||| [[PCT]]
+    PCT 577 ||| [[PCT]]
+    PCT 578 ||| [[PCT]]
+    PCT 579 ||| [[PCT]]
+    PCT 580 ||| [[PCT]]
+    PCT 581 ||| [[PCT]]
+    PCT 582 ||| [[PCT]]
+    PCT 583 ||| [[PCT]]
+    PCT 584 ||| [[PCT]]
+    PCT 585 ||| [[PCT]]
+    PCT 586 ||| [[PCT]]
+    PCT 587 ||| [[PCT]]
+    PCT 588 ||| [[PCT]]
+    PCT 589 ||| [[PCT]]
+    PCT 590 ||| [[PCT]]
+    PCT 591 ||| [[PCT]]
+    PCT 592 ||| [[PCT]]
+    PCT 593 ||| [[PCT]]
+    PCT 594 ||| [[PCT]]
+    PCT 595 ||| [[PCT]]
+    PCT 596 ||| [[PCT]]
+    PCT 597 ||| [[PCT]]
+    PCT 598 ||| [[PCT]]
+    PCT 599 ||| [[PCT]]
+    PCT 600 ||| [[PCT]]
+    PCT 601 ||| [[PCT]]
+    PCT 602 ||| [[PCT]]
+    PCT 603 ||| [[PCT]]
+    PCT 604 ||| [[PCT]]
+    PCT 605 ||| [[PCT]]
+    PCT 606 ||| [[PCT]]
+    PCT 607 ||| [[PCT]]
+    PCT 608 ||| [[PCT]]
+    PCT 609 ||| [[PCT]]
+    PCT 610 ||| [[PCT]]
+    PCT 611 ||| [[PCT]]
+    PCT 612 ||| [[PCT]]
+    PCT 613 ||| [[PCT]]
+    PCT 614 ||| [[PCT]]
+    PCT 615 ||| [[PCT]]
+    PCT 616 ||| [[PCT]]
+    PCT 617 ||| [[PCT]]
+    PCT 618 ||| [[PCT]]
+    PCT 619 ||| [[PCT]]
+    PCT 620 ||| [[PCT]]
+    PCT 621 ||| [[PCT]]
+    PCT 622 ||| [[PCT]]
+    PCT 623 ||| [[PCT]]
+    PCT 624 ||| [[PCT]]
+    PCT 625 ||| [[PCT]]
+    PCT 626 ||| [[PCT]]
+    PCT 627 ||| [[PCT]]
+    PCT 628 ||| [[PCT]]
+    PCT 629 ||| [[PCT]]
+    PCT 630 ||| [[PCT]]
+    PCT 631 ||| [[PCT]]
+    PCT 632 ||| [[PCT]]
+    PCT 633 ||| [[PCT]]
+    PCT 634 ||| [[PCT]]
+    PCT 635 ||| [[PCT]]
+    PCT 636 ||| [[PCT]]
+    PCT 637 ||| [[PCT]]
+    PCT 638 ||| [[PCT]]
+    PCT 639 ||| [[PCT]]
+    PCT 640 ||| [[PCT]]
+    PCT 641 ||| [[PCT]]
+    PCT 642 ||| [[PCT]]
+    PCT 643 ||| [[PCT]]
+    PCT 644 ||| [[PCT]]
+    PCT 645 ||| [[PCT]]
+    PCT 646 ||| [[PCT]]
+    PCT 647 ||| [[PCT]]
+    PCT 648 ||| [[PCT]]
+    PCT 649 ||| [[PCT]]
+    PCT 650 ||| [[PCT]]
+    PCT 651 ||| [[PCT]]
+    PCT 652 ||| [[PCT]]
+    PCT 653 ||| [[PCT]]
+    PCT 654 ||| [[PCT]]
+    PCT 655 ||| [[PCT]]
+    PCT 656 ||| [[PCT]]
+    PCT 657 ||| [[PCT]]
+    PCT 658 ||| [[PCT]]
+    PCT 659 ||| [[PCT]]
+    PCT 660 ||| [[PCT]]
+    PCT 661 ||| [[PCT]]
+    PCT 662 ||| [[PCT]]
+    PCT 663 ||| [[PCT]]
+    PCT 664 ||| [[PCT]]
+    PCT 665 ||| [[PCT]]
+    PCT 666 ||| [[PCT]]
+    PCT 667 ||| [[PCT]]
+    PCT 668 ||| [[PCT]]
+    PCT 669 ||| [[PCT]]
+    PCT 670 ||| [[PCT]]
+    PCT 671 ||| [[PCT]]
+    PCT 672 ||| [[PCT]]
+    PCT 673 ||| [[PCT]]
+    PCT 674 ||| [[PCT]]
+    PCT 675 ||| [[PCT]]
+    PCT 676 ||| [[PCT]]
+    PCT 677 ||| [[PCT]]
+    PCT 678 ||| [[PCT]]
+    PCT 679 ||| [[PCT]]
+    PCT 680 ||| [[PCT]]
+    PCT 681 ||| [[PCT]]
+    PCT 682 ||| [[PCT]]
+    PCT 683 ||| [[PCT]]
+    PCT 684 ||| [[PCT]]
+    PCT 685 ||| [[PCT]]
+    PCT 686 ||| [[PCT]]
+    PCT 687 ||| [[PCT]]
+    PRECINCT 1 ||| [[PRECINCT]]
+    PRECINCT 2 ||| [[PRECINCT]]
+    PRECINCT 3 ||| [[PRECINCT]]
+    PRECINCT 4 ||| [[PRECINCT]]
+    PRECINCT 5 ||| [[PRECINCT]]
+    PRECINCT 01 ||| [[PRECINCT]]
+    PRECINCT 02 ||| [[PRECINCT]]
+    PRECINCT 03 ||| [[PRECINCT]]
+    PRECINCT 04 ||| [[PRECINCT]]
+    PRECINCT 05 ||| [[PRECINCT]]
+    PRECINCT 06 ||| [[PRECINCT]]
+    PRECINCT 07 ||| [[PRECINCT]]
+    PRECINCT 08 ||| [[PRECINCT]]
+    PRECINCT 09 ||| [[PRECINCT]]
+    PRECINCT 10 ||| [[PRECINCT]]
+    PRECINCT 11 ||| [[PRECINCT]]
+    PRECINCT 12 ||| [[PRECINCT]]
+    PRECINCT 13 ||| [[PRECINCT]]
+    PRECINCT 14 ||| [[PRECINCT]]
+    PRECINCT 15 ||| [[PRECINCT]]
+    PRECINCT 16 ||| [[PRECINCT]]
+    PRECINCT 17 ||| [[PRECINCT]]
+    PRECINCT 18 ||| [[PRECINCT]]
+    PRECINCT 19 ||| [[PRECINCT]]
+    PRECINCT 20 ||| [[PRECINCT]]
+    PRECINCT 21 ||| [[PRECINCT]]
+    PRECINCT 22 ||| [[PRECINCT]]
+    PRECINCT 23 ||| [[PRECINCT]]
+    PRECINCT 24 ||| [[PRECINCT]]
+    PRECINCT 25 ||| [[PRECINCT]]
+    PRECINCT 26 ||| [[PRECINCT]]
+    PRECINCT 27 ||| [[PRECINCT]]
+    PRECINCT 28 ||| [[PRECINCT]]
+    PRECINCT 29 ||| [[PRECINCT]]
+    PRECINCT 30 ||| [[PRECINCT]]
+    PRECINCT 31 ||| [[PRECINCT]]
+    PRECINCT 32 ||| [[PRECINCT]]
+    PRECINCT 33 ||| [[PRECINCT]]
+    PRECINCT 34 ||| [[PRECINCT]]
+    PRECINCT 35 ||| [[PRECINCT]]
+    PRECINCT 36 ||| [[PRECINCT]]
+    PRECINCT 37 ||| [[PRECINCT]]
+    PRECINCT 38 ||| [[PRECINCT]]
+    PRECINCT 39 ||| [[PRECINCT]]
+    PRECINCT 40 ||| [[PRECINCT]]
+    PRECINCT 41 ||| [[PRECINCT]]
+    PRECINCT 42 ||| [[PRECINCT]]
+    PRECINCT 43 ||| [[PRECINCT]]
+    PRECINCT 44 ||| [[PRECINCT]]
+    PRECINCT 45 ||| [[PRECINCT]]
+    PRECINCT 46 ||| [[PRECINCT]]
+    PRECINCT 47 ||| [[PRECINCT]]
+    PRECINCT 48 ||| [[PRECINCT]]
+    PRECINCT 49 ||| [[PRECINCT]]
+    PRECINCT 50 ||| [[PRECINCT]]
+    PRECINCT 51 ||| [[PRECINCT]]
+    PRECINCT 52 ||| [[PRECINCT]]
+    PRECINCT 53 ||| [[PRECINCT]]
+    PRECINCT 54 ||| [[PRECINCT]]
+    PRECINCT 55 ||| [[PRECINCT]]
+    PRECINCT 56 ||| [[PRECINCT]]
+    PRECINCT 57 ||| [[PRECINCT]]
+    PRECINCT 58 ||| [[PRECINCT]]
+    PRECINCT 59 ||| [[PRECINCT]]
+    PRECINCT 60 ||| [[PRECINCT]]
+    PRECINCT 61 ||| [[PRECINCT]]
+    PRECINCT 62 ||| [[PRECINCT]]
+    PRECINCT 63 ||| [[PRECINCT]]
+    PRECINCT 64 ||| [[PRECINCT]]
+    PRECINCT 65 ||| [[PRECINCT]]
+    PRECINCT 66 ||| [[PRECINCT]]
+    PRECINCT 67 ||| [[PRECINCT]]
+    PRECINCT 68 ||| [[PRECINCT]]
+    PRECINCT 69 ||| [[PRECINCT]]
+    PRECINCT 70 ||| [[PRECINCT]]
+    PRECINCT 71 ||| [[PRECINCT]]
+    PRECINCT 001 ||| [[PRECINCT]]
+    PRECINCT 002 ||| [[PRECINCT]]
+    PRECINCT 003 ||| [[PRECINCT]]
+    PRECINCT 004 ||| [[PRECINCT]]
+    PRECINCT 005 ||| [[PRECINCT]]
+    PRECINCT 006 ||| [[PRECINCT]]
+    PRECINCT 007 ||| [[PRECINCT]]
+    PRECINCT 008 ||| [[PRECINCT]]
+    PRECINCT 009 ||| [[PRECINCT]]
+    PRECINCT 010 ||| [[PRECINCT]]
+    PRECINCT 011 ||| [[PRECINCT]]
+    PRECINCT 012 ||| [[PRECINCT]]
+    PRECINCT 013 ||| [[PRECINCT]]
+    PRECINCT 014 ||| [[PRECINCT]]
+    PRECINCT 015 ||| [[PRECINCT]]
+    PRECINCT 016 ||| [[PRECINCT]]
+    PRECINCT 017 ||| [[PRECINCT]]
+    PRECINCT 018 ||| [[PRECINCT]]
+    PRECINCT 019 ||| [[PRECINCT]]
+    PRECINCT 020 ||| [[PRECINCT]]
+    PRECINCT 021 ||| [[PRECINCT]]
+    PRECINCT 022 ||| [[PRECINCT]]
+    PRECINCT 023 ||| [[PRECINCT]]
+    PRECINCT 024 ||| [[PRECINCT]]
+    PRECINCT 025 ||| [[PRECINCT]]
+    PRECINCT 026 ||| [[PRECINCT]]
+    PRECINCT 027 ||| [[PRECINCT]]
+    PRECINCT 028 ||| [[PRECINCT]]
+    PRECINCT 029 ||| [[PRECINCT]]
+    PRECINCT 030 ||| [[PRECINCT]]
+    PRECINCT 031 ||| [[PRECINCT]]
+    PRECINCT 032 ||| [[PRECINCT]]
+    PRECINCT 033 ||| [[PRECINCT]]
+    PRECINCT 034 ||| [[PRECINCT]]
+    PRECINCT 035 ||| [[PRECINCT]]
+    PRECINCT 036 ||| [[PRECINCT]]
+    PRECINCT 037 ||| [[PRECINCT]]
+    PRECINCT 038 ||| [[PRECINCT]]
+    PRECINCT 039 ||| [[PRECINCT]]
+    PRECINCT 040 ||| [[PRECINCT]]
+    PRECINCT 041 ||| [[PRECINCT]]
+    PRECINCT 042 ||| [[PRECINCT]]
+    PRECINCT 043 ||| [[PRECINCT]]
+    PRECINCT 044 ||| [[PRECINCT]]
+    PRECINCT 045 ||| [[PRECINCT]]
+    PRECINCT 046 ||| [[PRECINCT]]
+    PRECINCT 047 ||| [[PRECINCT]]
+    PRECINCT 048 ||| [[PRECINCT]]
+    PRECINCT 049 ||| [[PRECINCT]]
+    PRECINCT 050 ||| [[PRECINCT]]
+    PRECINCT 051 ||| [[PRECINCT]]
+    PRECINCT 052 ||| [[PRECINCT]]
+    PRECINCT 053 ||| [[PRECINCT]]
+    PRECINCT 054 ||| [[PRECINCT]]
+    PRECINCT 055 ||| [[PRECINCT]]
+    PRECINCT 056 ||| [[PRECINCT]]
+    PRECINCT 057 ||| [[PRECINCT]]
+    PRECINCT 058 ||| [[PRECINCT]]
+    PRECINCT 059 ||| [[PRECINCT]]
+    PRECINCT 060 ||| [[PRECINCT]]
+    PRECINCT 061 ||| [[PRECINCT]]
+    PRECINCT 062 ||| [[PRECINCT]]
+    PRECINCT 063 ||| [[PRECINCT]]
+    PRECINCT 064 ||| [[PRECINCT]]
+    PRECINCT 065 ||| [[PRECINCT]]
+    PRECINCT 066 ||| [[PRECINCT]]
+    PRECINCT 067 ||| [[PRECINCT]]
+    PRECINCT 068 ||| [[PRECINCT]]
+    PRECINCT 069 ||| [[PRECINCT]]
+    PRECINCT 070 ||| [[PRECINCT]]
+    PRECINCT 071 ||| [[PRECINCT]]
+    PRECINCT 072 ||| [[PRECINCT]]
+    PRECINCT 073 ||| [[PRECINCT]]
+    PRECINCT 074 ||| [[PRECINCT]]
+    PRECINCT 075 ||| [[PRECINCT]]
+    PRECINCT 076 ||| [[PRECINCT]]
+    PRECINCT 077 ||| [[PRECINCT]]
+    PRECINCT 078 ||| [[PRECINCT]]
+    PRECINCT 079 ||| [[PRECINCT]]
+    PRECINCT 080 ||| [[PRECINCT]]
+    PRECINCT 081 ||| [[PRECINCT]]
+    PRECINCT 082 ||| [[PRECINCT]]
+    PRECINCT 083 ||| [[PRECINCT]]
+    PRECINCT 084 ||| [[PRECINCT]]
+    PRECINCT 085 ||| [[PRECINCT]]
+    PRECINCT 086 ||| [[PRECINCT]]
+    PRECINCT 087 ||| [[PRECINCT]]
+    PRECINCT 088 ||| [[PRECINCT]]
+    PRECINCT 089 ||| [[PRECINCT]]
+    PRECINCT 090 ||| [[PRECINCT]]
+    PRECINCT 091 ||| [[PRECINCT]]
+    PRECINCT 092 ||| [[PRECINCT]]
+    PRECINCT 093 ||| [[PRECINCT]]
+    PRECINCT 094 ||| [[PRECINCT]]
+    PRECINCT 095 ||| [[PRECINCT]]
+    PRECINCT 096 ||| [[PRECINCT]]
+    PRECINCT 097 ||| [[PRECINCT]]
+    PRECINCT 098 ||| [[PRECINCT]]
+    PRECINCT 099 ||| [[PRECINCT]]
+    PRECINCT 100 ||| [[PRECINCT]]
+    PRECINCT 101 ||| [[PRECINCT]]
+    PRECINCT 102 ||| [[PRECINCT]]
+    PRECINCT 103 ||| [[PRECINCT]]
+    PRECINCT 104 ||| [[PRECINCT]]
+    PRECINCT 105 ||| [[PRECINCT]]
+    PRECINCT 106 ||| [[PRECINCT]]
+    PRECINCT 107 ||| [[PRECINCT]]
+    PRECINCT 108 ||| [[PRECINCT]]
+    PRECINCT 109 ||| [[PRECINCT]]
+    PRECINCT 110 ||| [[PRECINCT]]
+    PRECINCT 111 ||| [[PRECINCT]]
+    PRECINCT 112 ||| [[PRECINCT]]
+    PRECINCT 113 ||| [[PRECINCT]]
+    PRECINCT 114 ||| [[PRECINCT]]
+    PRECINCT 115 ||| [[PRECINCT]]
+    PRECINCT 116 ||| [[PRECINCT]]
+    PRECINCT 117 ||| [[PRECINCT]]
+    PRECINCT 118 ||| [[PRECINCT]]
+    PRECINCT 119 ||| [[PRECINCT]]
+    PRECINCT 120 ||| [[PRECINCT]]
+    PRECINCT 121 ||| [[PRECINCT]]
+    PRECINCT 122 ||| [[PRECINCT]]
+    PRECINCT 123 ||| [[PRECINCT]]
+    PRECINCT 124 ||| [[PRECINCT]]
+    PRECINCT 125 ||| [[PRECINCT]]
+    PRECINCT 126 ||| [[PRECINCT]]
+    PRECINCT 127 ||| [[PRECINCT]]
+    PRECINCT 128 ||| [[PRECINCT]]
+    PRECINCT 129 ||| [[PRECINCT]]
+    PRECINCT 130 ||| [[PRECINCT]]
+    PRECINCT 131 ||| [[PRECINCT]]
+    PRECINCT 132 ||| [[PRECINCT]]
+    PRECINCT 133 ||| [[PRECINCT]]
+    PRECINCT 134 ||| [[PRECINCT]]
+    PRECINCT 135 ||| [[PRECINCT]]
+    PRECINCT 136 ||| [[PRECINCT]]
+    PRECINCT 137 ||| [[PRECINCT]]
+    PRECINCT 138 ||| [[PRECINCT]]
+    PRECINCT 139 ||| [[PRECINCT]]
+    PRECINCT 140 ||| [[PRECINCT]]
+    PRECINCT 141 ||| [[PRECINCT]]
+    PRECINCT 142 ||| [[PRECINCT]]
+    PRECINCT 143 ||| [[PRECINCT]]
+    PRECINCT 144 ||| [[PRECINCT]]
+    PRECINCT 145 ||| [[PRECINCT]]
+    PRECINCT 146 ||| [[PRECINCT]]
+    PRECINCT 147 ||| [[PRECINCT]]
+    PRECINCT 148 ||| [[PRECINCT]]
+    PRECINCT 149 ||| [[PRECINCT]]
+    PRECINCT 150 ||| [[PRECINCT]]
+    PRECINCT 151 ||| [[PRECINCT]]
+    PRECINCT 152 ||| [[PRECINCT]]
+    PRECINCT 153 ||| [[PRECINCT]]
+    PRECINCT 154 ||| [[PRECINCT]]
+    PRECINCT 155 ||| [[PRECINCT]]
+    PRECINCT 156 ||| [[PRECINCT]]
+    PRECINCT 157 ||| [[PRECINCT]]
+    PRECINCT 158 ||| [[PRECINCT]]
+    PRECINCT 159 ||| [[PRECINCT]]
+    PRECINCT 160 ||| [[PRECINCT]]
+    PRECINCT 161 ||| [[PRECINCT]]
+    PRECINCT 162 ||| [[PRECINCT]]
+    PRECINCT 163 ||| [[PRECINCT]]
+    PRECINCT 164 ||| [[PRECINCT]]
+    PRECINCT 165 ||| [[PRECINCT]]
+    PRECINCT 166 ||| [[PRECINCT]]
+    PRECINCT 167 ||| [[PRECINCT]]
+    PRECINCT 168 ||| [[PRECINCT]]
+    PRECINCT 169 ||| [[PRECINCT]]
+    PRECINCT 170 ||| [[PRECINCT]]
+    PRECINCT 171 ||| [[PRECINCT]]
+    PRECINCT 172 ||| [[PRECINCT]]
+    PRECINCT 173 ||| [[PRECINCT]]
+    PRECINCT 174 ||| [[PRECINCT]]
+    PRECINCT 175 ||| [[PRECINCT]]
+    PRECINCT 176 ||| [[PRECINCT]]
+    PRECINCT 177 ||| [[PRECINCT]]
+    PRECINCT 178 ||| [[PRECINCT]]
+    PRECINCT 179 ||| [[PRECINCT]]
+    PRECINCT 180 ||| [[PRECINCT]]
+    PRECINCT 181 ||| [[PRECINCT]]
+    PRECINCT 182 ||| [[PRECINCT]]
+    PRECINCT 183 ||| [[PRECINCT]]
+    PRECINCT 184 ||| [[PRECINCT]]
+    PRECINCT 185 ||| [[PRECINCT]]
+    PRECINCT 186 ||| [[PRECINCT]]
+    PRECINCT 187 ||| [[PRECINCT]]
+    PRECINCT 188 ||| [[PRECINCT]]
+    PRECINCT 189 ||| [[PRECINCT]]
+    PRECINCT 190 ||| [[PRECINCT]]
+    PRECINCT 5 - RODEO ||| [[PRECINCT]]
+    PRECINCT 4 - VIRDEN ||| [[PRECINCT]]
+    PRECINCT 6 - ANIMAS ||| [[PRECINCT]]
+    PRECINCT 12- LORDSBURG ||| [[PRECINCT]]
+    PRECINCT 1 - LORDSBURG/WEST ||| [[PRECINCT]]
+    PRECINCT 3 - LORDSBURG/EAST ||| [[PRECINCT]]
+    PRECINCT 9- ANIMAS/ CENTRAL ||| [[PRECINCT]]
+    PRECINCT 2 - LORDSBURGE/CENTRAL ||| [[PRECINCT]]
+    PRECINCT 10- LORDSBURG NORTHEAST ||| [[PRECINCT]]
+    PRECINCT 11- LORDSBURG SOUTHWEST ||| [[PRECINCT]]
+    PRECINCT 7- LORDSBURG NORTH/WEST ||| [[PRECINCT]]
+    PRECINCT 8 - SOUTH ANIMAS/SOUTH LORDSBURG ||| [[PRECINCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    001
+    002
+    003
+    004
+    005
+    007
+    008
+    009
+    010
+    011
+    012
+    013
+    014
+    015
+    016
+    017
+    018
+    019
+    020
+    021
+    022
+    PCT 001
+    PCT 002
+    PCT 003
+    PCT 004
+    PCT 005
+    PCT 006
+    PCT 007
+    PCT 008
+    PCT 009
+    PCT 010
+    PCT 011
+    PCT 012
+    PCT 013
+    PCT 014
+    PCT 015
+    PCT 016
+    PCT 017
+    PCT 018
+    PCT 019
+    PCT 020
+    PCT 021
+    PCT 022
+    PCT 023
+    PCT 024
+    PCT 025
+    PCT 026
+    PCT 027
+    PCT 028
+    PCT 029
+    PCT 030
+    PCT 031
+    PCT 032
+    PCT 033
+    PCT 034
+    PCT 035
+    PCT 036
+    PCT 037
+    PCT 038
+    PCT 039
+    PCT 040
+    PCT 041
+    PCT 042
+    PCT 043
+    PCT 044
+    PCT 045
+    PCT 046
+    PCT 047
+    PCT 048
+    PCT 049
+    PCT 050
+    PCT 051
+    PCT 052
+    PCT 053
+    PCT 054
+    PCT 055
+    PCT 056
+    PCT 057
+    PCT 058
+    PCT 059
+    PCT 060
+    PCT 061
+    PCT 062
+    PCT 063
+    PCT 064
+    PCT 065
+    PCT 066
+    PCT 067
+    PCT 068
+    PCT 069
+    PCT 070
+    PCT 071
+    PCT 072
+    PCT 073
+    PCT 074
+    PCT 075
+    PCT 076
+    PCT 077
+    PCT 078
+    PCT 079
+    PCT 080
+    PCT 081
+    PCT 082
+    PCT 083
+    PCT 084
+    PCT 085
+    PCT 086
+    PCT 087
+    PCT 088
+    PCT 089
+    PCT 090
+    PCT 091
+    PCT 092
+    PCT 093
+    PCT 094
+    PCT 095
+    PCT 096
+    PCT 097
+    PCT 098
+    PCT 099
+    PCT 100
+    PCT 101
+    PCT 102
+    PCT 103
+    PCT 104
+    PCT 105
+    PCT 106
+    PCT 107
+    PCT 108
+    PCT 109
+    PCT 110
+    PCT 111
+    PCT 112
+    PCT 113
+    PCT 114
+    PCT 115
+    PCT 116
+    PCT 117
+    PCT 118
+    PCT 119
+    PCT 120
+    PCT 121
+    PCT 122
+    PCT 123
+    PCT 124
+    PCT 125
+    PCT 126
+    PCT 127
+    PCT 128
+    PCT 129
+    PCT 130
+    PCT 131
+    PCT 132
+    PCT 133
+    PCT 134
+    PCT 135
+    PCT 136
+    PCT 137
+    PCT 138
+    PCT 139
+    PCT 140
+    PCT 141
+    PCT 142
+    PCT 143
+    PCT 144
+    PCT 145
+    PCT 146
+    PCT 147
+    PCT 148
+    PCT 149
+    PCT 150
+    PCT 151
+    PCT 152
+    PCT 153
+    PCT 154
+    PCT 155
+    PCT 156
+    PCT 157
+    PCT 158
+    PCT 159
+    PCT 160
+    PCT 161
+    PCT 162
+    PCT 163
+    PCT 164
+    PCT 165
+    PCT 166
+    PCT 167
+    PCT 168
+    PCT 169
+    PCT 170
+    PCT 171
+    PCT 172
+    PCT 173
+    PCT 174
+    PCT 175
+    PCT 176
+    PCT 177
+    PCT 178
+    PCT 179
+    PCT 180
+    PCT 181
+    PCT 182
+    PCT 183
+    PCT 184
+    PCT 185
+    PCT 186
+    PCT 187
+    PCT 188
+    PCT 189
+    PCT 190
+    PCT 191
+    PCT 192
+    PCT 193
+    PCT 194
+    PCT 195
+    PCT 196
+    PCT 197
+    PCT 198
+    PCT 199
+    PCT 200
+    PCT 201
+    PCT 202
+    PCT 203
+    PCT 204
+    PCT 205
+    PCT 206
+    PCT 207
+    PCT 208
+    PCT 209
+    PCT 210
+    PCT 211
+    PCT 212
+    PCT 213
+    PCT 214
+    PCT 215
+    PCT 216
+    PCT 217
+    PCT 218
+    PCT 219
+    PCT 220
+    PCT 221
+    PCT 222
+    PCT 223
+    PCT 224
+    PCT 225
+    PCT 226
+    PCT 227
+    PCT 228
+    PCT 229
+    PCT 230
+    PCT 231
+    PCT 232
+    PCT 233
+    PCT 234
+    PCT 235
+    PCT 236
+    PCT 237
+    PCT 238
+    PCT 239
+    PCT 240
+    PCT 241
+    PCT 242
+    PCT 243
+    PCT 244
+    PCT 245
+    PCT 246
+    PCT 247
+    PCT 248
+    PCT 249
+    PCT 250
+    PCT 251
+    PCT 252
+    PCT 253
+    PCT 254
+    PCT 255
+    PCT 256
+    PCT 257
+    PCT 258
+    PCT 259
+    PCT 260
+    PCT 261
+    PCT 262
+    PCT 263
+    PCT 264
+    PCT 265
+    PCT 266
+    PCT 267
+    PCT 268
+    PCT 269
+    PCT 270
+    PCT 271
+    PCT 272
+    PCT 273
+    PCT 274
+    PCT 275
+    PCT 276
+    PCT 277
+    PCT 278
+    PCT 279
+    PCT 280
+    PCT 281
+    PCT 282
+    PCT 283
+    PCT 284
+    PCT 285
+    PCT 286
+    PCT 287
+    PCT 288
+    PCT 289
+    PCT 290
+    PCT 291
+    PCT 292
+    PCT 293
+    PCT 294
+    PCT 295
+    PCT 296
+    PCT 297
+    PCT 298
+    PCT 299
+    PCT 300
+    PCT 301
+    PCT 302
+    PCT 303
+    PCT 304
+    PCT 305
+    PCT 306
+    PCT 307
+    PCT 308
+    PCT 309
+    PCT 310
+    PCT 311
+    PCT 312
+    PCT 313
+    PCT 314
+    PCT 315
+    PCT 316
+    PCT 317
+    PCT 318
+    PCT 319
+    PCT 320
+    PCT 321
+    PCT 322
+    PCT 323
+    PCT 324
+    PCT 325
+    PCT 326
+    PCT 327
+    PCT 328
+    PCT 329
+    PCT 330
+    PCT 331
+    PCT 332
+    PCT 333
+    PCT 334
+    PCT 335
+    PCT 336
+    PCT 337
+    PCT 338
+    PCT 339
+    PCT 340
+    PCT 341
+    PCT 342
+    PCT 343
+    PCT 344
+    PCT 345
+    PCT 346
+    PCT 347
+    PCT 348
+    PCT 349
+    PCT 350
+    PCT 351
+    PCT 352
+    PCT 353
+    PCT 354
+    PCT 355
+    PCT 356
+    PCT 357
+    PCT 358
+    PCT 359
+    PCT 360
+    PCT 361
+    PCT 362
+    PCT 363
+    PCT 364
+    PCT 365
+    PCT 366
+    PCT 367
+    PCT 368
+    PCT 369
+    PCT 370
+    PCT 371
+    PCT 372
+    PCT 373
+    PCT 374
+    PCT 375
+    PCT 376
+    PCT 377
+    PCT 378
+    PCT 379
+    PCT 380
+    PCT 381
+    PCT 382
+    PCT 383
+    PCT 384
+    PCT 385
+    PCT 386
+    PCT 387
+    PCT 388
+    PCT 389
+    PCT 390
+    PCT 391
+    PCT 392
+    PCT 393
+    PCT 394
+    PCT 395
+    PCT 396
+    PCT 397
+    PCT 398
+    PCT 399
+    PCT 400
+    PCT 401
+    PCT 402
+    PCT 403
+    PCT 404
+    PCT 405
+    PCT 406
+    PCT 407
+    PCT 408
+    PCT 409
+    PCT 410
+    PCT 411
+    PCT 412
+    PCT 413
+    PCT 414
+    PCT 415
+    PCT 416
+    PCT 417
+    PCT 418
+    PCT 419
+    PCT 420
+    PCT 421
+    PCT 422
+    PCT 423
+    PCT 424
+    PCT 425
+    PCT 426
+    PCT 427
+    PCT 428
+    PCT 429
+    PCT 430
+    PCT 431
+    PCT 432
+    PCT 433
+    PCT 434
+    PCT 435
+    PCT 436
+    PCT 437
+    PCT 438
+    PCT 439
+    PCT 440
+    PCT 441
+    PCT 442
+    PCT 443
+    PCT 444
+    PCT 445
+    PCT 446
+    PCT 447
+    PCT 448
+    PCT 449
+    PCT 450
+    PCT 451
+    PCT 452
+    PCT 453
+    PCT 454
+    PCT 455
+    PCT 456
+    PCT 457
+    PCT 458
+    PCT 459
+    PCT 460
+    PCT 461
+    PCT 462
+    PCT 463
+    PCT 464
+    PCT 465
+    PCT 466
+    PCT 467
+    PCT 468
+    PCT 469
+    PCT 470
+    PCT 471
+    PCT 472
+    PCT 473
+    PCT 474
+    PCT 475
+    PCT 476
+    PCT 477
+    PCT 478
+    PCT 479
+    PCT 480
+    PCT 481
+    PCT 482
+    PCT 483
+    PCT 484
+    PCT 485
+    PCT 486
+    PCT 487
+    PCT 488
+    PCT 489
+    PCT 490
+    PCT 491
+    PCT 492
+    PCT 493
+    PCT 494
+    PCT 495
+    PCT 496
+    PCT 497
+    PCT 498
+    PCT 499
+    PCT 500
+    PCT 501
+    PCT 502
+    PCT 503
+    PCT 504
+    PCT 505
+    PCT 506
+    PCT 507
+    PCT 508
+    PCT 509
+    PCT 510
+    PCT 511
+    PCT 512
+    PCT 513
+    PCT 514
+    PCT 515
+    PCT 516
+    PCT 517
+    PCT 518
+    PCT 519
+    PCT 520
+    PCT 521
+    PCT 522
+    PCT 523
+    PCT 524
+    PCT 525
+    PCT 526
+    PCT 527
+    PCT 528
+    PCT 529
+    PCT 530
+    PCT 531
+    PCT 532
+    PCT 533
+    PCT 534
+    PCT 535
+    PCT 536
+    PCT 537
+    PCT 538
+    PCT 539
+    PCT 540
+    PCT 541
+    PCT 542
+    PCT 543
+    PCT 544
+    PCT 545
+    PCT 546
+    PCT 547
+    PCT 548
+    PCT 549
+    PCT 550
+    PCT 551
+    PCT 552
+    PCT 553
+    PCT 554
+    PCT 555
+    PCT 556
+    PCT 557
+    PCT 558
+    PCT 559
+    PCT 560
+    PCT 561
+    PCT 562
+    PCT 563
+    PCT 564
+    PCT 565
+    PCT 566
+    PCT 567
+    PCT 568
+    PCT 569
+    PCT 570
+    PCT 571
+    PCT 572
+    PCT 573
+    PCT 574
+    PCT 575
+    PCT 576
+    PCT 577
+    PCT 578
+    PCT 579
+    PCT 580
+    PCT 581
+    PCT 582
+    PCT 583
+    PCT 584
+    PCT 585
+    PCT 586
+    PCT 587
+    PCT 588
+    PCT 589
+    PCT 590
+    PCT 591
+    PCT 592
+    PCT 593
+    PCT 594
+    PCT 595
+    PCT 596
+    PCT 597
+    PCT 598
+    PCT 599
+    PCT 600
+    PCT 601
+    PCT 602
+    PCT 603
+    PCT 604
+    PCT 605
+    PCT 606
+    PCT 607
+    PCT 608
+    PCT 609
+    PCT 610
+    PCT 611
+    PCT 612
+    PCT 613
+    PCT 614
+    PCT 615
+    PCT 616
+    PCT 617
+    PCT 618
+    PCT 619
+    PCT 620
+    PCT 621
+    PCT 622
+    PCT 623
+    PCT 624
+    PCT 625
+    PCT 626
+    PCT 627
+    PCT 628
+    PCT 629
+    PCT 630
+    PCT 631
+    PCT 632
+    PCT 633
+    PCT 634
+    PCT 635
+    PCT 636
+    PCT 637
+    PCT 638
+    PCT 639
+    PCT 640
+    PCT 641
+    PCT 642
+    PCT 643
+    PCT 644
+    PCT 645
+    PCT 646
+    PCT 647
+    PCT 648
+    PCT 649
+    PCT 650
+    PCT 651
+    PCT 652
+    PCT 653
+    PCT 654
+    PCT 655
+    PCT 656
+    PCT 657
+    PCT 658
+    PCT 659
+    PCT 660
+    PCT 661
+    PCT 662
+    PCT 663
+    PCT 664
+    PCT 665
+    PCT 666
+    PCT 667
+    PCT 668
+    PCT 669
+    PCT 670
+    PCT 671
+    PCT 672
+    PCT 673
+    PCT 674
+    PCT 675
+    PCT 676
+    PCT 677
+    PCT 678
+    PCT 679
+    PCT 680
+    PCT 681
+    PCT 682
+    PCT 683
+    PCT 684
+    PCT 685
+    PCT 686
+    PCT 687
+    PREC 001
+    PREC 002
+    PREC 003
+    PREC 004
+    PREC 005
+    PREC 010
+    PREC 011
+    PREC 012
+    PREC 013
+    PREC 014
+    PREC 021
+    PREC 022
+    PREC 023
+    PREC 024
+    PREC 025
+    PREC 026
+    PREC 027
+    PREC 028
+    PREC 035
+    PREC 036
+    PREC 037
+    PREC 038
+    PREC 039
+    PREC 040
+    PREC 045
+    PREC 046
+    PREC 047
+    PREC 048
+    PREC 049
+    PREC 056
+    PREC 057
+    PREC 058
+    PREC 059
+    PREC 060
+    PREC 061
+    PREC 062
+    PREC 063
+    PREC 064
+    PREC 065
+    PREC 066
+    PREC 067
+    PREC 068
+    PREC 069
+    PREC 070
+    PREC 071
+    PREC 072
+    PREC 073
+    PREC 074
+    PRECINCT 001
+    PRECINCT 002
+    PRECINCT 003
+    PRECINCT 004
+    PRECINCT 005
+    PRECINCT 006
+    PRECINCT 007
+    PRECINCT 008
+    PRECINCT 009
+    PRECINCT 01
+    PRECINCT 010
+    PRECINCT 011
+    PRECINCT 012
+    PRECINCT 013
+    PRECINCT 014
+    PRECINCT 015
+    PRECINCT 016
+    PRECINCT 017
+    PRECINCT 018
+    PRECINCT 019
+    PRECINCT 02
+    PRECINCT 020
+    PRECINCT 021
+    PRECINCT 022
+    PRECINCT 023
+    PRECINCT 024
+    PRECINCT 025
+    PRECINCT 026
+    PRECINCT 027
+    PRECINCT 028
+    PRECINCT 029
+    PRECINCT 03
+    PRECINCT 030
+    PRECINCT 031
+    PRECINCT 032
+    PRECINCT 033
+    PRECINCT 034
+    PRECINCT 035
+    PRECINCT 036
+    PRECINCT 037
+    PRECINCT 038
+    PRECINCT 039
+    PRECINCT 04
+    PRECINCT 040
+    PRECINCT 041
+    PRECINCT 042
+    PRECINCT 043
+    PRECINCT 044
+    PRECINCT 045
+    PRECINCT 046
+    PRECINCT 047
+    PRECINCT 048
+    PRECINCT 049
+    PRECINCT 05
+    PRECINCT 050
+    PRECINCT 051
+    PRECINCT 052
+    PRECINCT 053
+    PRECINCT 054
+    PRECINCT 055
+    PRECINCT 056
+    PRECINCT 057
+    PRECINCT 058
+    PRECINCT 059
+    PRECINCT 06
+    PRECINCT 060
+    PRECINCT 061
+    PRECINCT 062
+    PRECINCT 063
+    PRECINCT 064
+    PRECINCT 065
+    PRECINCT 066
+    PRECINCT 067
+    PRECINCT 068
+    PRECINCT 069
+    PRECINCT 07
+    PRECINCT 070
+    PRECINCT 071
+    PRECINCT 072
+    PRECINCT 073
+    PRECINCT 074
+    PRECINCT 075
+    PRECINCT 076
+    PRECINCT 077
+    PRECINCT 078
+    PRECINCT 079
+    PRECINCT 08
+    PRECINCT 080
+    PRECINCT 081
+    PRECINCT 082
+    PRECINCT 083
+    PRECINCT 084
+    PRECINCT 085
+    PRECINCT 086
+    PRECINCT 087
+    PRECINCT 088
+    PRECINCT 089
+    PRECINCT 09
+    PRECINCT 090
+    PRECINCT 091
+    PRECINCT 092
+    PRECINCT 093
+    PRECINCT 094
+    PRECINCT 095
+    PRECINCT 096
+    PRECINCT 097
+    PRECINCT 098
+    PRECINCT 099
+    PRECINCT 1
+    PRECINCT 1 - LORDSBURG/WEST
+    PRECINCT 10
+    PRECINCT 10- LORDSBURG NORTHEAST
+    PRECINCT 100
+    PRECINCT 101
+    PRECINCT 102
+    PRECINCT 103
+    PRECINCT 104
+    PRECINCT 105
+    PRECINCT 106
+    PRECINCT 107
+    PRECINCT 108
+    PRECINCT 109
+    PRECINCT 11
+    PRECINCT 11- LORDSBURG SOUTHWEST
+    PRECINCT 110
+    PRECINCT 111
+    PRECINCT 112
+    PRECINCT 113
+    PRECINCT 114
+    PRECINCT 115
+    PRECINCT 116
+    PRECINCT 117
+    PRECINCT 118
+    PRECINCT 119
+    PRECINCT 12
+    PRECINCT 12- LORDSBURG
+    PRECINCT 120
+    PRECINCT 121
+    PRECINCT 122
+    PRECINCT 123
+    PRECINCT 124
+    PRECINCT 125
+    PRECINCT 126
+    PRECINCT 127
+    PRECINCT 128
+    PRECINCT 129
+    PRECINCT 13
+    PRECINCT 130
+    PRECINCT 131
+    PRECINCT 132
+    PRECINCT 133
+    PRECINCT 134
+    PRECINCT 135
+    PRECINCT 136
+    PRECINCT 137
+    PRECINCT 138
+    PRECINCT 139
+    PRECINCT 14
+    PRECINCT 140
+    PRECINCT 141
+    PRECINCT 142
+    PRECINCT 143
+    PRECINCT 144
+    PRECINCT 145
+    PRECINCT 146
+    PRECINCT 147
+    PRECINCT 148
+    PRECINCT 149
+    PRECINCT 15
+    PRECINCT 150
+    PRECINCT 151
+    PRECINCT 152
+    PRECINCT 153
+    PRECINCT 154
+    PRECINCT 155
+    PRECINCT 156
+    PRECINCT 157
+    PRECINCT 158
+    PRECINCT 159
+    PRECINCT 16
+    PRECINCT 160
+    PRECINCT 161
+    PRECINCT 162
+    PRECINCT 163
+    PRECINCT 164
+    PRECINCT 165
+    PRECINCT 166
+    PRECINCT 167
+    PRECINCT 168
+    PRECINCT 169
+    PRECINCT 17
+    PRECINCT 170
+    PRECINCT 171
+    PRECINCT 172
+    PRECINCT 173
+    PRECINCT 174
+    PRECINCT 175
+    PRECINCT 176
+    PRECINCT 177
+    PRECINCT 178
+    PRECINCT 179
+    PRECINCT 18
+    PRECINCT 180
+    PRECINCT 181
+    PRECINCT 182
+    PRECINCT 183
+    PRECINCT 184
+    PRECINCT 185
+    PRECINCT 186
+    PRECINCT 187
+    PRECINCT 188
+    PRECINCT 189
+    PRECINCT 19
+    PRECINCT 190
+    PRECINCT 2
+    PRECINCT 2 - LORDSBURGE/CENTRAL
+    PRECINCT 20
+    PRECINCT 21
+    PRECINCT 22
+    PRECINCT 23
+    PRECINCT 24
+    PRECINCT 25
+    PRECINCT 26
+    PRECINCT 27
+    PRECINCT 28
+    PRECINCT 29
+    PRECINCT 3
+    PRECINCT 3 - LORDSBURG/EAST
+    PRECINCT 30
+    PRECINCT 31
+    PRECINCT 32
+    PRECINCT 33
+    PRECINCT 34
+    PRECINCT 35
+    PRECINCT 36
+    PRECINCT 37
+    PRECINCT 38
+    PRECINCT 39
+    PRECINCT 4
+    PRECINCT 4 - VIRDEN
+    PRECINCT 40
+    PRECINCT 41
+    PRECINCT 42
+    PRECINCT 43
+    PRECINCT 44
+    PRECINCT 45
+    PRECINCT 46
+    PRECINCT 47
+    PRECINCT 48
+    PRECINCT 49
+    PRECINCT 5
+    PRECINCT 5 - RODEO
+    PRECINCT 50
+    PRECINCT 51
+    PRECINCT 52
+    PRECINCT 53
+    PRECINCT 54
+    PRECINCT 55
+    PRECINCT 56
+    PRECINCT 57
+    PRECINCT 58
+    PRECINCT 59
+    PRECINCT 6 - ANIMAS
+    PRECINCT 60
+    PRECINCT 61
+    PRECINCT 62
+    PRECINCT 63
+    PRECINCT 64
+    PRECINCT 65
+    PRECINCT 66
+    PRECINCT 67
+    PRECINCT 68
+    PRECINCT 69
+    PRECINCT 7- LORDSBURG NORTH/WEST
+    PRECINCT 70
+    PRECINCT 71
+    PRECINCT 8 - SOUTH ANIMAS/SOUTH LORDSBURG
+    PRECINCT 9- ANIMAS/ CENTRAL
+------
+

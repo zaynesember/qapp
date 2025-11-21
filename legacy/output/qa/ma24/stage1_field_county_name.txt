@@ -1,0 +1,108 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('BARNSTABLE', '25001')
+    ('BERKSHIRE', '25003')
+    ('BRISTOL', '25005')
+    ('DUKES', '25007')
+    ('ESSEX', '25009')
+    ('FRANKLIN', '25011')
+    ('HAMPDEN', '25013')
+    ('HAMPSHIRE', '25015')
+    ('MIDDLESEX', '25017')
+    ('NANTUCKET', '25019')
+    ('NORFOLK', '25021')
+    ('PLYMOUTH', '25023')
+    ('SUFFOLK', '25025')
+    ('WORCESTER', '25027')
+------
+
+---------
+------
+ALL VALUES:
+    BARNSTABLE
+    BERKSHIRE
+    BRISTOL
+    DUKES
+    ESSEX
+    FRANKLIN
+    HAMPDEN
+    HAMPSHIRE
+    MIDDLESEX
+    NANTUCKET
+    NORFOLK
+    PLYMOUTH
+    SUFFOLK
+    WORCESTER
+------
+

@@ -1,0 +1,1418 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    4
+    6
+    7
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in district!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    "" ||| [[""]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+    4 ||| [[094]]
+    6 ||| [[096]]
+    7 ||| [[097]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('""',)
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'AUDUBON COUNTY AGRICULTURAL EXTENSION COUNCIL', '""', 'AUDUBON', 'BRYAN SVOBODA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 152604 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'SOCIALIST PARTY USA', 'STORY', 'WILLIAM P STODDEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'WE THE PEOPLE', 'STORY', 'ROBERT F KENNEDY JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US PRESIDENT', 'WE THE PEOPLE', 'STORY', 'ROBERT F KENNEDY JR', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('4',)
+        ('#1 Audubon', 'DISTRICT ASSOCIATE JUDGE - DAVID W. BROOKS', '""', 'AUDUBON', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'DISTRICT ASSOCIATE JUDGE - DAVID W. BROOKS', '""', 'AUDUBON', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'DISTRICT ASSOCIATE JUDGE - DAVID W. BROOKS', '""', 'AUDUBON', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1290 elements)
+        ('West Massena Township/Massena', 'DISTRICT JUDGE - JENNIFER BENSON BAHR', '""', 'CASS', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Massena Township/Massena', 'DISTRICT JUDGE - JENNIFER BENSON BAHR', '""', 'CASS', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Massena Township/Massena', 'DISTRICT JUDGE - JENNIFER BENSON BAHR', '""', 'CASS', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('011',)
+        ('#1 Audubon', 'STATE HOUSE', '""', 'AUDUBON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'STATE HOUSE', '""', 'AUDUBON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'STATE HOUSE', 'DEMOCRAT', 'AUDUBON', 'JEFF RICH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('Wheatland-Kniest Precinct', 'STATE HOUSE', 'DEMOCRAT', 'CARROLL', 'JEFF RICH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheatland-Kniest Precinct', 'STATE HOUSE', 'REPUBLICAN', 'CARROLL', 'CRAIG STEVEN WILLIAMS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheatland-Kniest Precinct', 'STATE HOUSE', 'REPUBLICAN', 'CARROLL', 'CRAIG STEVEN WILLIAMS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('006',)
+        ('#1 Audubon', 'STATE SENATE', '""', 'AUDUBON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'STATE SENATE', '""', 'AUDUBON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'STATE SENATE', 'LIBERTARIAN', 'AUDUBON', 'DAVID M DAVIS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 310 elements)
+        ('Wheatland-Kniest Precinct', 'STATE SENATE', 'LIBERTARIAN', 'CARROLL', 'DAVID M DAVIS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheatland-Kniest Precinct', 'STATE SENATE', 'REPUBLICAN', 'CARROLL', 'JASON SCHULTZ', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wheatland-Kniest Precinct', 'STATE SENATE', 'REPUBLICAN', 'CARROLL', 'JASON SCHULTZ', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('004',)
+        ('#1 Audubon', 'US HOUSE', '""', 'AUDUBON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'US HOUSE', '""', 'AUDUBON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Audubon', 'US HOUSE', 'DEMOCRAT', 'AUDUBON', 'RYAN MELTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3006 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'US HOUSE', 'DEMOCRAT', 'STORY', 'RYAN MELTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US HOUSE', 'REPUBLICAN', 'STORY', 'RANDY FEENSTRA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'US HOUSE', 'REPUBLICAN', 'STORY', 'RANDY FEENSTRA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('2A',)
+        ('#1 Polk Twp/City of Plainfield', 'DISTRICT ASSOCIATE JUDGE - ELIZABETH BATEY', '""', 'BREMER', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'DISTRICT ASSOCIATE JUDGE - ELIZABETH BATEY', '""', 'BREMER', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'DISTRICT ASSOCIATE JUDGE - ELIZABETH BATEY', '""', 'BREMER', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1242 elements)
+        ('Wisner/Scott', 'DISTRICT JUDGE - RUSTIN DAVENPORT', '""', 'FRANKLIN', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'DISTRICT JUDGE - RUSTIN DAVENPORT', '""', 'FRANKLIN', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'DISTRICT JUDGE - RUSTIN DAVENPORT', '""', 'FRANKLIN', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('057',)
+        ('#1 Polk Twp/City of Plainfield', 'STATE HOUSE', '""', 'BREMER', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'STATE HOUSE', '""', 'BREMER', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'STATE HOUSE', 'DEMOCRAT', 'BREMER', 'SHAWN ELLERBROEK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('8-NH', 'STATE HOUSE', 'DEMOCRAT', 'BUTLER', 'SHAWN ELLERBROEK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('8-NH', 'STATE HOUSE', 'REPUBLICAN', 'BUTLER', 'PAT GRASSLEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('8-NH', 'STATE HOUSE', 'REPUBLICAN', 'BUTLER', 'PAT GRASSLEY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('002',)
+        ('#1 Polk Twp/City of Plainfield', 'US HOUSE', '""', 'BREMER', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'US HOUSE', '""', 'BREMER', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1 Polk Twp/City of Plainfield', 'US HOUSE', '""', 'BREMER', 'JODY MADLOM PUFFETT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3488 elements)
+        ('Winthrop', 'US HOUSE', 'DEMOCRAT', 'BUCHANAN', 'SARAH CORKERY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'US HOUSE', 'REPUBLICAN', 'BUCHANAN', 'ASHLEY HINSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'US HOUSE', 'REPUBLICAN', 'BUCHANAN', 'ASHLEY HINSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('3B',)
+        ('#1-Le Mars Convention Center', 'DISTRICT ASSOCIATE JUDGE - JESSICA R. NOLL', '""', 'PLYMOUTH', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1-Le Mars Convention Center', 'DISTRICT ASSOCIATE JUDGE - JESSICA R. NOLL', '""', 'PLYMOUTH', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1-Le Mars Convention Center', 'DISTRICT ASSOCIATE JUDGE - JESSICA R. NOLL', '""', 'PLYMOUTH', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1158 elements)
+        ('West Branch', 'DISTRICT JUDGE - ROBERT D. TIEFENTHALER', '""', 'SIOUX', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Branch', 'DISTRICT JUDGE - ROBERT D. TIEFENTHALER', '""', 'SIOUX', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Branch', 'DISTRICT JUDGE - ROBERT D. TIEFENTHALER', '""', 'SIOUX', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('003',)
+        ('#1-Le Mars Convention Center', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#1-Le Mars Convention Center', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#1-Le Mars Convention Center', 'STATE HOUSE', 'DEMOCRAT', 'PLYMOUTH', 'EMMA BOUZA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2314 elements)
+        ('Yale', 'US HOUSE', 'DEMOCRAT', 'GUTHRIE', 'LANON BACCAM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'US HOUSE', 'REPUBLICAN', 'GUTHRIE', 'ZACH NUNN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'US HOUSE', 'REPUBLICAN', 'GUTHRIE', 'ZACH NUNN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('013',)
+        ('#10-Kingsley Community Center', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#10-Kingsley Community Center', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#10-Kingsley Community Center', 'STATE HOUSE', 'DEMOCRAT', 'PLYMOUTH', 'ROSANNE PLANTE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 224 elements)
+        ('SC-UT', 'STATE HOUSE', 'NO PARTY', 'MONONA', 'PARKER HANSEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('SC-UT', 'STATE HOUSE', 'REPUBLICAN', 'MONONA', 'TRAVIS M SITZMANN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('SC-UT', 'STATE HOUSE', 'REPUBLICAN', 'MONONA', 'TRAVIS M SITZMANN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('003', '013')
+        ('#11-Wesley United Methodist Church', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#11-Wesley United Methodist Church', 'STATE HOUSE', '""', 'PLYMOUTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('058',)
+        ('#2 Douglas/Frederika/Leroy/City of Frederika', 'STATE HOUSE', '""', 'BREMER', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('#2 Douglas/Frederika/Leroy/City of Frederika', 'STATE HOUSE', '""', 'BREMER', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('#2 Douglas/Frederika/Leroy/City of Frederika', 'STATE HOUSE', 'DEMOCRAT', 'BREMER', 'GAIL ALLISON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 108 elements)
+        ('Ulster - St. Charles - Riverton', 'STATE HOUSE', 'DEMOCRAT', 'FLOYD', 'GAIL ALLISON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Ulster - St. Charles - Riverton', 'STATE HOUSE', 'REPUBLICAN', 'FLOYD', 'CHARLEY THOMSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Ulster - St. Charles - Riverton', 'STATE HOUSE', 'REPUBLICAN', 'FLOYD', 'CHARLEY THOMSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('7',)
+        ('(AG) Allens Grove', 'DISTRICT ASSOCIATE JUDGE - GARY PATRICK STRAUSSER', '""', 'SCOTT', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'DISTRICT ASSOCIATE JUDGE - GARY PATRICK STRAUSSER', '""', 'SCOTT', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'DISTRICT ASSOCIATE JUDGE - GARY PATRICK STRAUSSER', '""', 'SCOTT', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1114 elements)
+        ('Wilton Township', 'DISTRICT JUDGE - THOMAS REIDEL', '""', 'MUSCATINE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'DISTRICT JUDGE - THOMAS REIDEL', '""', 'MUSCATINE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'DISTRICT JUDGE - THOMAS REIDEL', '""', 'MUSCATINE', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('070',)
+        ('(AG) Allens Grove', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'KAY PENCE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 132 elements)
+        ('WELTON WASHINGTON WELTON', 'STATE HOUSE', 'DEMOCRAT', 'CLINTON', 'KAY PENCE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WELTON WASHINGTON WELTON', 'STATE HOUSE', 'REPUBLICAN', 'CLINTON', 'NORLIN MOMMSEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WELTON WASHINGTON WELTON', 'STATE HOUSE', 'REPUBLICAN', 'CLINTON', 'NORLIN MOMMSEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('001',)
+        ('(AG) Allens Grove', 'US HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'US HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(AG) Allens Grove', 'US HOUSE', 'DEMOCRAT', 'SCOTT', 'CHRISTINA BOHANNAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2496 elements)
+        ('Wilton Township', 'US HOUSE', 'DEMOCRAT', 'MUSCATINE', 'CHRISTINA BOHANNAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'US HOUSE', 'REPUBLICAN', 'MUSCATINE', 'MARIANNETTE MILLERMEEKS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'US HOUSE', 'REPUBLICAN', 'MUSCATINE', 'MARIANNETTE MILLERMEEKS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('094',)
+        ('(B11) City of Bettendorf', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(B11) City of Bettendorf', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(B11) City of Bettendorf', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'TRACY J JONES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('(LS) Lincoln Sheridan', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'TRACY J JONES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(LS) Lincoln Sheridan', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'MIKE VONDRAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(LS) Lincoln Sheridan', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'MIKE VONDRAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('093',)
+        ('(B13) City of Bettendorf', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(B13) City of Bettendorf', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(B13) City of Bettendorf', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'MINDY SMITHPACE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('(RV) City of Riverdale', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'MINDY SMITHPACE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(RV) City of Riverdale', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'GARY MOHR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(RV) City of Riverdale', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'GARY MOHR', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('098',)
+        ('(BF) Buffalo', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(BF) Buffalo', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(BF) Buffalo', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'MONICA KURTH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('(D43) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'MONICA KURTH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(D43) City of Davenport', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'NATHAN RAMKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(D43) City of Davenport', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'NATHAN RAMKER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('082',)
+        ('(BG) Blue Grass', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(BG) Blue Grass', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(BG) Blue Grass', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'PHIL WIESE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('West Liberty 2', 'STATE HOUSE', 'DEMOCRAT', 'MUSCATINE', 'PHIL WIESE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Liberty 2', 'STATE HOUSE', 'REPUBLICAN', 'MUSCATINE', 'BOBBY KAUFMANN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Liberty 2', 'STATE HOUSE', 'REPUBLICAN', 'MUSCATINE', 'BOBBY KAUFMANN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('081',)
+        ('(D11) City of Davenport', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(D11) City of Davenport', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(D11) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'DANIEL GOSA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 34 elements)
+        ('(D84) City of Davenport', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(D84) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'DANIEL GOSA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(D84) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'DANIEL GOSA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('097',)
+        ('(D34) City of Davenport', 'STATE HOUSE', '""', 'SCOTT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(D34) City of Davenport', 'STATE HOUSE', '""', 'SCOTT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(D34) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'KEN CROKEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('(D74) City of Davenport', 'STATE HOUSE', 'DEMOCRAT', 'SCOTT', 'KEN CROKEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('(D74) City of Davenport', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'JOSUE RODRIGUEZ', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('(D74) City of Davenport', 'STATE HOUSE', 'REPUBLICAN', 'SCOTT', 'JOSUE RODRIGUEZ', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('2B',)
+        ('01 Butler and Williams', 'DISTRICT ASSOCIATE JUDGE - ASHLEY BEISCH', '""', 'CALHOUN', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Butler and Williams', 'DISTRICT ASSOCIATE JUDGE - ASHLEY BEISCH', '""', 'CALHOUN', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Butler and Williams', 'DISTRICT ASSOCIATE JUDGE - ASHLEY BEISCH', '""', 'CALHOUN', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5826 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'DISTRICT JUDGE - KURT JOHN STOEBE', '""', 'STORY', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'DISTRICT JUDGE - KURT JOHN STOEBE', '""', 'STORY', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'DISTRICT JUDGE - KURT JOHN STOEBE', '""', 'STORY', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('007',)
+        ('01 Butler and Williams', 'STATE HOUSE', '""', 'CALHOUN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Butler and Williams', 'STATE HOUSE', '""', 'CALHOUN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('01 Butler and Williams', 'STATE HOUSE', '""', 'CALHOUN', 'MARTIN PODRAZA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 150 elements)
+        ('Wall Lake', 'STATE HOUSE', '""', 'SAC', 'MARTIN PODRAZA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wall Lake', 'STATE HOUSE', 'REPUBLICAN', 'SAC', 'MIKE SEXTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wall Lake', 'STATE HOUSE', 'REPUBLICAN', 'SAC', 'MIKE SEXTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('005',)
+        ('1 - Cherokee Ward 1', 'STATE HOUSE', '""', 'CHEROKEE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1 - Cherokee Ward 1', 'STATE HOUSE', '""', 'CHEROKEE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1 - Cherokee Ward 1', 'STATE HOUSE', '""', 'CHEROKEE', 'MICHAEL SCHNOES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 132 elements)
+        ('Waterman-Grant-Liberty', 'STATE HOUSE', '""', "O'BRIEN", 'MICHAEL SCHNOES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterman-Grant-Liberty', 'STATE HOUSE', 'REPUBLICAN', "O'BRIEN", 'ZACHARY M DIEKEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterman-Grant-Liberty', 'STATE HOUSE', 'REPUBLICAN', "O'BRIEN", 'ZACHARY M DIEKEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('1A',)
+        ('1 Tri-State Blind', 'DISTRICT ASSOCIATE JUDGE - ROBERT JAMES RICHTER', '""', 'DUBUQUE', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'DISTRICT ASSOCIATE JUDGE - ROBERT JAMES RICHTER', '""', 'DUBUQUE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'DISTRICT ASSOCIATE JUDGE - ROBERT JAMES RICHTER', '""', 'DUBUQUE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 954 elements)
+        ('South Fork/Union', 'DISTRICT JUDGE - THOMAS A. BITTER', '""', 'DELAWARE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('South Fork/Union', 'DISTRICT JUDGE - THOMAS A. BITTER', '""', 'DELAWARE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('South Fork/Union', 'DISTRICT JUDGE - THOMAS A. BITTER', '""', 'DELAWARE', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('071',)
+        ('1 Tri-State Blind', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'LINDSAY JAMES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('9 Westminster Presbyterian Church', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'LINDSAY JAMES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('9 Westminster Presbyterian Church', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'JAMES W MCCLAIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('9 Westminster Presbyterian Church', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'JAMES W MCCLAIN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('036',)
+        ('1 Tri-State Blind', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1 Tri-State Blind', 'STATE SENATE', 'DEMOCRAT', 'DUBUQUE', 'THOMAS TOWNSEND', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 164 elements)
+        ('DES MOINES 59', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 59', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'AUSTIN BAETH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 59', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'AUSTIN BAETH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('072',)
+        ('12 Windsor Park', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('12 Windsor Park', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('12 Windsor Park', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'CHARLES ISENHART', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('8 Emmaus Bible College', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'CHARLES ISENHART', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('8 Emmaus Bible College', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'JENNIFER J SMITH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('8 Emmaus Bible College', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'JENNIFER J SMITH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('5B',)
+        ('1NW', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'ADAIR', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'ADAIR', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'ADAIR', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 206 elements)
+        ('Williamson Community Center Precinct', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'LUCAS', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamson Community Center Precinct', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'LUCAS', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamson Community Center Precinct', 'DISTRICT JUDGE - PATRICK W. GREENWOOD', '""', 'LUCAS', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('023',)
+        ('1NW', 'STATE HOUSE', '""', 'ADAIR', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'STATE HOUSE', '""', 'ADAIR', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'STATE HOUSE', 'DEMOCRAT', 'ADAIR', 'KAREN VARLEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('Winterset II', 'STATE HOUSE', 'DEMOCRAT', 'MADISON', 'KAREN VARLEY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winterset II', 'STATE HOUSE', 'REPUBLICAN', 'MADISON', 'RAY BUBBA SORENSEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winterset II', 'STATE HOUSE', 'REPUBLICAN', 'MADISON', 'RAY BUBBA SORENSEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('012',)
+        ('1NW', 'STATE SENATE', '""', 'ADAIR', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'STATE SENATE', '""', 'ADAIR', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1NW', 'STATE SENATE', 'DEMOCRAT', 'ADAIR', 'NICOLE LOEW', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 384 elements)
+        ('Winterset II', 'STATE SENATE', 'DEMOCRAT', 'MADISON', 'NICOLE LOEW', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winterset II', 'STATE SENATE', 'REPUBLICAN', 'MADISON', 'AMY SINCLAIR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winterset II', 'STATE SENATE', 'REPUBLICAN', 'MADISON', 'AMY SINCLAIR', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('8A',)
+        ('1st Ward - GR', 'DISTRICT ASSOCIATE JUDGE - DANIEL PERRY KITCHEN', '""', 'POWESHIEK', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1st Ward - GR', 'DISTRICT ASSOCIATE JUDGE - DANIEL PERRY KITCHEN', '""', 'POWESHIEK', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1st Ward - GR', 'DISTRICT ASSOCIATE JUDGE - DANIEL PERRY KITCHEN', '""', 'POWESHIEK', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2906 elements)
+        ('Washington/Wells', 'DISTRICT JUDGE - SHAWN R. SHOWERS', '""', 'APPANOOSE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington/Wells', 'DISTRICT JUDGE - SHAWN R. SHOWERS', '""', 'APPANOOSE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington/Wells', 'DISTRICT JUDGE - SHAWN R. SHOWERS', '""', 'APPANOOSE', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('053',)
+        ('1st Ward - GR', 'STATE HOUSE', '""', 'POWESHIEK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('1st Ward - GR', 'STATE HOUSE', '""', 'POWESHIEK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('1st Ward - GR', 'STATE HOUSE', 'DEMOCRAT', 'POWESHIEK', 'TOMMY HEXTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('Toledo', 'STATE HOUSE', 'DEMOCRAT', 'TAMA', 'TOMMY HEXTER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Toledo', 'STATE HOUSE', 'REPUBLICAN', 'TAMA', 'DEAN FISHER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Toledo', 'STATE HOUSE', 'REPUBLICAN', 'TAMA', 'DEAN FISHER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('065',)
+        ('21 Asbury City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('21 Asbury City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('21 Asbury City Hall', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'CAROLYN WIEZOREK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('34 Key West Fire Station', 'STATE HOUSE', 'DEMOCRAT', 'DUBUQUE', 'CAROLYN WIEZOREK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('34 Key West Fire Station', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'SHANNON LUNDGREN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('34 Key West Fire Station', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'SHANNON LUNDGREN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('014',)
+        ('23 Morningside Branch Library', 'STATE HOUSE', '""', 'WOODBURY', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('23 Morningside Branch Library', 'STATE HOUSE', '""', 'WOODBURY', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('23 Morningside Branch Library', 'STATE HOUSE', 'REPUBLICAN', 'WOODBURY', 'JACOB BOSSMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 206 elements)
+        ('Waukee 2', 'STATE SENATE', 'DEMOCRAT', 'DALLAS', 'SARAH TRONE GARRIOTT', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Waukee 2', 'STATE SENATE', 'REPUBLICAN', 'DALLAS', 'MARK A HANSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Waukee 2', 'STATE SENATE', 'REPUBLICAN', 'DALLAS', 'MARK A HANSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('064',)
+        ('25 Holy Cross City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('25 Holy Cross City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('25 Holy Cross City Hall', 'STATE HOUSE', '""', 'DUBUQUE', 'IAN ZAHREN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 132 elements)
+        ('Pct 9 - Waukon Ward 2', 'STATE HOUSE', '""', 'ALLAMAKEE', 'IAN ZAHREN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Pct 9 - Waukon Ward 2', 'STATE HOUSE', 'REPUBLICAN', 'ALLAMAKEE', 'JASON GEARHART', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Pct 9 - Waukon Ward 2', 'STATE HOUSE', 'REPUBLICAN', 'ALLAMAKEE', 'JASON GEARHART', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('032',)
+        ('25 Holy Cross City Hall', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('25 Holy Cross City Hall', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('25 Holy Cross City Hall', 'STATE SENATE', 'DEMOCRAT', 'DUBUQUE', 'BRIAN BRUENING', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 320 elements)
+        ('WINDSOR HEIGHTS 2', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'JENNIFER KONFRST', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'JENNIFER KONFRST', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('067',)
+        ('30 Cascade City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('30 Cascade City Hall', 'STATE HOUSE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('30 Cascade City Hall', 'STATE HOUSE', 'REPUBLICAN', 'DUBUQUE', 'CRAIG JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 82 elements)
+        ('Winthrop', 'STATE HOUSE', '""', 'BUCHANAN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'STATE HOUSE', 'REPUBLICAN', 'BUCHANAN', 'CRAIG JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'STATE HOUSE', 'REPUBLICAN', 'BUCHANAN', 'CRAIG JOHNSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('034',)
+        ('30 Cascade City Hall', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('30 Cascade City Hall', 'STATE SENATE', '""', 'DUBUQUE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('30 Cascade City Hall', 'STATE SENATE', 'DEMOCRAT', 'DUBUQUE', 'JOE HEGLAND', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 336 elements)
+        ('Winthrop', 'STATE SENATE', 'DEMOCRAT', 'BUCHANAN', 'JOE HEGLAND', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'STATE SENATE', 'REPUBLICAN', 'BUCHANAN', 'DAN ZUMBACH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'STATE SENATE', 'REPUBLICAN', 'BUCHANAN', 'DAN ZUMBACH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('095',)
+        ('76/CEDAR', 'STATE HOUSE', '""', 'MUSCATINE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('76/CEDAR', 'STATE HOUSE', '""', 'MUSCATINE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('76/CEDAR', 'STATE HOUSE', 'DEMOCRAT', 'MUSCATINE', 'JEFF POULTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('West Louisa', 'STATE HOUSE', 'DEMOCRAT', 'LOUISA', 'JEFF POULTER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Louisa', 'STATE HOUSE', 'REPUBLICAN', 'LOUISA', 'TAYLOR COLLINS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Louisa', 'STATE HOUSE', 'REPUBLICAN', 'LOUISA', 'TAYLOR COLLINS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('048',)
+        ('76/CEDAR', 'STATE SENATE', '""', 'MUSCATINE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('76/CEDAR', 'STATE SENATE', '""', 'MUSCATINE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('76/CEDAR', 'STATE SENATE', 'DEMOCRAT', 'MUSCATINE', 'JOHN DABEET', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 306 elements)
+        ('Wilton Township', 'STATE SENATE', 'DEMOCRAT', 'MUSCATINE', 'JOHN DABEET', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'STATE SENATE', 'REPUBLICAN', 'MUSCATINE', 'MARK S LOFGREN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'STATE SENATE', 'REPUBLICAN', 'MUSCATINE', 'MARK S LOFGREN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('024',)
+        ('A01 Allerton', 'STATE HOUSE', '""', 'WAYNE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('A01 Allerton', 'STATE HOUSE', '""', 'WAYNE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('A01 Allerton', 'STATE HOUSE', 'DEMOCRAT', 'WAYNE', 'SONYA HICKS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 342 elements)
+        ('Yale', 'STATE SENATE', 'DEMOCRAT', 'GUTHRIE', 'MARGARET LISTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'STATE SENATE', 'REPUBLICAN', 'GUTHRIE', 'JESSE GREEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'STATE SENATE', 'REPUBLICAN', 'GUTHRIE', 'JESSE GREEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('088',)
+        ('AD-PR-WS', 'STATE HOUSE', '""', 'KEOKUK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AD-PR-WS', 'STATE HOUSE', '""', 'KEOKUK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AD-PR-WS', 'STATE HOUSE', 'REPUBLICAN', 'KEOKUK', 'HELENA HAYES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 88 elements)
+        ('SG4', 'STATE HOUSE', '""', 'KEOKUK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('SG4', 'STATE HOUSE', 'REPUBLICAN', 'KEOKUK', 'HELENA HAYES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('SG4', 'STATE HOUSE', 'REPUBLICAN', 'KEOKUK', 'HELENA HAYES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('044',)
+        ('AD-PR-WS', 'STATE SENATE', '""', 'KEOKUK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AD-PR-WS', 'STATE SENATE', '""', 'KEOKUK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AD-PR-WS', 'STATE SENATE', '""', 'KEOKUK', 'LISA OSSIAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 306 elements)
+        ('WEBSTER 1', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'LARRY MCBURNEY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WEBSTER 1', 'STATE HOUSE', 'LIBERTARIAN', 'POLK', 'JAKE HEARD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WEBSTER 1', 'STATE HOUSE', 'LIBERTARIAN', 'POLK', 'JAKE HEARD', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('026',)
+        ('AD/BL/PO', 'STATE HOUSE', '""', 'WAPELLO', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AD/BL/PO', 'STATE HOUSE', '""', 'WAPELLO', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AD/BL/PO', 'STATE HOUSE', 'DEMOCRAT', 'WAPELLO', 'DARCIE WHITLOW', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 396 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE SENATE', 'DEMOCRAT', 'STORY', 'MIKE WOLFE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE SENATE', 'REPUBLICAN', 'STORY', 'KARA WARME', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE SENATE', 'REPUBLICAN', 'STORY', 'KARA WARME', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('5A',)
+        ('ADEL 1 A1', 'DISTRICT ASSOCIATE JUDGE - KEVIN PARKER', '""', 'DALLAS', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ADEL 1 A1', 'DISTRICT ASSOCIATE JUDGE - KEVIN PARKER', '""', 'DALLAS', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ADEL 1 A1', 'DISTRICT ASSOCIATE JUDGE - KEVIN PARKER', '""', 'DALLAS', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3330 elements)
+        ('Yale', 'DISTRICT JUDGE - TERRY R. RICKERS', '""', 'GUTHRIE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'DISTRICT JUDGE - TERRY R. RICKERS', '""', 'GUTHRIE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'DISTRICT JUDGE - TERRY R. RICKERS', '""', 'GUTHRIE', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('028',)
+        ('ADEL 1 A1', 'STATE HOUSE', '""', 'DALLAS', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ADEL 1 A1', 'STATE HOUSE', '""', 'DALLAS', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ADEL 1 A1', 'STATE HOUSE', 'DEMOCRAT', 'DALLAS', 'LAURA SNIDER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 366 elements)
+        ('Wisner/Scott', 'STATE SENATE', 'DEMOCRAT', 'FRANKLIN', 'CYNTHIA OPPEDAL PASCHEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'STATE SENATE', 'REPUBLICAN', 'FRANKLIN', 'DENNIS GUTH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'STATE SENATE', 'REPUBLICAN', 'FRANKLIN', 'DENNIS GUTH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('017',)
+        ('AF - Afton United Methodist Church', 'STATE HOUSE', '""', 'UNION', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AF - Afton United Methodist Church', 'STATE HOUSE', '""', 'UNION', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AF - Afton United Methodist Church', 'STATE HOUSE', 'REPUBLICAN', 'UNION', 'DEVON WOOD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('Washington Precinct', 'STATE HOUSE', '""', 'RINGGOLD', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Precinct', 'STATE HOUSE', 'REPUBLICAN', 'RINGGOLD', 'DEVON WOOD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Precinct', 'STATE HOUSE', 'REPUBLICAN', 'RINGGOLD', 'DEVON WOOD', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('025',)
+        ('AGT/AGC/PL', 'STATE HOUSE', '""', 'WAPELLO', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AGT/AGC/PL', 'STATE HOUSE', '""', 'WAPELLO', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AGT/AGC/PL', 'STATE HOUSE', 'DEMOCRAT', 'WAPELLO', 'BRENDA CURRAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 96 elements)
+        ('WA/EL', 'STATE HOUSE', 'DEMOCRAT', 'WAPELLO', 'BRENDA CURRAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WA/EL', 'STATE HOUSE', 'REPUBLICAN', 'WAPELLO', 'HANS WILZ', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WA/EL', 'STATE HOUSE', 'REPUBLICAN', 'WAPELLO', 'HANS WILZ', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('092',)
+        ('AINSWORTH', 'STATE HOUSE', '""', 'WASHINGTON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AINSWORTH', 'STATE HOUSE', '""', 'WASHINGTON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AINSWORTH', 'STATE HOUSE', 'DEMOCRAT', 'WASHINGTON', 'ANNA BANOWSKY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 94 elements)
+        ('WL', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ANNA BANOWSKY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL', 'STATE HOUSE', 'REPUBLICAN', 'JOHNSON', 'HEATHER HORA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL', 'STATE HOUSE', 'REPUBLICAN', 'JOHNSON', 'HEATHER HORA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('046',)
+        ('AINSWORTH', 'STATE SENATE', '""', 'WASHINGTON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AINSWORTH', 'STATE SENATE', '""', 'WASHINGTON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AINSWORTH', 'STATE SENATE', 'DEMOCRAT', 'WASHINGTON', 'ED CHABAL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 298 elements)
+        ('Williamsburg', 'STATE SENATE', 'DEMOCRAT', 'IOWA', 'ED CHABAL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'STATE SENATE', 'REPUBLICAN', 'IOWA', 'DAWN DRISCOLL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'STATE SENATE', 'REPUBLICAN', 'IOWA', 'DAWN DRISCOLL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('009',)
+        ('AL1', 'STATE HOUSE', '""', 'KOSSUTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AL1', 'STATE HOUSE', '""', 'KOSSUTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AL1', 'STATE HOUSE', 'DEMOCRAT', 'KOSSUTH', 'CHRISTIAN HEMAN SCHLAERTH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 204 elements)
+        ('WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP', 'STATE HOUSE', 'DEMOCRAT', 'EMMET', 'CHRISTIAN HEMAN SCHLAERTH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP', 'STATE HOUSE', 'REPUBLICAN', 'EMMET', 'HENRY STONE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP', 'STATE HOUSE', 'REPUBLICAN', 'EMMET', 'HENRY STONE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('5C',)
+        ('ALLEMAN', 'DISTRICT ASSOCIATE JUDGE - BECKY GOETTSCH', '""', 'POLK', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ALLEMAN', 'DISTRICT ASSOCIATE JUDGE - BECKY GOETTSCH', '""', 'POLK', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ALLEMAN', 'DISTRICT ASSOCIATE JUDGE - BECKY GOETTSCH', '""', 'POLK', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5626 elements)
+        ('WINDSOR HEIGHTS 2', 'DISTRICT JUDGE - PATRICK D. SMITH', '""', 'POLK', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'DISTRICT JUDGE - PATRICK D. SMITH', '""', 'POLK', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'DISTRICT JUDGE - PATRICK D. SMITH', '""', 'POLK', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('045',)
+        ('ALLEMAN', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ALLEMAN', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ALLEMAN', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'ANTHONY WILLIAM THOMPSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('WASHINGTON', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'ANTHONY WILLIAM THOMPSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WASHINGTON', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'BRIAN K LOHSE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WASHINGTON', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'BRIAN K LOHSE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('040',)
+        ('ALTOONA 1', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ALTOONA 1', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ALTOONA 1', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'HEATHER SIEVERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 184 elements)
+        ('SAYLOR 2', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'HEATHER SIEVERS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('SAYLOR 2', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'BILL GUSTOFF', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('SAYLOR 2', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'BILL GUSTOFF', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('020',)
+        ('ALTOONA 1', 'STATE SENATE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ALTOONA 1', 'STATE SENATE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ALTOONA 1', 'STATE SENATE', 'DEMOCRAT', 'POLK', 'NATE BOULTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 210 elements)
+        ('SAYLOR 2', 'STATE SENATE', 'DEMOCRAT', 'POLK', 'NATE BOULTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('SAYLOR 2', 'STATE SENATE', 'REPUBLICAN', 'POLK', 'MIKE PIKE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('SAYLOR 2', 'STATE SENATE', 'REPUBLICAN', 'POLK', 'MIKE PIKE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('049',)
+        ('AMES 1', 'STATE HOUSE', '""', 'STORY', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 1', 'STATE HOUSE', '""', 'STORY', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 1', 'STATE HOUSE', 'DEMOCRAT', 'STORY', 'BETH WESSELKROESCHELL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('AMES 8', 'STATE HOUSE', 'DEMOCRAT', 'STORY', 'BETH WESSELKROESCHELL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 8', 'STATE HOUSE', 'LIBERTARIAN', 'STORY', 'ERIC COOPER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 8', 'STATE HOUSE', 'LIBERTARIAN', 'STORY', 'ERIC COOPER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('050',)
+        ('AMES 10', 'STATE HOUSE', '""', 'STORY', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 10', 'STATE HOUSE', '""', 'STORY', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('AMES 10', 'STATE HOUSE', 'DEMOCRAT', 'STORY', 'ROSS WILBURN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 246 elements)
+        ('WS-WS', 'STATE SENATE', 'DEMOCRAT', 'LEE', 'NANNETTE GRIFFIN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WS-WS', 'STATE SENATE', 'REPUBLICAN', 'LEE', 'JEFF REICHMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WS-WS', 'STATE SENATE', 'REPUBLICAN', 'LEE', 'JEFF REICHMAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('042',)
+        ('ANKENY 1', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 1', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 1', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'HEATHER MATSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 244 elements)
+        ('Washington Township', 'STATE SENATE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE SENATE', 'REPUBLICAN', 'LINN', 'CHARLIE MCCLINTOCK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE SENATE', 'REPUBLICAN', 'LINN', 'CHARLIE MCCLINTOCK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('041',)
+        ('ANKENY 15', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 15', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 15', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'MOLLY BUCK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('ANKENY 8', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'MOLLY BUCK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 8', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'RYAN WELDON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ANKENY 8', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'RYAN WELDON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('6',)
+        ('ANN_ANAMOSA NORTH-CASS', 'DISTRICT ASSOCIATE JUDGE - BRANDON L. SCHROCK', '""', 'JONES', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ANN_ANAMOSA NORTH-CASS', 'DISTRICT ASSOCIATE JUDGE - BRANDON L. SCHROCK', '""', 'JONES', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ANN_ANAMOSA NORTH-CASS', 'DISTRICT ASSOCIATE JUDGE - BRANDON L. SCHROCK', '""', 'JONES', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5130 elements)
+        ('Williamsburg', 'DISTRICT JUDGE - ELIZABETH DUPUICH', '""', 'IOWA', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'DISTRICT JUDGE - ELIZABETH DUPUICH', '""', 'IOWA', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'DISTRICT JUDGE - ELIZABETH DUPUICH', '""', 'IOWA', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('066',)
+        ('ANN_ANAMOSA NORTH-CASS', 'STATE HOUSE', '""', 'JONES', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ANN_ANAMOSA NORTH-CASS', 'STATE HOUSE', '""', 'JONES', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ANN_ANAMOSA NORTH-CASS', 'STATE HOUSE', 'DEMOCRAT', 'JONES', 'ANDY MCKEAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('WY_WYOMING', 'STATE HOUSE', 'DEMOCRAT', 'JONES', 'ANDY MCKEAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WY_WYOMING', 'STATE HOUSE', 'REPUBLICAN', 'JONES', 'STEVEN P BRADLEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WY_WYOMING', 'STATE HOUSE', 'REPUBLICAN', 'JONES', 'STEVEN P BRADLEY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('1B',)
+        ('Albion/Forest City/Lime Springs', 'DISTRICT ASSOCIATE JUDGE - BROOK K. JACOBSEN', '""', 'HOWARD', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Albion/Forest City/Lime Springs', 'DISTRICT ASSOCIATE JUDGE - BROOK K. JACOBSEN', '""', 'HOWARD', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Albion/Forest City/Lime Springs', 'DISTRICT ASSOCIATE JUDGE - BROOK K. JACOBSEN', '""', 'HOWARD', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2826 elements)
+        ('Winthrop', 'DISTRICT JUDGE - KELLYANN LEKAR', '""', 'BUCHANAN', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'DISTRICT JUDGE - KELLYANN LEKAR', '""', 'BUCHANAN', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Winthrop', 'DISTRICT JUDGE - KELLYANN LEKAR', '""', 'BUCHANAN', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('063',)
+        ('Albion/Forest City/Lime Springs', 'STATE HOUSE', '""', 'HOWARD', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Albion/Forest City/Lime Springs', 'STATE HOUSE', '""', 'HOWARD', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Albion/Forest City/Lime Springs', 'STATE HOUSE', 'REPUBLICAN', 'HOWARD', 'MICHAEL R BERGAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('Vernon Springs/Cresco 1B', 'STATE HOUSE', '""', 'HOWARD', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Vernon Springs/Cresco 1B', 'STATE HOUSE', 'REPUBLICAN', 'HOWARD', 'MICHAEL R BERGAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Vernon Springs/Cresco 1B', 'STATE HOUSE', 'REPUBLICAN', 'HOWARD', 'MICHAEL R BERGAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('054',)
+        ('Alden/Buckeye', 'STATE HOUSE', '""', 'HARDIN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Alden/Buckeye', 'STATE HOUSE', '""', 'HARDIN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Alden/Buckeye', 'STATE HOUSE', 'REPUBLICAN', 'HARDIN', 'JOSHUA MEGGERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 64 elements)
+        ('Union/Washington/Janesville', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Union/Washington/Janesville', 'STATE HOUSE', 'REPUBLICAN', 'BLACK HAWK', 'JOSHUA MEGGERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Union/Washington/Janesville', 'STATE HOUSE', 'REPUBLICAN', 'BLACK HAWK', 'JOSHUA MEGGERS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('022',)
+        ('Allen 2', 'STATE HOUSE', '""', 'WARREN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Allen 2', 'STATE HOUSE', '""', 'WARREN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Allen 2', 'STATE HOUSE', 'DEMOCRAT', 'WARREN', 'RORY D TAYLOR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 288 elements)
+        ('WEBSTER 1', 'STATE SENATE', 'DEMOCRAT', 'POLK', 'MATT BLAKE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WEBSTER 1', 'STATE SENATE', 'REPUBLICAN', 'POLK', 'BRAD ZAUN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WEBSTER 1', 'STATE SENATE', 'REPUBLICAN', 'POLK', 'BRAD ZAUN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('018',)
+        ('Atlantic Ward 1', 'STATE HOUSE', '""', 'CASS', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic Ward 1', 'STATE HOUSE', '""', 'CASS', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Atlantic Ward 1', 'STATE HOUSE', 'DEMOCRAT', 'CASS', 'TRIPP NARUP', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 228 elements)
+        ('West Massena Township/Massena', 'STATE HOUSE', 'DEMOCRAT', 'CASS', 'TRIPP NARUP', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Massena Township/Massena', 'STATE HOUSE', 'REPUBLICAN', 'CASS', 'THOMAS JAY MOORE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Massena Township/Massena', 'STATE HOUSE', 'REPUBLICAN', 'CASS', 'THOMAS JAY MOORE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('068',)
+        ('Aurora', 'STATE HOUSE', '""', 'BUCHANAN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Aurora', 'STATE HOUSE', '""', 'BUCHANAN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Aurora', 'STATE HOUSE', 'DEMOCRAT', 'BUCHANAN', 'TIM OBRIEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 144 elements)
+        ('West Union Ward 3', 'STATE HOUSE', 'DEMOCRAT', 'FAYETTE', 'TIM OBRIEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Union Ward 3', 'STATE HOUSE', 'REPUBLICAN', 'FAYETTE', 'CHAD INGELS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Union Ward 3', 'STATE HOUSE', 'REPUBLICAN', 'FAYETTE', 'CHAD INGELS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('091',)
+        ('BG/SO.ANX', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('BG/SO.ANX', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('BG/SO.ANX', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'JAY GORSH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('Williamsburg', 'STATE HOUSE', 'DEMOCRAT', 'IOWA', 'JAY GORSH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'STATE HOUSE', 'REPUBLICAN', 'IOWA', 'JUDD LAWLER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Williamsburg', 'STATE HOUSE', 'REPUBLICAN', 'IOWA', 'JUDD LAWLER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('037',)
+        ('BO/RL/ST/LT/PL', 'STATE HOUSE', '""', 'MAHASKA', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('BO/RL/ST/LT/PL', 'STATE HOUSE', '""', 'MAHASKA', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('BO/RL/ST/LT/PL', 'STATE HOUSE', 'REPUBLICAN', 'MAHASKA', 'BARB KNIFF MCCULLA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('Washington Township', 'STATE HOUSE', '""', 'MARION', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE HOUSE', 'REPUBLICAN', 'MARION', 'BARB KNIFF MCCULLA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE HOUSE', 'REPUBLICAN', 'MARION', 'BARB KNIFF MCCULLA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('015',)
+        ('BOOMER', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('BOOMER', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('BOOMER', 'STATE HOUSE', 'DEMOCRAT', 'POTTAWATTAMIE', 'BENJAMIN SCHAUER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 108 elements)
+        ('UNDERWOOD', 'STATE HOUSE', 'DEMOCRAT', 'POTTAWATTAMIE', 'BENJAMIN SCHAUER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('UNDERWOOD', 'STATE HOUSE', 'REPUBLICAN', 'POTTAWATTAMIE', 'MATT W WINDSCHITL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('UNDERWOOD', 'STATE HOUSE', 'REPUBLICAN', 'POTTAWATTAMIE', 'MATT W WINDSCHITL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('008',)
+        ('BOOMER', 'STATE SENATE', '""', 'POTTAWATTAMIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('BOOMER', 'STATE SENATE', '""', 'POTTAWATTAMIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('BOOMER', 'STATE SENATE', 'DEMOCRAT', 'POTTAWATTAMIE', 'RYAN LEE ROENFELD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 312 elements)
+        ('WALNUT', 'STATE SENATE', 'DEMOCRAT', 'POTTAWATTAMIE', 'RYAN LEE ROENFELD', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WALNUT', 'STATE SENATE', 'REPUBLICAN', 'POTTAWATTAMIE', 'MARK COSTELLO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WALNUT', 'STATE SENATE', 'REPUBLICAN', 'POTTAWATTAMIE', 'MARK COSTELLO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('051',)
+        ('Bangor/Liscomb/Taylor', 'STATE HOUSE', '""', 'MARSHALL', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Bangor/Liscomb/Taylor', 'STATE HOUSE', '""', 'MARSHALL', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Bangor/Liscomb/Taylor', 'STATE HOUSE', 'DEMOCRAT', 'MARSHALL', 'RYAN CONDON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE HOUSE', 'DEMOCRAT', 'STORY', 'RYAN CONDON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE HOUSE', 'REPUBLICAN', 'STORY', 'BRETT BARKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ZEARING/LINCOLN/SHERMAN', 'STATE HOUSE', 'REPUBLICAN', 'STORY', 'BRETT BARKER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('047',)
+        ('Bayard', 'STATE HOUSE', '""', 'GUTHRIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Bayard', 'STATE HOUSE', '""', 'GUTHRIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Bayard', 'STATE HOUSE', 'DEMOCRAT', 'GUTHRIE', 'JOE SHELLY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('Yale', 'STATE HOUSE', 'DEMOCRAT', 'GUTHRIE', 'JOE SHELLY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'STATE HOUSE', 'REPUBLICAN', 'GUTHRIE', 'CARTER NORDMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Yale', 'STATE HOUSE', 'REPUBLICAN', 'GUTHRIE', 'CARTER NORDMAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('084',)
+        ('Belle Plaine 1', 'STATE HOUSE', '""', 'BENTON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Belle Plaine 1', 'STATE HOUSE', '""', 'BENTON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Belle Plaine 1', 'STATE HOUSE', 'LIBERTARIAN', 'BENTON', 'ASHLEY MEREDITH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 146 elements)
+        ('Walford', 'STATE HOUSE', 'LIBERTARIAN', 'BENTON', 'ASHLEY MEREDITH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Walford', 'STATE HOUSE', 'REPUBLICAN', 'BENTON', 'THOMAS GERHOLD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Walford', 'STATE HOUSE', 'REPUBLICAN', 'BENTON', 'THOMAS GERHOLD', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('056',)
+        ('Belmond Precinct', 'STATE HOUSE', '""', 'WRIGHT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Belmond Precinct', 'STATE HOUSE', '""', 'WRIGHT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Belmond Precinct', 'STATE HOUSE', 'DEMOCRAT', 'WRIGHT', 'KYLE KRUSE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 144 elements)
+        ('Rural Eagle Grove Precinct', 'STATE HOUSE', 'DEMOCRAT', 'WRIGHT', 'KYLE KRUSE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Rural Eagle Grove Precinct', 'STATE HOUSE', 'REPUBLICAN', 'WRIGHT', 'MARK I THOMPSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Rural Eagle Grove Precinct', 'STATE HOUSE', 'REPUBLICAN', 'WRIGHT', 'MARK I THOMPSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('021',)
+        ('Belmont', 'STATE HOUSE', '""', 'WARREN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Belmont', 'STATE HOUSE', '""', 'WARREN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Belmont', 'STATE HOUSE', 'DEMOCRAT', 'WARREN', 'SPENCER A WAUGH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('White Oak', 'STATE HOUSE', 'DEMOCRAT', 'WARREN', 'SPENCER A WAUGH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('White Oak', 'STATE HOUSE', 'REPUBLICAN', 'WARREN', 'BROOKE BODEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('White Oak', 'STATE HOUSE', 'REPUBLICAN', 'WARREN', 'BROOKE BODEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083',)
+        ('Bertram Township', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Bertram Township', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Bertram Township', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'KENT MCNALLY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 118 elements)
+        ('Washington Township', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'KENT MCNALLY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'CINDY GOLDING', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Washington Township', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'CINDY GOLDING', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('076',)
+        ('Big Creek/Spring Creek/LPC', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Big Creek/Spring Creek/LPC', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Big Creek/Spring Creek/LPC', 'STATE HOUSE', 'DEMOCRAT', 'BLACK HAWK', 'JARRED JOHNSTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 88 elements)
+        ('WL 1-6', 'STATE HOUSE', 'DEMOCRAT', 'BLACK HAWK', 'JARRED JOHNSTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-6', 'STATE HOUSE', 'REPUBLICAN', 'BLACK HAWK', 'DEREK WULF', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-6', 'STATE HOUSE', 'REPUBLICAN', 'BLACK HAWK', 'DEREK WULF', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('038',)
+        ('Big Creek/Spring Creek/LPC', 'STATE SENATE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Big Creek/Spring Creek/LPC', 'STATE SENATE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Big Creek/Spring Creek/LPC', 'STATE SENATE', 'DEMOCRAT', 'BLACK HAWK', 'ERIC GIDDENS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 252 elements)
+        ('WL 1-6', 'STATE SENATE', 'DEMOCRAT', 'BLACK HAWK', 'ERIC GIDDENS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-6', 'STATE SENATE', 'REPUBLICAN', 'BLACK HAWK', 'DAVE SIRES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-6', 'STATE SENATE', 'REPUBLICAN', 'BLACK HAWK', 'DAVE SIRES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('096',)
+        ('Bloomington/Fruitland 2', 'STATE HOUSE', '""', 'MUSCATINE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomington/Fruitland 2', 'STATE HOUSE', '""', 'MUSCATINE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Bloomington/Fruitland 2', 'STATE HOUSE', 'DEMOCRAT', 'MUSCATINE', 'MANDY MOODY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 78 elements)
+        ('Wilton Township', 'STATE HOUSE', 'DEMOCRAT', 'MUSCATINE', 'MANDY MOODY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'STATE HOUSE', 'REPUBLICAN', 'MUSCATINE', 'MARK CISNEROS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wilton Township', 'STATE HOUSE', 'REPUBLICAN', 'MUSCATINE', 'MARK CISNEROS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('060',)
+        ('Brookfield Kensett', 'STATE HOUSE', '""', 'WORTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookfield Kensett', 'STATE HOUSE', '""', 'WORTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookfield Kensett', 'STATE HOUSE', 'REPUBLICAN', 'WORTH', 'JANE E BLOOMINGDALE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('Silver Lake Bristol Hartland Joice', 'STATE HOUSE', '""', 'WORTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Silver Lake Bristol Hartland Joice', 'STATE HOUSE', 'REPUBLICAN', 'WORTH', 'JANE E BLOOMINGDALE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Silver Lake Bristol Hartland Joice', 'STATE HOUSE', 'REPUBLICAN', 'WORTH', 'JANE E BLOOMINGDALE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('030',)
+        ('Brookfield Kensett', 'STATE SENATE', '""', 'WORTH', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookfield Kensett', 'STATE SENATE', '""', 'WORTH', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Brookfield Kensett', 'STATE SENATE', 'DEMOCRAT', 'WORTH', 'RICHARD LORENCE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 318 elements)
+        ('Silver Lake Bristol Hartland Joice', 'STATE SENATE', 'DEMOCRAT', 'WORTH', 'RICHARD LORENCE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Silver Lake Bristol Hartland Joice', 'STATE SENATE', 'REPUBLICAN', 'WORTH', 'DOUG CAMPBELL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Silver Lake Bristol Hartland Joice', 'STATE SENATE', 'REPUBLICAN', 'WORTH', 'DOUG CAMPBELL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('069',)
+        ('CAMANCHE 1', 'STATE HOUSE', '""', 'CLINTON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CAMANCHE 1', 'STATE HOUSE', '""', 'CLINTON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CAMANCHE 1', 'STATE HOUSE', 'DEMOCRAT', 'CLINTON', 'RANDY MEIER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 72 elements)
+        ('ELK RIVER HAMPSHIRE ANDOVER', 'STATE HOUSE', 'DEMOCRAT', 'CLINTON', 'RANDY MEIER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('ELK RIVER HAMPSHIRE ANDOVER', 'STATE HOUSE', 'REPUBLICAN', 'CLINTON', 'TOM DETERMANN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('ELK RIVER HAMPSHIRE ANDOVER', 'STATE HOUSE', 'REPUBLICAN', 'CLINTON', 'TOM DETERMANN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('016',)
+        ('CARSON', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CARSON', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CARSON', 'STATE HOUSE', 'DEMOCRAT', 'POTTAWATTAMIE', 'CANDELLA FOLEYFINCHEM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 276 elements)
+        ('WINDSOR HEIGHTS 2', 'STATE SENATE', 'DEMOCRAT', 'POLK', 'CLAIRE CELSI', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'STATE SENATE', 'LIBERTARIAN', 'POLK', 'JOSHUA SMITH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WINDSOR HEIGHTS 2', 'STATE SENATE', 'LIBERTARIAN', 'POLK', 'JOSHUA SMITH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('010',)
+        ('CARTER LAKE 1', 'STATE SENATE', '""', 'POTTAWATTAMIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CARTER LAKE 1', 'STATE SENATE', '""', 'POTTAWATTAMIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CARTER LAKE 1', 'STATE SENATE', 'DEMOCRAT', 'POTTAWATTAMIE', 'STEVE GORMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 248 elements)
+        ('Waterford-City of Everly', 'STATE HOUSE', '""', 'CLAY', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterford-City of Everly', 'STATE HOUSE', 'REPUBLICAN', 'CLAY', 'JOHN H WILLS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Waterford-City of Everly', 'STATE HOUSE', 'REPUBLICAN', 'CLAY', 'JOHN H WILLS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('019',)
+        ('CB 08', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CB 08', 'STATE HOUSE', '""', 'POTTAWATTAMIE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CB 08', 'STATE HOUSE', 'DEMOCRAT', 'POTTAWATTAMIE', 'ROGER PETERSEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 60 elements)
+        ('CB 21', 'STATE HOUSE', 'DEMOCRAT', 'POTTAWATTAMIE', 'ROGER PETERSEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CB 21', 'STATE HOUSE', 'REPUBLICAN', 'POTTAWATTAMIE', 'BRENT SIEGRIST', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CB 21', 'STATE HOUSE', 'REPUBLICAN', 'POTTAWATTAMIE', 'BRENT SIEGRIST', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('085',)
+        ('CE', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CE', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CE', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'AMY NIELSEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('SO/BG.85', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('SO/BG.85', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'AMY NIELSEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('SO/BG.85', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'AMY NIELSEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('8B',)
+        ('CE CH', 'DISTRICT ASSOCIATE JUDGE - JENNIFER SLOCUM BAILEY', '""', 'LEE', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CE CH', 'DISTRICT ASSOCIATE JUDGE - JENNIFER SLOCUM BAILEY', '""', 'LEE', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CE CH', 'DISTRICT ASSOCIATE JUDGE - JENNIFER SLOCUM BAILEY', '""', 'LEE', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 1478 elements)
+        ('West Louisa', 'DISTRICT JUDGE - SHANE WILEY', '""', 'LOUISA', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('West Louisa', 'DISTRICT JUDGE - SHANE WILEY', '""', 'LOUISA', 'YES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('West Louisa', 'DISTRICT JUDGE - SHANE WILEY', '""', 'LOUISA', 'YES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('100',)
+        ('CE CH', 'STATE HOUSE', '""', 'LEE', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CE CH', 'STATE HOUSE', '""', 'LEE', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CE CH', 'STATE HOUSE', '""', 'LEE', 'NICOLAS ATWOOD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('WS-WS', 'STATE HOUSE', '""', 'LEE', 'NICOLAS ATWOOD', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WS-WS', 'STATE HOUSE', 'REPUBLICAN', 'LEE', 'MARTIN L GRABER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WS-WS', 'STATE HOUSE', 'REPUBLICAN', 'LEE', 'MARTIN L GRABER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('075',)
+        ('CF 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CF 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CF 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', 'BOB KRESSIG', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('CF 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CF 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', 'BOB KRESSIG', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CF 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', 'BOB KRESSIG', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('054', '076')
+        ('CF 2-3', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CF 2-3', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('039',)
+        ('CLAY 1', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CLAY 1', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CLAY 1', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'RICK L OLSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('PLEASANT HILL 4', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'RICK L OLSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('PLEASANT HILL 4', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'TROY CLARK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('PLEASANT HILL 4', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'TROY CLARK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('027',)
+        ('CLIVE 5 C5', 'STATE HOUSE', '""', 'DALLAS', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CLIVE 5 C5', 'STATE HOUSE', '""', 'DALLAS', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CLIVE 5 C5', 'STATE HOUSE', 'DEMOCRAT', 'DALLAS', 'KENAN JUDGE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 76 elements)
+        ('Waukee 2', 'STATE HOUSE', 'DEMOCRAT', 'DALLAS', 'KENAN JUDGE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Waukee 2', 'STATE HOUSE', 'REPUBLICAN', 'DALLAS', 'OLIVER BARDWELL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Waukee 2', 'STATE HOUSE', 'REPUBLICAN', 'DALLAS', 'OLIVER BARDWELL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('099',)
+        ('CONCORDIA TWP', 'STATE HOUSE', '""', 'DES MOINES', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CONCORDIA TWP', 'STATE HOUSE', '""', 'DES MOINES', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CONCORDIA TWP', 'STATE HOUSE', 'DEMOCRAT', 'DES MOINES', 'JIM BERES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 72 elements)
+        ('PCT WB', 'STATE HOUSE', 'DEMOCRAT', 'DES MOINES', 'JIM BERES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('PCT WB', 'STATE HOUSE', 'REPUBLICAN', 'DES MOINES', 'MATTHEW RINKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('PCT WB', 'STATE HOUSE', 'REPUBLICAN', 'DES MOINES', 'MATTHEW RINKER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('043',)
+        ('CROCKER 1', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CROCKER 1', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CROCKER 1', 'STATE HOUSE', '""', 'POLK', 'BRETT HARVEY NELSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 82 elements)
+        ('URBANDALE 2', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'TIARA MAYSSIMS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('URBANDALE 2', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'EDDIE ANDREWS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('URBANDALE 2', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'EDDIE ANDREWS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('086',)
+        ('CV01', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('CV01', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('CV01', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'DAVE JACOBY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 64 elements)
+        ('IC26', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'DAVE JACOBY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('IC26', 'STATE HOUSE', 'REPUBLICAN', 'JOHNSON', 'STEPHEN KNONER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('IC26', 'STATE HOUSE', 'REPUBLICAN', 'JOHNSON', 'STEPHEN KNONER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083', '080')
+        ('Cedar Rapids 01', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 01', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 07', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2 elements)
+        ('Hiawatha 03', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('080',)
+        ('Cedar Rapids 01', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'AIME J WICHTENDAHL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 01', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'AIME J WICHTENDAHL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 01', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'JOHN THOMPSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 52 elements)
+        ('Robins', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'AIME J WICHTENDAHL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'JOHN THOMPSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'JOHN THOMPSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('042', '040')
+        ('Cedar Rapids 01', 'STATE SENATE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 01', 'STATE SENATE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 07', 'STATE SENATE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 8 elements)
+        ('Hiawatha 03', 'STATE SENATE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE SENATE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Robins', 'STATE SENATE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('074',)
+        ('Cedar Rapids 03', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 03', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 03', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ERIC GJERDE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 40 elements)
+        ('Marion 17', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 17', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ERIC GJERDE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 17', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ERIC GJERDE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083', '074')
+        ('Cedar Rapids 04', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 04', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('078',)
+        ('Cedar Rapids 14', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 14', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 14', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'SAMI SCHEETZ', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 40 elements)
+        ('Cedar Rapids 43', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 43', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'SAMI SCHEETZ', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 43', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'SAMI SCHEETZ', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('079', '084')
+        ('Cedar Rapids 19', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 19', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 21', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 21', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 29', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 29', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('079',)
+        ('Cedar Rapids 19', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'TRACY EHLERT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 19', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'TRACY EHLERT', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 19', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'BARCLAY WOERNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('Cedar Rapids 34', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'TRACY EHLERT', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 34', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'BARCLAY WOERNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 34', 'STATE HOUSE', 'REPUBLICAN', 'LINN', 'BARCLAY WOERNER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083', '078')
+        ('Cedar Rapids 27', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 27', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('077',)
+        ('Cedar Rapids 35', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 35', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 35', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'JEFF COOLING', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 44 elements)
+        ('Cedar Rapids 51', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'JEFF COOLING', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Putnam Township', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'JEFF COOLING', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Putnam Township', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'JEFF COOLING', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('077', '084')
+        ('Cedar Rapids 40', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 40', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 48', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Cedar Rapids 48', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('087',)
+        ('Center-Cedar-Round Prairie-Maharishi Vedic City', 'STATE HOUSE', '""', 'JEFFERSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Center-Cedar-Round Prairie-Maharishi Vedic City', 'STATE HOUSE', '""', 'JEFFERSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Center-Cedar-Round Prairie-Maharishi Vedic City', 'STATE HOUSE', '""', 'JEFFERSON', 'CURTIS OLIVER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 122 elements)
+        ('Southwest', 'STATE HOUSE', 'DEMOCRAT', 'VAN BUREN', 'THOMAS ODONNELL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Southwest', 'STATE HOUSE', 'REPUBLICAN', 'VAN BUREN', 'JEFF SHIPLEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Southwest', 'STATE HOUSE', 'REPUBLICAN', 'VAN BUREN', 'JEFF SHIPLEY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('035',)
+        ('DES MOINES 10', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 10', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 10', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'SEAN BAGNIEWSKI', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 74 elements)
+        ('DES MOINES 9', 'STATE HOUSE', 'LIBERTARIAN', 'POLK', 'DAVID G GREEN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 9', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'ANGELA KAY SCHREADER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 9', 'STATE HOUSE', 'REPUBLICAN', 'POLK', 'ANGELA KAY SCHREADER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('033',)
+        ('DES MOINES 17', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 17', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 17', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'RUTH ANN GAINES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DES MOINES 5', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'RUTH ANN GAINES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 5', 'STATE HOUSE', 'LIBERTARIAN', 'POLK', 'TOYA S JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 5', 'STATE HOUSE', 'LIBERTARIAN', 'POLK', 'TOYA S JOHNSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('029',)
+        ('DES MOINES 46', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 46', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 46', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'BRIAN MEYER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('DES MOINES 72', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 72', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'BRIAN MEYER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DES MOINES 72', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'BRIAN MEYER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('055',)
+        ('Dows Precinct', 'STATE HOUSE', '""', 'WRIGHT', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Dows Precinct', 'STATE HOUSE', '""', 'WRIGHT', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Dows Precinct', 'STATE HOUSE', 'REPUBLICAN', 'WRIGHT', 'SHANNON LATHAM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('Wisner/Scott', 'STATE HOUSE', '""', 'FRANKLIN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'SHANNON LATHAM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Wisner/Scott', 'STATE HOUSE', 'REPUBLICAN', 'FRANKLIN', 'SHANNON LATHAM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('037', '088')
+        ('EDM/GF/JF/WDM/BE', 'STATE HOUSE', '""', 'MAHASKA', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('EDM/GF/JF/WDM/BE', 'STATE HOUSE', '""', 'MAHASKA', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('059',)
+        ('Falls Twp Pct', 'STATE HOUSE', '""', 'CERRO GORDO', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Falls Twp Pct', 'STATE HOUSE', '""', 'CERRO GORDO', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Falls Twp Pct', 'STATE HOUSE', '""', 'CERRO GORDO', 'CHRISTIAN HERMANSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 96 elements)
+        ('Mt Vernon / Pleasant Valley Twps Pct', 'STATE HOUSE', '""', 'CERRO GORDO', 'CHRISTIAN HERMANSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Mt Vernon / Pleasant Valley Twps Pct', 'STATE HOUSE', '""', 'CERRO GORDO', 'JEREMY TRUE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Mt Vernon / Pleasant Valley Twps Pct', 'STATE HOUSE', '""', 'CERRO GORDO', 'JEREMY TRUE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('052',)
+        ('Green Castle/LeGrand', 'STATE HOUSE', '""', 'MARSHALL', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Green Castle/LeGrand', 'STATE HOUSE', '""', 'MARSHALL', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Green Castle/LeGrand', 'STATE HOUSE', 'DEMOCRAT', 'MARSHALL', 'SUE CAHILL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('Marshalltown City Ward 4', 'STATE HOUSE', 'DEMOCRAT', 'MARSHALL', 'SUE CAHILL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marshalltown City Ward 4', 'STATE HOUSE', 'REPUBLICAN', 'MARSHALL', 'DAVID BLOM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marshalltown City Ward 4', 'STATE HOUSE', 'REPUBLICAN', 'MARSHALL', 'DAVID BLOM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('090',)
+        ('IC01', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('IC01', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('IC01', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ADAM ZABNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 38 elements)
+        ('IC25', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('IC25', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ADAM ZABNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('IC25', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ADAM ZABNER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('089',)
+        ('IC02', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('IC02', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('IC02', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ELINOR A LEVIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('UH', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('UH', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ELINOR A LEVIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('UH', 'STATE HOUSE', 'DEMOCRAT', 'JOHNSON', 'ELINOR A LEVIN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('086', '092')
+        ('IC08', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('IC08', 'STATE HOUSE', '""', 'JOHNSON', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083', '073')
+        ('Marion 01', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 01', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 02', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 02', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 10', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 10', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('073',)
+        ('Marion 01', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ELIZABETH WILSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 01', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ELIZABETH WILSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion 02', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ELIZABETH WILSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('Marion Township 02', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion Township 02', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ELIZABETH WILSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Marion Township 02', 'STATE HOUSE', 'DEMOCRAT', 'LINN', 'ELIZABETH WILSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('077', '083')
+        ('Putnam Township', 'STATE HOUSE', '""', 'LINN', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Putnam Township', 'STATE HOUSE', '""', 'LINN', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('031',)
+        ('WEST DES MOINES 112', 'STATE HOUSE', '""', 'POLK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST DES MOINES 112', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST DES MOINES 112', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'MARY LEE MADISON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('WEST DES MOINES 316', 'STATE HOUSE', '""', 'POLK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST DES MOINES 316', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'MARY LEE MADISON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WEST DES MOINES 316', 'STATE HOUSE', 'DEMOCRAT', 'POLK', 'MARY LEE MADISON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('062',)
+        ('WL 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-1', 'STATE HOUSE', '""', 'BLACK HAWK', 'ERVIN SABIC', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('WL 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', 'ERVIN SABIC', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', 'JEROME AMOS JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 5-2', 'STATE HOUSE', '""', 'BLACK HAWK', 'JEROME AMOS JR', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('061',)
+        ('WL 1-4', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-4', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 1-4', 'STATE HOUSE', '""', 'BLACK HAWK', 'TIMI BROWNPOWERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 50 elements)
+        ('WL 5-6', 'STATE HOUSE', '""', 'BLACK HAWK', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 5-6', 'STATE HOUSE', '""', 'BLACK HAWK', 'TIMI BROWNPOWERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('WL 5-6', 'STATE HOUSE', '""', 'BLACK HAWK', 'TIMI BROWNPOWERS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('027', '046')
+        ('Waukee 2', 'STATE HOUSE', '""', 'DALLAS', '""', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('Waukee 2', 'STATE HOUSE', '""', 'DALLAS', '""', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    001
+    002
+    003
+    004
+    005
+    006
+    007
+    008
+    009
+    010
+    011
+    012
+    013
+    014
+    015
+    016
+    017
+    018
+    019
+    020
+    021
+    022
+    023
+    024
+    025
+    026
+    027
+    028
+    029
+    030
+    031
+    032
+    033
+    034
+    035
+    036
+    037
+    038
+    039
+    040
+    041
+    042
+    043
+    044
+    045
+    046
+    047
+    048
+    049
+    050
+    051
+    052
+    053
+    054
+    055
+    056
+    057
+    058
+    059
+    060
+    061
+    062
+    063
+    064
+    065
+    066
+    067
+    068
+    069
+    070
+    071
+    072
+    073
+    074
+    075
+    076
+    077
+    078
+    079
+    080
+    081
+    082
+    083
+    084
+    085
+    086
+    087
+    088
+    089
+    090
+    091
+    092
+    093
+    094
+    095
+    096
+    097
+    098
+    099
+    100
+    1A
+    1B
+    2A
+    2B
+    3B
+    4
+    5A
+    5B
+    5C
+    6
+    7
+    8A
+    8B
+------
+

@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('CITY OF ABBOTSFORD WARD 1', 'DISTRICT ATTORNEY', '""', 'MARATHON', '""', 'TOTAL', 'MARATHON COUNTY', 'GEN', '2024-11-05')
+        ('CITY OF ABBOTSFORD WARD 1', 'DISTRICT ATTORNEY', 'REPUBLICAN', 'MARATHON', 'KYLE R MAYO', 'TOTAL', 'MARATHON COUNTY', 'GEN', '2024-11-05')
+        ('CITY OF ABBOTSFORD WARD 1', 'STATE HOUSE', '""', 'MARATHON', '""', 'TOTAL', '069', 'GEN', '2024-11-05')
+        ...(skipping 108796 elements)
+        ('VILLAGE OF YUBA WARD 1', 'US SENATE', 'INDEPENDENT', 'RICHLAND', 'THOMAS LEAGER', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('VILLAGE OF YUBA WARD 1', 'US SENATE', 'NONPARTISAN', 'RICHLAND', 'JOHN SCHIESS', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('VILLAGE OF YUBA WARD 1', 'US SENATE', 'REPUBLICAN', 'RICHLAND', 'ERIC HOVDE', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+    ('FALSE', 'TRUE')
+        ('CITY OF ALGOMA WARDS 1-7', 'US HOUSE', '""', 'KEWAUNEE', '""', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ('CITY OF ALGOMA WARDS 1-7', 'US HOUSE', 'DEMOCRAT', 'KEWAUNEE', 'KRISTIN LYERLY', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ('CITY OF ALGOMA WARDS 1-7', 'US HOUSE', 'REPUBLICAN', 'KEWAUNEE', 'TONY WIED', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ...(skipping 1158 elements)
+        ('VILLAGE OF WRIGHTSTOWN WARDS 1-3', 'US HOUSE', '""', 'BROWN', '""', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ('VILLAGE OF WRIGHTSTOWN WARDS 1-3', 'US HOUSE', 'DEMOCRAT', 'BROWN', 'KRISTIN LYERLY', 'TOTAL', '008', 'GEN', '2024-11-05')
+        ('VILLAGE OF WRIGHTSTOWN WARDS 1-3', 'US HOUSE', 'REPUBLICAN', 'BROWN', 'TONY WIED', 'TOTAL', '008', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

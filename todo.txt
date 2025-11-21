@@ -1,19 +1,12 @@
 QAPP TO DO
 
 - Readd unique value txt reports or think of a better way to do so
-- Check for correct column ordering
+- Distinguish between empty values reported from the data (which should appear as <EMPTY>) from cells in the QA report that actually just don't have anything to report which should be left empty rather than have <EMPTY> within them
+- Check for correct column ordering matching the Precinct Project README
 - Vote totaller to not duplicate if there is a TOTAL `mode`
-- Allow for similar rows but with different `mode`, `district`, `precinct`****
 - Exclude "COUNTY TOTALS", "MACHINE COUNT" from duplicate check
-- Avoid flagging "CIRCUIT COURT JUDGE", "APPEALS COURT JUDGE"
 - Implement office mapping checks
-- Implement county and states FIP mapping checks
-- Implement checks against previous year's precinct project
-- Not report comma separated empty lists under issue_values
-- Fix issue_values and issue_row_numbers not being truncated (maybe the latter is actually fine as is?)
-- Give GPT a state's output and ask it to note all the checks performed and then note whether they are present in QAPP
 - Detect running mate appearing with presidential candidate (i.e. detect "AND", "&", " - ", "/")
-- Check vote aggregation against known state total for at least president
 - Autofit text to width in excel report
 
 

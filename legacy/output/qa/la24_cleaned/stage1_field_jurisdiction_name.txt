@@ -1,0 +1,206 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    JEFFERSON ||| [[JEFFERSON DAVIS]]
+    EAST CARROLL ||| [[WEST CARROLL]]
+    EAST FELICIANA ||| [[WEST FELICIANA]]
+    EAST BATON ROUGE ||| [[WEST BATON ROUGE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ACADIA', ['ACADIA', '22001', ['22001']])
+    ('ALLEN', ['ALLEN', '22003', ['22003']])
+    ('ASCENSION', ['ASCENSION', '22005', ['22005']])
+    ('ASSUMPTION', ['ASSUMPTION', '22007', ['22007']])
+    ('AVOYELLES', ['AVOYELLES', '22009', ['22009']])
+    ('BEAUREGARD', ['BEAUREGARD', '22011', ['22011']])
+    ('BIENVILLE', ['BIENVILLE', '22013', ['22013']])
+    ('BOSSIER', ['BOSSIER', '22015', ['22015']])
+    ('CADDO', ['CADDO', '22017', ['22017']])
+    ('CALCASIEU', ['CALCASIEU', '22019', ['22019']])
+    ('CALDWELL', ['CALDWELL', '22021', ['22021']])
+    ('CAMERON', ['CAMERON', '22023', ['22023']])
+    ('CATAHOULA', ['CATAHOULA', '22025', ['22025']])
+    ('CLAIBORNE', ['CLAIBORNE', '22027', ['22027']])
+    ('CONCORDIA', ['CONCORDIA', '22029', ['22029']])
+    ('DE SOTO', ['DE SOTO', '22031', ['22031']])
+    ('EAST BATON ROUGE', ['EAST BATON ROUGE', '22033', ['22033']])
+    ('EAST CARROLL', ['EAST CARROLL', '22035', ['22035']])
+    ('EAST FELICIANA', ['EAST FELICIANA', '22037', ['22037']])
+    ('EVANGELINE', ['EVANGELINE', '22039', ['22039']])
+    ('FRANKLIN', ['FRANKLIN', '22041', ['22041']])
+    ('GRANT', ['GRANT', '22043', ['22043']])
+    ('IBERIA', ['IBERIA', '22045', ['22045']])
+    ('IBERVILLE', ['IBERVILLE', '22047', ['22047']])
+    ('JACKSON', ['JACKSON', '22049', ['22049']])
+    ('JEFFERSON', ['JEFFERSON', '22051', ['22051']])
+    ('JEFFERSON DAVIS', ['JEFFERSON DAVIS', '22053', ['22053']])
+    ('LAFAYETTE', ['LAFAYETTE', '22055', ['22055']])
+    ('LAFOURCHE', ['LAFOURCHE', '22057', ['22057']])
+    ('LASALLE', ['LASALLE', '<<<EC: VALUE WAS EMPTY>>>', ['<<<EC: VALUE WAS EMPTY>>>']])
+    ('LINCOLN', ['LINCOLN', '22061', ['22061']])
+    ('LIVINGSTON', ['LIVINGSTON', '22063', ['22063']])
+    ('MADISON', ['MADISON', '22065', ['22065']])
+    ('MOREHOUSE', ['MOREHOUSE', '22067', ['22067']])
+    ('NATCHITOCHES', ['NATCHITOCHES', '22069', ['22069']])
+    ('ORLEANS', ['ORLEANS', '22071', ['22071']])
+    ('OUACHITA', ['OUACHITA', '22073', ['22073']])
+    ('PLAQUEMINES', ['PLAQUEMINES', '22075', ['22075']])
+    ('POINTE COUPEE', ['POINTE COUPEE', '22077', ['22077']])
+    ('RAPIDES', ['RAPIDES', '22079', ['22079']])
+    ('RED RIVER', ['RED RIVER', '22081', ['22081']])
+    ('RICHLAND', ['RICHLAND', '22083', ['22083']])
+    ('SABINE', ['SABINE', '22085', ['22085']])
+    ('ST. BERNARD', ['ST. BERNARD', '22087', ['22087']])
+    ('ST. CHARLES', ['ST. CHARLES', '22089', ['22089']])
+    ('ST. HELENA', ['ST. HELENA', '22091', ['22091']])
+    ('ST. JAMES', ['ST. JAMES', '22093', ['22093']])
+    ('ST. JOHN THE BAPTIST', ['ST. JOHN THE BAPTIST', '22095', ['22095']])
+    ('ST. LANDRY', ['ST. LANDRY', '22097', ['22097']])
+    ('ST. MARTIN', ['ST. MARTIN', '22099', ['22099']])
+    ('ST. MARY', ['ST. MARY', '22101', ['22101']])
+    ('ST. TAMMANY', ['ST. TAMMANY', '22103', ['22103']])
+    ('TANGIPAHOA', ['TANGIPAHOA', '22105', ['22105']])
+    ('TENSAS', ['TENSAS', '22107', ['22107']])
+    ('TERREBONNE', ['TERREBONNE', '22109', ['22109']])
+    ('UNION', ['UNION', '22111', ['22111']])
+    ('VERMILION', ['VERMILION', '22113', ['22113']])
+    ('VERNON', ['VERNON', '22115', ['22115']])
+    ('WASHINGTON', ['WASHINGTON', '22117', ['22117']])
+    ('WEBSTER', ['WEBSTER', '22119', ['22119']])
+    ('WEST BATON ROUGE', ['WEST BATON ROUGE', '22121', ['22121']])
+    ('WEST CARROLL', ['WEST CARROLL', '22123', ['22123']])
+    ('WEST FELICIANA', ['WEST FELICIANA', '22125', ['22125']])
+    ('WINN', ['WINN', '22127', ['22127']])
+------
+
+---------
+------
+ALL VALUES:
+    ACADIA
+    ALLEN
+    ASCENSION
+    ASSUMPTION
+    AVOYELLES
+    BEAUREGARD
+    BIENVILLE
+    BOSSIER
+    CADDO
+    CALCASIEU
+    CALDWELL
+    CAMERON
+    CATAHOULA
+    CLAIBORNE
+    CONCORDIA
+    DE SOTO
+    EAST BATON ROUGE
+    EAST CARROLL
+    EAST FELICIANA
+    EVANGELINE
+    FRANKLIN
+    GRANT
+    IBERIA
+    IBERVILLE
+    JACKSON
+    JEFFERSON
+    JEFFERSON DAVIS
+    LAFAYETTE
+    LAFOURCHE
+    LASALLE
+    LINCOLN
+    LIVINGSTON
+    MADISON
+    MOREHOUSE
+    NATCHITOCHES
+    ORLEANS
+    OUACHITA
+    PLAQUEMINES
+    POINTE COUPEE
+    RAPIDES
+    RED RIVER
+    RICHLAND
+    SABINE
+    ST. BERNARD
+    ST. CHARLES
+    ST. HELENA
+    ST. JAMES
+    ST. JOHN THE BAPTIST
+    ST. LANDRY
+    ST. MARTIN
+    ST. MARY
+    ST. TAMMANY
+    TANGIPAHOA
+    TENSAS
+    TERREBONNE
+    UNION
+    VERMILION
+    VERNON
+    WASHINGTON
+    WEBSTER
+    WEST BATON ROUGE
+    WEST CARROLL
+    WEST FELICIANA
+    WINN
+------
+

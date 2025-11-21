@@ -1,0 +1,639 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    CIRCUIT COURT JUDGE, 14TH JUDICIAL CIRCUIT: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        ADDITIONAL LEVIES MULLENS
+        ASSESSOR
+        BARBOUR COUNTY COMMISSIONER
+        BARBOUR COUNTY SHERIFF
+        BERKELEY COUNTY COMMISSIONER
+        BERKELEY COUNTY SHERIFF
+        BOONE COUNTY COMMISSIONER
+        BOONE COUNTY SHERIFF
+        BRAXTON COUNTY COMMISSIONER
+        BRAXTON COUNTY SHERIFF
+        BROOKE COUNTY CITY COUNCIL
+        BROOKE COUNTY COMMISSIONER
+        BROOKE COUNTY MAGISTRATE
+        BROOKE COUNTY SHERIFF
+        CABELL COUNTY BOARD OF EDUCATION LEVY
+        CABELL COUNTY CITY COUNCIL
+        CABELL COUNTY COMMISSIONER
+        CABELL COUNTY SHERIFF
+        CALHOUN COUNTY BOARD OF EDUCATION
+        CALHOUN COUNTY COMMISSIONER
+        CALHOUN COUNTY SHERIFF
+        CIRCUIT COURT JUDGE, 14TH JUDICIAL CIRCUIT
+        CITY CLERK CITY OF DUNBAR
+        CLAY COUNTY COMMISSIONER
+        CLAY COUNTY SHERIFF
+        CONSERVATION DISTRICT SUPERVISOR
+        COUNTY CLERK
+        DODDRIDGE COUNTY COMMISSIONER
+        DODDRIDGE COUNTY H.E.L.P. LEVY
+        DODDRIDGE COUNTY SHERIFF
+        EXECUTIVE COMMITTEE CITY OF DUNBAR
+        FAYETTE COUNTY COMMISSIONER
+        FAYETTE COUNTY SHERIFF
+        GILMER COUNTY COMMISSIONER
+        GILMER COUNTY SHERIFF
+        GRANT COUNTY CIRCUIT CLERK
+        GRANT COUNTY COMMISSIONER
+        GRANT COUNTY LEVY
+        GRANT COUNTY SHERIFF
+        GREENBRIER COUNTY COMMISSIONER
+        GREENBRIER COUNTY SHERIFF
+        HAMPSHIRE COUNTY COMMISSIONER
+        HAMPSHIRE COUNTY SHERIFF
+        HANCOCK COUNTY BOARD OF EDUCATION LEVY
+        HANCOCK COUNTY CITY COUNCIL
+        HANCOCK COUNTY COMMISSIONER
+        HANCOCK COUNTY RENEWAL LEVY
+        HANCOCK COUNTY SHERIFF
+        HARDY COUNTY AMBULANCE LEVY
+        HARDY COUNTY COMMISSIONER
+        HARDY COUNTY SHERIFF
+        HARRISON COUNTY COMMISSIONER
+        HARRISON COUNTY EXCESS LEVY
+        HARRISON COUNTY SHERIFF
+        JACKSON COUNTY COMMISSIONER
+        JACKSON COUNTY SHERIFF
+        JEFFERSON COUNTY COMMISSIONER
+        JEFFERSON COUNTY LEVY RENEWAL
+        JEFFERSON COUNTY SHERIFF
+        KANAWHA COUNTY CITY COUNCIL
+        KANAWHA COUNTY COMMISSIONER
+        KANAWHA COUNTY SHERIFF
+        LEWIS COUNTY COMMISSIONER
+        LEWIS COUNTY SHERIFF
+        LINCOLN COUNTY COMMISSIONER
+        LINCOLN COUNTY SHERIFF
+        LOGAN COUNTY COMMISSIONER
+        LOGAN COUNTY SHERIFF
+        MARION COUNTY AUTHORIZE ADDITIONAL LEVY
+        MARION COUNTY CIRCUIT CLERK
+        MARION COUNTY CITY COUNCIL
+        MARION COUNTY COMMISSIONER
+        MARION COUNTY SHERIFF
+        MARSHALL COUNTY CITY COUNCIL
+        MARSHALL COUNTY COMMISSIONER
+        MARSHALL COUNTY MASS TRANSIT LEVY MCMECHEN
+        MARSHALL COUNTY SHERIFF
+        MASON COUNTY COMMISSIONER
+        MASON COUNTY SHERIFF
+        MAYOR BUFFALO
+        MAYOR CITY OF DUNBAR
+        MAYOR CITY OF WEIRTON
+        MAYOR CITY OF WILLIAMSON
+        MAYOR HUNTINGTON
+        MAYOR MILTON CITY
+        MAYOR NORTH HILLS
+        MAYOR PARKERSBURG
+        MAYOR VIENNA
+        MCDOWELL COUNTY COMMISSIONER
+        MCDOWELL COUNTY MAGISTRATE
+        MCDOWELL COUNTY SHERIFF
+        MERCER COUNTY COMMISSIONER
+        MERCER COUNTY SHERIFF
+        MINERAL COUNTY COMMISSIONER
+        MINERAL COUNTY LEVY
+        MINERAL COUNTY SHERIFF
+        MINGO COUNTY CITY COUNCIL
+        MINGO COUNTY COMMISSIONER
+        MINGO COUNTY SHERIFF
+        MONONGALIA COUNTY COMMISSIONER
+        MONONGALIA COUNTY SHERIFF
+        MONROE COUNTY COMMISSIONER
+        MONROE COUNTY SHERIFF
+        MORGAN COUNTY COMMISSIONER
+        MORGAN COUNTY SHERIFF
+        NICHOLAS COUNTY COMMISSIONER
+        NICHOLAS COUNTY SHERIFF
+        NONPARTISAN BOARD OF EDUCATION
+        OHIO COUNTY COMMISSIONER
+        OHIO COUNTY SHERIFF
+        PENDLETON COUNTY COMMISSIONER
+        PENDLETON COUNTY SHERIFF
+        PLEASANTS COUNTY COMMISSIONER
+        PLEASANTS COUNTY SHERIFF
+        POCAHONTAS COUNTY COMMISSIONER
+        POCAHONTAS COUNTY SHERIFF
+        PRESTON COUNTY BOARD OF EDUCATION LEVY
+        PRESTON COUNTY COMMISSIONER
+        PRESTON COUNTY SHERIFF
+        PROSECUTING ATTORNEY
+        PUTNAM COUNTY COMMISSIONER
+        PUTNAM COUNTY SHERIFF
+        RALEIGH COUNTY CIRCUIT CLERK
+        RALEIGH COUNTY COMMISSIONER
+        RALEIGH COUNTY SHERIFF
+        RANDOLPH COUNTY COMMISSIONER
+        RANDOLPH COUNTY SHERIFF
+        RECORDER BUFFALO
+        RECORDER MILTON CITY
+        RECORDER NORTH HILLS
+        RECORDER VIENNA
+        RITCHIE COUNTY AMBULANCE LEVY
+        RITCHIE COUNTY COMMISSIONER
+        RITCHIE COUNTY SHERIFF
+        ROANE COUNTY BOARD OF EDUCATION LEVY
+        ROANE COUNTY COMMISSIONER
+        ROANE COUNTY EMERGENCY SERVICES LEVY
+        ROANE COUNTY PATCH LEVY
+        ROANE COUNTY SENIOR NUTRITION LEVY
+        ROANE COUNTY SHERIFF
+        SCHOOL BOND ELECTION
+        SPECIAL ELECTION QUESTION GRANVILLE
+        SUMMERS COUNTY BOARD OF EDUCATION LEVY
+        SUMMERS COUNTY CITY OF HINTON LEVY
+        SUMMERS COUNTY COMMISSIONER
+        SUMMERS COUNTY SHERIFF
+        SURVEYOR
+        TAYLOR COUNTY COMMISSIONER
+        TAYLOR COUNTY SHERIFF
+        TOWN COUNCIL BUFFALO
+        TUCKER COUNTY COMMISSIONER
+        TUCKER COUNTY SHERIFF
+        TYLER COUNTY COMMISSIONER
+        TYLER COUNTY SHERIFF
+        UPSHUR COUNTY COMMISSIONER
+        UPSHUR COUNTY LIBRARY EXCESS LEVY BUCKHANNON
+        UPSHUR COUNTY SHERIFF
+        WAYNE COUNTY CITY COUNCIL
+        WAYNE COUNTY COMMISSIONER
+        WAYNE COUNTY SHERIFF
+        WEBSTER COUNTY COMMISSIONER
+        WEBSTER COUNTY SHERIFF
+        WETZEL COUNTY COMMISSIONER
+        WETZEL COUNTY SHERIFF
+        WIRT COUNTY BOARD OF EDUCATION
+        WIRT COUNTY COMMISSIONER
+        WIRT COUNTY RENEWAL LEVY
+        WIRT COUNTY SHERIFF
+        WOOD COUNTY CITY COUNCIL
+        WOOD COUNTY COMMISSIONER
+        WOOD COUNTY SHERIFF
+        WYOMING COUNTY COMMISSIONER
+        WYOMING COUNTY SHERIFF
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        AMENDMENT NO.1: PROTECTION OF PERSONS AGAINST MEDICALLY ASSISTED SUICIDE
+        ATTORNEY GENERAL
+        AUDITOR
+        COMMISSIONER OF AGRICULTURE
+        GOVERNOR
+        SECRETARY OF STATE
+        STATE HOUSE
+        STATE SENATE
+        TREASURER
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ADDITIONAL LEVIES MULLENS
+        1 counties for this office
+    AMENDMENT NO.1: PROTECTION OF PERSONS AGAINST MEDICALLY ASSISTED SUICIDE
+        55 counties for this office
+    ASSESSOR
+        55 counties for this office
+    ATTORNEY GENERAL
+        55 counties for this office
+    AUDITOR
+        55 counties for this office
+    BARBOUR COUNTY COMMISSIONER
+        1 counties for this office
+    BARBOUR COUNTY SHERIFF
+        1 counties for this office
+    BERKELEY COUNTY COMMISSIONER
+        1 counties for this office
+    BERKELEY COUNTY SHERIFF
+        1 counties for this office
+    BOONE COUNTY COMMISSIONER
+        1 counties for this office
+    BOONE COUNTY SHERIFF
+        1 counties for this office
+    BRAXTON COUNTY COMMISSIONER
+        1 counties for this office
+    BRAXTON COUNTY SHERIFF
+        1 counties for this office
+    BROOKE COUNTY CITY COUNCIL
+        1 counties for this office
+    BROOKE COUNTY COMMISSIONER
+        1 counties for this office
+    BROOKE COUNTY MAGISTRATE
+        1 counties for this office
+    BROOKE COUNTY SHERIFF
+        1 counties for this office
+    CABELL COUNTY BOARD OF EDUCATION LEVY
+        1 counties for this office
+    CABELL COUNTY CITY COUNCIL
+        1 counties for this office
+    CABELL COUNTY COMMISSIONER
+        1 counties for this office
+    CABELL COUNTY SHERIFF
+        1 counties for this office
+    CALHOUN COUNTY BOARD OF EDUCATION
+        1 counties for this office
+    CALHOUN COUNTY COMMISSIONER
+        1 counties for this office
+    CALHOUN COUNTY SHERIFF
+        1 counties for this office
+    CIRCUIT COURT JUDGE, 14TH JUDICIAL CIRCUIT
+        1 counties for this office
+    CITY CLERK CITY OF DUNBAR
+        1 counties for this office
+    CLAY COUNTY COMMISSIONER
+        1 counties for this office
+    CLAY COUNTY SHERIFF
+        1 counties for this office
+    COMMISSIONER OF AGRICULTURE
+        55 counties for this office
+    CONSERVATION DISTRICT SUPERVISOR
+        2 counties for this office
+    COUNTY CLERK
+        1 counties for this office
+    DODDRIDGE COUNTY COMMISSIONER
+        1 counties for this office
+    DODDRIDGE COUNTY H.E.L.P. LEVY
+        1 counties for this office
+    DODDRIDGE COUNTY SHERIFF
+        1 counties for this office
+    EXECUTIVE COMMITTEE CITY OF DUNBAR
+        1 counties for this office
+    FAYETTE COUNTY COMMISSIONER
+        1 counties for this office
+    FAYETTE COUNTY SHERIFF
+        1 counties for this office
+    GILMER COUNTY COMMISSIONER
+        1 counties for this office
+    GILMER COUNTY SHERIFF
+        1 counties for this office
+    GOVERNOR
+        55 counties for this office
+    GRANT COUNTY CIRCUIT CLERK
+        1 counties for this office
+    GRANT COUNTY COMMISSIONER
+        1 counties for this office
+    GRANT COUNTY LEVY
+        1 counties for this office
+    GRANT COUNTY SHERIFF
+        1 counties for this office
+    GREENBRIER COUNTY COMMISSIONER
+        1 counties for this office
+    GREENBRIER COUNTY SHERIFF
+        1 counties for this office
+    HAMPSHIRE COUNTY COMMISSIONER
+        1 counties for this office
+    HAMPSHIRE COUNTY SHERIFF
+        1 counties for this office
+    HANCOCK COUNTY BOARD OF EDUCATION LEVY
+        1 counties for this office
+    HANCOCK COUNTY CITY COUNCIL
+        1 counties for this office
+    HANCOCK COUNTY COMMISSIONER
+        1 counties for this office
+    HANCOCK COUNTY RENEWAL LEVY
+        1 counties for this office
+    HANCOCK COUNTY SHERIFF
+        1 counties for this office
+    HARDY COUNTY AMBULANCE LEVY
+        1 counties for this office
+    HARDY COUNTY COMMISSIONER
+        1 counties for this office
+    HARDY COUNTY SHERIFF
+        1 counties for this office
+    HARRISON COUNTY COMMISSIONER
+        1 counties for this office
+    HARRISON COUNTY EXCESS LEVY
+        1 counties for this office
+    HARRISON COUNTY SHERIFF
+        1 counties for this office
+    JACKSON COUNTY COMMISSIONER
+        1 counties for this office
+    JACKSON COUNTY SHERIFF
+        1 counties for this office
+    JEFFERSON COUNTY COMMISSIONER
+        1 counties for this office
+    JEFFERSON COUNTY LEVY RENEWAL
+        1 counties for this office
+    JEFFERSON COUNTY SHERIFF
+        1 counties for this office
+    KANAWHA COUNTY CITY COUNCIL
+        1 counties for this office
+    KANAWHA COUNTY COMMISSIONER
+        1 counties for this office
+    KANAWHA COUNTY SHERIFF
+        1 counties for this office
+    LEWIS COUNTY COMMISSIONER
+        1 counties for this office
+    LEWIS COUNTY SHERIFF
+        1 counties for this office
+    LINCOLN COUNTY COMMISSIONER
+        1 counties for this office
+    LINCOLN COUNTY SHERIFF
+        1 counties for this office
+    LOGAN COUNTY COMMISSIONER
+        1 counties for this office
+    LOGAN COUNTY SHERIFF
+        1 counties for this office
+    MARION COUNTY AUTHORIZE ADDITIONAL LEVY
+        1 counties for this office
+    MARION COUNTY CIRCUIT CLERK
+        1 counties for this office
+    MARION COUNTY CITY COUNCIL
+        1 counties for this office
+    MARION COUNTY COMMISSIONER
+        1 counties for this office
+    MARION COUNTY SHERIFF
+        1 counties for this office
+    MARSHALL COUNTY CITY COUNCIL
+        1 counties for this office
+    MARSHALL COUNTY COMMISSIONER
+        1 counties for this office
+    MARSHALL COUNTY MASS TRANSIT LEVY MCMECHEN
+        1 counties for this office
+    MARSHALL COUNTY SHERIFF
+        1 counties for this office
+    MASON COUNTY COMMISSIONER
+        1 counties for this office
+    MASON COUNTY SHERIFF
+        1 counties for this office
+    MAYOR BUFFALO
+        1 counties for this office
+    MAYOR CITY OF DUNBAR
+        1 counties for this office
+    MAYOR CITY OF WEIRTON
+        2 counties for this office
+    MAYOR CITY OF WILLIAMSON
+        1 counties for this office
+    MAYOR HUNTINGTON
+        2 counties for this office
+    MAYOR MILTON CITY
+        1 counties for this office
+    MAYOR NORTH HILLS
+        1 counties for this office
+    MAYOR PARKERSBURG
+        1 counties for this office
+    MAYOR VIENNA
+        1 counties for this office
+    MCDOWELL COUNTY COMMISSIONER
+        1 counties for this office
+    MCDOWELL COUNTY MAGISTRATE
+        1 counties for this office
+    MCDOWELL COUNTY SHERIFF
+        1 counties for this office
+    MERCER COUNTY COMMISSIONER
+        1 counties for this office
+    MERCER COUNTY SHERIFF
+        1 counties for this office
+    MINERAL COUNTY COMMISSIONER
+        1 counties for this office
+    MINERAL COUNTY LEVY
+        1 counties for this office
+    MINERAL COUNTY SHERIFF
+        1 counties for this office
+    MINGO COUNTY CITY COUNCIL
+        1 counties for this office
+    MINGO COUNTY COMMISSIONER
+        1 counties for this office
+    MINGO COUNTY SHERIFF
+        1 counties for this office
+    MONONGALIA COUNTY COMMISSIONER
+        1 counties for this office
+    MONONGALIA COUNTY SHERIFF
+        1 counties for this office
+    MONROE COUNTY COMMISSIONER
+        1 counties for this office
+    MONROE COUNTY SHERIFF
+        1 counties for this office
+    MORGAN COUNTY COMMISSIONER
+        1 counties for this office
+    MORGAN COUNTY SHERIFF
+        1 counties for this office
+    NICHOLAS COUNTY COMMISSIONER
+        1 counties for this office
+    NICHOLAS COUNTY SHERIFF
+        1 counties for this office
+    NONPARTISAN BOARD OF EDUCATION
+        3 counties for this office
+    OHIO COUNTY COMMISSIONER
+        1 counties for this office
+    OHIO COUNTY SHERIFF
+        1 counties for this office
+    PENDLETON COUNTY COMMISSIONER
+        1 counties for this office
+    PENDLETON COUNTY SHERIFF
+        1 counties for this office
+    PLEASANTS COUNTY COMMISSIONER
+        1 counties for this office
+    PLEASANTS COUNTY SHERIFF
+        1 counties for this office
+    POCAHONTAS COUNTY COMMISSIONER
+        1 counties for this office
+    POCAHONTAS COUNTY SHERIFF
+        1 counties for this office
+    PRESTON COUNTY BOARD OF EDUCATION LEVY
+        1 counties for this office
+    PRESTON COUNTY COMMISSIONER
+        1 counties for this office
+    PRESTON COUNTY SHERIFF
+        1 counties for this office
+    PROSECUTING ATTORNEY
+        55 counties for this office
+    PUTNAM COUNTY COMMISSIONER
+        1 counties for this office
+    PUTNAM COUNTY SHERIFF
+        1 counties for this office
+    RALEIGH COUNTY CIRCUIT CLERK
+        1 counties for this office
+    RALEIGH COUNTY COMMISSIONER
+        1 counties for this office
+    RALEIGH COUNTY SHERIFF
+        1 counties for this office
+    RANDOLPH COUNTY COMMISSIONER
+        1 counties for this office
+    RANDOLPH COUNTY SHERIFF
+        1 counties for this office
+    RECORDER BUFFALO
+        1 counties for this office
+    RECORDER MILTON CITY
+        1 counties for this office
+    RECORDER NORTH HILLS
+        1 counties for this office
+    RECORDER VIENNA
+        1 counties for this office
+    RITCHIE COUNTY AMBULANCE LEVY
+        1 counties for this office
+    RITCHIE COUNTY COMMISSIONER
+        1 counties for this office
+    RITCHIE COUNTY SHERIFF
+        1 counties for this office
+    ROANE COUNTY BOARD OF EDUCATION LEVY
+        1 counties for this office
+    ROANE COUNTY COMMISSIONER
+        1 counties for this office
+    ROANE COUNTY EMERGENCY SERVICES LEVY
+        1 counties for this office
+    ROANE COUNTY PATCH LEVY
+        1 counties for this office
+    ROANE COUNTY SENIOR NUTRITION LEVY
+        1 counties for this office
+    ROANE COUNTY SHERIFF
+        1 counties for this office
+    SCHOOL BOND ELECTION
+        1 counties for this office
+    SECRETARY OF STATE
+        55 counties for this office
+    SPECIAL ELECTION QUESTION GRANVILLE
+        1 counties for this office
+    STATE HOUSE
+        55 counties for this office
+    STATE SENATE
+        55 counties for this office
+    SUMMERS COUNTY BOARD OF EDUCATION LEVY
+        1 counties for this office
+    SUMMERS COUNTY CITY OF HINTON LEVY
+        1 counties for this office
+    SUMMERS COUNTY COMMISSIONER
+        1 counties for this office
+    SUMMERS COUNTY SHERIFF
+        1 counties for this office
+    SURVEYOR
+        55 counties for this office
+    TAYLOR COUNTY COMMISSIONER
+        1 counties for this office
+    TAYLOR COUNTY SHERIFF
+        1 counties for this office
+    TOWN COUNCIL BUFFALO
+        1 counties for this office
+    TREASURER
+        55 counties for this office
+    TUCKER COUNTY COMMISSIONER
+        1 counties for this office
+    TUCKER COUNTY SHERIFF
+        1 counties for this office
+    TYLER COUNTY COMMISSIONER
+        1 counties for this office
+    TYLER COUNTY SHERIFF
+        1 counties for this office
+    UPSHUR COUNTY COMMISSIONER
+        1 counties for this office
+    UPSHUR COUNTY LIBRARY EXCESS LEVY BUCKHANNON
+        1 counties for this office
+    UPSHUR COUNTY SHERIFF
+        1 counties for this office
+    US HOUSE
+        55 counties for this office
+    US PRESIDENT
+        55 counties for this office
+    US SENATE
+        55 counties for this office
+    WAYNE COUNTY CITY COUNCIL
+        1 counties for this office
+    WAYNE COUNTY COMMISSIONER
+        1 counties for this office
+    WAYNE COUNTY SHERIFF
+        1 counties for this office
+    WEBSTER COUNTY COMMISSIONER
+        1 counties for this office
+    WEBSTER COUNTY SHERIFF
+        1 counties for this office
+    WETZEL COUNTY COMMISSIONER
+        1 counties for this office
+    WETZEL COUNTY SHERIFF
+        1 counties for this office
+    WIRT COUNTY BOARD OF EDUCATION
+        1 counties for this office
+    WIRT COUNTY COMMISSIONER
+        1 counties for this office
+    WIRT COUNTY RENEWAL LEVY
+        1 counties for this office
+    WIRT COUNTY SHERIFF
+        1 counties for this office
+    WOOD COUNTY CITY COUNCIL
+        1 counties for this office
+    WOOD COUNTY COMMISSIONER
+        1 counties for this office
+    WOOD COUNTY SHERIFF
+        1 counties for this office
+    WYOMING COUNTY COMMISSIONER
+        1 counties for this office
+    WYOMING COUNTY SHERIFF
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

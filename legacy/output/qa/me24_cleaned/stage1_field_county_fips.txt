@@ -1,0 +1,67 @@
+---------------------------
+---------------------------
+COUNTY_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+FIPS TOO LONG
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+COUNTY FIPS FOR COUNTY CHECK:
+    No Problems Found :)
+------
+
+---------
+------
+ALL VALUES:
+    23001
+    23003
+    23005
+    23007
+    23009
+    23011
+    23013
+    23015
+    23017
+    23019
+    23021
+    23023
+    23025
+    23027
+    23029
+    23031
+------
+

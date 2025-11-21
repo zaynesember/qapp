@@ -1,0 +1,135 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    CIRCUIT JUDGE: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        CIRCUIT JUDGE
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        ATTORNEY GENERAL
+        CONSTITUTIONAL AMENDMENT 2
+        CONSTITUTIONAL AMENDMENT 3
+        CONSTITUTIONAL AMENDMENT 5
+        CONSTITUTIONAL AMENDMENT 6
+        CONSTITUTIONAL AMENDMENT 7
+        GOVERNOR
+        LIEUTENANT GOVERNOR
+        PROPOSITION A
+        SECRETARY OF STATE
+        STATE HOUSE
+        STATE SENATE
+        STATE TREASURER
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ATTORNEY GENERAL
+        116 counties for this office
+    CIRCUIT JUDGE
+        103 counties for this office
+    CONSTITUTIONAL AMENDMENT 2
+        116 counties for this office
+    CONSTITUTIONAL AMENDMENT 3
+        116 counties for this office
+    CONSTITUTIONAL AMENDMENT 5
+        116 counties for this office
+    CONSTITUTIONAL AMENDMENT 6
+        116 counties for this office
+    CONSTITUTIONAL AMENDMENT 7
+        116 counties for this office
+    GOVERNOR
+        116 counties for this office
+    LIEUTENANT GOVERNOR
+        116 counties for this office
+    PROPOSITION A
+        116 counties for this office
+    SECRETARY OF STATE
+        116 counties for this office
+    STATE HOUSE
+        116 counties for this office
+    STATE SENATE
+        48 counties for this office
+    STATE TREASURER
+        116 counties for this office
+    US HOUSE
+        116 counties for this office
+    US PRESIDENT
+        116 counties for this office
+    US SENATE
+        116 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

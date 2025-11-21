@@ -1,0 +1,259 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    MACHINE COUNT ||| [[CO ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    SAME DAY REGISTRATION (SDR) ||| [[REGISTRATION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    EARLY VOTES ||| [[VOTES]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    EARLY VOTES ||| [[VOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    TOTAL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    TOTAL ||| [[TOTAL]]
+    ABSENTEE ||| [[ABS]]
+    EARLY VOTES ||| [[EARLY]]
+    MACHINE COUNT ||| [[MACHINE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('MACHINE COUNT', 'TOTAL', 'UNKNOWN', 'EARLY VOTES', 'ABSENTEE', 'SAME DAY REGISTRATION (SDR)')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'REPUBLICAN', 'WINDHAM', 'PAMELA GREENHALGH', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'SAMANTHA DERENTHAL', '044', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 23206 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'GREEN', 'FAIRFIELD', 'JUSTIN C PAGLINO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'REPUBLICAN', 'FAIRFIELD', 'MATTHEW M COREY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'MACHINE COUNT', 'ABSENTEE', 'EARLY VOTES')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'CHARLES POWIS', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'JOHN SARTORIUS', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'LINDA TAVLARIOS', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5 elements)
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'JOHN SARTORIUS', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'LINDA TAVLARIOS', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'PATRICK PARR', '""', 'GEN', 'FALSE', '2024-11-05')
+
+    ('MACHINE COUNT', 'TOTAL', 'EARLY VOTES', 'ABSENTEE', 'SAME DAY REGISTRATION (SDR)')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'DIANE CONOLOGUE', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'PRISCILLA WONG', '""', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'WILLIAM CLARKSON', '""', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US PRESIDENT', 'DEMOCRAT', 'LITCHFIELD', 'KAMALA D HARRIS', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US PRESIDENT', 'REPUBLICAN', 'LITCHFIELD', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'REPUBLICAN', 'LITCHFIELD', 'MATTHEW M COREY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'MACHINE COUNT')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE HOUSE', 'INDEPENDENT', 'LITCHFIELD', 'MARIA HORN', '064', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'JAHANA HAYES', '005', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US PRESIDENT', 'PETITIONING CANDIDATE', 'LITCHFIELD', 'ROBERT F KENNEDY JR', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'CHEAPER GAS GROCERIES', 'LITCHFIELD', 'ROBERT FINLEY HYDE', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'WORKING FAMILIES', 'LITCHFIELD', 'CHRISTOPHER S MURPHY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'ABSENTEE')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'MARIA HORN', '064', 'GEN', 'FALSE', '2024-11-05')
+
+    ('UNKNOWN', 'MACHINE COUNT', 'ABSENTEE', 'TOTAL')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE SENATE', 'INDEPENDENT', 'LITCHFIELD', 'STEPHEN G HARDING', '030', 'GEN', 'FALSE', '2024-11-05')
+
+    ('TOTAL', 'MACHINE COUNT', 'ABSENTEE')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US PRESIDENT', 'GREEN', 'LITCHFIELD', 'JILL STEIN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'GREEN', 'LITCHFIELD', 'JUSTIN C PAGLINO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('MACHINE COUNT', 'TOTAL', 'UNKNOWN', 'EARLY VOTES', 'ABSENTEE')
+        ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'DEMOCRAT', 'LITCHFIELD', 'CHRISTOPHER S MURPHY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    ('MACHINE COUNT', 'TOTAL', 'UNKNOWN', 'EARLY VOTES', 'ABSENTEE', 'SAME DAY REGISTRATION (SDR)'): ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', '""', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'MACHINE COUNT', 'ABSENTEE', 'EARLY VOTES'): ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'CHARLES POWIS', '""', 'GEN', 'FALSE', '2024-11-05')
+    ('MACHINE COUNT', 'TOTAL', 'EARLY VOTES', 'ABSENTEE', 'SAME DAY REGISTRATION (SDR)'): ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'REPRESENTATIVE TOWN MEETING', 'PETITIONING CANDIDATE', 'FAIRFIELD', 'DIANE CONOLOGUE', '""', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'MACHINE COUNT'): ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE HOUSE', 'INDEPENDENT', 'LITCHFIELD', 'MARIA HORN', '064', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'ABSENTEE'): ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'MARIA HORN', '064', 'GEN', 'FALSE', '2024-11-05')
+    ('UNKNOWN', 'MACHINE COUNT', 'ABSENTEE', 'TOTAL'): ('DISTRICT 1-Town Hall - McCarthy Room', 'STATE SENATE', 'INDEPENDENT', 'LITCHFIELD', 'STEPHEN G HARDING', '030', 'GEN', 'FALSE', '2024-11-05')
+    ('TOTAL', 'MACHINE COUNT', 'ABSENTEE'): ('DISTRICT 1-Town Hall - McCarthy Room', 'US PRESIDENT', 'GREEN', 'LITCHFIELD', 'JILL STEIN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+    ('MACHINE COUNT', 'TOTAL', 'UNKNOWN', 'EARLY VOTES', 'ABSENTEE'): ('DISTRICT 1-Town Hall - McCarthy Room', 'US SENATE', 'DEMOCRAT', 'LITCHFIELD', 'CHRISTOPHER S MURPHY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+------
+
+---------
+------
+ALL VALUES:
+    ABSENTEE
+    EARLY VOTES
+    MACHINE COUNT
+    SAME DAY REGISTRATION (SDR)
+    TOTAL
+    UNKNOWN
+------
+

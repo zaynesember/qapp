@@ -1,0 +1,81 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    GEN RECOUNT
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+    GEN ||| [[GEN RECOUNT]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('ACWORTH', 'ATTORNEY', '<<<EC: VALUE WAS EMPTY>>>', 'SULLIVAN', 'OVERVOTES', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('ACWORTH', 'ATTORNEY', '<<<EC: VALUE WAS EMPTY>>>', 'SULLIVAN', 'UNDERVOTES', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('ACWORTH', 'ATTORNEY', '<<<EC: VALUE WAS EMPTY>>>', 'SULLIVAN', 'WRITE-IN', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ...(skipping 21718 elements)
+        ('WOODSTOCK', 'US PRESIDENT', 'GREEN', 'GRAFTON', 'JILL STEIN', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('WOODSTOCK', 'US PRESIDENT', 'LIBERTARIAN', 'GRAFTON', 'CHASE OLIVER', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('WOODSTOCK', 'US PRESIDENT', 'REPUBLICAN', 'GRAFTON', 'DONALD J TRUMP', 'TOTAL', 'STATEWIDE', 'FALSE', '2024-11-05')
+
+    ('GEN RECOUNT', 'GEN')
+        ('ALEXANDRIA', 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'GRAFTON', 'OVERVOTES', 'TOTAL', '003', 'FALSE', '2024-11-05')
+        ('ALEXANDRIA', 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'GRAFTON', 'UNDERVOTES', 'TOTAL', '003', 'FALSE', '2024-11-05')
+        ('ALEXANDRIA', 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'GRAFTON', 'WRITE-IN', 'TOTAL', '003', 'FALSE', '2024-11-05')
+        ...(skipping 137 elements)
+        ('WENTWORTH', 'COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'GRAFTON', 'WRITE-IN', 'TOTAL', '003', 'FALSE', '2024-11-05')
+        ('WENTWORTH', 'COUNTY COMMISSIONER', 'DEMOCRAT', 'GRAFTON', 'KATIE HEDBERG', 'TOTAL', '003', 'FALSE', '2024-11-05')
+        ('WENTWORTH', 'COUNTY COMMISSIONER', 'REPUBLICAN', 'GRAFTON', 'OMER C AHERN JR', 'TOTAL', '003', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+    GEN RECOUNT
+------
+

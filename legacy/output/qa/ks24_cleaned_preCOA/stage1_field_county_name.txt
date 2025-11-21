@@ -1,0 +1,291 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    FORD ||| [[STAFFORD]]
+    OTTAWA ||| [[POTTAWATOMIE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ALLEN', '20001')
+    ('ANDERSON', '20003')
+    ('ATCHISON', '20005')
+    ('BARBER', '20007')
+    ('BARTON', '20009')
+    ('BOURBON', '20011')
+    ('BROWN', '20013')
+    ('BUTLER', '20015')
+    ('CHASE', '20017')
+    ('CHAUTAUQUA', '20019')
+    ('CHEROKEE', '20021')
+    ('CHEYENNE', '20023')
+    ('CLARK', '20025')
+    ('CLAY', '20027')
+    ('CLOUD', '20029')
+    ('COFFEY', '20031')
+    ('COMANCHE', '20033')
+    ('COWLEY', '20035')
+    ('CRAWFORD', '20037')
+    ('DECATUR', '20039')
+    ('DICKINSON', '20041')
+    ('DONIPHAN', '20043')
+    ('DOUGLAS', '20045')
+    ('EDWARDS', '20047')
+    ('ELK', '20049')
+    ('ELLIS', '20051')
+    ('ELLSWORTH', '20053')
+    ('FINNEY', '20055')
+    ('FORD', '20057')
+    ('FRANKLIN', '20059')
+    ('GEARY', '20061')
+    ('GOVE', '20063')
+    ('GRAHAM', '20065')
+    ('GRANT', '20067')
+    ('GRAY', '20069')
+    ('GREELEY', '20071')
+    ('GREENWOOD', '20073')
+    ('HAMILTON', '20075')
+    ('HARPER', '20077')
+    ('HARVEY', '20079')
+    ('HASKELL', '20081')
+    ('HODGEMAN', '20083')
+    ('JACKSON', '20085')
+    ('JEFFERSON', '20087')
+    ('JEWELL', '20089')
+    ('JOHNSON', '20091')
+    ('KEARNY', '20093')
+    ('KINGMAN', '20095')
+    ('KIOWA', '20097')
+    ('LABETTE', '20099')
+    ('LANE', '20101')
+    ('LEAVENWORTH', '20103')
+    ('LINCOLN', '20105')
+    ('LINN', '20107')
+    ('LOGAN', '20109')
+    ('LYON', '20111')
+    ('MARION', '20115')
+    ('MARSHALL', '20117')
+    ('MCPHERSON', '20113')
+    ('MEADE', '20119')
+    ('MIAMI', '20121')
+    ('MITCHELL', '20123')
+    ('MONTGOMERY', '20125')
+    ('MORRIS', '20127')
+    ('MORTON', '20129')
+    ('NEMAHA', '20131')
+    ('NEOSHO', '20133')
+    ('NESS', '20135')
+    ('NORTON', '20137')
+    ('OSAGE', '20139')
+    ('OSBORNE', '20141')
+    ('OTTAWA', '20143')
+    ('PAWNEE', '20145')
+    ('PHILLIPS', '20147')
+    ('POTTAWATOMIE', '20149')
+    ('PRATT', '20151')
+    ('RAWLINS', '20153')
+    ('RENO', '20155')
+    ('REPUBLIC', '20157')
+    ('RICE', '20159')
+    ('RILEY', '20161')
+    ('ROOKS', '20163')
+    ('RUSH', '20165')
+    ('RUSSELL', '20167')
+    ('SALINE', '20169')
+    ('SCOTT', '20171')
+    ('SEDGWICK', '20173')
+    ('SEWARD', '20175')
+    ('SHAWNEE', '20177')
+    ('SHERIDAN', '20179')
+    ('SHERMAN', '20181')
+    ('SMITH', '20183')
+    ('STAFFORD', '20185')
+    ('STANTON', '20187')
+    ('STEVENS', '20189')
+    ('SUMNER', '20191')
+    ('THOMAS', '20193')
+    ('TREGO', '20195')
+    ('WABAUNSEE', '20197')
+    ('WALLACE', '20199')
+    ('WASHINGTON', '20201')
+    ('WICHITA', '20203')
+    ('WILSON', '20205')
+    ('WOODSON', '20207')
+    ('WYANDOTTE', '20209')
+------
+
+---------
+------
+ALL VALUES:
+    ALLEN
+    ANDERSON
+    ATCHISON
+    BARBER
+    BARTON
+    BOURBON
+    BROWN
+    BUTLER
+    CHASE
+    CHAUTAUQUA
+    CHEROKEE
+    CHEYENNE
+    CLARK
+    CLAY
+    CLOUD
+    COFFEY
+    COMANCHE
+    COWLEY
+    CRAWFORD
+    DECATUR
+    DICKINSON
+    DONIPHAN
+    DOUGLAS
+    EDWARDS
+    ELK
+    ELLIS
+    ELLSWORTH
+    FINNEY
+    FORD
+    FRANKLIN
+    GEARY
+    GOVE
+    GRAHAM
+    GRANT
+    GRAY
+    GREELEY
+    GREENWOOD
+    HAMILTON
+    HARPER
+    HARVEY
+    HASKELL
+    HODGEMAN
+    JACKSON
+    JEFFERSON
+    JEWELL
+    JOHNSON
+    KEARNY
+    KINGMAN
+    KIOWA
+    LABETTE
+    LANE
+    LEAVENWORTH
+    LINCOLN
+    LINN
+    LOGAN
+    LYON
+    MARION
+    MARSHALL
+    MCPHERSON
+    MEADE
+    MIAMI
+    MITCHELL
+    MONTGOMERY
+    MORRIS
+    MORTON
+    NEMAHA
+    NEOSHO
+    NESS
+    NORTON
+    OSAGE
+    OSBORNE
+    OTTAWA
+    PAWNEE
+    PHILLIPS
+    POTTAWATOMIE
+    PRATT
+    RAWLINS
+    RENO
+    REPUBLIC
+    RICE
+    RILEY
+    ROOKS
+    RUSH
+    RUSSELL
+    SALINE
+    SCOTT
+    SEDGWICK
+    SEWARD
+    SHAWNEE
+    SHERIDAN
+    SHERMAN
+    SMITH
+    STAFFORD
+    STANTON
+    STEVENS
+    SUMNER
+    THOMAS
+    TREGO
+    WABAUNSEE
+    WALLACE
+    WASHINGTON
+    WICHITA
+    WILSON
+    WOODSON
+    WYANDOTTE
+------
+

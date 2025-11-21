@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('001  CAMDEN', 'CITY OF CAMDEN ALDERMAN', 'INDEPENDENT', 'OUACHITA', 'BOYD "BO" WOODY', 'ABSENTEE', 'WARD 1 POSITION 2', 'FALSE', '2024-11-05')
+        ('001  CAMDEN', 'CITY OF CAMDEN ALDERMAN', 'INDEPENDENT', 'OUACHITA', 'BOYD "BO" WOODY', 'EARLY VOTE', 'WARD 1 POSITION 2', 'FALSE', '2024-11-05')
+        ('001  CAMDEN', 'CITY OF CAMDEN ALDERMAN', 'INDEPENDENT', 'OUACHITA', 'BOYD "BO" WOODY', 'ELECTION DAY', 'WARD 1 POSITION 2', 'FALSE', '2024-11-05')
+        ...(skipping 214702 elements)
+        ('ZION', 'US PRESIDENT', 'REPUBLICAN', 'IZARD', 'DONALD J TRUMP', 'ABSENTEE', '""', 'FALSE', '2024-11-05')
+        ('ZION', 'US PRESIDENT', 'REPUBLICAN', 'IZARD', 'DONALD J TRUMP', 'EARLY VOTE', '""', 'FALSE', '2024-11-05')
+        ('ZION', 'US PRESIDENT', 'REPUBLICAN', 'IZARD', 'DONALD J TRUMP', 'ELECTION DAY', '""', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+------
+

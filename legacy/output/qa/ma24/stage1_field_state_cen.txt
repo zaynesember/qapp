@@ -1,0 +1,62 @@
+---------------------------
+---------------------------
+STATE_CEN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+WRONG CEN LENGTH
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+STATE_CEN UNIQUENESS CHECK:
+    Detected 1 state_cen: 14
+------
+
+------
+STATE CEN FOR STATE CHECK:
+    *Expected state cen code 14 for MASSACHUSETTS, found 14.
+------
+
+---------
+------
+ALL VALUES:
+    14
+------
+

@@ -1,0 +1,266 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '31001')
+    ('ANTELOPE', '31003')
+    ('ARTHUR', '31005')
+    ('BANNER', '31007')
+    ('BLAINE', '31009')
+    ('BOONE', '31011')
+    ('BOX BUTTE', '31013')
+    ('BOYD', '31015')
+    ('BROWN', '31017')
+    ('BUFFALO', '31019')
+    ('BURT', '31021')
+    ('BUTLER', '31023')
+    ('CASS', '31025')
+    ('CEDAR', '31027')
+    ('CHASE', '31029')
+    ('CHERRY', '31031')
+    ('CHEYENNE', '31033')
+    ('CLAY', '31035')
+    ('COLFAX', '31037')
+    ('CUMING', '31039')
+    ('CUSTER', '31041')
+    ('DAKOTA', '31043')
+    ('DAWES', '31045')
+    ('DAWSON', '31047')
+    ('DEUEL', '31049')
+    ('DIXON', '31051')
+    ('DODGE', '31053')
+    ('DOUGLAS', '31055')
+    ('DUNDY', '31057')
+    ('FILLMORE', '31059')
+    ('FRANKLIN', '31061')
+    ('FRONTIER', '31063')
+    ('FURNAS', '31065')
+    ('GAGE', '31067')
+    ('GARDEN', '31069')
+    ('GARFIELD', '31071')
+    ('GOSPER', '31073')
+    ('GRANT', '31075')
+    ('GREELEY', '31077')
+    ('HALL', '31079')
+    ('HAMILTON', '31081')
+    ('HARLAN', '31083')
+    ('HAYES', '31085')
+    ('HITCHCOCK', '31087')
+    ('HOLT', '31089')
+    ('HOOKER', '31091')
+    ('HOWARD', '31093')
+    ('JEFFERSON', '31095')
+    ('JOHNSON', '31097')
+    ('KEARNEY', '31099')
+    ('KEITH', '31101')
+    ('KEYA PAHA', '31103')
+    ('KIMBALL', '31105')
+    ('KNOX', '31107')
+    ('LANCASTER', '31109')
+    ('LINCOLN', '31111')
+    ('LOGAN', '31113')
+    ('LOUP', '31115')
+    ('MADISON', '31119')
+    ('MCPHERSON', '31117')
+    ('MERRICK', '31121')
+    ('MORRILL', '31123')
+    ('NANCE', '31125')
+    ('NEMAHA', '31127')
+    ('NUCKOLLS', '31129')
+    ('OTOE', '31131')
+    ('PAWNEE', '31133')
+    ('PERKINS', '31135')
+    ('PHELPS', '31137')
+    ('PIERCE', '31139')
+    ('PLATTE', '31141')
+    ('POLK', '31143')
+    ('RED WILLOW', '31145')
+    ('RICHARDSON', '31147')
+    ('ROCK', '31149')
+    ('SALINE', '31151')
+    ('SARPY', '31153')
+    ('SAUNDERS', '31155')
+    ('SCOTTS BLUFF', '31157')
+    ('SEWARD', '31159')
+    ('SHERIDAN', '31161')
+    ('SHERMAN', '31163')
+    ('SIOUX', '31165')
+    ('STANTON', '31167')
+    ('THAYER', '31169')
+    ('THOMAS', '31171')
+    ('THURSTON', '31173')
+    ('VALLEY', '31175')
+    ('WASHINGTON', '31177')
+    ('WAYNE', '31179')
+    ('WEBSTER', '31181')
+    ('WHEELER', '31183')
+    ('YORK', '31185')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ANTELOPE
+    ARTHUR
+    BANNER
+    BLAINE
+    BOONE
+    BOX BUTTE
+    BOYD
+    BROWN
+    BUFFALO
+    BURT
+    BUTLER
+    CASS
+    CEDAR
+    CHASE
+    CHERRY
+    CHEYENNE
+    CLAY
+    COLFAX
+    CUMING
+    CUSTER
+    DAKOTA
+    DAWES
+    DAWSON
+    DEUEL
+    DIXON
+    DODGE
+    DOUGLAS
+    DUNDY
+    FILLMORE
+    FRANKLIN
+    FRONTIER
+    FURNAS
+    GAGE
+    GARDEN
+    GARFIELD
+    GOSPER
+    GRANT
+    GREELEY
+    HALL
+    HAMILTON
+    HARLAN
+    HAYES
+    HITCHCOCK
+    HOLT
+    HOOKER
+    HOWARD
+    JEFFERSON
+    JOHNSON
+    KEARNEY
+    KEITH
+    KEYA PAHA
+    KIMBALL
+    KNOX
+    LANCASTER
+    LINCOLN
+    LOGAN
+    LOUP
+    MADISON
+    MCPHERSON
+    MERRICK
+    MORRILL
+    NANCE
+    NEMAHA
+    NUCKOLLS
+    OTOE
+    PAWNEE
+    PERKINS
+    PHELPS
+    PIERCE
+    PLATTE
+    POLK
+    RED WILLOW
+    RICHARDSON
+    ROCK
+    SALINE
+    SARPY
+    SAUNDERS
+    SCOTTS BLUFF
+    SEWARD
+    SHERIDAN
+    SHERMAN
+    SIOUX
+    STANTON
+    THAYER
+    THOMAS
+    THURSTON
+    VALLEY
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WHEELER
+    YORK
+------
+

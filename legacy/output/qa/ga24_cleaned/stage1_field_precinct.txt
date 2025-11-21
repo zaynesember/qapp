@@ -1,0 +1,3070 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    LA ||| [[VILLAGE]]
+    TWPK ||| [[TW]]
+    Town ||| [[TOWN]]
+    02-Town ||| [[TOWN]]
+    Between ||| [[TW]]
+    Owltown ||| [[TOWN]]
+    Cobbtown ||| [[TOWN]]
+    Dirttown ||| [[TOWN]]
+    Hartwell ||| [[TW]]
+    Hemptown ||| [[TOWN]]
+    Ray City ||| [[CITY]]
+    16 Otwell ||| [[TW]]
+    Boardtown ||| [[TOWN]]
+    City Hall ||| [[CITY]]
+    Dutchtown ||| [[TOWN]]
+    Hill City ||| [[CITY]]
+    Jamestown ||| [[TOWN]]
+    Lake City ||| [[CITY]]
+    Sale City ||| [[CITY]]
+    Town Rome ||| [[TOWN]]
+    Twentieth ||| [[TW]]
+    Twin City ||| [[CITY]]
+    Bridgetown ||| [[TOWN]]
+    Georgetown ||| [[TOWN]]
+    Kelleytown ||| [[TOWN]]
+    Summertown ||| [[TOWN]]
+    Sweetwater ||| [[TW]]
+    Town Creek ||| [[TOWN]]
+    Lumber-City ||| [[CITY]]
+    Pebble City ||| [[CITY]]
+    Temple City ||| [[CITY]]
+    Calhoun City ||| [[CITY]]
+    Mountaintown ||| [[TOWN]]
+    Pearson City ||| [[CITY]]
+    Georgetown Sq ||| [[TOWN]]
+    Junction City ||| [[CITY]]
+    Sweetwater 01 ||| [[TW]]
+    City Hall Annex ||| [[CITY]]
+    Rayle City Hall ||| [[CITY]]
+    Westtown School ||| [[TOWN]]
+    Dasher City Hall ||| [[CITY]]
+    Townsend Ctr UWG ||| [[TOWN]]
+    Robertstown-Helen ||| [[TOWN]]
+    Town of Allenhurst ||| [[TOWN]]
+    Grovetown Methodist ||| [[TOWN]]
+    Col Cty Board of Edu ||| [[CTY]]
+    Col Cty Main Library ||| [[CTY]]
+    Hiltonia Town Hall 1 ||| [[TOWN]]
+    100 - City Auditorium ||| [[CITY]]
+    200B - City Auditorium ||| [[CITY]]
+    Liberty Park-Grovetown ||| [[TOWN]]
+    Grovetown Branch Library ||| [[TOWN]]
+    Macedonia Church of Grovetown ||| [[TOWN]]
+    406 - Jamestown Baptist Church ||| [[TOWN]]
+    Stevens Creek Church-Grovetown ||| [[TOWN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    CO ||| [[COUNTY]]
+    COG ||| [[CO ]]
+    Cox ||| [[CO ]]
+    ARCO ||| [[CO ]]
+    Cove ||| [[CO ]]
+    Waco ||| [[CO ]]
+    Comer ||| [[CO ]]
+    Coney ||| [[CO ]]
+    Coosa ||| [[CO ]]
+    Scott ||| [[CO ]]
+    Cotton ||| [[CO ]]
+    Oconee ||| [[CO ]]
+    Toccoa ||| [[CO ]]
+    Bascomb ||| [[CO ]]
+    Colbert ||| [[CO ]]
+    Coleman ||| [[CO ]]
+    Collins ||| [[CO ]]
+    Colwell ||| [[CO ]]
+    Concord ||| [[CO ]]
+    Coopers ||| [[CO ]]
+    Cordele ||| [[CO ]]
+    Corinth ||| [[CO ]]
+    Salacoa ||| [[CO ]]
+    Welcome ||| [[CO ]]
+    Baconton ||| [[CO ]]
+    Buncombe ||| [[CO ]]
+    Chicopee ||| [[CO ]]
+    Cobbtown ||| [[CO ]]
+    Columbia ||| [[CO ]]
+    Coolidge ||| [[CO ]]
+    Recovery ||| [[CO ]]
+    Scotland ||| [[CO ]]
+    04-Alcovy ||| [[CO ]]
+    Cokesbury ||| [[CO ]]
+    Coralwood ||| [[CO ]]
+    Covington ||| [[CO ]]
+    Nacoochee ||| [[CO ]]
+    Courthouse ||| [[CO ]]
+    Scottsboro ||| [[CO ]]
+    Stagecoach ||| [[CO ]]
+    Conns Creek ||| [[CO ]]
+    County Line ||| [[COUNTY]]
+    Court House ||| [[CO ]]
+    Dark Corner ||| [[CO ]]
+    Hancock BOE ||| [[CO ]]
+    Pat Colwell ||| [[CO ]]
+    Colham Ferry ||| [[CO ]]
+    East Macon 1 ||| [[CO ]]
+    East Macon 2 ||| [[CO ]]
+    East Macon 3 ||| [[CO ]]
+    East Macon 4 ||| [[CO ]]
+    East Macon 5 ||| [[CO ]]
+    INC Columbus ||| [[CO ]]
+    New Covenant ||| [[CO ]]
+    North Oconee ||| [[CO ]]
+    Rabun County ||| [[COUNTY]]
+    Scooterville ||| [[CO ]]
+    Willacoochee ||| [[CO ]]
+    Clem Comm Ctr ||| [[CO ]]
+    Columbia Elem ||| [[CO ]]
+    Columbus Tech ||| [[CO ]]
+    Cotton Indian ||| [[CO ]]
+    Covington Hwy ||| [[CO ]]
+    Gordon County ||| [[COUNTY]]
+    North Cobb 01 ||| [[CO ]]
+    Second Beulah ||| [[CO ]]
+    Temple County ||| [[COUNTY]]
+    Columbia Drive ||| [[CO ]]
+    Lincoln Center ||| [[CO ]]
+    Old Courthouse ||| [[CO ]]
+    Pearson County ||| [[COUNTY]]
+    Second Darrien ||| [[CO ]]
+    Colquitt-Miller ||| [[CO ]]
+    Columbia Middle ||| [[CO ]]
+    Covenant Church ||| [[CO ]]
+    Second District ||| [[CO ]]
+    05 Coal Mountain ||| [[CO ]]
+    Courthouse Annex ||| [[CO ]]
+    Stephens County 1 ||| [[COUNTY]]
+    Col Cty Board of Edu ||| [[CTY]]
+    Col Cty Main Library ||| [[CTY]]
+    Butts County Admin Building ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    CO ||| [[CONSTITUTION]]
+    ES ||| [[QUESTION]]
+    RO ||| [[PROP]]
+    ST ||| [[QUESTION]]
+    TI ||| [[QUESTION]]
+    UT ||| [[CONSTITUTION]]
+    Bill Miller Community Center ||| [[BILL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    OT ||| [[VOTERS]]
+    ST ||| [[REGISTERED]]
+    TI ||| [[REGISTRATION]]
+    TR ||| [[REGISTRATION]]
+    UT ||| [[TURNOUT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    BA ||| [[BALLOTS]]
+    CA ||| [[CARD]]
+    ES ||| [[VOTES]]
+    LO ||| [[BALLOTS]]
+    OT ||| [[VOTES]]
+    BAL ||| [[BALLOTS]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    OT ||| [[OVER VOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    OT ||| [[UNDER VOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    OT ||| [[VOTE]]
+    Elections Office ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    Byron 1 ||| [[YR]]
+    Byron 2 ||| [[YR]]
+    GoodYear ||| [[YEAR]]
+    Smyrna 1A ||| [[YR]]
+    Smyrna 2A ||| [[YR]]
+    Smyrna 3A ||| [[YR]]
+    Smyrna 3B ||| [[YR]]
+    Smyrna 4A ||| [[YR]]
+    Smyrna 5A ||| [[YR]]
+    Smyrna 6A ||| [[YR]]
+    Smyrna 7A ||| [[YR]]
+    Byromville ||| [[YR]]
+    Expo Center ||| [[EXP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    AN ||| [[VACANT]]
+    CA ||| [[VACANT]]
+    VA ||| [[VACANT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    TI ||| [[RETENTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    CA ||| [[RECALL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    LA ||| [[AT LARGE]]
+    ST ||| [[DIST]]
+    TR ||| [[DISTRICT]]
+    CGTC ||| [[CG]]
+    McDonald ||| [[CD]]
+    McDonough ||| [[CD]]
+    NMcDuffie ||| [[CD]]
+    District 1 ||| [[DIST]]
+    District 2 ||| [[DIST]]
+    District 3 ||| [[DIST]]
+    District 4 ||| [[DIST]]
+    District 5 ||| [[DIST]]
+    District V ||| [[DIST]]
+    District II ||| [[DIST]]
+    District IV ||| [[DIST]]
+    Lewis Methodist ||| [[DIST]]
+    Second District ||| [[DIST]]
+    Wesley Methodist ||| [[DIST]]
+    Cairo 4th District ||| [[DIST]]
+    Cairo 5th District ||| [[DIST]]
+    Grovetown Methodist ||| [[DIST]]
+    Golden Methodist Church ||| [[DIST]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    Howard 1 ||| [[WARD]]
+    Howard 2 ||| [[WARD]]
+    Howard 3 ||| [[WARD]]
+    Howard 4 ||| [[WARD]]
+    Howard 5 ||| [[WARD]]
+    Howard 6 ||| [[WARD]]
+    Howard 7 ||| [[WARD]]
+    Woodward ||| [[WARD]]
+    Bowden Sr Ctr ||| [[WD]]
+    Edward B Pope Center ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    TI ||| [[POSITION]]
+    Post Oak 01 ||| [[POS ]]
+    G A Apostolic Church ||| [[POS ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    RO ||| [[GROUP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    Howard 1 ||| [[WARD]]
+    Howard 2 ||| [[WARD]]
+    Howard 3 ||| [[WARD]]
+    Howard 4 ||| [[WARD]]
+    Howard 5 ||| [[WARD]]
+    Howard 6 ||| [[WARD]]
+    Howard 7 ||| [[WARD]]
+    Woodward ||| [[WARD]]
+    Precinct 1 ||| [[PRECINCT]]
+    Precinct 2 ||| [[PRECINCT]]
+    Precinct 3 ||| [[PRECINCT]]
+    Precinct 4 ||| [[PRECINCT]]
+    Precinct 5 ||| [[PRECINCT]]
+    Precinct 6 ||| [[PRECINCT]]
+    Bowden Sr Ctr ||| [[WD]]
+    Uvalda Precinct ||| [[PRECINCT]]
+    Higgston Precinct ||| [[PRECINCT]]
+    Edward B Pope Center ||| [[WARD]]
+    Mount Vernon Precinct ||| [[PRECINCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    AN ||| [[PARTISAN]]
+    CA ||| [[REPUBLICAN]]
+    TI ||| [[PARTISAN]]
+    Liberty ||| [[LIB]]
+    Lindale ||| [[IND]]
+    Demorest ||| [[DEM]]
+    Greentop ||| [[GREEN]]
+    Windgate ||| [[IND]]
+    Greenscut ||| [[GREEN]]
+    Greensboro ||| [[GREEN]]
+    West Green ||| [[GREEN]]
+    Cross-Green ||| [[GREEN]]
+    River Green ||| [[GREEN]]
+    Indian Creek ||| [[IND]]
+    25 Windermere ||| [[IND]]
+    Cotton Indian ||| [[IND]]
+    Wade Green 01 ||| [[GREEN]]
+    Wade Green 02 ||| [[GREEN]]
+    8th-Greenville ||| [[GREEN]]
+    McNair Academy ||| [[DEM]]
+    Tucker Library ||| [[LIB]]
+    Dunwoody Library ||| [[LIB]]
+    North Industrial ||| [[IND]]
+    Dog River Library ||| [[LIB]]
+    Greenbriar Church ||| [[GREEN]]
+    Crossroads Library ||| [[LIB]]
+    Liberty Co Complex ||| [[LIB]]
+    Stonecrest Library ||| [[LIB]]
+    Flat Shoals Library ||| [[LIB]]
+    Col Cty Main Library ||| [[LIB]]
+    Redan-Trotti Library ||| [[LIB]]
+    Harlem Branch Library ||| [[LIB]]
+    Wesley Chapel Library ||| [[LIB]]
+    Coweta Central Library ||| [[LIB]]
+    Liberty Park-Grovetown ||| [[LIB]]
+    The Bindery at Oakland ||| [[IND]]
+    Columbus Public Library ||| [[LIB]]
+    Grovetown Branch Library ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    OT ||| [[TOTAL]]
+    ST ||| [[STATISTICS]]
+    TI ||| [[STATISTICS]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    AN ||| [[BLANK]]
+    LA ||| [[BLANK]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    VA ||| [[UNAVAIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    HI ||| [[MACHINE]]
+    MA ||| [[MACHINE]]
+    OT ||| [[TOTAL]]
+    RO ||| [[PROV]]
+    ST ||| [[ONE STOP]]
+    TI ||| [[ELECTION]]
+    CENT ||| [[CENTER]]
+    Center ||| [[CENTER]]
+    AG Center ||| [[CENTER]]
+    Rec Center ||| [[CENTER]]
+    Centerville ||| [[CENTER]]
+    Expo Center ||| [[CENTER]]
+    Center Point ||| [[CENTER]]
+    Civic Center ||| [[CENTER]]
+    Kirbo Center ||| [[CENTER]]
+    Youth Center ||| [[CENTER]]
+    Lincoln Center ||| [[CENTER]]
+    Mt. Zion Center ||| [[CENTER]]
+    Resource Center ||| [[CENTER]]
+    Wellston Center ||| [[CENTER]]
+    Wetlands Center ||| [[CENTER]]
+    Elections Office ||| [[ELECTION]]
+    Edward B Pope Center ||| [[CENTER]]
+    Harlem Senior Center ||| [[CENTER]]
+    Cail Community Center ||| [[CENTER]]
+    Harn Community Center ||| [[CENTER]]
+    Riceboro Youth Center ||| [[CENTER]]
+    Senior Citizen Center ||| [[CENTER]]
+    Coan Recreation Center ||| [[CENTER]]
+    Performing Arts Center ||| [[CENTER]]
+    Senior Citizens Center ||| [[CENTER]]
+    Hahira Community Center ||| [[CENTER]]
+    Jaycee Community Center ||| [[CENTER]]
+    Naylor Community Center ||| [[CENTER]]
+    Mildred Community Center ||| [[CENTER]]
+    Mayfield Community Center ||| [[CENTER]]
+    Clarkston Community Center ||| [[CENTER]]
+    Robinson Recreation Center ||| [[CENTER]]
+    Veteran's Community Center ||| [[CENTER]]
+    Bill Miller Community Center ||| [[CENTER]]
+    Clyattville Community Center ||| [[CENTER]]
+    407 - Manor Commmunity Center ||| [[CENTER]]
+    Hancock Senior Citizen Center ||| [[CENTER]]
+    Dianne Wright Innovation Center ||| [[CENTER]]
+    South Lowndes Recreation Center ||| [[CENTER]]
+    Jack Strickland Community Center ||| [[CENTER]]
+    Joe L. Sweet Jr. Community Center ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    CO ||| [[RECOUNT]]
+    ES ||| [[PRES]]
+    SP ||| [[SPECIAL]]
+    PEC ||| [[SPECIAL]]
+    Preston 1 ||| [[PRES]]
+    Primary School ||| [[PRIM]]
+    Westminster Presb Church ||| [[PRES]]
+    Christ Church Presbyterian ||| [[PRES]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    001 Harbins A
+    002 Rockbridge A
+    003 Dacula
+    004 Suwanee A
+    005 Baycreek A
+    006 Goodwins A
+    007 Duluth A
+    008 Duncans A
+    009 Pucketts A
+    01
+    01 Big Creek
+    010 Cates A
+    011 Berkshire A
+    012 Berkshire B
+    013 Duncans C
+    014 Garners A
+    015 Lawrenceville A
+    016 Lawrenceville B
+    017 Martins A
+    018 Martins B
+    019 Martins C
+    01A
+    01B
+    01C
+    01D
+    01E
+    01F
+    01G
+    01H
+    01I
+    01J
+    01P
+    01R
+    01S
+    01T
+    02
+    02 Brandywine
+    02-Town
+    020 Pinckneyville A
+    021 Pinckneyville B
+    022 Pinckneyville C
+    023 Pinckneyville D
+    024 Sugar Hill A
+    025 Sugar Hill B
+    026 Hog Mountain A
+    027 Hog Mountain B
+    028 Rockycreek A
+    029 Cates B
+    02A
+    02A1
+    02B
+    02C
+    02D
+    02E
+    02F1
+    02F2
+    02G
+    02J
+    02K
+    02L1
+    02L1A
+    02L1B
+    02L2
+    02S
+    02W
+    03
+    03-Almon
+    030 Cates C
+    031 Hog Mountain D
+    032 Berkshire D
+    033 Berkshire E
+    034 Berkshire F
+    035 Cates D
+    036 Cates E
+    037 Pinckneyville E
+    038 Pinckneyville F
+    039 Duncans D
+    03A
+    03B
+    03C
+    03D
+    03E
+    03F
+    03G
+    03H
+    03I
+    03L
+    03M
+    03N
+    03P1A
+    03P1B
+    03P2
+    03S
+    03T
+    04
+    04 Chestatee
+    04-Alcovy
+    040 Pinckneyville H
+    041 Baycreek B
+    042 Lawrenceville C
+    043 Martins D
+    044 Rockbridge B
+    045 Garners B
+    046 Cates F
+    047 Cates G
+    048 Duluth B
+    049 Garners C
+    04A
+    04B
+    04C
+    04D
+    04F
+    04G
+    04I
+    04J
+    04K
+    04L
+    04M
+    04S
+    04T
+    04V
+    04W
+    04X1
+    04X2
+    05
+    05 Coal Mountain
+    05-Covington Mills
+    050 Pinckneyville I
+    051 Pinckneyville J
+    052 Berkshire G
+    053 Cates H
+    054 Sugar Hill C
+    055 Sugar Hill D
+    056 Duluth C
+    057 Duluth D
+    058 Pinckneyville K
+    059 Pinckneyville N
+    05A1
+    05A2
+    05B
+    05C
+    05D
+    05F
+    05J
+    05K
+    06
+    06 Crossroads
+    06-Brewers
+    060 Lawrenceville D
+    061 Lawrenceville E
+    062 Pinckneyville L
+    063 Pinckneyville M
+    064 Garners D
+    065 Berkshire H
+    066 Pinckneyville O
+    067 Pucketts E
+    068 Cates I
+    069 Cates J
+    06B
+    06D
+    06D1
+    06D2
+    06E
+    06F
+    06G
+    06I
+    06J
+    06L1
+    06L2
+    06N
+    06Q
+    06R
+    06R1
+    07
+    07 Cumming
+    07-Brick Store
+    070 Goodwins B
+    071 Lawrenceville F
+    072 Martins E
+    073 Pinckneyville P
+    074 Pinckneyville Q
+    075 Rockbridge C
+    076 Rockbridge D
+    077 Goodwins C
+    078 Baycreek K
+    079 Cates K
+    07A
+    07A1
+    07B
+    07C
+    07D
+    07D1
+    07E
+    07F
+    07F1
+    07H
+    07J
+    07M
+    07N
+    08
+    08 Mashburn
+    080 Baycreek C
+    081 Cates L
+    082 Duluth E
+    083 Goodwins D
+    084 Lawrenceville G
+    085 Lawrenceville H
+    086 Martins F
+    087 Pinckneyville S
+    088 Rockbridge E
+    089 Sugar Hill E
+    08A
+    08B
+    08C
+    08C1
+    08D
+    08E
+    08F1
+    08G
+    08H
+    08J
+    08K
+    08L
+    08M
+    08N1
+    08N2
+    08P
+    08P1
+    09
+    09-Livingston
+    090 Lawrenceville I
+    091 Baycreek D
+    092 Berkshire J
+    093 Cates M
+    094 Cates N
+    095 Duluth F
+    096 Duluth G
+    097 Goodwins E
+    098 Goodwins F
+    099 Pinckneyville T
+    09A
+    09B
+    09C
+    09D
+    09E
+    09F
+    09G
+    09H
+    09I
+    09J
+    09K
+    09K1
+    09L
+    09M
+    09N
+    1
+    1-01C
+    1-05C
+    1-06C
+    1-08C
+    1-09C
+    1-10C
+    1-12C
+    1-13C
+    1-14C
+    1-16C
+    1-17C
+    10
+    10 Midway
+    10-Downs
+    100 - City Auditorium
+    100 Suwanee B
+    101
+    101 Pinckneyville U
+    102
+    102 Pucketts B
+    103
+    103 Berkshire L
+    104
+    104 Rockbridge F
+    105
+    105 Sugar Hill F
+    106
+    106 Suwanee C
+    107
+    107 Cates O
+    108
+    108 Baycreek E
+    109
+    109 Berkshire M
+    10A
+    10B
+    10B1
+    10C
+    10D
+    10D1
+    10D2
+    10E
+    10F
+    10G
+    10H1
+    10H2
+    10I
+    10J
+    10K
+    10M
+    10P
+    10R
+    11
+    110
+    110 Martins G
+    111
+    111 Duluth H
+    112
+    112 Berkshire N
+    113 Pinckneyville V
+    114 Pinckneyville W
+    115
+    115 Martins H
+    116 Martins I
+    117 Martins J
+    118 Garners F
+    119 Berkshire O
+    11B
+    11B1
+    11B2
+    11B3
+    11C
+    11C2
+    11C3
+    11E1
+    11E2
+    11E3
+    11G
+    11H
+    11J
+    11K
+    11M
+    11M1
+    11N
+    11P
+    11R
+    12
+    12-Gum Creek
+    120 Berkshire P
+    121 Pinckneyville X
+    122 Rockbridge G
+    123 Pinckneyville Y
+    124 Goodwins G
+    125 Pinckneyville Z
+    126 Pinckneyville A1
+    127 Lawrenceville J
+    128 Goodwins H
+    129 Duncans B
+    12A
+    12A1
+    12D
+    12E1
+    12F
+    12G
+    12H1
+    12H2
+    12I
+    12J
+    12K
+    12L
+    12M
+    12N
+    12S
+    13
+    13-Beaverdam
+    130 Suwanee D
+    131 Suwanee E
+    132 Lawrenceville K
+    133 Harbins B
+    134 Baycreek F
+    135 Pucketts C
+    136 Hog Mountain C
+    137 Rockycreek B
+    138 Duluth I
+    139 Martins K
+    14
+    14-Leguinn
+    140 Suwanee H
+    141 Sugar Hill G
+    142 Suwanee F
+    143 Lawrenceville L
+    144 Lawrenceville M
+    145 Baycreek G
+    146 Baycreek H
+    147 Baycreek I
+    148 Berkshire Q
+    149 Goodwins I
+    15 Heardsville
+    15-Mansfield
+    150 Duluth K
+    151 Harbins C
+    152 Rockycreek C
+    153 Lawrenceville N
+    15361 Lyons
+    154 Pucketts D
+    155 Suwanee G
+    156 Baycreek J
+    16
+    16 Otwell
+    17-Oxford
+    18-Rocky Plains
+    19
+    19 Old Atlanta
+    19-Buck Creek
+    1A
+    1B
+    1C
+    1D
+    2
+    2-02C
+    2-03C
+    2-04C
+    2-05C
+    2-06C
+    2-07C
+    2-09C
+    2-11C
+    2-12C
+    20
+    20-Stansells
+    200A - Memorial Stadium
+    200B - City Auditorium
+    200C- Second Baptist Church
+    201
+    202
+    203
+    204
+    207
+    208
+    21
+    21 South Forsyth
+    210
+    23-Fairview
+    24-Crowell
+    25 Windermere
+    25-Hub
+    269-Waleska
+    2A
+    2B
+    2C
+    2D
+    2nd Mt. Zion Church
+    2nd-Warm Springs
+    3-02C
+    3-03C
+    3-04C
+    3-05C
+    3-09C
+    3-10C
+    3-11C
+    3-12C
+    3-13C
+    3-14C
+    300 - Ware BoE Transportation
+    301
+    302
+    303
+    304
+    304 - Emerson Park
+    306
+    307
+    308
+    310
+    34 Fowler
+    35 Johns Creek
+    36 Nichols
+    38 Daves Creek
+    39 Mathis
+    39 Newbranch
+    3A
+    3A1
+    3B
+    3C
+    3D
+    3E
+    4-02C
+    4-04C
+    4-05C
+    4-06C
+    4-07C
+    4-08C
+    4-10C
+    4-11C
+    4-12C
+    4-13C
+    4-14C
+    40 West Forsyth
+    400 - Second Baptist Church
+    401
+    402
+    403
+    404 - Bickley UM Church
+    405
+    405 - Haywood Baptist Church
+    406
+    406 - Jamestown Baptist Church
+    407 - Manor Commmunity Center
+    408 - Millwood Baptist Church
+    409 - Waresboro Church of God
+    41 Grassland
+    42 Keith Bridge
+    43 Cedar Crossing
+    43 Lakeland
+    44 Lanier
+    45 Mountainside
+    46 Sawmill Branch
+    47 Riverclub
+    49 Cheatam Creek
+    4A
+    4B
+    4C
+    4D
+    5-03C
+    5-05C
+    5-06C
+    5-07C
+    5-08C
+    5-10C
+    5-11C
+    50 Browns Bridge
+    501
+    502
+    503
+    504
+    505
+    506
+    507
+    51 Matt
+    513 V.P.D.
+    514 S.T.I.A.L.C.
+    5A
+    5B
+    5C
+    5D
+    6-01C
+    6-02C
+    6-03C
+    6-05C
+    6-06C
+    6-08C
+    6-09C
+    6-10C
+    6-11C
+    601
+    602
+    604
+    605
+    606
+    607
+    608
+    6A
+    6B
+    6C
+    7-01C
+    7-03C
+    7-04C
+    7-05C
+    7-06C
+    7-07C
+    7-08C
+    7-09C
+    7-10C
+    7-11C
+    7-12C
+    7-13C
+    7-14C
+    7-15C
+    7-16C
+    7-17C
+    701
+    702
+    703
+    704
+    705
+    706
+    707
+    708
+    709
+    7A
+    7B
+    7C
+    7th-Odessadale
+    8-01C
+    8-02C
+    8-03C
+    8-05C
+    8-06C
+    8-08C
+    8-09C
+    8-10C
+    8-11C
+    8-12C
+    8-15C
+    8-16C
+    8-17C
+    8-18C
+    801
+    801B
+    802
+    803
+    804
+    804H
+    805
+    806
+    807
+    808
+    810
+    811
+    8A
+    8B
+    8C
+    8th-Greenville
+    ACS-Furys Ferry Rd Campus
+    AG Center
+    AN
+    ANNX
+    AP01A
+    AP01B
+    AP01C
+    AP01D
+    AP021
+    AP022
+    AP023
+    AP02B
+    AP03
+    AP04A
+    AP04B
+    AP05
+    AP06
+    AP07A
+    AP07B
+    AP07C
+    AP09A
+    AP09B
+    AP10
+    AP12A
+    AP12B
+    AP12C
+    AP12D
+    AP14
+    AP14A
+    ARCO
+    ASU East Campus
+    ASU West Campus
+    Abbeville North 2
+    Abbeville South 5
+    Aberdeen
+    Abilene Baptist
+    Activation Church
+    Acworth 1A
+    Acworth 1B
+    Acworth 1C
+    Adairsville
+    Addison 01
+    Admin
+    Adrian
+    Air Acres
+    Airport
+    Alabaha
+    Alamo
+    Alapaha
+    Albany High School
+    Albany Middle School
+    Alexander
+    Alice Coachman Elementary
+    Allatoona
+    Allgood Elem
+    Alma
+    Altamaha
+    Altamaha 1
+    Altamaha 2
+    Alto Park
+    Ambrose
+    Amys Creek
+    Anderson
+    Andersonville
+    Anna
+    Annex
+    Annex Blue
+    Annex Red
+    Antioch
+    Appalachian
+    Arabi
+    Arabia
+    Aragon
+    Arbor Station
+    Argyle
+    Arlington
+    Armuchee Valley
+    Arnold Mill
+    Ashburn
+    Ashford Dunwoody Rd
+    Ashford Park Elem
+    Ashford Parkside
+    Atlanta West
+    Attapulgus
+    Augusta Christian
+    Austell 1A
+    Austell 1B
+    Austin
+    Austin Drive
+    Austin Road
+    Autreyville
+    Avera
+    Avery
+    Avondale
+    Avondale High
+    Axson
+    BA
+    BAL
+    BLY
+    BMS
+    BRK
+    BT
+    Baconton
+    Bainbridge-Fairgrounds
+    Baker 01
+    Baldwin
+    Ball Ground
+    Banks
+    Bark Camp
+    Barnesville
+    Barron
+    Bartow
+    Barwick
+    Bascomb
+    Bay
+    Bay Branch Fire Station 9
+    Bay Creek
+    Beaverdam
+    Belair Baptist Church
+    Bells
+    Bells Ferry 02
+    Bells Ferry 03
+    Bells Ferry 04
+    Benevolence
+    Bentons
+    Berea-Steadman
+    Berlin
+    Bethany
+    Bethany Church
+    Bethune Middle
+    Between
+    Beulah Baptist Church
+    Big Hickory
+    Big Shanty 01
+    Big Shanty 02
+    Bill Miller Community Center
+    Bio
+    Birney 01
+    Bishop
+    Blackburn 1
+    Blackburn 2
+    Blackrock
+    Blackshear
+    Blackstock
+    Blackwell 01
+    Blairsville
+    Blakely
+    Blakeney
+    Blanchard Park
+    Blasingame
+    Blitch
+    Bloodworth
+    Blooming Grove
+    Blowing Cave
+    Blue Creek
+    Blue Ridge
+    Bluffton
+    Blundale
+    Boardtown
+    Bogart
+    Bold Springs
+    Bonner Rec Ctr
+    Booth
+    Boston
+    Bouldercrest Road
+    Boulevard
+    Boundary Waters
+    Bowden Sr Ctr
+    Bowersville
+    Box Springs
+    Boynton
+    Bradshaw
+    Braelinn
+    Branchville
+    Brantley
+    Brantleys
+    Bray
+    Bremen
+    Brewton
+    Briar Vista Elem
+    Briarcliff
+    Briarlake Elem
+    Briarwood
+    Bridgeboro
+    Bridgecreek
+    Bridgemill
+    Bridgetown
+    Briggs
+    Brighton
+    Brinson
+    Britt David
+    Brockett
+    Brockett Elem
+    Broken Arrow
+    Bronwood
+    Brookfield
+    Brookhaven
+    Brooklet
+    Brooks
+    Browns Mill
+    Browns Mill Elem
+    Broxton
+    Buchanan
+    Buckeye
+    Buckhead
+    Buena Vista
+    Buncombe
+    Burch
+    Burgays
+    Burgess Elem
+    Burnt Hickory Park
+    Bushville
+    Butts County Admin Building
+    Byromville
+    Byron 1
+    Byron 2
+    CA
+    CCBOE-Support Complex
+    CENT
+    CGTC
+    CH01
+    CH01A
+    CH01B
+    CH02
+    CH02A
+    CH03
+    CH04A
+    CH05
+    CH05A
+    CJC
+    CO
+    COG
+    CP011
+    CP012
+    CP01B
+    CP02
+    CP04A
+    CP04B
+    CP051
+    CP052
+    CP05B
+    CP05C
+    CP06A
+    CP06B
+    CP07A
+    CP07B
+    CP07C
+    CP07D
+    CP07E
+    CP07F
+    CP081
+    CP083
+    CP084
+    CP08A
+    CPM
+    CSSI
+    CST
+    Cabaniss
+    Cadwell
+    Cail Community Center
+    Cairo 4th District
+    Cairo 5th District
+    Calhoun City
+    Calhoun Park
+    Camilla North
+    Camilla South
+    Camp Antioch
+    Camp Creek
+    Canaan
+    Canby Lane Elem
+    Candler
+    Candler Park
+    Candler-Murphey Candler Elem
+    Canon
+    Canongate
+    Canoochee
+    Canton
+    Carl Scoggins Middle School
+    Carmel
+    Carnesville
+    Carroll EMC
+    Cartecay
+    Carters-Doolittle
+    Cartersville East
+    Cartersville West
+    Cassville
+    Cataula
+    Catherine Hardy
+    Catoosa Keith
+    Cave Spring
+    Cecil
+    Cedar Grove Elem
+    Cedar Grove Middle
+    Cedar Grove South
+    Cedar Rock
+    Cedar Springs
+    Centennial
+    Center
+    Center Point
+    Centerville
+    Central
+    Central Baptist
+    Central Jackson
+    Central Monroe
+    Centralhatchee
+    Century Fire Station
+    Chalker 01
+    Chalybeate
+    Chambers
+    Chamblee
+    Chamblee 2
+    Chapel Hill Elem
+    Chapel Hill High School
+    Chapel Hill Middle School
+    Chattahoochee
+    Chattahoochee 01
+    Chattanooga Valley
+    Chaun
+    Cheatham Hill 02
+    Cheatham Hill 03
+    Cherry Log
+    Chesnut Elem
+    Chestatee
+    Chestnut Log
+    Chestnut Ridge 01
+    Chickamauga
+    Chicopee
+    Choestoe
+    Chokee
+    Christ Church
+    Christ Church Presbyterian
+    Christ Sanctified
+    Christ The King Church
+    Chula
+    Chulio
+    Church
+    Church of Our Savior
+    City Hall
+    City Hall Annex
+    Civic Center
+    Clairemont East
+    Clairemont West
+    Clairmont Road
+    Clark
+    Clark Creek
+    Clarkdale 01
+    Clarkdale 02
+    Clarkston
+    Clarkston Community Center
+    Claude
+    Clem Comm Ctr
+    Clermont
+    Clifton
+    Climax
+    Clinton
+    Clyattville Community Center
+    Coan Recreation Center
+    Cobbtown
+    Cokesbury
+    Col Cty Board of Edu
+    Col Cty Main Library
+    Colbert
+    Coleman
+    Colham Ferry
+    Collins
+    Colquitt-Miller
+    Columbia
+    Columbia Co. Fire HDQTR
+    Columbia Co. Health Dept.
+    Columbia Drive
+    Columbia Elem
+    Columbia Middle
+    Columbus Public Library
+    Columbus Tech
+    Colwell
+    Comer
+    Concord
+    Coney
+    Conns Creek
+    Cooksville-Corinth
+    Coolidge
+    Coopers
+    Coosa
+    Coosa (N. Carolina)
+    Coralwood
+    Cordele
+    Corinth
+    Cotton
+    Cotton Indian
+    County Line
+    Court House
+    Courthouse
+    Courthouse Annex
+    Cove
+    Covenant Church
+    Covington
+    Covington Hwy
+    Coweta Central Library
+    Cox
+    Crawford
+    Crawfordville
+    Crescent
+    Crosland
+    Cross Keys High
+    Cross-Green
+    Crossroads
+    Crossroads Library
+    Cuba
+    Culloden
+    Cusseta Rd
+    Cuthbert
+    Cuthbert-Courthouse
+    DFACS
+    DG
+    Dahlonega
+    Damascus Bapt Church
+    Daniel Siding
+    Danielsville
+    Darien
+    Dark Corner
+    Darwell
+    Dasher City Hall
+    Davids
+    Davidson
+    Davis
+    Davis 01
+    Davisboro
+    Dawson
+    Days Cross Road
+    Dearing
+    Decatur
+    Deepstep
+    Deer Lick Park
+    Deer Run
+    Delle Beamguard
+    Demorest
+    Depot
+    Devaul Henderson Park Gym
+    Devereux Fire Station
+    Dianne Wright Innovation Center
+    Dickerson 01
+    Dillards
+    Dirttown
+    District 1
+    District 2
+    District 3
+    District 4
+    District 5
+    District II
+    District IV
+    District V
+    Dixie
+    Dobbins 01
+    Dobbins 02
+    Dobbins Middle School
+    Docia
+    Dodgen 01
+    Doerun
+    Dog River Library
+    Dogwood
+    Doles
+    Dooley
+    Doraville North
+    Doraville South
+    Dorsett Shoals
+    Douglas
+    Douglass
+    Dowell 01
+    Dresden
+    Dresden Elem
+    Druid Hills High
+    Dry Branch
+    Dudley
+    Dunaire Elem
+    Duncanville
+    Dunwoody
+    Dunwoody 2
+    Dunwoody Library
+    Dupont
+    Durham 01
+    Dutchtown
+    E Paulding Middle School
+    EP01A
+    EP01B
+    EP01C
+    EP01D
+    EP02A
+    EP02B
+    EP02C
+    EP02D
+    EP02E
+    EP03A
+    EP03B
+    EP03C
+    EP03D
+    EP04A
+    EP04B
+    EP04C
+    EP04D
+    ES
+    East
+    East Baldwin
+    East Ellijay
+    East Glennville
+    East Hardwick
+    East Kingsland
+    East Lake
+    East Macon 1
+    East Macon 2
+    East Macon 3
+    East Macon 4
+    East Macon 5
+    East Milledgeville
+    East Piedmont 01
+    East Rome
+    East Vernon
+    Eastside 01
+    Eastside 02
+    Eddin
+    Edgehill
+    Edgewood Baptist
+    Edison
+    Edison-Arlington
+    Edward B Pope Center
+    Elberton
+    Eldorado
+    Elections Office
+    Eliam
+    Elizabeth 01
+    Elizabeth 02
+    Elizabeth 03
+    Elizabeth 04
+    Elizabeth 05
+    Elizabeth Baptist Church
+    Ellenwood
+    Ellenwood 1
+    Ellenwood 2
+    Ellerslie
+    Ellijay North
+    Ellijay Northeast
+    Ellijay South
+    Elm Pine
+    Elmodel
+    Embry Hills
+    Emerson
+    Emit
+    Emory Road
+    Emory South
+    Empir
+    Empire
+    Enigma
+    Enon Grove
+    Ephesus
+    Ephesus Baptist Church
+    Epworth UMC
+    Ethridge
+    Etowah
+    Eubank/Blanchard Ctr
+    Euharlee
+    Europe
+    Evansdale Elem
+    Everett Springs
+    Evers
+    Expo Center
+    FA01A
+    FA01B
+    FA01C
+    FA01D
+    FBC-FLC
+    FC02
+    FI
+    FMMS
+    FS
+    Factory Shoals Middle School
+    Fair
+    Fair Oaks 02
+    Fair Oaks 04
+    Fairfield Rec Ctr
+    Fairington Elem
+    Fairmount
+    Fairplay
+    Fairview
+    Fairyland
+    Faith Tabernacle
+    Faith Temple of Lincoln
+    Fargo
+    Fayetteville East
+    Fayetteville West
+    Felton
+    Fernbank Elem
+    Fielding Ridge
+    Finney
+    Fire Dept Station #5
+    Fire Station #2
+    First African
+    First Baptist Church
+    First Baptist Lithia Springs
+    First Mount Olive
+    Fish Creek
+    Flakes Mill
+    Flat Creek
+    Flat Rock Elem
+    Flat Shoals
+    Flat Shoals Elem
+    Flat Shoals Library
+    Flat Shoals Parkway
+    Fleming East
+    Flint
+    Flint Hill
+    Flint Reformed Baptist
+    Flinthill
+    Flippen
+    Flowery Branch I
+    Flowery Branch II
+    Floyd Springs
+    Folkston
+    Folsom
+    Ford 01
+    Forest Park 1
+    Forest Park 2
+    Forest Park 3
+    Forest Park 4
+    Forest Park 5
+    Forest Park 6
+    Fork
+    Former Euchee Creek Library
+    Forsyth
+    Fort Creek
+    Fort Perry
+    Fort Valley 1
+    Fort Valley 2
+    Fort Valley 3
+    Foster's Mill
+    Four Points
+    Franklin
+    Free Home
+    Freedom Middle
+    Frey 01
+    Friendship Baptist
+    Friendship I
+    Friendship II
+    Friendship III
+    Friendship IV
+    Ft Oglethorpe
+    Fullers Park 01
+    Funston
+    G A Apostolic Church
+    GA Bend
+    GL
+    Gaines
+    Gainesville I
+    Gainesville II
+    Gainesville III
+    Gainesville IV
+    Gainesville V
+    Garden Lakes
+    Gardi
+    Gardner
+    Garfield
+    Garrison Mill 01
+    Gateway
+    Gatlin Creek
+    Geneva
+    Gentian/Cunningham
+    Georgetown
+    Georgetown Sq
+    Gibbs
+    Gibson
+    Gill I
+    Gill II
+    Gillsville
+    Girard
+    Glade
+    Glenhaven
+    Glennwood
+    Glenwood
+    Glenwood Road
+    Godfrey 1
+    Godfrey 2
+    Godfrey 3
+    Godfrey 4
+    Godfrey 5
+    Golden Hill
+    Golden Isles
+    Golden Methodist Church
+    Goldmine
+    Good Hope
+    GoodYear
+    Goodman
+    Gordon County
+    Goshen
+    Gospel Water Branch
+    Gough
+    Grace
+    Grace Baptist Church
+    Grantville
+    Gratis
+    Graves
+    Gray
+    Gray Hill
+    Graysville
+    Greenbriar Church
+    Greensboro
+    Greenscut
+    Greentop
+    Gresham Road
+    Griffin
+    Griggs
+    Gritters 01
+    Grove Park
+    Grove River
+    Grovetown Branch Library
+    Grovetown Dept of Public Safety Station #2
+    Grovetown Methodist
+    Gum Branch
+    Gumlog
+    HAFS
+    HC
+    HCP
+    HEFS
+    HHPC
+    HI
+    HLD
+    HP01
+    Habersham North
+    Habersham South
+    Hacklebarney/Cason
+    Hagin
+    Hahira Community Center
+    Hambrick Elem
+    Hamilton
+    Hamilton Crossing
+    Hammett
+    Hampton Mill
+    Hancock BOE
+    Hancock Senior Citizen Center
+    Haralson
+    Harlem Branch Library
+    Harlem Senior Center
+    Harn Community Center
+    Harper
+    Harps Crossing
+    Harrietts Bluff
+    Harris-Margaret Harris ED
+    Harris-Narvie J Harris Elem
+    Harrison
+    Harrison 01
+    Hartsfield
+    Hartwell
+    Harvest Pointe Fellowship
+    Hawkins
+    Hawthorne Elem
+    Hayes 01
+    Haywood
+    Hazlehurst
+    Hazzard 1
+    Hazzard 2
+    Hazzard 3
+    Hazzard 4
+    Helena
+    Hemptown
+    Henderson Mill
+    Herod-Dover
+    Hiawassee
+    Hickory Flat
+    Hickory Log
+    Higdon
+    Higgston Precinct
+    Higgsvillle
+    High Falls
+    High Hill
+    High Shoals Baptist Church
+    Hightower
+    Hightower 01
+    Hill City
+    Hillcrest
+    Hillside
+    Hiltonia Town Hall 1
+    Hinesville
+    Hinsonton
+    Hinton
+    Historic Kingsland
+    Historical Society
+    Hoboken
+    Hogansville
+    Hoggards Mill
+    Hollingsworth
+    Hollis
+    Hollonville
+    Holly Springs
+    Homeland
+    Homer
+    Homerville
+    Hopeful
+    Hopewell
+    Hothouse
+    Howard 1
+    Howard 2
+    Howard 3
+    Howard 4
+    Howard 5
+    Howard 6
+    Howard 7
+    Howell
+    Hugh Howell
+    Hull
+    Huntley Hills Elem
+    INC Columbus
+    Ideal
+    Idlewood Elem
+    Ila
+    Indian Creek
+    International Studies
+    Irwinton
+    Irwinville
+    Isabella
+    Ivey
+    Ivy Log
+    JC01
+    JC01A
+    JC02
+    JC03A
+    JC03B
+    JC04A
+    JC04B
+    JC04C
+    JC05
+    JC06
+    JC07
+    JC08
+    JC09
+    JC10
+    JC11
+    JC12
+    JC13A
+    JC13B
+    JC14
+    JC15
+    JC16
+    JC18
+    JC19
+    JC19A
+    JI
+    JROTC
+    Jack Strickland Community Center
+    Jacksonville
+    Jamestown
+    Jasper
+    Jaybi
+    Jaycee Community Center
+    Jeff Davis
+    Jeffersonville/Ware
+    Jenk Hill Fire Station 2
+    Jerger
+    Jersey
+    Jerusalem
+    Joe L. Sweet Jr. Community Center
+    Johnson Estates
+    Jolly Elem
+    Jones
+    Jones Creek
+    Jonesboro 1
+    Jonesboro 10
+    Jonesboro 11
+    Jonesboro 12
+    Jonesboro 13
+    Jonesboro 14
+    Jonesboro 15
+    Jonesboro 16
+    Jonesboro 17
+    Jonesboro 18
+    Jonesboro 19
+    Jonesboro 2
+    Jonesboro 20
+    Jonesboro 21
+    Jonesboro 22
+    Jonesboro 3
+    Jonesboro 4
+    Jonesboro 5
+    Jonesboro 6
+    Jonesboro 7
+    Jonesboro 8
+    Jonesboro 9
+    Journey Comm Church
+    Junction City
+    Kansas
+    Kedron
+    Kell 01
+    Kelley Chapel Road
+    Kelley Lake Elem
+    Kelleytown
+    Kelseys
+    Kemp 01
+    Kemp 02
+    Kemp 03
+    Kendrick
+    Kennesaw 1A
+    Kennesaw 2A
+    Kennesaw 3A
+    Kennesaw 4A
+    Kennesaw 5A
+    Kensington
+    Kenwood
+    Keysville
+    Kingsley Elem
+    Kingston
+    Kiokee Bapt Church
+    Kirbo Center
+    Kite
+    Kittredge Elem
+    Knollwood
+    LA
+    LCFS #10 (Valambrosia)
+    LCSC
+    LO
+    LT
+    La Fayette
+    Lake City
+    Lake Creek
+    Lake Dow
+    Lake Haven
+    Lake Park
+    Lakeland
+    Lakeshore Rec Ctr
+    Lakeside High
+    Lakeview
+    Lamar Reese School
+    Lanier
+    Lassiter 01
+    Lavista
+    Lavista Road
+    Lavonia
+    Leaches
+    Leary
+    Lee
+    Leefield
+    Leesburg
+    Legacy Baptist Church
+    Lenox
+    Leslie
+    Lester
+    Lewis Frasier School
+    Lewis Methodist
+    Lexington
+    Liberty
+    Liberty Co Complex
+    Liberty Park-Grovetown
+    Lickskillet
+    Lifsey Springs
+    Lighthouse
+    Lilly
+    Lily Pond
+    Limesink
+    Lin-Mary Lin Elem
+    Lincoln Center
+    Lincoln Club House
+    Lindale
+    Listonia
+    Lithia Springs High School
+    Lithonia
+    Lithonia High
+    Litman Cathedral
+    Little Creek
+    Little Ochlocknee Baptist
+    Little River
+    Livsey Elem
+    Lockhart
+    Locust Grove
+    Loganville Central
+    Lone Oak
+    Longstreet
+    Lord
+    Lost Mountain 01
+    Lost Mountain 02
+    Lost Mountain 03
+    Lost Mountain 04
+    Louisville
+    Louvale
+    Lovejoy 1
+    Lovejoy 2
+    Lovejoy 3
+    Lovejoy 4
+    Lovejoy 5
+    Lovejoy 6
+    Lovejoy 7
+    Lovejoy 8
+    Lower 19th
+    Lower 9th-Woodbury
+    Lowes
+    Lowndes Civic
+    Ludville
+    Lula
+    Lumber-City
+    Lumpkin
+    Lutheran Church
+    Luthersville
+    Lyerly
+    Lyman Hall School
+    MA
+    MAR
+    MC
+    MCMS
+    MI
+    ML01A
+    ML01B
+    ML01C
+    ML02A
+    ML02B
+    ML03
+    ML03A
+    ML04
+    ML05
+    ML06A
+    ML06B
+    ML07A
+    ML07B
+    MP01
+    Mableton 1A
+    Mableton 1B
+    Mableton 2A
+    Mableton 2B
+    Mableton 3A
+    Mableton 3B
+    Mableton 3C
+    Mableton 4A
+    Mableton 4B
+    Mableton 4C
+    Mableton 5A
+    Mableton 5B
+    Mableton 6A
+    Mableton 6B
+    Mabry 01
+    Macedonia
+    Macedonia Church of Grovetown
+    Macland 01
+    Madras
+    Madray Springs
+    Manassas
+    Marbut Elem
+    Marcus
+    Marianna Gallops
+    Marietta 1A
+    Marietta 2A
+    Marietta 2B
+    Marietta 3A
+    Marietta 3B
+    Marietta 4A
+    Marietta 4B
+    Marietta 4C
+    Marietta 5A
+    Marietta 5B
+    Marietta 6A
+    Marietta 6B
+    Marietta 7A
+    Mars Hill
+    Mars Hill 01
+    Mars Hill 02
+    Marshallville
+    Marswood Hall
+    Martin & Burney
+    Martinez Baptist
+    Martins Crossroad
+    Massee
+    Mathis-Bob Mathis Elem
+    Matthews
+    Mayfield Community Center
+    McCleskey 01
+    McClure 01
+    McCra
+    McDonald
+    McDonough
+    McDonough Central
+    McEachern 01
+    McLendon
+    McMullen
+    McNair
+    McNair Academy
+    McNair High
+    McRae
+    McWilliams
+    Mcintosh
+    Meadowview
+    Meansville
+    Medlock
+    Meigs
+    Memorial Drive East
+    Memorial South
+    Menlo
+    Meriwether
+    Merrillville
+    Merry Acres Middle
+    Mershon
+    Metasville Fire Sta
+    Metcalfe
+    Metropolitan
+    Middle 9th-Gay
+    Middlebrooks
+    Midvale Elem
+    Midvale Road
+    Midville
+    Midway
+    Milan
+    Mildred Community Center
+    Milford
+    Mill
+    Millcreek
+    Miller Grove
+    Miller Grove High
+    Miller Grove Road
+    Miller-Eldridge L Miller Elem
+    Milner
+    Mineral Bluff
+    Minter
+    Minton
+    Mirror Lake Elementary
+    Mission Road
+    Mitch
+    Mitchell
+    Mobile
+    Molena
+    Monk
+    Montclair Elem
+    Montezuma #4
+    Montezuma #5
+    Montgomery Elem
+    Monticello
+    Montreal
+    Moon
+    Moreland
+    Morgan
+    Morgan I
+    Morgan II
+    Morganton
+    Morning Creek
+    Morris
+    Morrow 1
+    Morrow 10
+    Morrow 11
+    Morrow 2
+    Morrow 3
+    Morrow 4
+    Morrow 5
+    Morrow 6
+    Morrow 7
+    Morrow 8
+    Morrow 9
+    Morven
+    Moss-Ruckersville
+    Mossy Creek
+    Mott-Litman Gym
+    Moultrie
+    Mount Airy
+    Mount Carmel
+    Mount Holly
+    Mount Vernon East
+    Mount Vernon Precinct
+    Mount Vernon West
+    Mountain
+    Mountain Road
+    Mountaintown
+    Mountville
+    Mt Bethel
+    Mt Pilgrim
+    Mt View
+    Mt Yonah
+    Mt Zion
+    Mt. Bethel 01
+    Mt. Bethel 03
+    Mt. Bethel 04
+    Mt. Calvary Church
+    Mt. Pleasant
+    Mt. Zion Center
+    Mud Creek
+    Mulberry Grove
+    Mulli
+    Munnerlyn
+    Murdock 01
+    Murphy
+    NGLY
+    NHSC
+    NI
+    NMcDuffie
+    NSSI
+    Nacoochee
+    Nahunta
+    Nankin
+    Nashville
+    Naylor Community Center
+    Nelson
+    Neva Lomason
+    Nevils
+    New Armuchee
+    New Beginnings
+    New Covenant
+    New Home
+    New Jerusalem
+    New Life Baptist Church
+    New Life Church
+    New Salem
+    Newnan
+    Newnan Centre
+    Newton
+    Nicholls
+    Nicholson 01
+    Nickajack 01
+    Noontootla
+    Norman Park
+    North
+    North Baldwin
+    North Cobb 01
+    North Dade
+    North Darien
+    North Decatur
+    North Hairston
+    North Hampton
+    North Industrial
+    North Jackson
+    North Milledgeville
+    North Oconee
+    North Peachtree
+    North Rome
+    North St. Marys
+    North Waynesboro
+    Northeast Franklin
+    Northlake
+    Northside
+    Norton Park 01
+    Nunez
+    ONeal
+    OT
+    Oak 1
+    Oak 2
+    Oak 3
+    Oak 4
+    Oak 5
+    Oak 6
+    Oak Grove
+    Oak Grove Elem
+    Oak Park
+    Oak Ridge
+    Oak View Elem
+    Oakcliff Elem
+    Oakdale 01
+    Oakhurst
+    Oakland
+    Oakman
+    Oakwood I
+    Oakwood II
+    Ochlocknee
+    Ocilla
+    Ocmulgee 1
+    Ocmulgee 2
+    Oconee
+    Odum
+    Oglethorpe
+    Old Camp Church
+    Old Courthouse
+    Old Head Start
+    Old Salem
+    Olive Branch Baptist
+    Omaha
+    Omega
+    Oostanaula
+    Oregon 01
+    Oregon 02
+    Oregon 03
+    Oregon 04
+    Oregon 05
+    Otter Creek
+    Our Lady of Lourdes
+    Owltown
+    PA01
+    PEC
+    PG
+    Palmer 01
+    Panhandle 1
+    Panhandle 2
+    Panola
+    Panola Road
+    Panola Way Elem
+    Panther Creek
+    Paoli
+    Parkway Baptist Church
+    Parkway Elementary
+    Parrott
+    Pat Colwell
+    Pates Creek
+    Patriots Park
+    Patten
+    Patterson
+    Pavo
+    Peachcrest
+    Peachtree Middle
+    Pearson City
+    Pearson County
+    Pebble City
+    Pelham
+    Performing Arts Center
+    Perkins
+    Petersburg
+    Pike
+    Pine Bluff Baptist Church
+    Pine Chapel
+    Pine Grove Church
+    Pine Lake
+    Pine Log
+    Pine Mountain 01
+    Pine Mountain 02
+    Pine Mountain Valley
+    Pine Park
+    Pine Road
+    Pine Street
+    Pinehurst
+    Pineknot
+    Pineview 2
+    Piney Grove
+    Pitner 01
+    Pittman
+    Pittman Park
+    Pitts 3
+    Plain
+    Plains
+    Plainville
+    Planters Annex
+    Pleasant Grove
+    Pleasantdale Road
+    Poca
+    Ponce de Leon
+    Pondt
+    Pope
+    Pope 01
+    Poplar Springs
+    Poplar Springs Baptist
+    Portal
+    Post Oak 01
+    Poulan
+    Powder Springs 1A
+    Powder Springs 2A
+    Powder Springs 3A
+    Powell Park Rec Ctr
+    Power of God
+    Powers Ferry 01
+    Powersville
+    Prays Mill
+    Precinct 1
+    Precinct 2
+    Precinct 3
+    Precinct 4
+    Precinct 5
+    Precinct 6
+    Preston 1
+    Primary School
+    Princeton Elem
+    Proctors
+    Progressive Church
+    Psalmond
+    Putney 1st Baptist Church
+    Quillians
+    Quitman
+    R M Moore
+    RO
+    ROZR
+    RW01
+    RW02
+    RW03
+    RW03A
+    RW03B
+    RW03C
+    RW04
+    RW05
+    RW05A
+    RW06
+    RW07A
+    RW07B
+    RW08
+    RW09
+    RW09A
+    RW10
+    RW10A
+    RW11A
+    RW11B
+    RW12
+    RW12A
+    RW13
+    RW16
+    RW17
+    RW19
+    RW20
+    RW21
+    RW21A
+    RW22A
+    Rabun County
+    Racepond
+    Radium Middle School
+    Ragan
+    Rainbow Elem
+    Rainwater
+    Raleigh
+    Ramah
+    Rareover
+    Rawli
+    Ray City
+    Rayle City Hall
+    Raymond
+    Rebecca
+    Rec Center
+    Rec Dept
+    Recovery
+    Red Bud
+    Red Hill
+    Red Oak
+    Red Rock
+    Redan Elem
+    Redan Middle
+    Redan Road
+    Redan-Trotti Library
+    Redbone
+    Reed Creek
+    Reedy Springs
+    Rees Park
+    Refuge
+    Register
+    Rehoboth
+    Remington Esc
+    Resaca
+    Resource Center
+    Riceboro Youth Center
+    Richland
+    Riddleville
+    Ringgold
+    Rising Star
+    River Green
+    Riverbend
+    Riverdale 1
+    Riverdale 10
+    Riverdale 11
+    Riverdale 12
+    Riverdale 2
+    Riverdale 3
+    Riverdale 4
+    Riverdale 5
+    Riverdale 6
+    Riverdale 7
+    Riverdale 8
+    Riverdale 9
+    Robbins Branch Fire Station 10
+    Robert H. Harvey Elementary
+    Roberts
+    Robertstown-Helen
+    Robinson
+    Robinson Recreation Center
+    Rochelle North 1
+    Rochelle South 4
+    Rock Chapel Elem
+    Rock Chapel Road
+    Rock Spring
+    Rockbridge Elem
+    Rockbridge Road
+    Rockmart
+    Rocky Mount 01
+    Roopville
+    Rosecreek
+    Rosemont
+    Rossville
+    Roswell 01
+    Roswell 02
+    Rowland Elem
+    Rowland Road
+    Roy Road
+    Royston
+    Rural Fire Station #17
+    Russellville
+    Russom Elementary
+    Rutland 1
+    Rutland 2
+    S Paulding Middle School
+    SC01A
+    SC01B
+    SC01C
+    SC01D
+    SC02
+    SC02A
+    SC04
+    SC05A
+    SC05B
+    SC05C
+    SC05D
+    SC05E
+    SC05G
+    SC05H
+    SC05J
+    SC07A
+    SC07C
+    SC07D
+    SC07E
+    SC07F
+    SC08B
+    SC08C
+    SC08D
+    SC08E
+    SC08F
+    SC08G
+    SC08H
+    SC08I
+    SC08J
+    SC08K
+    SC09A
+    SC09B
+    SC09C
+    SC10
+    SC11A
+    SC11B
+    SC13
+    SC13A
+    SC13B
+    SC14A
+    SC15
+    SC15A
+    SC15B
+    SC16A
+    SC16B
+    SC17A
+    SC17B
+    SC17C
+    SC17D
+    SC18A
+    SC18B
+    SC18C
+    SC18D
+    SC19A
+    SC19B
+    SC19C
+    SC20
+    SC20A
+    SC211
+    SC212
+    SC23A
+    SC23B
+    SC23C
+    SC23D
+    SC27
+    SC29A
+    SC29C
+    SC30A
+    SC30B
+    SC31
+    SC32
+    SC33
+    SDA Church
+    SM
+    SP
+    SS01
+    SS01A
+    SS02A
+    SS02B
+    SS03
+    SS03A
+    SS04
+    SS04A
+    SS05
+    SS06
+    SS06A
+    SS07A
+    SS07B
+    SS07C
+    SS07D
+    SS08A
+    SS08B
+    SS08C
+    SS08D
+    SS08E
+    SS08F
+    SS09A
+    SS09B
+    SS11A
+    SS11B
+    SS11C
+    SS11D
+    SS12
+    SS13A
+    SS13B
+    SS14
+    SS15A
+    SS15B
+    SS15C
+    SS16
+    SS17
+    SS18A
+    SS18B
+    SS18C
+    SS19A
+    SS19B
+    SS20
+    SS22
+    SS26
+    SS29A
+    SS29B
+    SS29C
+    SS31
+    SSSI
+    ST
+    STATE FLOATING
+    Sagamore Hills Elem
+    Salacoa
+    Sale City
+    Salem
+    Salem Middle
+    Salvation Army
+    Sanders
+    Sandersville
+    Sandy Creek
+    Sandy Plains 01
+    Sandy Ridge
+    Sapelo Island
+    Sardis
+    Sasser
+    Savannah Rapids Pavilion
+    Scooterville
+    Scotland
+    Scott
+    Scotts Crossroads
+    Scottsboro
+    Screven
+    Second Beulah
+    Second Darrien
+    Second District
+    Second Mount Moriah Baptist Church
+    Second Mt. Carmel Baptist Church
+    Senior Citizen Center
+    Senior Citizens Center
+    Senoia
+    Seventh
+    Sewell Mill 01
+    Sewell Mill 03
+    Shadow Rock Elem
+    Shady Grove/Tarvers
+    Shakerag
+    Shakerag East
+    Shakerag West
+    Shallowford Falls 01
+    Shamrock
+    Shannon
+    Sharon
+    Sharpsburg
+    Sharptop
+    Shaw
+    Shaw-Robert Shaw Elem
+    Shellman
+    Shelton Elementary
+    Sherwood Elementary School
+    Shiloh
+    Shiloh Baptist Church
+    Shoal Creek
+    Shuck Pen
+    Siloam
+    Silver Lake
+    Simpson 01
+    Sinkhole
+    Sixes
+    Skeniah
+    Skinner
+    Skyland
+    Smith
+    Smithville
+    Smoke Rise
+    Smokey Road
+    Smyrna 1A
+    Smyrna 2A
+    Smyrna 3A
+    Smyrna 3B
+    Smyrna 4A
+    Smyrna 5A
+    Smyrna 6A
+    Smyrna 7A
+    Snapfinger Elem
+    Snapfinger Road
+    Snapfinger Road N
+    Snapfinger Road S
+    Social Circle
+    Sonoraville
+    Sope Creek 01
+    Sope Creek 02
+    Sope Creek 03
+    Soperton
+    South
+    South Dade
+    South Deshon
+    South Floyd
+    South Hairston
+    South Hampton
+    South Jackson
+    South Lowndes Recreation Center
+    South Milledgeville
+    South Monroe
+    South Newport
+    South Rome
+    South St. Marys
+    South Waynesboro
+    Southwest
+    Southwest Franklin
+    Sparks
+    Sparta 4C
+    Spence
+    Spirit of Peace Lutheran Church
+    Spring Hill
+    Spring Place
+    Springvale
+    St Andrews
+    St John/Shirley Winston
+    St Julians Episcopal
+    St Paul
+    St. Clair
+    St. George
+    St. Johns/Blackshear
+    St. Marys
+    St. Peter
+    St. Theresa's
+    Stagecoach
+    Stapleton
+    Stapleton Crossroads
+    Starrsmill
+    Statenville
+    Statesboro
+    Stephens County 1
+    Stephenson High
+    Stephenson Middle
+    Stevens Creek Church
+    Stevens Creek Church-Grovetown
+    Stewart
+    Stillmore
+    Stilson
+    Stockbridge Central
+    Stockbridge East-West
+    Stone Mill Elem
+    Stone Mountain Elem
+    Stone Mtn
+    Stone Mtn Champion
+    Stone Mtn Middle
+    Stonecrest Library
+    Stoneview Elem
+    Subligna
+    Suches
+    Sugar Creek
+    Sugar Valley
+    Summertown
+    Summerville
+    Sumner
+    Sunset/Sweat
+    Sutallee
+    Swainsboro
+    Swan Lake
+    Sweetwater
+    Sweetwater 01
+    Sycamore
+    Sylvester
+    Sylvester East
+    TH
+    THE
+    TI
+    TMS
+    TR
+    TWPK
+    TY TY
+    Tabernacle
+    Tabernacle Baptist Church
+    Tadmore
+    Tails Creek
+    Talbotton
+    Talking Rock
+    Tallapoosa
+    Tara
+    Tarboro
+    Tate
+    Taylor Farm Park
+    Taylorsville
+    Tazewell
+    Telfair
+    Temple City
+    Temple County
+    Tennille
+    Terrell Mill 01
+    Terry Mill
+    Tesnatee
+    The Bindery at Oakland
+    The Events Place
+    Thigpen
+    Third-Durand
+    Thomas Crossroads
+    Thompson
+    Tibet
+    Tifton Lodge
+    Tifton NE
+    Tifton NW
+    Tifton South
+    Tignall Sch Lunch Rm
+    Tilly Mill Road
+    Timber Ridge 01
+    Timber Trail
+    Timberridge
+    Toccoa
+    Toney Elem
+    Toonigh
+    Town
+    Town Creek
+    Town Rome
+    Town of Allenhurst
+    Townsend Ctr UWG
+    Trackrock
+    Train Depot
+    Trenton
+    Trinity Bapt Church
+    Trinity Church
+    Trion
+    Tucker
+    Tucker Library
+    Turin
+    Turkey Creek
+    Turner Elementary School
+    Turner Middle School
+    Tussahaw
+    Twentieth
+    Twin City
+    TyTy
+    Tyus
+    UC01A
+    UC01B
+    UC01D
+    UC01E
+    UC02A
+    UC02B
+    UC02C
+    UC02D
+    UC02E
+    UC02F
+    UC02G
+    UC031
+    UC032
+    UC035
+    UPP
+    UT
+    Unadilla
+    Union Hill
+    Union Point
+    Unity
+    Unity Grove
+    Univeter
+    Upper 19th
+    Upper 9th-Alvaton
+    Urquhart
+    Uvalda Precinct
+    VA
+    VFW
+    VHS
+    VR Gold Dust Park
+    VR Sports Complex
+    VSU
+    Valley
+    Valley Brook
+    Valley Plains
+    Vaughan 01
+    Veteran's Community Center
+    Victoria
+    Victory Baptist
+    Vidette
+    Vienna
+    Vilul
+    Vineville 1
+    Vineville 2
+    Vineville 3
+    Vineville 4
+    Vineville 5
+    Vineville 6
+    Vinings 01
+    Vinings 02
+    Vinings 03
+    Vinings 04
+    W Monroe
+    W T Adams Fire Sta #18
+    WS
+    Waco
+    Wade Green 01
+    Wade Green 02
+    Wadley
+    Wadsworth
+    Waleska
+    Walker Park
+    Walnut Grove
+    Warren Chapel
+    Warren Tech
+    Warrenton
+    Warrior
+    Warrior 1
+    Warrior 2
+    Warthen
+    Warwick
+    Washington
+    Watson Govt Complex
+    Waverly
+    Waverly Hall
+    Waynesville
+    Webbsboro
+    Welcome
+    Wellston Center
+    Wesley Chapel Library
+    Wesley Lakes
+    Wesley Methodist
+    West
+    West Acres Baptist
+    West Bainbridge
+    West Baldwin
+    West Berrien
+    West Brow
+    West Franklin
+    West Green
+    West Hardwick
+    West Jackson
+    West Kingsland
+    West Point
+    West Saint Marys
+    West Thomas
+    West Walton
+    West Whelchel
+    Westminster Presb Church
+    Westover High School
+    Westside
+    Westtown School
+    Wetlands Center
+    Whatley
+    Whelchel
+    Whigham
+    White
+    White Creek
+    White Oak
+    White Oak Park
+    White Plains
+    Whitehead 1
+    Whitehead 2
+    Whitesburg Rec Dept
+    Whitesville
+    Whitewater
+    Wildcat
+    Willacoochee
+    Willeo 01
+    Williamson
+    Willow Pond
+    Willowbend
+    Wilmonts
+    Wilson
+    Windgate
+    Winnona Park
+    Winokur
+    Winston Elementary School
+    Winters Chapel
+    Woodbine
+    Woodland
+    Woodlands
+    Woodlawn Bapt Church
+    Woodridge Elem
+    Woodrow Road
+    Woodstation
+    Woodstock
+    Woodward
+    Woolsey
+    Wrens
+    Wrightsville
+    Wyatt
+    Wyche
+    Wynbrooke Elem
+    Wynnbrook
+    Yatesville
+    Yellow Creek
+    Yonke
+    Yorkville Baptist Church
+    Young Famer's Bldg
+    Young Harris
+    Young Road
+    Youth Center
+    Yukon
+    Zebulon
+    Zena Drive
+    Zetto
+------
+

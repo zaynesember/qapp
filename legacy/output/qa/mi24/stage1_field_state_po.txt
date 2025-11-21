@@ -1,0 +1,57 @@
+---------------------------
+---------------------------
+STATE_PO CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+WRONG PO LENGTH
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+STATE_PO UNIQUENESS CHECK:
+    Detected 1 state_po: MI
+------
+
+------
+STATE PO FOR STATE CHECK:
+    *Expected state po code MI for MICHIGAN, found MI.
+------
+
+---------
+------
+ALL VALUES:
+    MI
+------
+

@@ -1,0 +1,246 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ALCONA', '26001')
+    ('ALGER', '26003')
+    ('ALLEGAN', '26005')
+    ('ALPENA', '26007')
+    ('ANTRIM', '26009')
+    ('ARENAC', '26011')
+    ('BARAGA', '26013')
+    ('BARRY', '26015')
+    ('BAY', '26017')
+    ('BENZIE', '26019')
+    ('BERRIEN', '26021')
+    ('BRANCH', '26023')
+    ('CALHOUN', '26025')
+    ('CASS', '26027')
+    ('CHARLEVOIX', '26029')
+    ('CHEBOYGAN', '26031')
+    ('CHIPPEWA', '26033')
+    ('CLARE', '26035')
+    ('CLINTON', '26037')
+    ('CRAWFORD', '26039')
+    ('DELTA', '26041')
+    ('DICKINSON', '26043')
+    ('EATON', '26045')
+    ('EMMET', '26047')
+    ('GENESEE', '26049')
+    ('GLADWIN', '26051')
+    ('GOGEBIC', '26053')
+    ('GRAND TRAVERSE', '26055')
+    ('GRATIOT', '26057')
+    ('HILLSDALE', '26059')
+    ('HOUGHTON', '26061')
+    ('HURON', '26063')
+    ('INGHAM', '26065')
+    ('IONIA', '26067')
+    ('IOSCO', '26069')
+    ('IRON', '26071')
+    ('ISABELLA', '26073')
+    ('JACKSON', '26075')
+    ('KALAMAZOO', '26077')
+    ('KALKASKA', '26079')
+    ('KENT', '26081')
+    ('KEWEENAW', '26083')
+    ('LAKE', '26085')
+    ('LAPEER', '26087')
+    ('LEELANAU', '26089')
+    ('LENAWEE', '26091')
+    ('LIVINGSTON', '26093')
+    ('LUCE', '26095')
+    ('MACKINAC', '26097')
+    ('MACOMB', '26099')
+    ('MANISTEE', '26101')
+    ('MARQUETTE', '26103')
+    ('MASON', '26105')
+    ('MECOSTA', '26107')
+    ('MENOMINEE', '26109')
+    ('MIDLAND', '26111')
+    ('MISSAUKEE', '26113')
+    ('MONROE', '26115')
+    ('MONTCALM', '26117')
+    ('MONTMORENCY', '26119')
+    ('MUSKEGON', '26121')
+    ('NEWAYGO', '26123')
+    ('OAKLAND', '26125')
+    ('OCEANA', '26127')
+    ('OGEMAW', '26129')
+    ('ONTONAGON', '26131')
+    ('OSCEOLA', '26133')
+    ('OSCODA', '26135')
+    ('OTSEGO', '26137')
+    ('OTTAWA', '26139')
+    ('PRESQUE ISLE', '26141')
+    ('ROSCOMMON', '26143')
+    ('SAGINAW', '26145')
+    ('SANILAC', '26151')
+    ('SCHOOLCRAFT', '26153')
+    ('SHIAWASSEE', '26155')
+    ('ST. CLAIR', '26147')
+    ('ST. JOSEPH', '26149')
+    ('TUSCOLA', '26157')
+    ('VAN BUREN', '26159')
+    ('WASHTENAW', '26161')
+    ('WAYNE', '26163')
+    ('WEXFORD', '26165')
+------
+
+---------
+------
+ALL VALUES:
+    ALCONA
+    ALGER
+    ALLEGAN
+    ALPENA
+    ANTRIM
+    ARENAC
+    BARAGA
+    BARRY
+    BAY
+    BENZIE
+    BERRIEN
+    BRANCH
+    CALHOUN
+    CASS
+    CHARLEVOIX
+    CHEBOYGAN
+    CHIPPEWA
+    CLARE
+    CLINTON
+    CRAWFORD
+    DELTA
+    DICKINSON
+    EATON
+    EMMET
+    GENESEE
+    GLADWIN
+    GOGEBIC
+    GRAND TRAVERSE
+    GRATIOT
+    HILLSDALE
+    HOUGHTON
+    HURON
+    INGHAM
+    IONIA
+    IOSCO
+    IRON
+    ISABELLA
+    JACKSON
+    KALAMAZOO
+    KALKASKA
+    KENT
+    KEWEENAW
+    LAKE
+    LAPEER
+    LEELANAU
+    LENAWEE
+    LIVINGSTON
+    LUCE
+    MACKINAC
+    MACOMB
+    MANISTEE
+    MARQUETTE
+    MASON
+    MECOSTA
+    MENOMINEE
+    MIDLAND
+    MISSAUKEE
+    MONROE
+    MONTCALM
+    MONTMORENCY
+    MUSKEGON
+    NEWAYGO
+    OAKLAND
+    OCEANA
+    OGEMAW
+    ONTONAGON
+    OSCEOLA
+    OSCODA
+    OTSEGO
+    OTTAWA
+    PRESQUE ISLE
+    ROSCOMMON
+    SAGINAW
+    SANILAC
+    SCHOOLCRAFT
+    SHIAWASSEE
+    ST. CLAIR
+    ST. JOSEPH
+    TUSCOLA
+    VAN BUREN
+    WASHTENAW
+    WAYNE
+    WEXFORD
+------
+

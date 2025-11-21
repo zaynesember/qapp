@@ -1,0 +1,22 @@
+~ output/qa/ak24_cleaned/SUMMARY.txt on 2025-11-19, begun at 01:35:34 ~
+
+SIMILARITY CHECK found potential issues in stage1_field_precinct.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SPECIAL CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SIMILARITY CHECK found potential issues in stage1_field_mode.txt
+CHARACTER CHECK found potential issues in stage1_field_county_fips.txt
+SPECIAL CHECK found potential issues in stage1_field_county_fips.txt
+SPECIAL CHECK found potential issues in stage1_field_jurisdiction_name.txt
+CHARACTER CHECK found potential issues in stage1_field_jurisdiction_fips.txt
+CHARACTER CHECK found potential issues in stage1_field_candidate.txt
+SIMILARITY CHECK found potential issues in stage1_field_district.txt
+SPECIAL CHECK found potential issues in stage1_field_dataverse.txt
+DUPLICATES CHECK found duplicated rows.
+DUPLICATES CHECK found nearly duplicated rows.
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names

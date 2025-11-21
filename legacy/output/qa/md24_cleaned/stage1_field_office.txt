@@ -1,0 +1,578 @@
+---------------------------
+---------------------------
+OFFICE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY NAMED PRESIDENT (MUST BE US PRESIDENT)
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO PRESIDENT: 
+    US PRESIDENT ||| [[PRESIDENT]]
+    BALTIMORE CITY CITY COUNCIL PRESIDENT ||| [[PRESIDENT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US SENATE: 
+    US SENATE ||| [[US SENAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US HOUSE: 
+    US HOUSE ||| [[US HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE SENATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE HOUSE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIEUTENANT GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY OF STATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUDITOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TREASURER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CORONER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SURVEYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER OF DEEDS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER OF WILL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMMISSIONER OR COMMITTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEMBER: 
+    BALTIMORE CITY CITY COUNCIL MEMBER ||| [[MEMBER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ADMINISTRATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSESSOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERVISOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COLLECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INSPECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXECUTIVE: 
+    CECIL COUNTY EXECUTIVE ||| [[EXECUTIVE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHIEF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERINTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMPTROLLER: 
+    COMPTROLLER ||| [[COMPTROLLER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DIRECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SHERIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSTABLE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ATTORNEY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPREME COURT: 
+    RETENTION STATE SUPREME COURT ||| [[SUPREME COURT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERIOR COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CIRCUIT COURT: 
+    JUDGE OF THE CIRCUIT COURT ||| [[CIRCUIT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO APPELLATE COURT: 
+    RETENTION JUDGE SPECIAL APPEALS ||| [[APPEAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO JUSTICE OF THE PEACE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUDGE: 
+    JUDGE OF THE CIRCUIT COURT ||| [[JUDGE]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[JUDGE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CLERK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BAILIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGISTRATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAYOR: 
+    HAGERSTOWN MAYOR ||| [[MAYOR]]
+    BALTIMORE CITY MAYOR ||| [[MAYOR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNCIL: 
+    CECIL COUNTY COUNCIL ||| [[COUNCIL]]
+    CUMBERLAND CITY COUNCIL ||| [[COUNCIL]]
+    HAGERSTOWN CITY COUNCIL ||| [[COUNCIL]]
+    PRINCE GEORGE'S COUNTY COUNCIL ||| [[COUNCIL]]
+    BALTIMORE CITY CITY COUNCIL MEMBER ||| [[COUNCIL]]
+    BALTIMORE CITY CITY COUNCIL PRESIDENT ||| [[COUNCIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHAIR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DELEGATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ALDERMAN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODERATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SERGEANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MARSHALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUTHORITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNIVERSITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO HOSPITAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEDICAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SCHOOL DISTRICT: 
+    BOARD OF EDUCATION ||| [[EDUCATION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TV DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO FIRE DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DEVELOPMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSERVATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO IMPROVEMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UTILITY DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NAVIGATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BOARD: 
+    BOARD OF EDUCATION ||| [[BOARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TRUSTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSISTANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STRAIGHT TICKET: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    HAGERSTOWN MAYOR ||| [[TOWN]]
+    BALTIMORE CITY MAYOR ||| [[CITY]]
+    CUMBERLAND CITY COUNCIL ||| [[CITY]]
+    HAGERSTOWN CITY COUNCIL ||| [[CITY]]
+    BALTIMORE CITY CITY COUNCIL MEMBER ||| [[CITY]]
+    BALTIMORE CITY CITY COUNCIL PRESIDENT ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    COMPTROLLER ||| [[CO ]]
+    CECIL COUNTY COUNCIL ||| [[COUNTY]]
+    CECIL COUNTY EXECUTIVE ||| [[COUNTY]]
+    PRINCE GEORGE'S COUNTY COUNCIL ||| [[COUNTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    RETENTION STATE SUPREME COURT ||| [[RETENTION]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[RETENTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    US PRESIDENT ||| [[PRES]]
+    RETENTION JUDGE SPECIAL APPEALS ||| [[SPECIAL]]
+    BALTIMORE CITY CITY COUNCIL PRESIDENT ||| [[PRES]]
+------
+
+------
+VALUES IN office WITH DUPLICATE WORDS: 
+    BALTIMORE CITY CITY COUNCIL MEMBER ||| {'CITY'}
+    BALTIMORE CITY CITY COUNCIL PRESIDENT ||| {'CITY'}
+------
+
+------
+SIMILAR VALUES IN office: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE OFFICES:
+    WRITEIN: ['US PRESIDENT' 'US SENATE' 'US HOUSE' 'BOARD OF EDUCATION'
+ 'JUDGE OF THE CIRCUIT COURT' 'BALTIMORE CITY MAYOR'
+ 'BALTIMORE CITY CITY COUNCIL PRESIDENT' 'COMPTROLLER'
+ 'BALTIMORE CITY CITY COUNCIL MEMBER' 'CECIL COUNTY EXECUTIVE'
+ 'CECIL COUNTY COUNCIL' "PRINCE GEORGE'S COUNTY COUNCIL"
+ 'HAGERSTOWN MAYOR' 'HAGERSTOWN CITY COUNCIL']
+------
+
+---------
+------
+ALL VALUES:
+    BALTIMORE CITY CITY COUNCIL MEMBER
+    BALTIMORE CITY CITY COUNCIL PRESIDENT
+    BALTIMORE CITY MAYOR
+    BOARD OF EDUCATION
+    CECIL COUNTY COUNCIL
+    CECIL COUNTY EXECUTIVE
+    COMPTROLLER
+    CUMBERLAND CITY COUNCIL
+    HAGERSTOWN CITY COUNCIL
+    HAGERSTOWN MAYOR
+    JUDGE OF THE CIRCUIT COURT
+    PRINCE GEORGE'S COUNTY COUNCIL
+    RETENTION JUDGE SPECIAL APPEALS
+    RETENTION STATE SUPREME COURT
+    US HOUSE
+    US PRESIDENT
+    US SENATE
+------
+

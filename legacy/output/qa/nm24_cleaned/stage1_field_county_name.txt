@@ -1,0 +1,146 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('BERNALILLO', '35001')
+    ('CATRON', '35003')
+    ('CHAVES', '35005')
+    ('CIBOLA', '35006')
+    ('COLFAX', '35007')
+    ('CURRY', '35009')
+    ('DE BACA', '35011')
+    ('DONA ANA', '35013')
+    ('EDDY', '35015')
+    ('GRANT', '35017')
+    ('GUADALUPE', '35019')
+    ('HARDING', '35021')
+    ('HIDALGO', '35023')
+    ('LEA', '35025')
+    ('LINCOLN', '35027')
+    ('LOS ALAMOS', '35028')
+    ('LUNA', '35029')
+    ('MCKINLEY', '35031')
+    ('MORA', '35033')
+    ('OTERO', '35035')
+    ('QUAY', '35037')
+    ('RIO ARRIBA', '35039')
+    ('ROOSEVELT', '35041')
+    ('SAN JUAN', '35045')
+    ('SAN MIGUEL', '35047')
+    ('SANDOVAL', '35043')
+    ('SANTA FE', '35049')
+    ('SIERRA', '35051')
+    ('SOCORRO', '35053')
+    ('TAOS', '35055')
+    ('TORRANCE', '35057')
+    ('UNION', '35059')
+    ('VALENCIA', '35061')
+------
+
+---------
+------
+ALL VALUES:
+    BERNALILLO
+    CATRON
+    CHAVES
+    CIBOLA
+    COLFAX
+    CURRY
+    DE BACA
+    DONA ANA
+    EDDY
+    GRANT
+    GUADALUPE
+    HARDING
+    HIDALGO
+    LEA
+    LINCOLN
+    LOS ALAMOS
+    LUNA
+    MCKINLEY
+    MORA
+    OTERO
+    QUAY
+    RIO ARRIBA
+    ROOSEVELT
+    SAN JUAN
+    SAN MIGUEL
+    SANDOVAL
+    SANTA FE
+    SIERRA
+    SOCORRO
+    TAOS
+    TORRANCE
+    UNION
+    VALENCIA
+------
+

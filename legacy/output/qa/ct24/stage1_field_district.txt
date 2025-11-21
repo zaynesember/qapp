@@ -1,0 +1,1732 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in district!
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    "" ||| [[""]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('""',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'REGISTRAR OF VOTERS', 'DEMOCRAT', 'WINDHAM', 'JANICE THURLOW', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10838 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'REGISTRAR OF VOTERS', 'REPUBLICAN', 'FAIRFIELD', 'LOUIS A DECILIO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'REGISTRAR OF VOTERS', 'REPUBLICAN', 'FAIRFIELD', 'LOUIS A DECILIO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'REGISTRAR OF VOTERS', 'REPUBLICAN', 'FAIRFIELD', 'LOUIS A DECILIO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('044',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'SAMANTHA DERENTHAL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'SAMANTHA DERENTHAL', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'SAMANTHA DERENTHAL', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('DISTRICT 5-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'ANNE DUBAY DAUPHINAIS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'ANNE DUBAY DAUPHINAIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Bd Of Ed Central Office - Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'WINDHAM', 'ANNE DUBAY DAUPHINAIS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('029',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MAE FLEXER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MAE FLEXER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MAE FLEXER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 792 elements)
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE SENATE', 'WORKING FAMILIES', 'WINDHAM', 'MAE FLEXER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE SENATE', 'WORKING FAMILIES', 'WINDHAM', 'MAE FLEXER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE SENATE', 'WORKING FAMILIES', 'WINDHAM', 'MAE FLEXER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('002',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US HOUSE', '""', 'WINDHAM', 'JEFFERY RUSSELL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US HOUSE', '""', 'WINDHAM', 'JEFFERY RUSSELL', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US HOUSE', '""', 'WINDHAM', 'JEFFERY RUSSELL', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3738 elements)
+        ('DISTRICT 9-YWCA', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'KRISTIN HOFFMAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'KRISTIN HOFFMAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'KRISTIN HOFFMAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('STATEWIDE',)
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US PRESIDENT', '""', 'WINDHAM', 'ANDRE MCNEIL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US PRESIDENT', '""', 'WINDHAM', 'ANDRE MCNEIL', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Bd Of Ed Central Office - Cafeteria', 'US PRESIDENT', '""', 'WINDHAM', 'ANDRE MCNEIL', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 81458 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'CHRISTOPHER S MURPHY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('015',)
+        ('DISTRICT 1-1-Cromwell High School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 450 elements)
+        ('DISTRICT 9-Wesley School - District 9', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'JUDGE OF PROBATE', 'DEMOCRAT', 'MIDDLESEX', 'PHRANCES LEVERTON SZEWCZYK', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('032',)
+        ('DISTRICT 1-1-Cromwell High School', 'STATE HOUSE', 'REPUBLICAN', 'MIDDLESEX', 'CHRISTIE M CARPINO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'STATE HOUSE', 'REPUBLICAN', 'MIDDLESEX', 'CHRISTIE M CARPINO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'STATE HOUSE', 'REPUBLICAN', 'MIDDLESEX', 'CHRISTIE M CARPINO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 234 elements)
+        ('DISTRICT 4-Polk School', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'ERIC C BERTHEL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Polk School', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'ERIC C BERTHEL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Polk School', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'ERIC C BERTHEL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('009',)
+        ('DISTRICT 1-1-Cromwell High School', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'MATTHEW LESSER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'MATTHEW LESSER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'MATTHEW LESSER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 378 elements)
+        ('DISTRICT 8-Verplanck School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JASON ROJAS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Verplanck School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JASON ROJAS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Verplanck School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JASON ROJAS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('001',)
+        ('DISTRICT 1-1-Cromwell High School', 'US HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'JOHN B LARSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'US HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'JOHN B LARSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cromwell High School', 'US HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'JOHN B LARSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3468 elements)
+        ('DISTRICT 9-YWCA', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JOHN B LARSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JOHN B LARSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JOHN B LARSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('131',)
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ELLEN S FOX', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ELLEN S FOX', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ELLEN S FOX', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 3-Southbury Community Building District #3', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ARNOLD JENSEN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Southbury Community Building District #3', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ARNOLD JENSEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Southbury Community Building District #3', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ARNOLD JENSEN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('017',)
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JORGE CABRERA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JORGE CABRERA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JORGE CABRERA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 624 elements)
+        ('DISTRICT 9-1-West Woods School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'JORGE CABRERA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-1-West Woods School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'JORGE CABRERA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-1-West Woods School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'JORGE CABRERA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('003',)
+        ('DISTRICT 1-1-Cross Street School - A', 'US HOUSE', '""', 'NEW HAVEN', 'LEO ALMONEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'US HOUSE', '""', 'NEW HAVEN', 'LEO ALMONEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Cross Street School - A', 'US HOUSE', '""', 'NEW HAVEN', 'LEO ALMONEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6948 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL MASSEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL MASSEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL MASSEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('125',)
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JASON BENNETT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JASON BENNETT', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JASON BENNETT', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 3-Saxe Middle School South', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', "TOM O'DEA", 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Saxe Middle School South', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', "TOM O'DEA", 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Saxe Middle School South', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', "TOM O'DEA", 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('025',)
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'BOB DUFF', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'BOB DUFF', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'BOB DUFF', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 450 elements)
+        ('DISTRICT 9-New Britain Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMIE VAUGHAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMIE VAUGHAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMIE VAUGHAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('004',)
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'US HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JIM HIMES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'US HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JIM HIMES', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-District 1 - 35 Leroy Avenue Municipal Building', 'US HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JIM HIMES', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2880 elements)
+        ('DISTRICT 9-Salvation Army Community Center', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL GOLDSTEIN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL GOLDSTEIN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'US HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MICHAEL GOLDSTEIN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('021',)
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MIKE DEMICCO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MIKE DEMICCO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MIKE DEMICCO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 252 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KEVIN C KELLY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KEVIN C KELLY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KEVIN C KELLY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('005',)
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'DEREK SLAP', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'DEREK SLAP', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Irving Robbins School - District 1 Precinct 1', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'DEREK SLAP', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 4885 elements)
+        ('DISTRICT 9-New Britain Senior Center', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JAHANA HAYES', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JAHANA HAYES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'US HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JAHANA HAYES', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('151',)
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HECTOR ARZENO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HECTOR ARZENO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HECTOR ARZENO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 78 elements)
+        ('DISTRICT 8-Central Middle School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TOD LAUDONIA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Central Middle School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TOD LAUDONIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Central Middle School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TOD LAUDONIA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('036',)
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'NICK SIMMONS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'NICK SIMMONS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-1-Julian Curtiss School 1a', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'NICK SIMMONS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 534 elements)
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'RYAN FAZIO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'RYAN FAZIO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'RYAN FAZIO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('114',)
+        ('DISTRICT 1-14-Irving Elementary School - 114', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY WELANDER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-14-Irving Elementary School - 114', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY WELANDER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-14-Irving Elementary School - 114', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY WELANDER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 7-2-Dunbar Hill School', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'MARY WELANDER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-2-Dunbar Hill School', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'MARY WELANDER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-2-Dunbar Hill School', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'MARY WELANDER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('141',)
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SHEILA QUINN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SHEILA QUINN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-District 1 - 35 Leroy Avenue Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SHEILA QUINN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('DISTRICT 6-District 6 - Mather Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TRACY MARRA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-District 6 - Mather Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TRACY MARRA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-District 6 - Mather Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TRACY MARRA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('006',)
+        ('DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'RICK LOPES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'RICK LOPES', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Irving Robbins School - District 1 Precinct 2', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'RICK LOPES', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 432 elements)
+        ('DISTRICT 9-New Britain Senior Center', 'STATE SENATE', 'WORKING FAMILIES', 'HARTFORD', 'RICK LOPES', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'STATE SENATE', 'WORKING FAMILIES', 'HARTFORD', 'RICK LOPES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-New Britain Senior Center', 'STATE SENATE', 'WORKING FAMILIES', 'HARTFORD', 'RICK LOPES', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('018',)
+        ('DISTRICT 1-2-King Philip School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JILLIAN GILCHREST', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-King Philip School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JILLIAN GILCHREST', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-King Philip School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JILLIAN GILCHREST', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 372 elements)
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE SENATE', 'REPUBLICAN', 'NEW LONDON', 'HEATHER SOMERS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE SENATE', 'REPUBLICAN', 'NEW LONDON', 'HEATHER SOMERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE SENATE', 'REPUBLICAN', 'NEW LONDON', 'HEATHER SOMERS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('094',)
+        ('DISTRICT 1-2-Main Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Main Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Main Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('DISTRICT 5-2-Board Of Education Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-2-Board Of Education Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-2-Board Of Education Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'STEVEN B WINTER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('011',)
+        ('DISTRICT 1-2-Main Library', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'MARTIN M LOONEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Main Library', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'MARTIN M LOONEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Main Library', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'MARTIN M LOONEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 342 elements)
+        ('DISTRICT 9-West Woods School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN OROSCO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN OROSCO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN OROSCO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('059',)
+        ('DISTRICT 1-2-Town Hall Annex', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'RICK LEBORIOUS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Town Hall Annex', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'RICK LEBORIOUS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-2-Town Hall Annex', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'RICK LEBORIOUS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 459-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'CAROL HALL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 459-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'CAROL HALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 459-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'CAROL HALL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('123',)
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'THOMAS TESORO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'THOMAS TESORO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'THOMAS TESORO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 7-23-Christian Heritage School 123', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'THOMAS TESORO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-23-Christian Heritage School 123', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'THOMAS TESORO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-23-Christian Heritage School 123', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'THOMAS TESORO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('022',)
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE SENATE', '""', 'FAIRFIELD', 'LOUIS ANTHONY BEVILACQUA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE SENATE', '""', 'FAIRFIELD', 'LOUIS ANTHONY BEVILACQUA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-23-Daniels Farm School - 123', 'STATE SENATE', '""', 'FAIRFIELD', 'LOUIS ANTHONY BEVILACQUA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 750 elements)
+        ('DISTRICT 7-Thalberg School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'REBECCA MARTINEZ', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Thalberg School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'REBECCA MARTINEZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Thalberg School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'REBECCA MARTINEZ', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('070',)
+        ('DISTRICT 1-3-Andrew Avenue School A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JEFF LITKE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-Andrew Avenue School A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JEFF LITKE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-Andrew Avenue School A', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JEFF LITKE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 3-2-City Hill Middle School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'SETH BRONKO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-2-City Hill Middle School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'SETH BRONKO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-2-City Hill Middle School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'SETH BRONKO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('099',)
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 5-Hays School 5', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Hays School 5', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Hays School 5', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE ZULLO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('034',)
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'BRANDI MANDATO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'BRANDI MANDATO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-3-East Farm Village 1-S', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'BRANDI MANDATO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 798 elements)
+        ('DISTRICT 9-Park And Recreation Department', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'BRANDI MANDATO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Park And Recreation Department', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'BRANDI MANDATO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Park And Recreation Department', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'BRANDI MANDATO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('138',)
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KENNETH M GUCKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KENNETH M GUCKER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KENNETH M GUCKER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KENNETH M GUCKER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KENNETH M GUCKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KENNETH M GUCKER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('024',)
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'JULIE KUSHNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'JULIE KUSHNER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-38-Danbury High School Gym District 001-38', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'JULIE KUSHNER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 570 elements)
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'JULIE KUSHNER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'JULIE KUSHNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-38-Westside Middle School Academy District 007-38', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'JULIE KUSHNER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('104',)
+        ('DISTRICT 1-4-Irving Elementary School - 104', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KARA ROCHELLE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-4-Irving Elementary School - 104', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KARA ROCHELLE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-4-Irving Elementary School - 104', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KARA ROCHELLE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 186 elements)
+        ('DISTRICT 7-Ward 7 Mead School Cafe', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KARA ROCHELLE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ward 7 Mead School Cafe', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KARA ROCHELLE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ward 7 Mead School Cafe', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KARA ROCHELLE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('047',)
+        ('DISTRICT 1-47-1 Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'AARON SPRUANCE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-47-1 Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'AARON SPRUANCE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-47-1 Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'AARON SPRUANCE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 2-Lisbon Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'DOUG DUBITSKY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Lisbon Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'DOUG DUBITSKY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Lisbon Senior Center', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'DOUG DUBITSKY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('105',)
+        ('DISTRICT 1-5-Irving Elementary School - 105', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-5-Irving Elementary School - 105', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-5-Irving Elementary School - 105', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('DISTRICT 3-District 3 Chatfield-Lopresti School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-District 3 Chatfield-Lopresti School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-District 3 Chatfield-Lopresti School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'NICOLE KLARIDES-DITRIA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('106',)
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MICHELLE EMBREE KU', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MICHELLE EMBREE KU', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MICHELLE EMBREE KU', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 3-6-Reed Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MITCH BOLINSKY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-6-Reed Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MITCH BOLINSKY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-6-Reed Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'MITCH BOLINSKY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('028',)
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'ROB BLANCHARD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'ROB BLANCHARD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-6-Newtown Middle School', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'ROB BLANCHARD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 570 elements)
+        ('DISTRICT 7-Windham Center Fire Dept', 'JUDGE OF PROBATE', 'REPUBLICAN', 'WINDHAM', 'DOUGLAS T STEARNS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'JUDGE OF PROBATE', 'REPUBLICAN', 'WINDHAM', 'DOUGLAS T STEARNS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'JUDGE OF PROBATE', 'REPUBLICAN', 'WINDHAM', 'DOUGLAS T STEARNS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('107',)
+        ('DISTRICT 1-7-Middle School Gym A', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AARON ZIMMER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-7-Middle School Gym A', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AARON ZIMMER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-7-Middle School Gym A', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AARON ZIMMER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 4-Stony Hill Fire House -4', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'AARON ZIMMER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Stony Hill Fire House -4', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'AARON ZIMMER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Stony Hill Fire House -4', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'AARON ZIMMER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('083',)
+        ('DISTRICT 1-83-Willard School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JACK FAZZINO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-83-Willard School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JACK FAZZINO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-83-Willard School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JACK FAZZINO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 6-2-Highland School - Dist. 6-2', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JACK FAZZINO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-2-Highland School - Dist. 6-2', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JACK FAZZINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-2-Highland School - Dist. 6-2', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JACK FAZZINO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('109',)
+        ('DISTRICT 1-9-Danbury High School Gym District 001-09', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FARLEY A SANTOS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-9-Danbury High School Gym District 001-09', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FARLEY A SANTOS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-9-Danbury High School Gym District 001-09', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FARLEY A SANTOS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 5-9-War Memorial Gym District 005-09', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'FARLEY A SANTOS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-9-War Memorial Gym District 005-09', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'FARLEY A SANTOS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-9-War Memorial Gym District 005-09', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'FARLEY A SANTOS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('055',)
+        ('DISTRICT 1-Andover Elementary School Gym', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'AMANDA VENEZIANO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Andover Elementary School Gym', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'AMANDA VENEZIANO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Andover Elementary School Gym', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'AMANDA VENEZIANO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 4-District 4 Gideon Welles School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'AMANDA VENEZIANO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-District 4 Gideon Welles School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'AMANDA VENEZIANO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-District 4 Gideon Welles School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'AMANDA VENEZIANO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('008',)
+        ('DISTRICT 1-Avon High School - Gymnasium', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'PAUL HONIG', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Avon High School - Gymnasium', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'PAUL HONIG', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Avon High School - Gymnasium', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'PAUL HONIG', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 558 elements)
+        ('DISTRICT 8-Assembly Hall', 'STATE SENATE', 'WORKING FAMILIES', 'LITCHFIELD', 'PAUL HONIG', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Assembly Hall', 'STATE SENATE', 'WORKING FAMILIES', 'LITCHFIELD', 'PAUL HONIG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Assembly Hall', 'STATE SENATE', 'WORKING FAMILIES', 'LITCHFIELD', 'PAUL HONIG', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('062',)
+        ('DISTRICT 1-Barkhamsted Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'KIM BECKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Barkhamsted Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'KIM BECKER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Barkhamsted Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'KIM BECKER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 2-South End Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'KIM BECKER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-South End Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'KIM BECKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-South End Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'KIM BECKER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('066',)
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'SHARON SHERMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'SHARON SHERMAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'SHARON SHERMAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 4-Northfield Fire House 4', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'KAREN REDDINGTON-HUGHES', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Northfield Fire House 4', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'KAREN REDDINGTON-HUGHES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Northfield Fire House 4', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'KAREN REDDINGTON-HUGHES', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('030',)
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE SENATE', 'DEMOCRAT', 'LITCHFIELD', 'JUSTIN POTTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE SENATE', 'DEMOCRAT', 'LITCHFIELD', 'JUSTIN POTTER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Bethlehem Town Office Building Room 1', 'STATE SENATE', 'DEMOCRAT', 'LITCHFIELD', 'JUSTIN POTTER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 537 elements)
+        ('DISTRICT 9-Hatton School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'DONNA M VEACH', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Hatton School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'DONNA M VEACH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Hatton School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'DONNA M VEACH', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('050',)
+        ('DISTRICT 1-Brooklyn Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'PAT BOYD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Brooklyn Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'PAT BOYD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Brooklyn Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'PAT BOYD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 36 elements)
+        ('DISTRICT 3-Mansfield Library/ Buchanan Auditorium', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'PAT BOYD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Mansfield Library/ Buchanan Auditorium', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'PAT BOYD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Mansfield Library/ Buchanan Auditorium', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'PAT BOYD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('098',)
+        ('DISTRICT 1-Calvin Leete School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MOIRA RADER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Calvin Leete School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MOIRA RADER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Calvin Leete School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MOIRA RADER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MOIRA RADER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MOIRA RADER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MOIRA RADER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('012',)
+        ('DISTRICT 1-Calvin Leete School', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'CHRISTINE COHEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Calvin Leete School', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'CHRISTINE COHEN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Calvin Leete School', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'CHRISTINE COHEN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 594 elements)
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'CHRISTINE COHEN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'CHRISTINE COHEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Walsh Intermediate School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'CHRISTINE COHEN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('064',)
+        ('DISTRICT 1-Camp Cochipianee', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MARIA HORN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Camp Cochipianee', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MARIA HORN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Camp Cochipianee', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MARIA HORN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 177 elements)
+        ('DISTRICT 32-Town Hall Main Hall', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'MARIA HORN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 32-Town Hall Main Hall', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'MARIA HORN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 32-Town Hall Main Hall', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'MARIA HORN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('069',)
+        ('DISTRICT 1-Center Fire House District #1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ED EDELSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Center Fire House District #1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ED EDELSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Center Fire House District #1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ED EDELSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 8-Walnut Hill Gymnasium', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JASON BUCHSBAUM', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Walnut Hill Gymnasium', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JASON BUCHSBAUM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Walnut Hill Gymnasium', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JASON BUCHSBAUM', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('035',)
+        ('DISTRICT 1-Chaplin Volunteer Fire Department', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MERRY C GARRETT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Chaplin Volunteer Fire Department', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MERRY C GARRETT', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Chaplin Volunteer Fire Department', 'STATE SENATE', 'DEMOCRAT', 'WINDHAM', 'MERRY C GARRETT', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 618 elements)
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE SENATE', 'WORKING FAMILIES', 'TOLLAND', 'MERRY C GARRETT', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE SENATE', 'WORKING FAMILIES', 'TOLLAND', 'MERRY C GARRETT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE SENATE', 'WORKING FAMILIES', 'TOLLAND', 'MERRY C GARRETT', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('103',)
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('DISTRICT 9-2-West Woods School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-2-West Woods School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-2-West Woods School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LIZ LINEHAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('013',)
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE SENATE', '""', 'NEW HAVEN', 'GWEN SAMUEL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE SENATE', '""', 'NEW HAVEN', 'GWEN SAMUEL', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Cheshire High School - Dist. 1', 'STATE SENATE', '""', 'NEW HAVEN', 'GWEN SAMUEL', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 786 elements)
+        ('DISTRICT 9-Wesley School - District 9', 'STATE SENATE', 'WORKING FAMILIES', 'MIDDLESEX', 'JAN HOCHADEL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'STATE SENATE', 'WORKING FAMILIES', 'MIDDLESEX', 'JAN HOCHADEL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'STATE SENATE', 'WORKING FAMILIES', 'MIDDLESEX', 'JAN HOCHADEL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('033',)
+        ('DISTRICT 1-Chester Town Office Building', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'NORM NEEDLEMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Chester Town Office Building', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'NORM NEEDLEMAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Chester Town Office Building', 'STATE SENATE', 'DEMOCRAT', 'MIDDLESEX', 'NORM NEEDLEMAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 420 elements)
+        ("DISTRICT 8-American Legion Hall' Post  75 - District 8", 'STATE HOUSE', 'WE THE PEOPLE', 'MIDDLESEX', 'ROBERT KYLE HOGGARD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ("DISTRICT 8-American Legion Hall' Post  75 - District 8", 'STATE HOUSE', 'WE THE PEOPLE', 'MIDDLESEX', 'ROBERT KYLE HOGGARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ("DISTRICT 8-American Legion Hall' Post  75 - District 8", 'STATE HOUSE', 'WE THE PEOPLE', 'MIDDLESEX', 'ROBERT KYLE HOGGARD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('115',)
+        ('DISTRICT 1-City Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-City Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-City Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('DISTRICT 8-Mackrille School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Mackrille School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Mackrille School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'WILLIAM J HEFFERNAN III', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('010',)
+        ('DISTRICT 1-City Hall', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'GARY WINFIELD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-City Hall', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'GARY WINFIELD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-City Hall', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'GARY WINFIELD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 654 elements)
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'GARY WINFIELD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'GARY WINFIELD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE SENATE', 'WORKING FAMILIES', 'NEW HAVEN', 'GARY WINFIELD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('048',)
+        ('DISTRICT 1-Colchester Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Colchester Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Colchester Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 3-Bacon Academy', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Bacon Academy', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Bacon Academy', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTOPHER RIVERS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('063',)
+        ('DISTRICT 1-Colebrook Town Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Colebrook Town Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Colebrook Town Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('DISTRICT 2-Coe Park', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Coe Park', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Coe Park', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JAY M CASE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('102',)
+        ('DISTRICT 1-Community House', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROBIN COMEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Community House', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROBIN COMEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Community House', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROBIN COMEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 6-Mary T. Murphy School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'ROBIN COMEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Mary T. Murphy School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'ROBIN COMEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Mary T. Murphy School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'ROBIN COMEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('101',)
+        ('DISTRICT 1-District 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOHN-MICHAEL PARKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOHN-MICHAEL PARKER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOHN-MICHAEL PARKER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 3-Durham Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'JOHN-MICHAEL PARKER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Durham Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'JOHN-MICHAEL PARKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Durham Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'JOHN-MICHAEL PARKER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('027',)
+        ('DISTRICT 1-District 1 Mortensen Community Center', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'GARY TURCO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1 Mortensen Community Center', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'GARY TURCO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1 Mortensen Community Center', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'GARY TURCO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 318 elements)
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'NICOLA TARZIA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'NICOLA TARZIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'NICOLA TARZIA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('026',)
+        ('DISTRICT 1-District 1-0 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'CECI MAHER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1-0 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'CECI MAHER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-District 1-0 35 Leroy Avenue Municipal Building', 'STATE SENATE', 'DEMOCRAT', 'FAIRFIELD', 'CECI MAHER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 498 elements)
+        ('DISTRICT 6-East School Music Room', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KAMI EVANS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-East School Music Room', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KAMI EVANS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-East School Music Room', 'STATE SENATE', 'REPUBLICAN', 'FAIRFIELD', 'KAMI EVANS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('037',)
+        ('DISTRICT 1-East Lyme High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK MENAPACE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Lyme High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK MENAPACE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Lyme High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK MENAPACE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 228 elements)
+        ('DISTRICT 9-West Woods School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DOLAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DOLAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'JUDGE OF PROBATE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DOLAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('020',)
+        ('DISTRICT 1-East Lyme High School', 'STATE SENATE', 'DEMOCRAT', 'NEW LONDON', 'MARTHA MARX', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Lyme High School', 'STATE SENATE', 'DEMOCRAT', 'NEW LONDON', 'MARTHA MARX', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Lyme High School', 'STATE SENATE', 'DEMOCRAT', 'NEW LONDON', 'MARTHA MARX', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 498 elements)
+        ('DISTRICT 6-District 6 John Wallace Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'KATE FARRAR', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-District 6 John Wallace Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'KATE FARRAR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-District 6 John Wallace Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'KATE FARRAR', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('111',)
+        ('DISTRICT 1-East Ridge Middle School - 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AIMEE BERGER-GIRVALO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Ridge Middle School - 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AIMEE BERGER-GIRVALO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-East Ridge Middle School - 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'AIMEE BERGER-GIRVALO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 3-Yanity Gym - 3', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'COLETTE KABASAKALIAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Yanity Gym - 3', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'COLETTE KABASAKALIAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Yanity Gym - 3', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'COLETTE KABASAKALIAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('113',)
+        ('DISTRICT 1-Elizabeth Shelton School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Elizabeth Shelton School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Elizabeth Shelton School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 6 elements)
+        ('DISTRICT 2-Shelton Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Shelton Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Shelton Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JASON PERILLO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('057',)
+        ('DISTRICT 1-Ellington High School Gymnasium Front', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'JAIME S FOSTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Ellington High School Gymnasium Front', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'JAIME S FOSTER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Ellington High School Gymnasium Front', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'JAIME S FOSTER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 3-Ellington High School Gymnasium Back', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'JENNIFER DZEN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Ellington High School Gymnasium Back', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'JENNIFER DZEN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Ellington High School Gymnasium Back', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'JENNIFER DZEN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('019',)
+        ('DISTRICT 1-Elmer Thienes Elementary School', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CATHERINE A OSTEN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Elmer Thienes Elementary School', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CATHERINE A OSTEN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Elmer Thienes Elementary School', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CATHERINE A OSTEN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 474 elements)
+        ('DISTRICT 8-Hall High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'TAMMY EXUM', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Hall High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'TAMMY EXUM', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Hall High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'TAMMY EXUM', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('108',)
+        ('DISTRICT 1-Emerg Services Facility - Firehouse- Upper Level', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE WEISBERG', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Emerg Services Facility - Firehouse- Upper Level', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE WEISBERG', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Emerg Services Facility - Firehouse- Upper Level', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE WEISBERG', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 3-Odd Fellows Lodge', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'ANNE WEISBERG', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Odd Fellows Lodge', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'ANNE WEISBERG', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Odd Fellows Lodge', 'STATE HOUSE', 'WORKING FAMILIES', 'LITCHFIELD', 'ANNE WEISBERG', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('112',)
+        ('DISTRICT 1-Fawn Hollow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BETH CLIFF', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Fawn Hollow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BETH CLIFF', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Fawn Hollow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BETH CLIFF', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 4-Masuk High School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BETH CLIFF', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Masuk High School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BETH CLIFF', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Masuk High School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BETH CLIFF', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('043',)
+        ('DISTRICT 1-Gallup Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'TY LAMB', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Gallup Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'TY LAMB', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Gallup Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'TY LAMB', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 5-Board Of Education Administration Building', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'GREG HOWARD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Board Of Education Administration Building', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'GREG HOWARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Board Of Education Administration Building', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'GREG HOWARD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('007',)
+        ('DISTRICT 1-Granby Memorial High School - Community Gym', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CYNTHIA MANGINI', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Granby Memorial High School - Community Gym', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CYNTHIA MANGINI', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Granby Memorial High School - Community Gym', 'STATE SENATE', 'DEMOCRAT', 'HARTFORD', 'CYNTHIA MANGINI', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 384 elements)
+        ('DISTRICT 9-YWCA', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOSHUA M HALL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOSHUA M HALL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-YWCA', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOSHUA M HALL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('045',)
+        ('DISTRICT 1-Griswold High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KAYLA THOMPSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Griswold High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KAYLA THOMPSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Griswold High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KAYLA THOMPSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 2-Juliet Long School', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'BRIAN L LANOUE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Juliet Long School', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'BRIAN L LANOUE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Juliet Long School', 'STATE HOUSE', 'REPUBLICAN', 'NEW LONDON', 'BRIAN L LANOUE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('041',)
+        ('DISTRICT 1-Groton Public Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Groton Public Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Groton Public Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Robert E Fitch Sr High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'AUNDRE BUMGARDNER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('016',)
+        ('DISTRICT 1-Henry James Memorial School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MELISSA OSBORNE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Henry James Memorial School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MELISSA OSBORNE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Henry James Memorial School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MELISSA OSBORNE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 420 elements)
+        ('DISTRICT 9-Hatton School', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'ROB SAMPSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Hatton School', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'ROB SAMPSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Hatton School', 'STATE SENATE', 'REPUBLICAN', 'HARTFORD', 'ROB SAMPSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('014',)
+        ('DISTRICT 1-High Plains Community Center - Gym', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JAMES MARONEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-High Plains Community Center - Gym', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JAMES MARONEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-High Plains Community Center - Gym', 'STATE SENATE', 'DEMOCRAT', 'NEW HAVEN', 'JAMES MARONEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 414 elements)
+        ('DISTRICT 9-Seth Haley School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN JOHNSTONE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Seth Haley School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN JOHNSTONE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Seth Haley School', 'STATE SENATE', 'REPUBLICAN', 'NEW HAVEN', 'STEVEN JOHNSTONE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('086',)
+        ('DISTRICT 1-Jerome Harrison Elementary School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Jerome Harrison Elementary School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Jerome Harrison Elementary School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('DISTRICT 4-Melissa Jones School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Melissa Jones School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Melissa Jones School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'VINCENT J CANDELORA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('150',)
+        ('DISTRICT 1-Julian Curtiss School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE MESKERS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Julian Curtiss School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE MESKERS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Julian Curtiss School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE MESKERS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 6-Old Greenwich School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'PAUL CAPPIALI', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Old Greenwich School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'PAUL CAPPIALI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Old Greenwich School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'PAUL CAPPIALI', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('076',)
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'STEPHEN SIMONIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'STEPHEN SIMONIN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'STEPHEN SIMONIN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 8-Assembly Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOHN PISCOPO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Assembly Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOHN PISCOPO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-Assembly Hall', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOHN PISCOPO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('031',)
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'HENRI MARTIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'HENRI MARTIN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lena Morton Art Gallery', 'STATE SENATE', 'REPUBLICAN', 'LITCHFIELD', 'HENRI MARTIN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 144 elements)
+        ('DISTRICT 9-District 9 - Hopewell School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'JILL BARRY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-District 9 - Hopewell School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'JILL BARRY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-District 9 - Hopewell School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'JILL BARRY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('023',)
+        ('DISTRICT 1-Lyme Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'JANE WISIALOWSKI', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lyme Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'JANE WISIALOWSKI', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Lyme Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'JANE WISIALOWSKI', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 546 elements)
+        ('DISTRICT 40-13-Franklin School 121 23', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'HERRON GASTON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 40-13-Franklin School 121 23', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'HERRON GASTON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 40-13-Franklin School 121 23', 'STATE SENATE', 'WORKING FAMILIES', 'FAIRFIELD', 'HERRON GASTON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('100',)
+        ('DISTRICT 1-Macdonough School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'KAI JUANNA BELTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Macdonough School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'KAI JUANNA BELTON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Macdonough School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'MIDDLESEX', 'KAI JUANNA BELTON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('DISTRICT 9-Wesley School - District 9', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'KAI JUANNA BELTON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'KAI JUANNA BELTON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Wesley School - District 9', 'STATE HOUSE', 'WORKING FAMILIES', 'MIDDLESEX', 'KAI JUANNA BELTON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('054',)
+        ('DISTRICT 1-Mansfield Community Center', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'GREGG HADDAD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Mansfield Community Center', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'GREGG HADDAD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Mansfield Community Center', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'GREGG HADDAD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 4-Annie E. Vinton School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'GREGG HADDAD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Annie E. Vinton School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'GREGG HADDAD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Annie E. Vinton School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'GREGG HADDAD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('061',)
+        ('DISTRICT 1-Mario Gatti Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MICHAEL MALLOY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Mario Gatti Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MICHAEL MALLOY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Mario Gatti Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MICHAEL MALLOY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('DISTRICT 1-Suffield Middle School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'TAMI ZAWISTOWSKI', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Suffield Middle School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'TAMI ZAWISTOWSKI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Suffield Middle School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'TAMI ZAWISTOWSKI', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('088',)
+        ('DISTRICT 1-Miller Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Miller Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Miller Library', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 9-West Woods School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-West Woods School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'JOSHUA ELLIOTT', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('051',)
+        ('DISTRICT 1-Municipal Complex Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'RENEE LAPALME WALDRON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Municipal Complex Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'RENEE LAPALME WALDRON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Municipal Complex Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'WINDHAM', 'RENEE LAPALME WALDRON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 210 elements)
+        ('DISTRICT 4-East Thompson Fire Station', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'RENEE LAPALME WALDRON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-East Thompson Fire Station', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'RENEE LAPALME WALDRON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-East Thompson Fire Station', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'RENEE LAPALME WALDRON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('039',)
+        ('DISTRICT 1-New London Stm High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'ANTHONY NOLAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-New London Stm High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'ANTHONY NOLAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-New London Stm High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'ANTHONY NOLAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('DISTRICT 2-Harbor School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'ANTHONY NOLAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Harbor School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'ANTHONY NOLAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Harbor School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'ANTHONY NOLAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('056',)
+        ('DISTRICT 1-North East School', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'KEVIN BROWN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-North East School', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'KEVIN BROWN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-North East School', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'KEVIN BROWN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 3-Skinner Road School 56', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'KEVIN BROWN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Skinner Road School 56', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'KEVIN BROWN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Skinner Road School 56', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'KEVIN BROWN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('067',)
+        ('DISTRICT 1-Northville School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'ALEXANDRA THOMAS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Northville School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'ALEXANDRA THOMAS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Northville School', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'ALEXANDRA THOMAS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 7-Sarah Noble Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'WILLIAM BUCKBEE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Sarah Noble Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'WILLIAM BUCKBEE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Sarah Noble Intermediate School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'WILLIAM BUCKBEE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('084',)
+        ('DISTRICT 1-Platt High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Platt High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Platt High School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('DISTRICT 5-Immanuel Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Immanuel Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Immanuel Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'HILDA E SANTIAGO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('090',)
+        ('DISTRICT 1-Pond Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'REBECCA HYLAND', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Pond Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'REBECCA HYLAND', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Pond Hill School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'REBECCA HYLAND', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 9-Park And Recreation Department', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'REBECCA HYLAND', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Park And Recreation Department', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'REBECCA HYLAND', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Park And Recreation Department', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'REBECCA HYLAND', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('089',)
+        ('DISTRICT 1-Prospect Firehouse', 'STATE HOUSE', '""', 'NEW HAVEN', 'STUART R KORCHIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Prospect Firehouse', 'STATE HOUSE', '""', 'NEW HAVEN', 'STUART R KORCHIN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Prospect Firehouse', 'STATE HOUSE', '""', 'NEW HAVEN', 'STUART R KORCHIN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 78 elements)
+        ('DISTRICT 89-2-Wendell Cross School 5th Cong', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'LEZLYE ZUPKUS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 89-2-Wendell Cross School 5th Cong', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'LEZLYE ZUPKUS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 89-2-Wendell Cross School 5th Cong', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'LEZLYE ZUPKUS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('087',)
+        ('DISTRICT 1-Recreation Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KIERAN AHERN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Recreation Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KIERAN AHERN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Recreation Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'KIERAN AHERN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 5-Clintonville Elementary School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KIERAN AHERN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Clintonville Elementary School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KIERAN AHERN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Clintonville Elementary School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'KIERAN AHERN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('135',)
+        ('DISTRICT 1-Redding Community Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE HUGHES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Redding Community Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE HUGHES', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Redding Community Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANNE HUGHES', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 1-Weston Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'ANNE HUGHES', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Weston Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'ANNE HUGHES', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Weston Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'ANNE HUGHES', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('071',)
+        ('DISTRICT 1-Shepardson Community Center 01', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Shepardson Community Center 01', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Shepardson Community Center 01', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('DISTRICT 71-3-Tinker School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 71-3-Tinker School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 71-3-Tinker School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'WILLIAM J PIZZUTO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('081',)
+        ('DISTRICT 1-South End School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'CHRIS POULOS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-South End School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'CHRIS POULOS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-South End School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'CHRIS POULOS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 4-Kennedy School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMES E MORELLI JR', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Kennedy School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMES E MORELLI JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Kennedy School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JAMES E MORELLI JR', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('052',)
+        ('DISTRICT 1-Stafford Public Library', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ETHAN R WERSTLER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Stafford Public Library', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ETHAN R WERSTLER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Stafford Public Library', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ETHAN R WERSTLER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 3-West Stafford Fire Department', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'KURT VAIL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-West Stafford Fire Department', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'KURT VAIL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-West Stafford Fire Department', 'STATE HOUSE', 'REPUBLICAN', 'TOLLAND', 'KURT VAIL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('146',)
+        ('DISTRICT 1-Star Center - Old Star Of The Sea -', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'EILISH COLLINS MAIN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Star Center - Old Star Of The Sea -', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'EILISH COLLINS MAIN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Star Center - Old Star Of The Sea -', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'EILISH COLLINS MAIN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 8-South End Community Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JIM MALERBA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-South End Community Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JIM MALERBA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-South End Community Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JIM MALERBA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('078',)
+        ('DISTRICT 1-Terryville High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE HOXHA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Terryville High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE HOXHA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Terryville High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE HOXHA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('DISTRICT 78-2-West Bristol School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JOE HOXHA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 78-2-West Bristol School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JOE HOXHA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 78-2-West Bristol School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'JOE HOXHA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('053',)
+        ('DISTRICT 1-The Gym At Tolland Recreation Center 1', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ANN BONNEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-The Gym At Tolland Recreation Center 1', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ANN BONNEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-The Gym At Tolland Recreation Center 1', 'STATE HOUSE', 'DEMOCRAT', 'TOLLAND', 'ANN BONNEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'ANN BONNEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'ANN BONNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Vernon Center Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'TOLLAND', 'ANN BONNEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('038',)
+        ('DISTRICT 1-Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK GAUTHIER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK GAUTHIER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Town Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'NICK GAUTHIER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 138 elements)
+        ('DISTRICT 4-Great Neck School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'NICK GAUTHIER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Great Neck School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'NICK GAUTHIER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-Great Neck School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'NICK GAUTHIER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('080',)
+        ('DISTRICT 1-Tyrrell Middle School', 'STATE HOUSE', '""', 'NEW HAVEN', 'ASHLEY KATHLEEN FRAZER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Tyrrell Middle School', 'STATE HOUSE', '""', 'NEW HAVEN', 'ASHLEY KATHLEEN FRAZER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Tyrrell Middle School', 'STATE HOUSE', '""', 'NEW HAVEN', 'ASHLEY KATHLEEN FRAZER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 6-Kelley School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'GALE L MASTROFRANCESCO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Kelley School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'GALE L MASTROFRANCESCO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Kelley School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'GALE L MASTROFRANCESCO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('068',)
+        ('DISTRICT 1-Watertown High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE POLLETTA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Watertown High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE POLLETTA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Watertown High School', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE POLLETTA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 24 elements)
+        ('DISTRICT 68-1-Carrington School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE POLLETTA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 68-1-Carrington School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE POLLETTA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 68-1-Carrington School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'JOE POLLETTA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('042',)
+        ('DISTRICT 1-Wilton High School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SAVET CONSTANTINE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Wilton High School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SAVET CONSTANTINE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 1-Wilton High School - District 1', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SAVET CONSTANTINE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 6-East School Music Room', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'KIM HEALY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-East School Music Room', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'KIM HEALY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-East School Music Room', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'KIM HEALY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('120',)
+        ('DISTRICT 10-1-Lordship Elementary School 120 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KAITLYN SHAKE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-1-Lordship Elementary School 120 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KAITLYN SHAKE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-1-Lordship Elementary School 120 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KAITLYN SHAKE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 186 elements)
+        ('DISTRICT 90-1-Bunnell High School 120 21', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KAITLYN SHAKE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-1-Bunnell High School 120 21', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KAITLYN SHAKE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-1-Bunnell High School 120 21', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KAITLYN SHAKE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('149',)
+        ('DISTRICT 10-Glenville School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'RACHEL KHANNA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Glenville School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'RACHEL KHANNA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Glenville School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'RACHEL KHANNA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 120 elements)
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TINA COURPAS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TINA COURPAS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Bendheim Western Greenwich Civic Center', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TINA COURPAS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('117',)
+        ('DISTRICT 10-Pagels School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MJ SHANNON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Pagels School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MJ SHANNON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Pagels School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MJ SHANNON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 9-Seth Haley School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MJ SHANNON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Seth Haley School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MJ SHANNON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Seth Haley School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MJ SHANNON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('082',)
+        ('DISTRICT 10-St. John Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL D QUINN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-St. John Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL D QUINN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-St. John Lutheran Church', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL D QUINN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 9-Maloney High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MICHAEL D QUINN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Maloney High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MICHAEL D QUINN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Maloney High School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MICHAEL D QUINN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('145',)
+        ('DISTRICT 10-Westover Magnet School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'COREY P PARIS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Westover Magnet School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'COREY P PARIS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Westover Magnet School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'COREY P PARIS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'COREY P PARIS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'COREY P PARIS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-Salvation Army Community Center', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'COREY P PARIS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('096',)
+        ('DISTRICT 10-Wilbur Cross High School - Federal', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROLAND J LEMAR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Wilbur Cross High School - Federal', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROLAND J LEMAR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 10-Wilbur Cross High School - Federal', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ROLAND J LEMAR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 9-2-East Rock Community Magnet', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANDREA DILIETO ZOLA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-2-East Rock Community Magnet', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANDREA DILIETO ZOLA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 9-2-East Rock Community Magnet', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANDREA DILIETO ZOLA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('097',)
+        ('DISTRICT 11-1-Bella Vista 11-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ALPHONSE PAOLILLO JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 11-1-Bella Vista 11-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ALPHONSE PAOLILLO JR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 11-1-Bella Vista 11-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ALPHONSE PAOLILLO JR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 78 elements)
+        ('DISTRICT 18-Nathan Hale School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANTHONY ACRI', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 18-Nathan Hale School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANTHONY ACRI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 18-Nathan Hale School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'ANTHONY ACRI', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('121',)
+        ('DISTRICT 11-11-Lordship Elementary School 121 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JOSEPH P GRESKO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 11-11-Lordship Elementary School 121 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JOSEPH P GRESKO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 11-11-Lordship Elementary School 121 21', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JOSEPH P GRESKO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('DISTRICT 60-11-Wooster Middle School 121 21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAFAEL IRIZARRY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 60-11-Wooster Middle School 121 21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAFAEL IRIZARRY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 60-11-Wooster Middle School 121 21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAFAEL IRIZARRY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('118',)
+        ('DISTRICT 118-1-John F Kennedy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'FRANK SMITH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 118-1-John F Kennedy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'FRANK SMITH', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 118-1-John F Kennedy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'FRANK SMITH', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 118-5-Harborside Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'FRANK SMITH', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 118-5-Harborside Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'FRANK SMITH', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 118-5-Harborside Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'FRANK SMITH', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('119',)
+        ('DISTRICT 119-1-Orange Avenue School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ETAN HIRSCH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 119-1-Orange Avenue School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ETAN HIRSCH', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 119-1-Orange Avenue School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'ETAN HIRSCH', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 3-High Plains Community Center - Senior Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'KATHY KENNEDY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-High Plains Community Center - Senior Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'KATHY KENNEDY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-High Plains Community Center - Senior Cafeteria', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'KATHY KENNEDY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('144',)
+        ('DISTRICT 12-Stillmeadow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HUBERT DELANY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 12-Stillmeadow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HUBERT DELANY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 12-Stillmeadow School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'HUBERT DELANY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('DISTRICT 7-2-First Presbyterian Church', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'LAYNE RODNEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-2-First Presbyterian Church', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'LAYNE RODNEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-2-First Presbyterian Church', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'LAYNE RODNEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('124',)
+        ('DISTRICT 124-2-John F Kennedy Campus', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANDRE BAKER JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 124-2-John F Kennedy Campus', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANDRE BAKER JR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 124-2-John F Kennedy Campus', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANDRE BAKER JR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 124-4-Harding High School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'YOSHIYAHU YISRAEL', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 124-4-Harding High School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'YOSHIYAHU YISRAEL', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 124-4-Harding High School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'YOSHIYAHU YISRAEL', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('126',)
+        ('DISTRICT 126-1-Beardsley School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FRED GEE JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 126-1-Beardsley School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FRED GEE JR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 126-1-Beardsley School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'FRED GEE JR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 126-6-Wilbur Cross School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'DAVID R HERZ', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 126-6-Wilbur Cross School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'DAVID R HERZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 126-6-Wilbur Cross School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'DAVID R HERZ', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('127',)
+        ('DISTRICT 127-1-Blackham School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 127-1-Blackham School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 127-1-Blackham School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 12 elements)
+        ('DISTRICT 127-3-John Winthrop School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 127-3-John Winthrop School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 127-3-John Winthrop School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MARCUS A BROWN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('128',)
+        ('DISTRICT 128-1-Geraldine Johnson School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CHRISTOPHER ROSARIO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 128-1-Geraldine Johnson School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CHRISTOPHER ROSARIO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 128-1-Geraldine Johnson School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CHRISTOPHER ROSARIO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 30 elements)
+        ('DISTRICT 128-2-Luis Munoz Marin School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAMONA MARQUEZ', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 128-2-Luis Munoz Marin School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAMONA MARQUEZ', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 128-2-Luis Munoz Marin School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RAMONA MARQUEZ', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('129',)
+        ('DISTRICT 129-1-Black Rock School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE STAFSTROM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 129-1-Black Rock School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE STAFSTROM', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 129-1-Black Rock School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'STEVE STAFSTROM', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('DISTRICT 129-4-Geraldine Claytor Magnet Acadamy', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'FRANCIS KALANGALA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 129-4-Geraldine Claytor Magnet Acadamy', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'FRANCIS KALANGALA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 129-4-Geraldine Claytor Magnet Acadamy', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'FRANCIS KALANGALA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('130',)
+        ('DISTRICT 130-1-Bassick High School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANTONIO D FELIPE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 130-1-Bassick High School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANTONIO D FELIPE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 130-1-Bassick High School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'ANTONIO D FELIPE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 130-5-Barnum School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TERRY "COWBOY" SULLIVAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 130-5-Barnum School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TERRY "COWBOY" SULLIVAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 130-5-Barnum School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'TERRY "COWBOY" SULLIVAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('049',)
+        ('DISTRICT 132-10-Senior Center', 'JUDGE OF PROBATE', 'DEMOCRAT', 'FAIRFIELD', 'KATHY CAULFIELD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-10-Senior Center', 'JUDGE OF PROBATE', 'DEMOCRAT', 'FAIRFIELD', 'KATHY CAULFIELD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-10-Senior Center', 'JUDGE OF PROBATE', 'DEMOCRAT', 'FAIRFIELD', 'KATHY CAULFIELD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 174 elements)
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'SUSAN JOHNSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'SUSAN JOHNSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Windham Center Fire Dept', 'STATE HOUSE', 'WORKING FAMILIES', 'WINDHAM', 'SUSAN JOHNSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('132',)
+        ('DISTRICT 132-10-Senior Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JENNIFER LEEPER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-10-Senior Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JENNIFER LEEPER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-10-Senior Center', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JENNIFER LEEPER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 132-9-Sherman Elementary', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'ALEXIS HARRISON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-9-Sherman Elementary', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'ALEXIS HARRISON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 132-9-Sherman Elementary', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'ALEXIS HARRISON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('133',)
+        ('DISTRICT 133-3-Osborn Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 133-3-Osborn Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 133-3-Osborn Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 84 elements)
+        ('DISTRICT 133-6-McKinley Elementary', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 133-6-McKinley Elementary', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 133-6-McKinley Elementary', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'CRISTIN MCCARTHY VAHEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('134',)
+        ('DISTRICT 134-1-Mill Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SARAH KEITT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 134-1-Mill Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SARAH KEITT', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 134-1-Mill Hill Elementary', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'SARAH KEITT', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 6-34-Middlebrook School 134', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'SARAH KEITT', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-34-Middlebrook School 134', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'SARAH KEITT', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-34-Middlebrook School 134', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'SARAH KEITT', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('136',)
+        ('DISTRICT 136-1-Saugatuck Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN STEINBERG', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 136-1-Saugatuck Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN STEINBERG', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 136-1-Saugatuck Elementary School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN STEINBERG', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 136-6-Westport Library', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JOHN BOLTON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 136-6-Westport Library', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JOHN BOLTON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 136-6-Westport Library', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'JOHN BOLTON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('137',)
+        ('DISTRICT 137-1-Marvin School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KADEEM ROBERTS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 137-1-Marvin School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KADEEM ROBERTS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 137-1-Marvin School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'KADEEM ROBERTS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 137-3-Tracey School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KADEEM ROBERTS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 137-3-Tracey School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KADEEM ROBERTS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 137-3-Tracey School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'KADEEM ROBERTS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('095',)
+        ('DISTRICT 14-1-Atwater Senior Center 01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 14-1-Atwater Senior Center 01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 14-1-Atwater Senior Center 01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 36 elements)
+        ('DISTRICT 8-1-Conte-West Schools 8-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-1-Conte-West Schools 8-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-1-Conte-West Schools 8-01', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'JUAN CANDELARIA', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('147',)
+        ('DISTRICT 14-Dolan Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MATT BLUMENTHAL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 14-Dolan Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MATT BLUMENTHAL', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 14-Dolan Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'MATT BLUMENTHAL', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 20-1-Northeast School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RUDY SETTIMI', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 20-1-Northeast School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RUDY SETTIMI', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 20-1-Northeast School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'RUDY SETTIMI', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('140',)
+        ('DISTRICT 140-1-Kendall School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'TRAVIS SIMMS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 140-1-Kendall School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'TRAVIS SIMMS', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 140-1-Kendall School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'TRAVIS SIMMS', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 140-3-Nathaniel Ely School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'TRAVIS SIMMS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 140-3-Nathaniel Ely School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'TRAVIS SIMMS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 140-3-Nathaniel Ely School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'TRAVIS SIMMS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('142',)
+        ('DISTRICT 142-1-Fox Run School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'LUCY DATHAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 142-1-Fox Run School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'LUCY DATHAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 142-1-Fox Run School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'LUCY DATHAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 5-East School Gym', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'LUCY DATHAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-East School Gym', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'LUCY DATHAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-East School Gym', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'LUCY DATHAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('143',)
+        ('DISTRICT 143-1-Nathan Hale Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 143-1-Nathan Hale Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 143-1-Nathan Hale Middle School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 143-3-West Rocks Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 143-3-West Rocks Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 143-3-West Rocks Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'DOMINIQUE JOHNSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('058',)
+        ('DISTRICT 158-John F Kennedy Middle School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOHN SANTANELLA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 158-John F Kennedy Middle School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOHN SANTANELLA', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 158-John F Kennedy Middle School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JOHN SANTANELLA', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 458-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'ROBERT HENDRICKSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 458-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'ROBERT HENDRICKSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 458-Henry Barnard School', 'STATE HOUSE', 'REPUBLICAN', 'HARTFORD', 'ROBERT HENDRICKSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('091',)
+        ('DISTRICT 2-1-Booker T Washington Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LAURIE SWEET', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-1-Booker T Washington Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LAURIE SWEET', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-1-Booker T Washington Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LAURIE SWEET', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 8-1-Bear Path School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'LAURIE SWEET', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-1-Bear Path School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'LAURIE SWEET', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 8-1-Bear Path School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'LAURIE SWEET', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('093',)
+        ('DISTRICT 2-2-Troup Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-2-Troup Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-2-Troup Academy', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 30-2-The Shack', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 30-2-The Shack', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 30-2-The Shack', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TONI E WALKER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('148',)
+        ('DISTRICT 2-Domus - The Old Rogers School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN JACOBSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Domus - The Old Rogers School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN JACOBSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Domus - The Old Rogers School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'JONATHAN JACOBSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 6-1-Saint Bridget School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'OLGA ANASTOS', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-1-Saint Bridget School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'OLGA ANASTOS', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-1-Saint Bridget School', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'OLGA ANASTOS', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('085',)
+        ('DISTRICT 2-Evarts C. Stevens School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY M MUSHINSKY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Evarts C. Stevens School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY M MUSHINSKY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Evarts C. Stevens School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MARY M MUSHINSKY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 5-Cook Hill School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MARY M MUSHINSKY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Cook Hill School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MARY M MUSHINSKY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Cook Hill School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'MARY M MUSHINSKY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('139',)
+        ('DISTRICT 2-Mohegan Elementary School - 2', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KEVIN RYAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Mohegan Elementary School - 2', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KEVIN RYAN', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Mohegan Elementary School - 2', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'KEVIN RYAN', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 5-Mohegan Elementary School - 5', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'KEVIN RYAN', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Mohegan Elementary School - 5', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'KEVIN RYAN', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-Mohegan Elementary School - 5', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'KEVIN RYAN', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('060',)
+        ('DISTRICT 2-Windsor Locks High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JANE GARIBAY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Windsor Locks High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JANE GARIBAY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 2-Windsor Locks High School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'JANE GARIBAY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 114 elements)
+        ('DISTRICT 7-Rainbow Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JANE GARIBAY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Rainbow Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JANE GARIBAY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Rainbow Firehouse', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'JANE GARIBAY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('092',)
+        ('DISTRICT 23-Barnard School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'PATRICIA A DILLON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 23-Barnard School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'PATRICIA A DILLON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 23-Barnard School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'PATRICIA A DILLON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 3-1-Career High School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'MORRIS SUMPTER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-1-Career High School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'MORRIS SUMPTER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-1-Career High School', 'STATE HOUSE', 'REPUBLICAN', 'NEW HAVEN', 'MORRIS SUMPTER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('040',)
+        ('DISTRICT 3-City Of Groton Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTINE CONLEY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-City Of Groton Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTINE CONLEY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-City Of Groton Municipal Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'CHRISTINE CONLEY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 5-School Administration Bldg', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTINE CONLEY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-School Administration Bldg', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTINE CONLEY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 5-School Administration Bldg', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'CHRISTINE CONLEY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('122',)
+        ('DISTRICT 3-Long Hill School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOROTHY "DOTTIE" LERNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Long Hill School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOROTHY "DOTTIE" LERNER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Long Hill School', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'DOROTHY "DOTTIE" LERNER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'BEN MCGORTY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'BEN MCGORTY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 90-21-Bunnell High Scool 122-21', 'STATE HOUSE', 'REPUBLICAN', 'FAIRFIELD', 'BEN MCGORTY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('065',)
+        ('DISTRICT 3-Torringford School 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MICHELLE L COOK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Torringford School 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MICHELLE L COOK', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 3-Torringford School 1', 'STATE HOUSE', 'DEMOCRAT', 'LITCHFIELD', 'MICHELLE L COOK', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 42 elements)
+        ('DISTRICT 6-Armory', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE CANINO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Armory', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE CANINO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Armory', 'STATE HOUSE', 'REPUBLICAN', 'LITCHFIELD', 'JOE CANINO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('110',)
+        ('DISTRICT 4-10-Shelter Rock School Gym District 004-10', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BOB GODFREY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-10-Shelter Rock School Gym District 004-10', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BOB GODFREY', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-10-Shelter Rock School Gym District 004-10', 'STATE HOUSE', 'DEMOCRAT', 'FAIRFIELD', 'BOB GODFREY', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 7-10-Westside Middle School Academy District 007-10', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BOB GODFREY', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-10-Westside Middle School Academy District 007-10', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BOB GODFREY', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-10-Westside Middle School Academy District 007-10', 'STATE HOUSE', 'WORKING FAMILIES', 'FAIRFIELD', 'BOB GODFREY', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('046',)
+        ('DISTRICT 4-John B Stanton School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'DERELL WILSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-John B Stanton School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'DERELL WILSON', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-John B Stanton School', 'STATE HOUSE', 'DEMOCRAT', 'NEW LONDON', 'DERELL WILSON', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 48 elements)
+        ('DISTRICT 6-Ahepa-110 Community Room', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'DERELL WILSON', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Ahepa-110 Community Room', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'DERELL WILSON', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 6-Ahepa-110 Community Room', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW LONDON', 'DERELL WILSON', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('116',)
+        ('DISTRICT 4-St Pauls Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-St Pauls Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 4-St Pauls Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 7-Ann V. Molloy School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'TRENEE MCGEE', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('072',)
+        ('DISTRICT 72-1-Hopkins Street Rec Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LARRY B BUTLER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 72-1-Hopkins Street Rec Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LARRY B BUTLER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 72-1-Hopkins Street Rec Building', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'LARRY B BUTLER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 54 elements)
+        ('DISTRICT 72-5-Edward D Bergin Apartments', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'LARRY B BUTLER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 72-5-Edward D Bergin Apartments', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'LARRY B BUTLER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 72-5-Edward D Bergin Apartments', 'STATE HOUSE', 'INDEPENDENT', 'NEW HAVEN', 'LARRY B BUTLER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('073',)
+        ('DISTRICT 73-1-Our Lady Of Loreto Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 73-1-Our Lady Of Loreto Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 73-1-Our Lady Of Loreto Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 90 elements)
+        ('DISTRICT 73-4-Sprague School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 73-4-Sprague School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 73-4-Sprague School', 'STATE HOUSE', 'WORKING FAMILIES', 'NEW HAVEN', 'RONALD A NAPOLI JR', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('074',)
+        ('DISTRICT 74-1-Chase School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 74-1-Chase School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 74-1-Chase School', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('DISTRICT 74-4-I D L School 15th District', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 74-4-I D L School 15th District', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 74-4-I D L School 15th District', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'MICHAEL DIGIOVANCARLO', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('075',)
+        ('DISTRICT 75-1-Willow Plaza Community Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 75-1-Willow Plaza Community Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 75-1-Willow Plaza Community Center', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 18 elements)
+        ('DISTRICT 75-4-Saint Francis Xavier Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 75-4-Saint Francis Xavier Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 75-4-Saint Francis Xavier Church Hall', 'STATE HOUSE', 'DEMOCRAT', 'NEW HAVEN', 'GERALDO C REYES JR', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('077',)
+        ('DISTRICT 77-1-Edgewood School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 77-1-Edgewood School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 77-1-Edgewood School', 'STATE HOUSE', 'INDEPENDENT', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 77-4-Chippens Hill Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 77-4-Chippens Hill Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 77-4-Chippens Hill Middle School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY "MIM" RYDINGSWARD', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+    ('079',)
+        ('DISTRICT 79-1-Southside School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MARY B FORTIER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 79-1-Southside School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MARY B FORTIER', 'EARLY VOTES', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 79-1-Southside School', 'STATE HOUSE', 'DEMOCRAT', 'HARTFORD', 'MARY B FORTIER', 'MACHINE COUNT', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 66 elements)
+        ('DISTRICT 79-3-Greene-Hills School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY B FORTIER', 'SAME DAY REGISTRATION (SDR)', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 79-3-Greene-Hills School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY B FORTIER', 'TOTAL', 'GEN', 'FALSE', '2024-11-05')
+        ('DISTRICT 79-3-Greene-Hills School', 'STATE HOUSE', 'WORKING FAMILIES', 'HARTFORD', 'MARY B FORTIER', 'UNKNOWN', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    001
+    002
+    003
+    004
+    005
+    006
+    007
+    008
+    009
+    010
+    011
+    012
+    013
+    014
+    015
+    016
+    017
+    018
+    019
+    020
+    021
+    022
+    023
+    024
+    025
+    026
+    027
+    028
+    029
+    030
+    031
+    032
+    033
+    034
+    035
+    036
+    037
+    038
+    039
+    040
+    041
+    042
+    043
+    044
+    045
+    046
+    047
+    048
+    049
+    050
+    051
+    052
+    053
+    054
+    055
+    056
+    057
+    058
+    059
+    060
+    061
+    062
+    063
+    064
+    065
+    066
+    067
+    068
+    069
+    070
+    071
+    072
+    073
+    074
+    075
+    076
+    077
+    078
+    079
+    080
+    081
+    082
+    083
+    084
+    085
+    086
+    087
+    088
+    089
+    090
+    091
+    092
+    093
+    094
+    095
+    096
+    097
+    098
+    099
+    100
+    101
+    102
+    103
+    104
+    105
+    106
+    107
+    108
+    109
+    110
+    111
+    112
+    113
+    114
+    115
+    116
+    117
+    118
+    119
+    120
+    121
+    122
+    123
+    124
+    125
+    126
+    127
+    128
+    129
+    130
+    131
+    132
+    133
+    134
+    135
+    136
+    137
+    138
+    139
+    140
+    141
+    142
+    143
+    144
+    145
+    146
+    147
+    148
+    149
+    150
+    151
+    STATEWIDE
+------
+

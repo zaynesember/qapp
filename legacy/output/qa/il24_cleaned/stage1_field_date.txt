@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        ('7000001.0', 'ADVISORY QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'COOK', 'NO', 'TOTAL', '000', 'GEN', 'FALSE')
+        ('7000001.0', 'ADVISORY QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'COOK', 'OVERVOTES', 'TOTAL', '000', 'GEN', 'FALSE')
+        ('7000001.0', 'ADVISORY QUESTION 1', '<<<EC: VALUE WAS EMPTY>>>', 'COOK', 'UNDERVOTES', 'TOTAL', '000', 'GEN', 'FALSE')
+        ...(skipping 1384018 elements)
+        ('ZUMA', 'US PRESIDENT', 'DEMOCRAT', 'ROCK ISLAND', 'KAMALA D HARRIS', 'TOTAL', '000', 'GEN', 'FALSE')
+        ('ZUMA', 'US PRESIDENT', 'INDEPENDENT', 'ROCK ISLAND', 'ROBERT F KENNEDY JR', 'TOTAL', '000', 'GEN', 'FALSE')
+        ('ZUMA', 'US PRESIDENT', 'REPUBLICAN', 'ROCK ISLAND', 'DONALD J TRUMP', 'TOTAL', '000', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

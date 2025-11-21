@@ -1,0 +1,802 @@
+---------------------------
+---------------------------
+DISTRICT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+UNPADDED NUMERICAL DISTRICTS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    H ||| [[TWNSH]]
+    L ||| [[VILLAGE]]
+    N ||| [[TWNSH]]
+    T ||| [[CITY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    N ||| [[COUNTY]]
+    T ||| [[CTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    B ||| [[BOND]]
+    D ||| [[BOND]]
+    F ||| [[REFEREN]]
+    H ||| [[CHARTER]]
+    L ||| [[LEVY]]
+    N ||| [[REFEREN]]
+    P ||| [[PROP]]
+    R ||| [[REFEREN]]
+    T ||| [[CHARTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    N ||| [[TURNOUT]]
+    R ||| [[VOTERS]]
+    T ||| [[VOTERS]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    B ||| [[BALLOTS]]
+    D ||| [[CARD]]
+    L ||| [[BALLOTS]]
+    R ||| [[CARD]]
+    T ||| [[VOTES]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    R ||| [[OVERVOTE]]
+    T ||| [[OVERVOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    H ||| [[CHOOSE]]
+    L ||| [[ELECT]]
+    T ||| [[VOTE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    P ||| [[EXPIRE]]
+    R ||| [[YEAR]]
+    T ||| [[TERM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    N ||| [[VACANCY]]
+    T ||| [[VACANT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    N ||| [[RETAIN]]
+    R ||| [[RETAIN]]
+    T ||| [[RETAIN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    L ||| [[RECALL]]
+    R ||| [[RECALL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    D ||| [[DIST]]
+    L ||| [[AT LARGE]]
+    R ||| [[AT LARGE]]
+    T ||| [[AT LARGE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    D ||| [[WARD]]
+    R ||| [[WARD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    R ||| [[AREA]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    T ||| [[SEAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    D ||| [[DIVISION]]
+    N ||| [[DIVISION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    N ||| [[POSITION]]
+    P ||| [[POS ]]
+    T ||| [[POSITION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    P ||| [[GROUP]]
+    R ||| [[GROUP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    D ||| [[WARD]]
+    N ||| [[PRECINCT]]
+    P ||| [[PCT]]
+    R ||| [[WARD]]
+    T ||| [[PCT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    B ||| [[LIB]]
+    D ||| [[DEM]]
+    L ||| [[LIB]]
+    N ||| [[NP]]
+    P ||| [[NP]]
+    R ||| [[DEMOCRAT]]
+    T ||| [[DEMOCRAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    L ||| [[TOTAL]]
+    T ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    B ||| [[BLANK]]
+    L ||| [[BLANK]]
+    N ||| [[BLANK]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    L ||| [[UNAVAIL]]
+    N ||| [[UNAVAIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    B ||| [[ABS]]
+    H ||| [[MACHINE]]
+    L ||| [[MAIL]]
+    N ||| [[ONE STOP]]
+    P ||| [[PROV]]
+    R ||| [[PROV]]
+    T ||| [[ONE STOP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    F ||| [[RUN-OFF]]
+    L ||| [[SPECIAL]]
+    N ||| [[RUN-OFF]]
+    P ||| [[PRES]]
+    R ||| [[PRES]]
+    T ||| [[RECOUNT]]
+------
+
+------
+VALUES IN district WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN district: 
+    D ||| [[JD4]]
+    J ||| [[JD4]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+DISTRICT TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'stage', 'special', 'date']
+    ('STATEWIDE',)
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 69247 elements)
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'QUESTION', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'FEDERAL OVERSEAS', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'QUESTION', 'GEN', 'FALSE', '2024-11-05')
+
+    ('JD1',)
+        ('001-600', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'PICKRELL - NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'PICKRELL - NO', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'PICKRELL - NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 730 elements)
+        ('District 4 - Early Voting', 'RETENTION DISTRICT COURT', 'NONPARTISAN', '""', 'PICKRELL - OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'RETENTION DISTRICT COURT', 'NONPARTISAN', '""', 'PICKRELL - UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'RETENTION DISTRICT COURT', 'NONPARTISAN', '""', 'PICKRELL - YES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('001',)
+        ('001-600', 'STATE HOUSE', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'AGNES C MORAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'STATE HOUSE', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'AGNES C MORAN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'STATE HOUSE', 'NONPARTISAN', 'KETCHIKAN GATEWAY BOROUGH', 'AGNES C MORAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 209 elements)
+        ('District 1 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JEREMY T BYNUM', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('002',)
+        ('002-700', 'STATE HOUSE', 'NONPARTISAN', 'HOONAH-ANGOON CENSUS AREA', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('002-700', 'STATE HOUSE', 'NONPARTISAN', 'HOONAH-ANGOON CENSUS AREA', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('002-700', 'STATE HOUSE', 'NONPARTISAN', 'HOONAH-ANGOON CENSUS AREA', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 183 elements)
+        ('District 2 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 2 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'REBECCA HIMSCHOOT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 2 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('003',)
+        ('003-300', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'ANDREA "ANDI" STORY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('003-300', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'ANDREA "ANDI" STORY', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('003-300', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'ANDREA "ANDI" STORY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 123 elements)
+        ('District 3 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'ANDREA "ANDI" STORY', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 3 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 3 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('B',)
+        ('003-300', 'STATE SENATE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'JESSE KIEHL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('003-300', 'STATE SENATE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'JESSE KIEHL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('003-300', 'STATE SENATE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'JESSE KIEHL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 228 elements)
+        ('District 4 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'JESSE KIEHL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('004',)
+        ('004-100', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('004-100', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('004-100', 'STATE HOUSE', 'DEMOCRAT', 'JUNEAU CITY AND BOROUGH', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 99 elements)
+        ('District 4 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'SARA HANNAN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 4 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('JD3',)
+        ('005-800', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KODIAK ISLAND BOROUGH', 'DICKSON - NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('005-800', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KODIAK ISLAND BOROUGH', 'DICKSON - NO', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('005-800', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'KODIAK ISLAND BOROUGH', 'DICKSON - NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 41116 elements)
+        ('District 9 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'ZEMAN - OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'ZEMAN - UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'ZEMAN - YES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('005',)
+        ('005-800', 'STATE HOUSE', 'LIBERTARIAN', 'KODIAK ISLAND BOROUGH', 'LEIGHTON RADNER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('005-800', 'STATE HOUSE', 'LIBERTARIAN', 'KODIAK ISLAND BOROUGH', 'LEIGHTON RADNER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('005-800', 'STATE HOUSE', 'LIBERTARIAN', 'KODIAK ISLAND BOROUGH', 'LEIGHTON RADNER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 198 elements)
+        ('District 5 - Early Voting', 'STATE HOUSE', 'LIBERTARIAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 5 - Early Voting', 'STATE HOUSE', 'LIBERTARIAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 5 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'LOUISE B STUTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('006',)
+        ('006-200', 'STATE HOUSE', 'NONPARTISAN', 'KENAI PENINSULA BOROUGH', 'BRENT JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('006-200', 'STATE HOUSE', 'NONPARTISAN', 'KENAI PENINSULA BOROUGH', 'BRENT JOHNSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('006-200', 'STATE HOUSE', 'NONPARTISAN', 'KENAI PENINSULA BOROUGH', 'BRENT JOHNSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 193 elements)
+        ('District 6 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'SARAH L VANCE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('District 6 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 6 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('007',)
+        ('007-005', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'JUSTIN M RUFFRIDGE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('007-005', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'JUSTIN M RUFFRIDGE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('007-005', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'JUSTIN M RUFFRIDGE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 105 elements)
+        ('District 7 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'RONALD D "RON" GILLHAM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('District 7 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 7 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('D',)
+        ('007-005', 'STATE SENATE', 'DEMOCRAT', 'KENAI PENINSULA BOROUGH', 'TINA WEGENER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('007-005', 'STATE SENATE', 'DEMOCRAT', 'KENAI PENINSULA BOROUGH', 'TINA WEGENER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('007-005', 'STATE SENATE', 'DEMOCRAT', 'KENAI PENINSULA BOROUGH', 'TINA WEGENER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 372 elements)
+        ('District 8 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('008',)
+        ('008-035', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'BILL ELAM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('008-035', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'BILL ELAM', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('008-035', 'STATE HOUSE', 'REPUBLICAN', 'KENAI PENINSULA BOROUGH', 'BILL ELAM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 186 elements)
+        ('District 8 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+
+    ('009',)
+        ('009-105', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'KY HOLLAND', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('009-105', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'KY HOLLAND', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('009-105', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'KY HOLLAND', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 150 elements)
+        ('District 9 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'LUCY BAUER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('010',)
+        ('010-150', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'CHARLES M "CHUCK" KOPP', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('010-150', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'CHARLES M "CHUCK" KOPP', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('010-150', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'CHARLES M "CHUCK" KOPP', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('District 10 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'CRAIG W JOHNSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 10 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 10 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('011',)
+        ('011-205', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'WALTER T FEATHERLY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('011-205', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'WALTER T FEATHERLY', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('011-205', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'WALTER T FEATHERLY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 118 elements)
+        ('District 11 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JULIE COULOMBE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 11 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 11 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('F',)
+        ('011-205', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JANICE L PARK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('011-205', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JANICE L PARK', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('011-205', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JANICE L PARK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 284 elements)
+        ('District 12 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'JAMES D KAUFMAN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 12 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 12 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('012',)
+        ('012-250', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'CALVIN R SCHRAGE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('012-250', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'CALVIN R SCHRAGE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('012-250', 'STATE HOUSE', 'NONPARTISAN', 'ANCHORAGE MUNICIPALITY', 'CALVIN R SCHRAGE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('District 12 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JOSEPH M "JOE" LURTSEMA', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 12 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 12 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('013',)
+        ('013-305', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW L "ANDY" JOSEPHSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('013-305', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW L "ANDY" JOSEPHSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('013-305', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW L "ANDY" JOSEPHSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('District 13 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'HEATHER GOTTSHALL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 13 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 13 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('014',)
+        ('014-350', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'HARRY WINNER KAMDEM', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('014-350', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'HARRY WINNER KAMDEM', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('014-350', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'HARRY WINNER KAMDEM', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 118 elements)
+        ('District 14 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'ALYSE S GALVIN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 14 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 14 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('015',)
+        ('015-405', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DENNY WELLS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('015-405', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DENNY WELLS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('015-405', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DENNY WELLS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 129 elements)
+        ('District 15 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'MIA COSTELLO', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 15 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 15 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('H',)
+        ('015-405', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'MATT CLAMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('015-405', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'MATT CLAMAN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('015-405', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'MATT CLAMAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 226 elements)
+        ('District 16 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 16 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 16 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'LIZ VAZQUEZ', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('016',)
+        ('016-450', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CAROLYN HALL', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('016-450', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CAROLYN HALL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('016-450', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CAROLYN HALL', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 118 elements)
+        ('District 16 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'NICK MOE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 16 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 16 - Early Voting', 'STATE HOUSE', 'NONPARTISAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('017',)
+        ('017-505', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('017-505', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('017-505', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 87 elements)
+        ('District 17 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 17 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 17 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'WILLIAM Z "ZACK" FIELDS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('018',)
+        ('018-550', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CLIFF GROH', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('018-550', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CLIFF GROH', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('018-550', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'CLIFF GROH', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('District 18 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 18 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 18 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'DAVID NELSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('019',)
+        ('019-605', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'GENEVIEVE G MINA', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('019-605', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'GENEVIEVE G MINA', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('019-605', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'GENEVIEVE G MINA', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 109 elements)
+        ('District 19 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 19 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'RUSSELL O WYATT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 19 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('J',)
+        ('019-605', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'FORREST DUNBAR', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('019-605', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'FORREST DUNBAR', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('019-605', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'FORREST DUNBAR', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 178 elements)
+        ('District 20 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 20 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 20 - Early Voting', 'STATE SENATE', 'UNDECLARED', '""', 'CHERONDA L SMITH', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('020',)
+        ('020-650', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW T GRAY', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('020-650', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW T GRAY', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('020-650', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'ANDREW T GRAY', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('District 20 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 20 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 20 - Early Voting', 'STATE HOUSE', 'LIBERTARIAN', '""', 'SCOTT A KOHLHAAS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('021',)
+        ('021-705', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DONNA C MEARS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('021-705', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DONNA C MEARS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('021-705', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'DONNA C MEARS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('District 21 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 21 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 21 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'AIMEE SIMS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('022',)
+        ('022-750', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'TED J EISCHEID', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('022-750', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'TED J EISCHEID', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('022-750', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'TED J EISCHEID', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 70 elements)
+        ('District 22 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 22 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'STANLEY A WRIGHT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 22 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('023',)
+        ('023-805', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JIM ARLINGTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('023-805', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JIM ARLINGTON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('023-805', 'STATE HOUSE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'JIM ARLINGTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 102 elements)
+        ('District 23 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JAMIE ALLARD', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 23 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 23 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('L',)
+        ('023-805', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'LEE E HAMMERMEISTER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('023-805', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'LEE E HAMMERMEISTER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('023-805', 'STATE SENATE', 'DEMOCRAT', 'ANCHORAGE MUNICIPALITY', 'LEE E HAMMERMEISTER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 284 elements)
+        ('District 24 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'KELLY R MERRICK', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 24 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 24 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('024',)
+        ('024-850', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'DAN SADDLER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('024-850', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'DAN SADDLER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('024-850', 'STATE HOUSE', 'REPUBLICAN', 'ANCHORAGE MUNICIPALITY', 'DAN SADDLER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 87 elements)
+        ('District 24 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'DAN SADDLER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 24 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 24 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('025',)
+        ('025-305', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DELENA M JOHNSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('025-305', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DELENA M JOHNSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('025-305', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DELENA M JOHNSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 87 elements)
+        ('District 25 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'DELENA M JOHNSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 25 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 25 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('026',)
+        ('026-350', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'CATHY TILTON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('026-350', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'CATHY TILTON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('026-350', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'CATHY TILTON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 87 elements)
+        ('District 26 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'CATHY TILTON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 26 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 26 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('027',)
+        ('027-405', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID EASTMAN', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('027-405', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID EASTMAN', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('027-405', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID EASTMAN', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 86 elements)
+        ('District 27 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JUBILEE L UNDERWOOD', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 27 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 27 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('N',)
+        ('027-405', 'STATE SENATE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID S WILSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('027-405', 'STATE SENATE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID S WILSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('027-405', 'STATE SENATE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'DAVID S WILSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 264 elements)
+        ('District 28 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'ROBERT YUNDT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 28 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'STEPHEN WRIGHT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 28 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('028',)
+        ('028-450', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'ELEXIE MOORE', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('028-450', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'ELEXIE MOORE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('028-450', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'ELEXIE MOORE', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 149 elements)
+        ('District 28 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 28 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'STEVE MENARD', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 28 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('029',)
+        ('029-505', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'GEORGE RAUSCHER', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('029-505', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'GEORGE RAUSCHER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('029-505', 'STATE HOUSE', 'REPUBLICAN', 'MATANUSKA-SUSITNA BOROUGH', 'GEORGE RAUSCHER', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 111 elements)
+        ('District 29 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'GEORGE RAUSCHER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 29 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 29 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('JD4',)
+        ('030-550', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'DENALI BOROUGH', 'BAHR - NO', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('030-550', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'DENALI BOROUGH', 'BAHR - NO', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('030-550', 'RETENTION DISTRICT COURT', 'NONPARTISAN', 'DENALI BOROUGH', 'BAHR - NO', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 5634 elements)
+        ('District 39 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'HAINES - OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 39 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'HAINES - UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 39 - Early Voting', 'RETENTION SUPERIOR COURT', 'NONPARTISAN', '""', 'HAINES - YES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('030',)
+        ('030-550', 'STATE HOUSE', 'REPUBLICAN', 'DENALI BOROUGH', 'DOYLE E HOLMES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('030-550', 'STATE HOUSE', 'REPUBLICAN', 'DENALI BOROUGH', 'DOYLE E HOLMES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('030-550', 'STATE HOUSE', 'REPUBLICAN', 'DENALI BOROUGH', 'DOYLE E HOLMES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 198 elements)
+        ('District 30 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'KEVIN J MCCABE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 30 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 30 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('031',)
+        ('031-446', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'MAXINE L DIBERT', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('031-446', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'MAXINE L DIBERT', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('031-446', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'MAXINE L DIBERT', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 70 elements)
+        ('District 31 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'BART LEBON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 31 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 31 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('P',)
+        ('031-446', 'STATE SENATE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('031-446', 'STATE SENATE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('031-446', 'STATE SENATE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 146 elements)
+        ('District 32 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'SCOTT KAWASAKI', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 32 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 32 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'LESLIE W HAJDUKOVICH', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('032',)
+        ('032-355', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'GARY K DAMRON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('032-355', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'GARY K DAMRON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('032-355', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'GARY K DAMRON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 70 elements)
+        ('District 32 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 32 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 32 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'WILL STAPP', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('033',)
+        ('033-130', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'GLENN "MIKE" PRAX', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('033-130', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'GLENN "MIKE" PRAX', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('033-130', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'GLENN "MIKE" PRAX', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 75 elements)
+        ('District 33 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'GLENN "MIKE" PRAX', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 33 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 33 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('034',)
+        ('034-235', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'FRANK TOMASZEWSKI', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('034-235', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'FRANK TOMASZEWSKI', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('034-235', 'STATE HOUSE', 'REPUBLICAN', 'FAIRBANKS NORTH STAR BOROUGH', 'FRANK TOMASZEWSKI', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 134 elements)
+        ('District 34 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'JOY "JOY BETH" COTTLE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 34 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 34 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('035',)
+        ('035-580', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'ASHLEY E CARRICK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('035-580', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'ASHLEY E CARRICK', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('035-580', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'ASHLEY E CARRICK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 134 elements)
+        ('District 35 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 35 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 35 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'RUBEN A JR MCNEILL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('R',)
+        ('035-580', 'STATE SENATE', 'ALASKAN INDEPENDENCE PARTY', 'FAIRBANKS NORTH STAR BOROUGH', 'ROBERT "BERT" WILLIAMS', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('035-580', 'STATE SENATE', 'ALASKAN INDEPENDENCE PARTY', 'FAIRBANKS NORTH STAR BOROUGH', 'ROBERT "BERT" WILLIAMS', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('035-580', 'STATE SENATE', 'ALASKAN INDEPENDENCE PARTY', 'FAIRBANKS NORTH STAR BOROUGH', 'ROBERT "BERT" WILLIAMS', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 984 elements)
+        ('District 36 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 36 - Early Voting', 'STATE SENATE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 36 - Early Voting', 'STATE SENATE', 'UNDECLARED', '""', 'SAVANNAH FLETCHER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('036',)
+        ('036-001', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'BRANDON P "PUTUUQTI" KOWALSKI', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('036-001', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'BRANDON P "PUTUUQTI" KOWALSKI', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('036-001', 'STATE HOUSE', 'DEMOCRAT', 'FAIRBANKS NORTH STAR BOROUGH', 'BRANDON P "PUTUUQTI" KOWALSKI', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 972 elements)
+        ('District 36 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'PAMELA GOODE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 36 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'REBECCA A SCHWANKE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 36 - Early Voting', 'STATE HOUSE', 'REPUBLICAN', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('037',)
+        ('037-700', 'STATE HOUSE', 'NONPARTISAN', 'ALEUTIANS EAST BOROUGH', 'DARREN M DEACON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('037-700', 'STATE HOUSE', 'NONPARTISAN', 'ALEUTIANS EAST BOROUGH', 'DARREN M DEACON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('037-700', 'STATE HOUSE', 'NONPARTISAN', 'ALEUTIANS EAST BOROUGH', 'DARREN M DEACON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 567 elements)
+        ('District 37 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'BRYCE EDGMON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 37 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 37 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('038',)
+        ('038-800', 'STATE HOUSE', 'DEMOCRAT', 'BETHEL CENSUS AREA', 'CJ MCCORMICK', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('038-800', 'STATE HOUSE', 'DEMOCRAT', 'BETHEL CENSUS AREA', 'CJ MCCORMICK', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('038-800', 'STATE HOUSE', 'DEMOCRAT', 'BETHEL CENSUS AREA', 'CJ MCCORMICK', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 588 elements)
+        ('District 38 - Early Voting', 'STATE HOUSE', 'VETERANS PARTY', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 38 - Early Voting', 'STATE HOUSE', 'VETERANS PARTY', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 38 - Early Voting', 'STATE HOUSE', 'VETERANS PARTY', '""', 'WILLY KEPPEL', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('039',)
+        ('039-900', 'STATE HOUSE', 'ALASKAN INDEPENDENCE PARTY', 'KUSILVAK CENSUS AREA', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('039-900', 'STATE HOUSE', 'ALASKAN INDEPENDENCE PARTY', 'KUSILVAK CENSUS AREA', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('039-900', 'STATE HOUSE', 'ALASKAN INDEPENDENCE PARTY', 'KUSILVAK CENSUS AREA', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 454 elements)
+        ('District 39 - Early Voting', 'STATE HOUSE', 'ALASKAN INDEPENDENCE PARTY', '""', 'TYLER IVANOFF', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 39 - Early Voting', 'STATE HOUSE', 'ALASKAN INDEPENDENCE PARTY', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 39 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'NEAL W FOSTER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('T',)
+        ('039-900', 'STATE SENATE', 'DEMOCRAT', 'KUSILVAK CENSUS AREA', 'DONALD C "DONNY" OLSON', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('039-900', 'STATE SENATE', 'DEMOCRAT', 'KUSILVAK CENSUS AREA', 'DONALD C "DONNY" OLSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('039-900', 'STATE SENATE', 'DEMOCRAT', 'KUSILVAK CENSUS AREA', 'DONALD C "DONNY" OLSON', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 588 elements)
+        ('District 40 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'DONALD C "DONNY" OLSON', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 40 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 40 - Early Voting', 'STATE SENATE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+    ('040',)
+        ('040-002', 'STATE HOUSE', 'DEMOCRAT', 'NORTHWEST ARCTIC BOROUGH', 'OVERVOTES', 'ABSENTEE', 'GEN', 'FALSE', '2024-11-05')
+        ('040-002', 'STATE HOUSE', 'DEMOCRAT', 'NORTHWEST ARCTIC BOROUGH', 'OVERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('040-002', 'STATE HOUSE', 'DEMOCRAT', 'NORTHWEST ARCTIC BOROUGH', 'OVERVOTES', 'ELECTION DAY', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 409 elements)
+        ('District 40 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'SAIMA "IKRIK" CHASE', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 40 - Early Voting', 'STATE HOUSE', 'DEMOCRAT', '""', 'UNDERVOTES', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+        ('District 40 - Early Voting', 'STATE HOUSE', 'UNDECLARED', '""', 'THOMAS C "IKAAQ" BAKER', 'EARLY VOTING', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR DISTRICTS
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    001
+    002
+    003
+    004
+    005
+    006
+    007
+    008
+    009
+    010
+    011
+    012
+    013
+    014
+    015
+    016
+    017
+    018
+    019
+    020
+    021
+    022
+    023
+    024
+    025
+    026
+    027
+    028
+    029
+    030
+    031
+    032
+    033
+    034
+    035
+    036
+    037
+    038
+    039
+    040
+    B
+    D
+    F
+    H
+    J
+    JD1
+    JD3
+    JD4
+    L
+    N
+    P
+    R
+    STATEWIDE
+    T
+------
+

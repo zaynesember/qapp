@@ -157,3 +157,46 @@ def find_duplicate_rows(df: pd.DataFrame) -> pd.DataFrame:
     result = pd.concat(out, ignore_index=True)
     result = result.sort_values(by=list(df.columns)).reset_index(drop=True)
     return result
+
+
+def find_zero_vote_precincts(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Identify precinct-office (and related jurisdiction) groups whose aggregated
+    vote totals are exactly zero. Groups by the following columns when present:
+      ['county_fips','jurisdiction_fips','precinct','office','district']
+
+    Returns a DataFrame with the grouping columns and a `votes_sum` column for
+    groups where the sum of `votes` == 0. If required columns are missing,
+    returns an empty DataFrame.
+    """
+    if df.empty:
+        return pd.DataFrame()
+
+    # Ensure votes column exists
+    if "votes" not in df.columns:
+        return pd.DataFrame()
+
+    # Choose grouping columns that exist in the dataframe
+    possible_groups = [
+        "county_fips",
+        "jurisdiction_fips",
+        "precinct",
+        "office",
+        "district",
+    ]
+    group_cols = [c for c in possible_groups if c in df.columns]
+    if not group_cols:
+        return pd.DataFrame()
+
+    # Coerce votes to numeric (non-numeric -> NaN -> treated as 0 for aggregation)
+    votes = pd.to_numeric(df["votes"], errors="coerce").fillna(0)
+    tmp = df.loc[:, group_cols].copy()
+    tmp = tmp.assign(__votes_numeric=votes.values)
+
+    grouped = tmp.groupby(group_cols, dropna=False)["__votes_numeric"].sum().reset_index()
+    zero_groups = grouped[grouped["__votes_numeric"] == 0].copy()
+    if zero_groups.empty:
+        return pd.DataFrame()
+
+    zero_groups = zero_groups.rename(columns={"__votes_numeric": "votes_sum"})
+    return zero_groups

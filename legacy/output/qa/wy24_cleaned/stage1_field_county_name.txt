@@ -1,0 +1,126 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ALBANY', '56001')
+    ('BIG HORN', '56003')
+    ('CAMPBELL', '56005')
+    ('CARBON', '56007')
+    ('CONVERSE', '56009')
+    ('CROOK', '56011')
+    ('FREMONT', '56013')
+    ('GOSHEN', '56015')
+    ('HOT SPRINGS', '56017')
+    ('JOHNSON', '56019')
+    ('LARAMIE', '56021')
+    ('LINCOLN', '56023')
+    ('NATRONA', '56025')
+    ('NIOBRARA', '56027')
+    ('PARK', '56029')
+    ('PLATTE', '56031')
+    ('SHERIDAN', '56033')
+    ('SUBLETTE', '56035')
+    ('SWEETWATER', '56037')
+    ('TETON', '56039')
+    ('UINTA', '56041')
+    ('WASHAKIE', '56043')
+    ('WESTON', '56045')
+------
+
+---------
+------
+ALL VALUES:
+    ALBANY
+    BIG HORN
+    CAMPBELL
+    CARBON
+    CONVERSE
+    CROOK
+    FREMONT
+    GOSHEN
+    HOT SPRINGS
+    JOHNSON
+    LARAMIE
+    LINCOLN
+    NATRONA
+    NIOBRARA
+    PARK
+    PLATTE
+    SHERIDAN
+    SUBLETTE
+    SWEETWATER
+    TETON
+    UINTA
+    WASHAKIE
+    WESTON
+------
+

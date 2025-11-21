@@ -1,0 +1,157 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    No Problems Found :) 
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        ADDISON HIGH BAILIFF
+        ATTORNEY GENERAL
+        AUDITOR
+        BENNINGTON HIGH BAILIFF
+        CALEDONIA HIGH BAILIFF
+        CHITTENDEN HIGH BAILIFF
+        ESSEX HIGH BAILIFF
+        FRANKLIN HIGH BAILIFF
+        GOVERNOR
+        GRAND ISLE HIGH BAILIFF
+        LAMOILLE HIGH BAILIFF
+        LIEUTENANT GOVERNOR
+        ORANGE HIGH BAILIFF
+        ORLEANS HIGH BAILIFF
+        RUTLAND HIGH BAILIFF
+        SECRETARY OF STATE
+        STATE HOUSE
+        STATE SENATE
+        TREASURER
+        WASHINGTON HIGH BAILIFF
+        WINDHAM HIGH BAILIFF
+        WINDSOR HIGH BAILIFF
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    ADDISON HIGH BAILIFF
+        1 counties for this office
+    ATTORNEY GENERAL
+        14 counties for this office
+    AUDITOR
+        14 counties for this office
+    BENNINGTON HIGH BAILIFF
+        1 counties for this office
+    CALEDONIA HIGH BAILIFF
+        1 counties for this office
+    CHITTENDEN HIGH BAILIFF
+        1 counties for this office
+    ESSEX HIGH BAILIFF
+        1 counties for this office
+    FRANKLIN HIGH BAILIFF
+        1 counties for this office
+    GOVERNOR
+        14 counties for this office
+    GRAND ISLE HIGH BAILIFF
+        1 counties for this office
+    LAMOILLE HIGH BAILIFF
+        1 counties for this office
+    LIEUTENANT GOVERNOR
+        14 counties for this office
+    ORANGE HIGH BAILIFF
+        1 counties for this office
+    ORLEANS HIGH BAILIFF
+        1 counties for this office
+    RUTLAND HIGH BAILIFF
+        1 counties for this office
+    SECRETARY OF STATE
+        14 counties for this office
+    STATE HOUSE
+        14 counties for this office
+    STATE SENATE
+        14 counties for this office
+    TREASURER
+        14 counties for this office
+    US HOUSE
+        14 counties for this office
+    US PRESIDENT
+        14 counties for this office
+    US SENATE
+        14 counties for this office
+    WASHINGTON HIGH BAILIFF
+        1 counties for this office
+    WINDHAM HIGH BAILIFF
+        1 counties for this office
+    WINDSOR HIGH BAILIFF
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    PRESIDENT
+    SENATE
+    STATE
+------
+

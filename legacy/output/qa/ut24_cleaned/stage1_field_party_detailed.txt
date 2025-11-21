@@ -1,0 +1,134 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in party_detailed!
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    GREEN ||| [[GRE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT AMERICAN ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NONPARTISAN ||| [[NO]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NONPARTISAN ||| [[PARTISAN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+    AGAINST: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>' 'UNAFFILIATED']
+    ALISA COX VAN LANGEVELD: ['NONPARTISAN' 'UNAFFILIATED']
+    AUSTIN HEPWORTH: ['NONPARTISAN' 'UNAFFILIATED']
+    CLAUDIA DE LA CRUZ: ['NONPARTISAN' 'UNAFFILIATED']
+    CORNEL WEST: ['NONPARTISAN' 'UNAFFILIATED']
+    FOR: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>' 'UNAFFILIATED']
+    LUCIFER "JUSTIN CASE" EVERYLOVE: ['NONPARTISAN' 'UNAFFILIATED']
+    NO: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>' 'UNAFFILIATED']
+    SAM MCMURDIE: ['<<<EC: VALUE WAS EMPTY>>>' 'NONPARTISAN']
+    TOM TOMENY WILLIAM LANSING TAYLOR: ['NONPARTISAN' 'UNAFFILIATED']
+    TYLER MURSET: ['NONPARTISAN' 'UNAFFILIATED']
+    YES: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>' 'UNAFFILIATED']
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    CONSTITUTION
+    DEMOCRAT
+    GREEN
+    INDEPENDENT AMERICAN
+    LIBERTARIAN
+    NONPARTISAN
+    REPUBLICAN
+    UNAFFILIATED
+    UNITED UTAH
+    UTAH FORWARD
+------
+

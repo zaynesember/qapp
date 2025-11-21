@@ -1,0 +1,151 @@
+---------------------------
+---------------------------
+CANDIDATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+INVALID BEGINNING CHARACTERS
+    "GINGER" LECOMPTE
+    "MIKE" JOHNSON
+    "NICK" LABORDE
+    "XAN" JOHN
+------
+
+------
+INVALID ENDING CHARACTERS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) EXTRANEOUS SINGLE QUOTATION MARKS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX NOT AT THE END
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INITIAL/MIDDLE NAME AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) SUFFIX AFTER NICKNAME
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN candidate WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN candidate: 
+   No Problems Found :) 
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    "GINGER" LECOMPTE
+    "MIKE" JOHNSON
+    "NICK" LABORDE
+    "XAN" JOHN
+    ANTHONY EAVES
+    BRADY SEGURA
+    CHASE OLIVER
+    CHRISTOPHER "TIPPER" ESPONGE
+    CHRISTY LYNCH
+    CLAUDIA DE LA CRUZ
+    CLAY HIGGINS
+    CLAYTON DAVIS
+    CLEO FIELDS
+    CORNEL WEST
+    DEVIN DAVIS
+    DEVIN LANCE GRAHAM
+    DONALD J TRUMP
+    EBONI JOHNSON ROSE
+    ELBERT GUILLORY
+    IVAN MCINTYRE
+    J "FRANKIE" HYERS
+    JEAN-PAUL COUSSAN
+    JENNIFER GAUTHREAUX PRESCOTT
+    JILL STEIN
+    JOSHUA MOROTT
+    JULIA LETLOW
+    JULIE QUINN
+    KAMALA D HARRIS
+    KELLY BALFOUR
+    KRIS ALLEN BRASSEAUX
+    LINDON BENNETT MAGEE
+    MATTHEW BELSER
+    MATTIE PRESTON
+    MEL MANUEL
+    MICHAEL VALLIEN JR
+    MV "VINNY" MENDOZA
+    NO
+    PAM BLAKELY
+    PERRY SHAW
+    PETER SONSKI
+    PETER WILLIAMS
+    PRISCILLA GONZALEZ
+    QUENTIN ANTHONY ANDERSON
+    RACHELE FRUIT
+    RANDALL ARRINGTON
+    RANDALL TERRY
+    ROBERT F KENNEDY JR
+    ROSS SHALES
+    SADI SUMMERLIN
+    SHONDRELL PERRILLOUX
+    STEVE SCALISE
+    TONI FALTERMAN MENARD
+    TROY A CARTER SR
+    WILKEN JONES JR
+    YES
+------
+

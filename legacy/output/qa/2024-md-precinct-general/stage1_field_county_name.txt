@@ -1,0 +1,128 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    BALTIMORE ||| [[BALTIMORE CITY]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ALLEGANY', '24001')
+    ('ANNE ARUNDEL', '24003')
+    ('BALTIMORE', '24005')
+    ('BALTIMORE CITY', '24510')
+    ('CALVERT', '24009')
+    ('CAROLINE', '24011')
+    ('CARROLL', '24013')
+    ('CECIL', '24015')
+    ('CHARLES', '24017')
+    ('DORCHESTER', '24019')
+    ('FREDERICK', '24021')
+    ('GARRETT', '24023')
+    ('HARFORD', '24025')
+    ('HOWARD', '24027')
+    ('KENT', '24029')
+    ('MONTGOMERY', '24031')
+    ("PRINCE GEORGE'S", '24033')
+    ("QUEEN ANNE'S", '24035')
+    ("SAINT MARY'S", '24037')
+    ('SOMERSET', '24039')
+    ('TALBOT', '24041')
+    ('WASHINGTON', '24043')
+    ('WICOMICO', '24045')
+    ('WORCESTER', '24047')
+------
+
+---------
+------
+ALL VALUES:
+    ALLEGANY
+    ANNE ARUNDEL
+    BALTIMORE
+    BALTIMORE CITY
+    CALVERT
+    CAROLINE
+    CARROLL
+    CECIL
+    CHARLES
+    DORCHESTER
+    FREDERICK
+    GARRETT
+    HARFORD
+    HOWARD
+    KENT
+    MONTGOMERY
+    PRINCE GEORGE'S
+    QUEEN ANNE'S
+    SAINT MARY'S
+    SOMERSET
+    TALBOT
+    WASHINGTON
+    WICOMICO
+    WORCESTER
+------
+

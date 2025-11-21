@@ -1,0 +1,142 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in party_detailed!
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    GREEN INDEPENDENT ||| [[GRE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT ||| [[IND]]
+    GREEN INDEPENDENT ||| [[IND]]
+    MAINE INDEPENDENT ||| [[IND]]
+    A TRUE INDEPENDENT ||| [[IND]]
+    INDEPENDENT FOR MAINE ||| [[IND]]
+    UNENROLLED/INDEPENDENT ||| [[IND]]
+    COMMON SENSE INDEPENDENT ||| [[IND]]
+    WICKED THRIFTY INDEPENDENT ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    NONPARTISAN ||| [[NP]]
+    NON PARTY CANDIDATE ||| [[NO]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    NONPARTISAN ||| [[PARTISAN]]
+    NON PARTY CANDIDATE ||| [[PARTY]]
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+    UNENROLLED ||| [[UNENROLLED/INDEPENDENT]]
+    INDEPENDENT ||| [[WICKED THRIFTY INDEPENDENT]]
+    MAINE INDEPENDENT ||| [[INDEPENDENT FOR MAINE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+    NO: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>']
+    TOTAL BALLOTS CAST: ['<<<EC: VALUE WAS EMPTY>>>' 'NONPARTISAN']
+    UNDERVOTES: ['<<<EC: VALUE WAS EMPTY>>>' 'NONPARTISAN']
+    YES: ['NONPARTISAN' '<<<EC: VALUE WAS EMPTY>>>']
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    A TRUE INDEPENDENT
+    COMMON SENSE INDEPENDENT
+    DEMOCRAT
+    GREEN INDEPENDENT
+    INDEPENDENT
+    INDEPENDENT FOR MAINE
+    JUSTICE FOR ALL
+    LIBERTARIAN
+    MAINE INDEPENDENT
+    NON PARTY CANDIDATE
+    NONPARTISAN
+    REPUBLICAN
+    UNENROLLED
+    UNENROLLED/INDEPENDENT
+    WICKED THRIFTY INDEPENDENT
+------
+

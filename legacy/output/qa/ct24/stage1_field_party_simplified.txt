@@ -1,0 +1,122 @@
+---------------------------
+---------------------------
+PARTY_SIMPLIFIED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    OTHER ||| [[OTH]]
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN party_simplified WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_simplified: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED SIMPLIFIED PARTY NAMES:
+   No Problems Found :) 
+------
+
+------
+PARTY SIMPLIFIED TO PARTY DETAILED MAP:
+    "": ['""']
+    DEMOCRAT: ['DEMOCRAT']
+    LIBERTARIAN: ['LIBERTARIAN']
+    OTHER: ['GREEN' 'PETITIONING CANDIDATE' 'WORKING FAMILIES'
+ 'CHEAPER GAS GROCERIES' 'INDEPENDENT' 'NEW MOVEMENT' 'WE THE PEOPLE'
+ 'UNITED COMMUNITY']
+    REPUBLICAN: ['REPUBLICAN']
+------
+
+---------
+------
+ALL VALUES:
+    ""
+    DEMOCRAT
+    LIBERTARIAN
+    OTHER
+    REPUBLICAN
+------
+

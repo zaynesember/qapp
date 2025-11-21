@@ -1,0 +1,104 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    FAIRFIELD: ['09001', '39045', '45039']
+    MIDDLESEX: ['09007', '25017', '34023', '51119']
+    WINDHAM: ['09015', '50025']
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('FAIRFIELD', '09001')
+    ('FAIRFIELD', '39045')
+    ('FAIRFIELD', '45039')
+    ('HARTFORD', '09003')
+    ('LITCHFIELD', '09005')
+    ('MIDDLESEX', '09007')
+    ('MIDDLESEX', '25017')
+    ('MIDDLESEX', '34023')
+    ('MIDDLESEX', '51119')
+    ('NEW HAVEN', '09009')
+    ('NEW LONDON', '09011')
+    ('TOLLAND', '09013')
+    ('WINDHAM', '09015')
+    ('WINDHAM', '50025')
+------
+
+---------
+------
+ALL VALUES:
+    FAIRFIELD
+    HARTFORD
+    LITCHFIELD
+    MIDDLESEX
+    NEW HAVEN
+    NEW LONDON
+    TOLLAND
+    WINDHAM
+------
+

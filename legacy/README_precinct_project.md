@@ -1,0 +1,92 @@
+# 2024-precincts
+Repository for cleaning precinct data from the general election on November 5, 2024
+
+## Fields:
+
+### precinct: 
+The string id for the smallest election reporting unit of a state. Should generally be left exactly the way it is (this includes not capitalizing it), except under two conditions. 1) if the precinct is actually some type of total or aggregation of precinct results, then it should be dropped. 2) If we already know what the precinct id looks like from some type of precinct shapefile from a state, then the precinct id should be structured to match the shapefile precinct id. 
+
+### office: 
+The field which contains the name of the elected position for the race. These should be standardized and stripped of the district code, candidate names, parties, etc. that belong in the other fields. All entries should be in upper case. Standard entries are US PRESIDENT, US SENATE, US HOUSE, GOVERNOR, STATE SENATE, and STATE HOUSE. When a rows holds meta-information like the number of registered voters in a jurisdiction, the label is stored in the office column, and the candidate column is left blank.
+
+Special Cases
+- For countywide offices, please ensure the `county_name` is present in the `office` column. E.g., instead of COUNTY COMMISSIONER, please put <COUNTY_NAME> COUNTY COMMISSIONER, or something similar.
+- If the `office` is a type of proposition/ballot question/levy/bond/referenda, please leave all district and locality information in the office name to ensure that the question is properly identified.
+- If the `office` is a type of retention election (common in judicial contests), please include the court name, that the office is retention, and the candidate's name all in the `office` column, then for `candidate` use YES/NO or FOR/AGAINST, depending on what the state's standard is already. If there is any identifying district information about the court (e.g., district/circuit/division), move that to the `district` column. An example template for `office` in these cases is \<court\> RETENTION \<candidate\>.
+- Otherwise, please move any district identifiers to the `district` column.
+
+### party_detailed:
+The upper case party name for the given entry. The most common entries will be DEMOCRAT, REPUBLICAN, and LIBERTARIAN, with the full detailed names for the various parties, including those names that are unique to a given state (i.e. party fusion names).
+
+Special Cases
+- Propositions, amendment, and other referenda should have a blank value for this field
+- Undervotes and Overvotes should have a blank value for this field
+
+### party_simplified:
+The upper case party name for the given entry. The entries will be one of: DEMOCRAT, REPUBLICAN, LIBERTARIAN, OTHER, NONPARTISAN, and <NA>. Propositions, amendment, and other referenda should have a blank value for this field.
+
+### mode:
+The upper case voting mode for how the election results will be reported. For results that do not offer disaggregation by mode, it will be "TOTAL". For other states that do offer the distinction, we record votes cast in-person on election day as ELECTION DAY, and common alternative entries are: ELECTION DAY, PROVISIONAL, ABSENTEE, and ONE-STOP. It is important to note that some special attention will need to be paid to absentee, which is often reported, but only at the level of county, and can therefore lead to double counting. Most of these errors/issues can be caught by aggregating results up to election race outcomes. Therefore, consult with the QA checkers for insight to your particular state. 
+
+### votes:
+The numeric value of votes for a given entry. Ensure that commas and the like are not included so as to ensure that it is numeric and not string, and any missing values should be coded as 0. 
+
+Special cases:
+- If any votes have been redacted (most common in small precincts in certain states), please code it as the asterisk character `*`.
+
+### county_name:
+The upper case name of the county. 
+
+### county_fips: 
+The Census 5-digit code for a given county. Structured such that the first two digits are the state fips, and the last three digits are the county part of the fips. Ensure that each component is string padded such that if a state's or county's fip is one digit, i.e. AL, then padded such that it might take the form of 01020. 
+
+### jurisdiction_name:
+The upper case name for the jurisdiction. With the exception of New England states, Wisconsin, and Alaska, these will be the same as the county_name. For the New England states, these will be the town names. 
+
+### jurisdiction_fips: 
+The fips code for the jurisdiction, which will be the same as the county fips for every state except New England states, Wisconsin, and Alaska. Just as with county fips, these should be string padded, though the fips will be 10 digits.  
+
+### candidate:
+The candidate name. Should be all upper case and punctuation. We standardize candidate names within states. Across states we only need to standardize candidate names for US PRESIDENT. We have three other main standardization conventions. Write overvotes as `OVERVOTES`, undervotes as `UNDERVOTES`, and (wherever total number of write-in votes are given rather than individual write-in candidates' totals) denote write in totals as `WRITE-IN`. For US PRESIDENT, in 2024, here are some of the candidate names: DONALD J TRUMP, KAMALA D HARRIS, CHASE OLIVER, CLAUDIA DE LA CRUZ, JILL STEIN, RANDALL TERRY, PETER SONSKI, ROBERT F KENNEDY, CORNEL WEST, JOSEPH KISHORE, RACHELE FRUIT. Otherwise, please just standardize the candidate to only the presidential candidate's name (ie, not the vice president).  
+
+### district: 
+The district identifier for the race, given that it is substate. If the district is a state legislative or U.S. House race, then the district should be string padded to be 3 digits long and with zeroes, i.e. State Senate district 3 would be equal to "003". For other substate units (wards, seats, etc) with multiple levels, should reflect the entire unique identifier, i.e. State District Court of the Sixth district and seat C, would be "6, seat C". Ensure consistency for a given state for these non-legislative and congressional races. For candidates with state wide jurisdictions, district should be "statewide". For races without district info, the field should be equal to "". 
+
+### dataverse:
+The dataverse that the data will be a part of, based on its office. The allowed values are "PRESIDENT" for US Presidential races, "SENATE" for US Senate races, "HOUSE" for US House races, "STATE" for state level executive, legislative, judicial races, or ballot questions, and "LOCAL" for local contests. For rows that include ancillary information about the contest (such as registered voters, ballots cast, total votes, etc.), leave the value blank.
+
+### year:
+The year of the election.
+
+### stage:
+The stage of the election, can be "PRI" for primary, "GEN" for general, or "RUNOFF" for a runoff election. 
+
+### state: 
+The name of the state in capitals. 
+
+### special:
+An indicator for whether the election was a special election, "TRUE" if special, "FALSE" for non-special. 
+
+### writein:
+An indicator for whether the candidate was a write in, "TRUE" if write in, "FALSE" otherwise. Note that entries noted as "scattering" are write in votes, and should be noted as TRUE. 
+
+### state_po:
+The state postal abbreviation. Merged on from the statecode file.
+
+### state_fips:
+The state's fips code, 2 digits. Merged on from the statecode file.
+
+### state_cen: 
+The state's census code. Merged on from the statecode file.
+
+### state_ic:
+Merged on from the statecode file.
+
+### date: 
+The date of the primary/election. Note that there will be some states with different election dates for different offices (i.e. presidential primary v. congressional primary). Should be formatted as %y-%m-%d, such that January 5, 2019 would be "2019-01-05" 
+
+### readme_check:
+***DISCONTINUED***
+
+### magnitude:
+The number of candidates voted for in a given precinct-office race. For example, all Americans only vote for one president, but in some state house races voters can choose more than one person, and multiple people will be elected to represent them.

@@ -1,0 +1,75 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        (1, 'ASOTIN COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'ASOTIN', 'WRITE-IN', 'TOTAL', '001', 'GEN', '2024-11-05')
+        (1, 'ASOTIN COUNTY COMMISSIONER', '<<<EC: VALUE WAS EMPTY>>>', 'ASOTIN', 'WRITE-IN', 'TOTAL', '002', 'GEN', '2024-11-05')
+        (1, 'ASOTIN COUNTY COMMISSIONER', 'NONPARTISAN', 'ASOTIN', 'BRIAN SHINN', 'TOTAL', '001', 'GEN', '2024-11-05')
+        ...(skipping 438663 elements)
+        (9917, 'US SENATE', '<<<EC: VALUE WAS EMPTY>>>', 'KING', 'WRITE-IN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        (9917, 'US SENATE', 'DEMOCRAT', 'KING', 'MARIA CANTWELL', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        (9917, 'US SENATE', 'REPUBLICAN', 'KING', 'DR RAUL GARCIA', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        (122, 'FIRE DISTRICT 4 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'APPROVED', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (122, 'FIRE DISTRICT 4 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'REJECT', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (212, 'WASHTUCNA PARK AND RECREATION 2 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'APPROVED', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (212, 'WASHTUCNA PARK AND RECREATION 2 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'REJECTED', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (221, 'WASHTUCNA PARK AND RECREATION 2 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'APPROVED', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        (221, 'WASHTUCNA PARK AND RECREATION 2 SPECIAL ELECTION PROPOSITION NO 1', '<<<EC: VALUE WAS EMPTY>>>', 'ADAMS', 'REJECTED', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

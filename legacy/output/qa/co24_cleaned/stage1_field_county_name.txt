@@ -1,0 +1,208 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    GRAND ||| [[RIO GRANDE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '08001')
+    ('ALAMOSA', '08003')
+    ('ARAPAHOE', '08005')
+    ('ARCHULETA', '08007')
+    ('BACA', '08009')
+    ('BENT', '08011')
+    ('BOULDER', '08013')
+    ('BROOMFIELD', '08014')
+    ('CHAFFEE', '08015')
+    ('CHEYENNE', '08017')
+    ('CLEAR CREEK', '08019')
+    ('CONEJOS', '08021')
+    ('COSTILLA', '08023')
+    ('CROWLEY', '08025')
+    ('CUSTER', '08027')
+    ('DELTA', '08029')
+    ('DENVER', '08031')
+    ('DOLORES', '08033')
+    ('DOUGLAS', '08035')
+    ('EAGLE', '08037')
+    ('EL PASO', '08041')
+    ('ELBERT', '08039')
+    ('FREMONT', '08043')
+    ('GARFIELD', '08045')
+    ('GILPIN', '08047')
+    ('GRAND', '08049')
+    ('GUNNISON', '08051')
+    ('HINSDALE', '08053')
+    ('HUERFANO', '08055')
+    ('JACKSON', '08057')
+    ('JEFFERSON', '08059')
+    ('KIOWA', '08061')
+    ('KIT CARSON', '08063')
+    ('LA PLATA', '08067')
+    ('LAKE', '08065')
+    ('LARIMER', '08069')
+    ('LAS ANIMAS', '08071')
+    ('LINCOLN', '08073')
+    ('LOGAN', '08075')
+    ('MESA', '08077')
+    ('MINERAL', '08079')
+    ('MOFFAT', '08081')
+    ('MONTEZUMA', '08083')
+    ('MONTROSE', '08085')
+    ('MORGAN', '08087')
+    ('OTERO', '08089')
+    ('OURAY', '08091')
+    ('PARK', '08093')
+    ('PHILLIPS', '08095')
+    ('PITKIN', '08097')
+    ('PROWERS', '08099')
+    ('PUEBLO', '08101')
+    ('RIO BLANCO', '08103')
+    ('RIO GRANDE', '08105')
+    ('ROUTT', '08107')
+    ('SAGUACHE', '08109')
+    ('SAN JUAN', '08111')
+    ('SAN MIGUEL', '08113')
+    ('SEDGWICK', '08115')
+    ('SUMMIT', '08117')
+    ('TELLER', '08119')
+    ('WASHINGTON', '08121')
+    ('WELD', '08123')
+    ('YUMA', '08125')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALAMOSA
+    ARAPAHOE
+    ARCHULETA
+    BACA
+    BENT
+    BOULDER
+    BROOMFIELD
+    CHAFFEE
+    CHEYENNE
+    CLEAR CREEK
+    CONEJOS
+    COSTILLA
+    CROWLEY
+    CUSTER
+    DELTA
+    DENVER
+    DOLORES
+    DOUGLAS
+    EAGLE
+    EL PASO
+    ELBERT
+    FREMONT
+    GARFIELD
+    GILPIN
+    GRAND
+    GUNNISON
+    HINSDALE
+    HUERFANO
+    JACKSON
+    JEFFERSON
+    KIOWA
+    KIT CARSON
+    LA PLATA
+    LAKE
+    LARIMER
+    LAS ANIMAS
+    LINCOLN
+    LOGAN
+    MESA
+    MINERAL
+    MOFFAT
+    MONTEZUMA
+    MONTROSE
+    MORGAN
+    OTERO
+    OURAY
+    PARK
+    PHILLIPS
+    PITKIN
+    PROWERS
+    PUEBLO
+    RIO BLANCO
+    RIO GRANDE
+    ROUTT
+    SAGUACHE
+    SAN JUAN
+    SAN MIGUEL
+    SEDGWICK
+    SUMMIT
+    TELLER
+    WASHINGTON
+    WELD
+    YUMA
+------
+

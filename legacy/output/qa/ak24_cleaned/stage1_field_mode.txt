@@ -1,0 +1,257 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    QUESTION ||| [[QUESTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    ELECTION DAY ||| [[ELECT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    ABSENTEE ||| [[ABS]]
+    EARLY VOTING ||| [[EARLY]]
+    ELECTION DAY ||| [[ELECTION]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('ABSENTEE', 'EARLY VOTING', 'QUESTION', 'ELECTION DAY')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'OVERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'UNDERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 29448 elements)
+        ('040-040', 'US PRESIDENT', 'INDEPENDENT', 'NORTH SLOPE BOROUGH', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('040-040', 'US PRESIDENT', 'LIBERTARIAN', 'NORTH SLOPE BOROUGH', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('040-040', 'US PRESIDENT', 'REPUBLICAN', 'NORTH SLOPE BOROUGH', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('QUESTION',)
+        ('District 1  - Question', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1  - Question', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'OVERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1  - Question', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'UNDERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3209 elements)
+        ('District 9  - Question', 'US PRESIDENT', 'INDEPENDENT', '""', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9  - Question', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9  - Question', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('ABSENTEE',)
+        ('District 1 - Absentee', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Absentee', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'OVERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Absentee', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'UNDERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 3209 elements)
+        ('District 9 - Absentee', 'US PRESIDENT', 'INDEPENDENT', '""', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Absentee', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING',)
+        ('District 1 - Early Voting', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Early Voting', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'OVERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 1 - Early Voting', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'UNDERVOTES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 2974 elements)
+        ('District 9 - Early Voting', 'US PRESIDENT', 'INDEPENDENT', '""', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 9 - Early Voting', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('EARLY VOTING', 'ELECTION DAY')
+        ('District 37 - Early Voting', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', '""', 'YES', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 37 - Early Voting', 'BALLOT MEASURE NO. 2 - 22AKHE', '""', '""', 'NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 37 - Early Voting', 'RETENTION COURT OF APPEALS', 'NONPARTISAN', '""', 'ALLARD - NO', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 229 elements)
+        ('District 8 - Early Voting', 'US PRESIDENT', 'INDEPENDENT', '""', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('District 8 - Early Voting', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+    ('QUESTION', 'FEDERAL OVERSEAS')
+        ('HD99 Fed Overseas Absentee', 'US HOUSE', 'ALASKAN INDEPENDENCE PARTY', '""', 'JOHN WAYNE HOWE', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US HOUSE', 'DEMOCRAT', '""', 'ERIC HAFNER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US HOUSE', 'DEMOCRAT', '""', 'MARY S PELTOLA', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ...(skipping 10 elements)
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'INDEPENDENT', '""', 'ROBERT F KENNEDY', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    ABSENTEE
+    EARLY VOTING
+    ELECTION DAY
+    FEDERAL OVERSEAS
+    QUESTION
+------
+

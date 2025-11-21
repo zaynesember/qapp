@@ -1,0 +1,211 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    JEFFERSON ||| [[JEFFERSON DAVIS]]
+    EAST CARROLL ||| [[WEST CARROLL]]
+    EAST FELICIANA ||| [[WEST FELICIANA]]
+    EAST BATON ROUGE ||| [[WEST BATON ROUGE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ACADIA', '22001')
+    ('ALLEN', '22003')
+    ('ASCENSION', '22005')
+    ('ASSUMPTION', '22007')
+    ('AVOYELLES', '22009')
+    ('BEAUREGARD', '22011')
+    ('BIENVILLE', '22013')
+    ('BOSSIER', '22015')
+    ('CADDO', '22017')
+    ('CALCASIEU', '22019')
+    ('CALDWELL', '22021')
+    ('CAMERON', '22023')
+    ('CATAHOULA', '22025')
+    ('CLAIBORNE', '22027')
+    ('CONCORDIA', '22029')
+    ('DE SOTO', '22031')
+    ('EAST BATON ROUGE', '22033')
+    ('EAST CARROLL', '22035')
+    ('EAST FELICIANA', '22037')
+    ('EVANGELINE', '22039')
+    ('FRANKLIN', '22041')
+    ('GRANT', '22043')
+    ('IBERIA', '22045')
+    ('IBERVILLE', '22047')
+    ('JACKSON', '22049')
+    ('JEFFERSON', '22051')
+    ('JEFFERSON DAVIS', '22053')
+    ('LAFAYETTE', '22055')
+    ('LAFOURCHE', '22057')
+    ('LASALLE', '<<<EC: VALUE WAS EMPTY>>>')
+    ('LINCOLN', '22061')
+    ('LIVINGSTON', '22063')
+    ('MADISON', '22065')
+    ('MOREHOUSE', '22067')
+    ('NATCHITOCHES', '22069')
+    ('ORLEANS', '22071')
+    ('OUACHITA', '22073')
+    ('PLAQUEMINES', '22075')
+    ('POINTE COUPEE', '22077')
+    ('RAPIDES', '22079')
+    ('RED RIVER', '22081')
+    ('RICHLAND', '22083')
+    ('SABINE', '22085')
+    ('ST. BERNARD', '22087')
+    ('ST. CHARLES', '22089')
+    ('ST. HELENA', '22091')
+    ('ST. JAMES', '22093')
+    ('ST. JOHN THE BAPTIST', '22095')
+    ('ST. LANDRY', '22097')
+    ('ST. MARTIN', '22099')
+    ('ST. MARY', '22101')
+    ('ST. TAMMANY', '22103')
+    ('TANGIPAHOA', '22105')
+    ('TENSAS', '22107')
+    ('TERREBONNE', '22109')
+    ('UNION', '22111')
+    ('VERMILION', '22113')
+    ('VERNON', '22115')
+    ('WASHINGTON', '22117')
+    ('WEBSTER', '22119')
+    ('WEST BATON ROUGE', '22121')
+    ('WEST CARROLL', '22123')
+    ('WEST FELICIANA', '22125')
+    ('WINN', '22127')
+------
+
+---------
+------
+ALL VALUES:
+    ACADIA
+    ALLEN
+    ASCENSION
+    ASSUMPTION
+    AVOYELLES
+    BEAUREGARD
+    BIENVILLE
+    BOSSIER
+    CADDO
+    CALCASIEU
+    CALDWELL
+    CAMERON
+    CATAHOULA
+    CLAIBORNE
+    CONCORDIA
+    DE SOTO
+    EAST BATON ROUGE
+    EAST CARROLL
+    EAST FELICIANA
+    EVANGELINE
+    FRANKLIN
+    GRANT
+    IBERIA
+    IBERVILLE
+    JACKSON
+    JEFFERSON
+    JEFFERSON DAVIS
+    LAFAYETTE
+    LAFOURCHE
+    LASALLE
+    LINCOLN
+    LIVINGSTON
+    MADISON
+    MOREHOUSE
+    NATCHITOCHES
+    ORLEANS
+    OUACHITA
+    PLAQUEMINES
+    POINTE COUPEE
+    RAPIDES
+    RED RIVER
+    RICHLAND
+    SABINE
+    ST. BERNARD
+    ST. CHARLES
+    ST. HELENA
+    ST. JAMES
+    ST. JOHN THE BAPTIST
+    ST. LANDRY
+    ST. MARTIN
+    ST. MARY
+    ST. TAMMANY
+    TANGIPAHOA
+    TENSAS
+    TERREBONNE
+    UNION
+    VERMILION
+    VERNON
+    WASHINGTON
+    WEBSTER
+    WEST BATON ROUGE
+    WEST CARROLL
+    WEST FELICIANA
+    WINN
+------
+

@@ -126,6 +126,35 @@ def validate_county_fips(df: pd.DataFrame, county_ref: pd.DataFrame) -> dict:
     return out
 
 
+def validate_county_state_prefix(df: pd.DataFrame, expected: dict) -> dict:
+    """Validate that `county_fips` prefixes match the expected state FIPS.
+
+    Many datasets include 5-digit county FIPS; the leading two digits encode the
+    state FIPS. If present, rows whose `county_fips` prefix does not match the
+    expected `state_fips` indicate possible cross-state contamination or wrong
+    state mapping.
+    """
+    out = {}
+    key = "county_state_mismatch"
+    if "county_fips" not in df.columns or not expected.get("state_fips"):
+        out[key] = {"issues": 0, "issue_values": [], "issue_row_numbers": []}
+        return out
+
+    def _prefix(f):
+        s = str(f).strip()
+        if len(s) >= 2:
+            return s[:2]
+        return s.zfill(2)
+
+    expected_prefix = str(expected.get("state_fips", "")).zfill(2)
+    prefixes = df["county_fips"].astype(str).map(lambda x: _prefix(x))
+    mask = prefixes.ne(expected_prefix)
+    rows = df.loc[mask].index.to_series().add(1).tolist()
+    vals = df.loc[mask, "county_fips"].astype(str).tolist()
+    out[key] = {"issues": len(rows), "issue_values": vals, "issue_row_numbers": rows}
+    return out
+
+
 def run_fips_checks(df: pd.DataFrame, help_dir: Path, file_path: Path | None = None) -> dict:
     """Run all FIPS/state validation checks and return flat dictionary under 'state_codes' key in results."""
     state_ref, county_ref = load_reference_files(help_dir)
@@ -134,6 +163,8 @@ def run_fips_checks(df: pd.DataFrame, help_dir: Path, file_path: Path | None = N
     results = {}
     if expected:
         results.update(validate_state_identifiers(df, expected))
+        # extra check: ensure county_fips prefixes align with expected state_fips
+        results.update(validate_county_state_prefix(df, expected))
     results.update(validate_county_fips(df, county_ref))
 
     # Ensure every key exists
@@ -141,6 +172,8 @@ def run_fips_checks(df: pd.DataFrame, help_dir: Path, file_path: Path | None = N
         "state_po_mismatch", "state_fips_mismatch", "state_fips_not_padded",
         "state_ic_mismatch", "state_cen_mismatch", "invalid_county_fips"
     ]
+    # include county->state prefix cross-check
+    required.append("county_state_mismatch")
     for k in required:
         results.setdefault(k, {"issues": 0, "issue_values": [], "issue_row_numbers": []})
 

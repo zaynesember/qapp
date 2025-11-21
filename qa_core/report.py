@@ -108,7 +108,7 @@ def _compress_row_ranges(row_nums, limit=10):
 
 def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
     """Write human-readable Excel QA report (v3.5)."""
-    excluded_sections = {"statewide_totals", "duplicates_summary"}
+    excluded_sections = {"statewide_totals", "duplicates_summary", "missingness", "dataset_info"}
     detected_state = results.get("detected_state", {})
 
     # Rename fips_checks → state_codes if present
@@ -123,6 +123,15 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             for check, v in content.items():
                 if not isinstance(v, dict):
                     continue
+                # Avoid duplicating missingness: if this is a `*_missing` check
+                # coming from `field_formats` and we also have a `missingness`
+                # section for the same column, skip the `field_formats` missing
+                # row to reduce redundancy in the summary.
+                if section == "field_formats" and isinstance(check, str) and check.endswith("_missing"):
+                    col = check[: -len("_missing")]
+                    if "missingness" in results and col in results["missingness"]:
+                        continue
+
                 issue_values = "" if check in ("exact_duplicates", "all_but_votes_duplicate") else _flatten(v.get("issue_values", ""))
                 rows.append({
                     "section": section,
@@ -190,59 +199,178 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             ["State IC", detected_state.get("state_ic", "")],
             ["State CEN", detected_state.get("state_cen", "")]
         ], columns=["Info", "Value"])
+        # Dataset-level info (rows/columns/unique counts) if provided
+        dataset_info = results.get("dataset_info", {})
 
-        meta_df = pd.DataFrame([
-            ["Failed Checks", f"{failed_checks:,}"],
-            ["Total Checks", f"{len(df):,}"],
-        ], columns=["Info", "Value"])
+        # Gather failed checks names from all dict-based sections
+        # Group failed checks by section so we show one line per section
+        failed_by_section: dict[str, list[str]] = {}
+        for section, content in results.items():
+            if isinstance(content, dict):
+                for check, v in content.items():
+                    try:
+                        issues = int(v.get("issues", 0) or 0)
+                    except Exception:
+                        issues = 0
+                    if issues > 0:
+                        failed_by_section.setdefault(section, []).append(check)
+
+        # Count total failed checks
+        failed_checks = sum(len(v) for v in failed_by_section.values())
+
+        # Build a compact meta table to display in QA Summary
+        meta_items = []
+        if dataset_info:
+            meta_items.extend([
+                ["Rows", str(dataset_info.get("rows", ""))],
+                ["Columns", str(dataset_info.get("columns", ""))],
+                ["Unique Counties", str(dataset_info.get("unique_counties", ""))],
+                ["Unique Jurisdictions", str(dataset_info.get("unique_jurisdictions", ""))],
+            ])
+
+        meta_items.append(["Failed Checks", str(failed_checks)])
+
+        # Format failed checks grouped by section; insert a blank line between sections
+        if failed_by_section:
+            lines = []
+            for sec, checks in failed_by_section.items():
+                lines.append(f"{sec}: {', '.join(checks)}")
+            grouped = "\n\n".join(lines)
+        else:
+            grouped = ""
+
+        meta_items.append(["Failed Check Names", grouped])
+
+        meta_df = pd.DataFrame(meta_items, columns=["Info", "Value"])
 
         # Write top metadata
         state_banner.to_excel(writer, index=False, sheet_name="QA Summary", startrow=0)
         banner_end = len(state_banner) + 2
         meta_df.to_excel(writer, index=False, sheet_name="QA Summary", startrow=banner_end)
-        start_row = banner_end + len(meta_df) + 2
-
-        # --- Write main QA summary table ---
-        df.to_excel(writer, index=False, sheet_name="QA Summary", startrow=start_row)
 
         wb = writer.book
         ws = writer.sheets["QA Summary"]
 
         header_fmt = wb.add_format({"bold": True, "bg_color": "#D9E1F2", "text_wrap": True})
         wrap_fmt = wb.add_format({"text_wrap": True})
-        ws.set_column("A:A", 18)
-        ws.set_column("B:B", 28)
-        ws.set_column("C:C", 12)
-        ws.set_column("D:D", 65, wrap_fmt)
-        ws.set_column("E:E", 45, wrap_fmt)
+        ws.set_column("A:A", 28)
+        ws.set_column("B:B", 60, wrap_fmt)
 
-        header_row = start_row
-        for i, val in enumerate(df.columns):
-            ws.write(header_row, i, val, header_fmt)
+        # Highlight failed checks cell if > 0
+        try:
+            failed_checks_val = int(failed_checks)
+        except Exception:
+            failed_checks_val = 0
+        if failed_checks_val > 0:
+            fail_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#FFC7CE", "bold": True})
+            # locate the row index for the "Failed Checks" entry in meta_items
+            idx_failed = next((i for i, item in enumerate(meta_items) if item[0] == "Failed Checks"), None)
+            if idx_failed is not None:
+                excel_failed_row = banner_end + 1 + idx_failed
+                ws.write(excel_failed_row, 1, str(failed_checks_val), fail_fmt)
 
-        # --- Highlight failing checks ---
-        fail_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#FFC7CE"})
-        ws.conditional_format(
-            f"C{header_row+2}:C{header_row+len(df)+1}",
-            {"type": "cell", "criteria": ">", "value": 0, "format": fail_fmt}
-        )
+        # Highlight columns mismatch against expected count from config if available
+        from qa_core import config as _config
+        try:
+            expected_cols = len(_config.REQUIRED_COLUMNS)
+            actual_cols = int(dataset_info.get("columns", 0)) if dataset_info else 0
+            if actual_cols != expected_cols:
+                col_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#FFC7CE", "bold": True})
+                idx_cols = next((i for i, item in enumerate(meta_items) if item[0] == "Columns"), None)
+                if idx_cols is not None:
+                    excel_columns_row = banner_end + 1 + idx_cols
+                    ws.write(excel_columns_row, 1, str(actual_cols), col_fmt)
+        except Exception:
+            pass
 
-        # --- Special red for state_codes section (only Issues cell) ---
-        red_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#F4CCCC", "bold": True})
-        for idx, row in df.iterrows():
-            if row["QA Section"] == "state_codes" and row["Issues Found"] > 0:
-                excel_row = start_row + 2 + idx
-                ws.write(excel_row - 1, 2, row["Issues Found"], red_fmt)
-
-        ws.freeze_panes(header_row + 1, 0)
+        ws.freeze_panes(banner_end + 1, 0)
 
         # --- Extra sheets ---
-        name_map = {"statewide_totals": "Vote Aggregation", "duplicates": "Duplicates"}
+        name_map = {
+            "statewide_totals": "Vote Aggregation",
+            "duplicates": "Duplicates",
+            # Friendly sheet names
+            "zero_vote_precincts": "Zero Vote Precinct-offices",
+            "magnitude_offices_map": "Magnitude to Offices",
+            "offices_multiple_magnitudes": "Offices with Multiple Magnitudes",
+            "stage_invalid_rows": "Stage Invalid Values",
+        }
+
+        def _autosize_sheet(sheet_name: str, df_table: pd.DataFrame):
+            """Set reasonable column widths and wrap text for a written sheet.
+
+            Widths are based on the max length of values in each column,
+            capped between 12 and 60 characters.
+            """
+            ws = writer.sheets.get(sheet_name)
+            if ws is None:
+                return
+            # Basic formats
+            wrap_fmt = wb.add_format({"text_wrap": True})
+            min_w, max_w = 12, 60
+            for i, col in enumerate(df_table.columns):
+                # Compute max length from header and column values
+                try:
+                    vals = df_table[col].astype(str).fillna("").tolist()
+                except Exception:
+                    vals = [str(x) for x in df_table[col].tolist()]
+                max_len = max([len(str(col))] + [len(v) for v in vals])
+                # heuristic scaling
+                width = min(max(max_len * 1.1, min_w), max_w)
+                # set column (xlsxwriter uses 0-based indexes into letters)
+                ws.set_column(i, i, width, wrap_fmt)
+
+        # Build list of DataFrame sheets to write (including Missingness as its own sheet)
+        df_sheets: list[tuple[str, pd.DataFrame]] = []
+
+        # Convert missingness dict into a DataFrame sheet if present
+        if "missingness" in results and isinstance(results["missingness"], dict):
+            miss = results["missingness"]
+            miss_rows = []
+            for col_name, v in miss.items():
+                if isinstance(v, dict):
+                    miss_rows.append({
+                        "Column": col_name,
+                        "Missing Count": v.get("missing_count", ""),
+                        "% Missing": v.get("percent_empty", ""),
+                        "Alt Missing Values": v.get("alt_missing_values", ""),
+                    })
+                else:
+                    miss_rows.append({"Column": col_name, "Missing Count": "", "% Missing": "", "Alt Missing Values": ""})
+            miss_df = pd.DataFrame(miss_rows)
+            df_sheets.append(("Missingness", miss_df))
+
+        # Convert dict-based sections (that are not DataFrames) into sheets
         for section, content in results.items():
-            if section in {"duplicates_summary"}:
+            if section in {"duplicates_summary", "missingness", "dataset_info"}:
                 continue
+            if isinstance(content, dict):
+                # Build a DataFrame of checks for this section
+                rows_sec = []
+                for check, v in content.items():
+                    if not isinstance(v, dict):
+                        continue
+                    issue_values = _flatten(v.get("issue_values", ""))
+                    rows_sec.append({
+                        "Check Name": check,
+                        "Issues Found": int(v.get("issues", 0) or 0),
+                        "Problematic Values": issue_values,
+                        "Row Numbers": _flatten(v.get("issue_row_numbers", "")),
+                    })
+                if rows_sec:
+                    sec_name = name_map.get(section, section.replace("_", " ").title())[:31]
+                    df_sheets.append((sec_name, pd.DataFrame(rows_sec)))
+                continue
+            # If the section already contains a DataFrame, write it as-is
             if isinstance(content, pd.DataFrame) and not content.empty:
                 name = name_map.get(section, section)[:31]
-                content.to_excel(writer, index=False, sheet_name=name)
+                df_sheets.append((name, content))
+
+        # Write DataFrame sheets in alphabetical order
+        df_sheets.sort(key=lambda x: x[0].lower())
+        for name, table in df_sheets:
+            sheet_name = name[:31]
+            table.to_excel(writer, index=False, sheet_name=sheet_name)
+            _autosize_sheet(sheet_name, table)
 
     print(f"Excel report written to {path}")

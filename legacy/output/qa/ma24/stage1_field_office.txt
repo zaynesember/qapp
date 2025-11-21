@@ -1,0 +1,602 @@
+---------------------------
+---------------------------
+OFFICE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY NAMED PRESIDENT (MUST BE US PRESIDENT)
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO PRESIDENT: 
+    US PRESIDENT ||| [[PRESIDENT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US SENATE: 
+    US SENATE ||| [[US SENAT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO US HOUSE: 
+    US HOUSE ||| [[US HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE SENATE: 
+    STATE SENATE ||| [[STATE SENATE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO STATE HOUSE: 
+    STATE HOUSE ||| [[STATE HOUSE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GOVERNOR: 
+    GOVERNORS COUNCIL ||| [[GOV]]
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE ||| [[GOV]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIEUTENANT GOVERNOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY OF STATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUDITOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TREASURER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CORONER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SURVEYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECORDER OF DEEDS: 
+    REGISTER OF DEEDS ||| [[DEED]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER OF WILL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMMISSIONER OR COMMITTEE: 
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE ||| [[COMM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO MEMBER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SECRETARY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ADMINISTRATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSESSOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERVISOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COLLECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INSPECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXECUTIVE: 
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE ||| [[EXECUTIVE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHIEF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERINTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COMPTROLLER: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIRECTOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTER: 
+    REGISTER OF DEEDS ||| [[REGISTER]]
+    REGISTER OF PROBATE ||| [[REGISTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO SHERIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSTABLE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ATTORNEY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPREME COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SUPERIOR COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CIRCUIT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO APPELLATE COURT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUSTICE OF THE PEACE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO JUDGE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CLERK: 
+    DUKES CLERK OF COURTS ||| [[CLERK]]
+    ESSEX CLERK OF COURTS ||| [[CLERK]]
+    BRISTOL CLERK OF COURTS ||| [[CLERK]]
+    HAMPDEN CLERK OF COURTS ||| [[CLERK]]
+    NORFOLK CLERK OF COURTS ||| [[CLERK]]
+    FRANKLIN CLERK OF COURTS ||| [[CLERK]]
+    PLYMOUTH CLERK OF COURTS ||| [[CLERK]]
+    BERKSHIRE CLERK OF COURTS ||| [[CLERK]]
+    HAMPSHIRE CLERK OF COURTS ||| [[CLERK]]
+    MIDDLESEX CLERK OF COURTS ||| [[CLERK]]
+    NANTUCKET CLERK OF COURTS ||| [[CLERK]]
+    WORCESTER CLERK OF COURTS ||| [[CLERK]]
+    BARNSTABLE CLERK OF COURTS ||| [[CLERK]]
+    SUFFOLK CLERK OF SUPERIOR CIVIL COURT ||| [[CLERK]]
+    SUFFOLK CLERK OF SUPREME JUDICIAL COURT ||| [[CLERK]]
+    SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT ||| [[CLERK]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BAILIFF: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGISTRATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO INTENDENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAYOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNCIL: 
+    GOVERNORS COUNCIL ||| [[COUNCIL]]
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE ||| [[COUNCIL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO CHAIR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DELEGATE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ALDERMAN: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODERATOR: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SERGEANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MARSHALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AUTHORITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGENT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNIVERSITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO HOSPITAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MEDICAL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SCHOOL DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TV DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO FIRE DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DEVELOPMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO CONSERVATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO IMPROVEMENT DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UTILITY DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO NAVIGATION DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BOARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TRUSTEE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ASSISTANT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO STRAIGHT TICKET: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    US PRESIDENT ||| [[PRES]]
+------
+
+------
+VALUES IN office WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN office: 
+    SUFFOLK CLERK OF SUPERIOR CIVIL COURT ||| [[SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE OFFICES:
+    ALL OTHERS: ['BARNSTABLE CLERK OF COURTS' 'BERKSHIRE CLERK OF COURTS'
+ 'BRISTOL CLERK OF COURTS' 'DUKES CLERK OF COURTS' 'ESSEX CLERK OF COURTS'
+ 'FRANKLIN CLERK OF COURTS' 'HAMPDEN CLERK OF COURTS'
+ 'HAMPSHIRE CLERK OF COURTS' 'MIDDLESEX CLERK OF COURTS'
+ 'NANTUCKET CLERK OF COURTS' 'NORFOLK CLERK OF COURTS'
+ 'PLYMOUTH CLERK OF COURTS' 'WORCESTER CLERK OF COURTS'
+ 'SUFFOLK CLERK OF SUPERIOR CIVIL COURT'
+ 'SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT'
+ 'SUFFOLK CLERK OF SUPREME JUDICIAL COURT'
+ 'FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE' 'GOVERNORS COUNCIL'
+ 'US PRESIDENT' 'REGISTER OF DEEDS' 'REGISTER OF PROBATE' 'STATE HOUSE'
+ 'STATE SENATE' 'US HOUSE' 'US SENATE']
+    UNDERVOTE: ['BARNSTABLE CLERK OF COURTS' 'BERKSHIRE CLERK OF COURTS'
+ 'BRISTOL CLERK OF COURTS' 'DUKES CLERK OF COURTS' 'ESSEX CLERK OF COURTS'
+ 'FRANKLIN CLERK OF COURTS' 'HAMPDEN CLERK OF COURTS'
+ 'HAMPSHIRE CLERK OF COURTS' 'MIDDLESEX CLERK OF COURTS'
+ 'NANTUCKET CLERK OF COURTS' 'NORFOLK CLERK OF COURTS'
+ 'PLYMOUTH CLERK OF COURTS' 'WORCESTER CLERK OF COURTS'
+ 'SUFFOLK CLERK OF SUPERIOR CIVIL COURT'
+ 'SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT'
+ 'SUFFOLK CLERK OF SUPREME JUDICIAL COURT'
+ 'FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE' 'GOVERNORS COUNCIL'
+ 'US PRESIDENT' 'REGISTER OF DEEDS' 'REGISTER OF PROBATE' 'STATE HOUSE'
+ 'STATE SENATE' 'US HOUSE' 'US SENATE']
+------
+
+---------
+------
+ALL VALUES:
+    BARNSTABLE CLERK OF COURTS
+    BERKSHIRE CLERK OF COURTS
+    BRISTOL CLERK OF COURTS
+    DUKES CLERK OF COURTS
+    ESSEX CLERK OF COURTS
+    FRANKLIN CLERK OF COURTS
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE
+    GOVERNORS COUNCIL
+    HAMPDEN CLERK OF COURTS
+    HAMPSHIRE CLERK OF COURTS
+    MIDDLESEX CLERK OF COURTS
+    NANTUCKET CLERK OF COURTS
+    NORFOLK CLERK OF COURTS
+    PLYMOUTH CLERK OF COURTS
+    REGISTER OF DEEDS
+    REGISTER OF PROBATE
+    STATE HOUSE
+    STATE SENATE
+    SUFFOLK CLERK OF SUPERIOR CIVIL COURT
+    SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT
+    SUFFOLK CLERK OF SUPREME JUDICIAL COURT
+    US HOUSE
+    US PRESIDENT
+    US SENATE
+    WORCESTER CLERK OF COURTS
+------
+

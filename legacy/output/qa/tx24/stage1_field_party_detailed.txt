@@ -1,0 +1,148 @@
+---------------------------
+---------------------------
+PARTY_DETAILED CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------
+INCORRECTLY STANDARDIZED PARTY NAMES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO DEMOCRAT: 
+    DEMOCRAT ||| [[DEM]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REPUBLICAN: 
+    REPUBLICAN ||| [[REP]]
+------
+
+------
+CONTAINS/IS SIMILAR TO GREEN: 
+    GREEN ||| [[GRE]]
+------
+
+------
+CONTAINS/IS SIMILAR TO LIBERTARIAN: 
+    LIBERTARIAN ||| [[LIB]]
+------
+
+------
+CONTAINS/IS SIMILAR TO INDEPENDENT: 
+    INDEPENDENT ||| [[IND]]
+------
+
+------
+CONTAINS/IS SIMILAR TO OTHER: 
+    OTHER ||| [[OTH]]
+------
+
+------
+CONTAINS/IS SIMILAR TO NO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN party_detailed WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN party_detailed: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+CANDIDATES WITH MULTIPLE PARTIES:
+    ADAMS: ['DEMOCRAT' 'REPUBLICAN']
+    ALLEN: ['DEMOCRAT' 'REPUBLICAN']
+    BELL: ['DEMOCRAT' 'REPUBLICAN']
+    CANALES: ['REPUBLICAN' 'DEMOCRAT']
+    CARTER: ['REPUBLICAN' 'DEMOCRAT']
+    CLOUD: ['REPUBLICAN' 'DEMOCRAT']
+    COOK: ['DEMOCRAT' 'REPUBLICAN']
+    FLORES: ['REPUBLICAN' 'DEMOCRAT']
+    GARCIA: ['DEMOCRAT' 'REPUBLICAN']
+    GARZA: ['REPUBLICAN' 'DEMOCRAT']
+    GUERRA: ['DEMOCRAT' 'REPUBLICAN']
+    HALL: ['REPUBLICAN' 'DEMOCRAT']
+    HART: ['REPUBLICAN' 'DEMOCRAT']
+    HINOJOSA: ['DEMOCRAT' 'REPUBLICAN']
+    HUNT: ['REPUBLICAN' 'DEMOCRAT']
+    HUNTER: ['DEMOCRAT' 'REPUBLICAN']
+    JOHNSON: ['LIBERTARIAN' 'REPUBLICAN' 'DEMOCRAT']
+    KING: ['LIBERTARIAN' 'DEMOCRAT' 'REPUBLICAN']
+    LEE: ['REPUBLICAN' 'DEMOCRAT']
+    LEWIS: ['INDEPENDENT' 'REPUBLICAN']
+    LOPEZ: ['REPUBLICAN' 'DEMOCRAT']
+    MARTINEZ: ['REPUBLICAN' 'DEMOCRAT']
+    MOODY: ['DEMOCRAT' 'REPUBLICAN']
+    NICHOLS: ['INDEPENDENT' 'REPUBLICAN']
+    PARKER: ['REPUBLICAN' 'DEMOCRAT']
+    RICHARDSON: ['REPUBLICAN' 'DEMOCRAT']
+    SIMMONS: ['REPUBLICAN' 'DEMOCRAT']
+    SMITH: ['REPUBLICAN' 'INDEPENDENT']
+    STEELE: ['DEMOCRAT' 'LIBERTARIAN']
+    WEST: ['REPUBLICAN' 'DEMOCRAT']
+    WILLIAMS: ['REPUBLICAN' 'DEMOCRAT']
+------
+
+---------
+------
+ALL VALUES:
+    AMERICAN SOLIDARITY
+    DEMOCRAT
+    GREEN
+    INDEPENDENT
+    LIBERTARIAN
+    OTHER
+    REPUBLICAN
+------
+

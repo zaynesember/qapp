@@ -1,0 +1,273 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+    CLAY ||| [[CLAYTON]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ADAIR', ['ADAIR', 19001, ['19001']])
+    ('ADAMS', ['ADAMS', 19003, ['19003']])
+    ('ALLAMAKEE', ['ALLAMAKEE', 19005, ['19005']])
+    ('APPANOOSE', ['APPANOOSE', 19007, ['19007']])
+    ('AUDUBON', ['AUDUBON', 19009, ['19009']])
+    ('BENTON', ['BENTON', 19011, ['19011']])
+    ('BLACK HAWK', ['BLACK HAWK', 19013, ['19013']])
+    ('BOONE', ['BOONE', 19015, ['19015']])
+    ('BREMER', ['BREMER', 19017, ['19017']])
+    ('BUCHANAN', ['BUCHANAN', 19019, ['19019']])
+    ('BUENA VISTA', ['BUENA VISTA', 19021, ['19021']])
+    ('BUTLER', ['BUTLER', 19023, ['19023']])
+    ('CALHOUN', ['CALHOUN', 19025, ['19025']])
+    ('CARROLL', ['CARROLL', 19027, ['19027']])
+    ('CASS', ['CASS', 19029, ['19029']])
+    ('CEDAR', ['CEDAR', 19031, ['19031']])
+    ('CERRO GORDO', ['CERRO GORDO', 19033, ['19033']])
+    ('CHEROKEE', ['CHEROKEE', 19035, ['19035']])
+    ('CHICKASAW', ['CHICKASAW', 19037, ['19037']])
+    ('CLARKE', ['CLARKE', 19039, ['19039']])
+    ('CLAY', ['CLAY', 19041, ['19041']])
+    ('CLAYTON', ['CLAYTON', 19043, ['19043']])
+    ('CLINTON', ['CLINTON', 19045, ['19045']])
+    ('CRAWFORD', ['CRAWFORD', 19047, ['19047']])
+    ('DALLAS', ['DALLAS', 19049, ['19049']])
+    ('DAVIS', ['DAVIS', 19051, ['19051']])
+    ('DECATUR', ['DECATUR', 19053, ['19053']])
+    ('DELAWARE', ['DELAWARE', 19055, ['19055']])
+    ('DES MOINES', ['DES MOINES', 19057, ['19057']])
+    ('DICKINSON', ['DICKINSON', 19059, ['19059']])
+    ('DUBUQUE', ['DUBUQUE', 19061, ['19061']])
+    ('EMMET', ['EMMET', 19063, ['19063']])
+    ('FAYETTE', ['FAYETTE', 19065, ['19065']])
+    ('FLOYD', ['FLOYD', 19067, ['19067']])
+    ('FRANKLIN', ['FRANKLIN', 19069, ['19069']])
+    ('FREMONT', ['FREMONT', 19071, ['19071']])
+    ('GREENE', ['GREENE', 19073, ['19073']])
+    ('GRUNDY', ['GRUNDY', 19075, ['19075']])
+    ('GUTHRIE', ['GUTHRIE', 19077, ['19077']])
+    ('HAMILTON', ['HAMILTON', 19079, ['19079']])
+    ('HANCOCK', ['HANCOCK', 19081, ['19081']])
+    ('HARDIN', ['HARDIN', 19083, ['19083']])
+    ('HARRISON', ['HARRISON', 19085, ['19085']])
+    ('HENRY', ['HENRY', 19087, ['19087']])
+    ('HOWARD', ['HOWARD', 19089, ['19089']])
+    ('HUMBOLDT', ['HUMBOLDT', 19091, ['19091']])
+    ('IDA', ['IDA', 19093, ['19093']])
+    ('IOWA', ['IOWA', 19095, ['19095']])
+    ('JACKSON', ['JACKSON', 19097, ['19097']])
+    ('JASPER', ['JASPER', 19099, ['19099']])
+    ('JEFFERSON', ['JEFFERSON', 19101, ['19101']])
+    ('JOHNSON', ['JOHNSON', 19103, ['19103']])
+    ('JONES', ['JONES', 19105, ['19105']])
+    ('KEOKUK', ['KEOKUK', 19107, ['19107']])
+    ('KOSSUTH', ['KOSSUTH', 19109, ['19109']])
+    ('LEE', ['LEE', 19111, ['19111']])
+    ('LINN', ['LINN', 19113, ['19113']])
+    ('LOUISA', ['LOUISA', 19115, ['19115']])
+    ('LUCAS', ['LUCAS', 19117, ['19117']])
+    ('LYON', ['LYON', 19119, ['19119']])
+    ('MADISON', ['MADISON', 19121, ['19121']])
+    ('MAHASKA', ['MAHASKA', 19123, ['19123']])
+    ('MARION', ['MARION', 19125, ['19125']])
+    ('MARSHALL', ['MARSHALL', 19127, ['19127']])
+    ('MILLS', ['MILLS', 19129, ['19129']])
+    ('MITCHELL', ['MITCHELL', 19131, ['19131']])
+    ('MONONA', ['MONONA', 19133, ['19133']])
+    ('MONROE', ['MONROE', 19135, ['19135']])
+    ('MONTGOMERY', ['MONTGOMERY', 19137, ['19137']])
+    ('MUSCATINE', ['MUSCATINE', 19139, ['19139']])
+    ("O'BRIEN", ["O'BRIEN", 19141, ['19141']])
+    ('OSCEOLA', ['OSCEOLA', 19143, ['19143']])
+    ('PAGE', ['PAGE', 19145, ['19145']])
+    ('PALO ALTO', ['PALO ALTO', 19147, ['19147']])
+    ('PLYMOUTH', ['PLYMOUTH', 19149, ['19149']])
+    ('POCAHONTAS', ['POCAHONTAS', 19151, ['19151']])
+    ('POLK', ['POLK', 19153, ['19153']])
+    ('POTTAWATTAMIE', ['POTTAWATTAMIE', 19155, ['19155']])
+    ('POWESHIEK', ['POWESHIEK', 19157, ['19157']])
+    ('RINGGOLD', ['RINGGOLD', 19159, ['19159']])
+    ('SAC', ['SAC', 19161, ['19161']])
+    ('SCOTT', ['SCOTT', 19163, ['19163']])
+    ('SHELBY', ['SHELBY', 19165, ['19165']])
+    ('SIOUX', ['SIOUX', 19167, ['19167']])
+    ('STORY', ['STORY', 19169, ['19169']])
+    ('TAMA', ['TAMA', 19171, ['19171']])
+    ('TAYLOR', ['TAYLOR', 19173, ['19173']])
+    ('UNION', ['UNION', 19175, ['19175']])
+    ('VAN BUREN', ['VAN BUREN', 19177, ['19177']])
+    ('WAPELLO', ['WAPELLO', 19179, ['19179']])
+    ('WARREN', ['WARREN', 19181, ['19181']])
+    ('WASHINGTON', ['WASHINGTON', 19183, ['19183']])
+    ('WAYNE', ['WAYNE', 19185, ['19185']])
+    ('WEBSTER', ['WEBSTER', 19187, ['19187']])
+    ('WINNEBAGO', ['WINNEBAGO', 19189, ['19189']])
+    ('WINNESHIEK', ['WINNESHIEK', 19191, ['19191']])
+    ('WOODBURY', ['WOODBURY', 19193, ['19193']])
+    ('WORTH', ['WORTH', 19195, ['19195']])
+    ('WRIGHT', ['WRIGHT', 19197, ['19197']])
+------
+
+---------
+------
+ALL VALUES:
+    ADAIR
+    ADAMS
+    ALLAMAKEE
+    APPANOOSE
+    AUDUBON
+    BENTON
+    BLACK HAWK
+    BOONE
+    BREMER
+    BUCHANAN
+    BUENA VISTA
+    BUTLER
+    CALHOUN
+    CARROLL
+    CASS
+    CEDAR
+    CERRO GORDO
+    CHEROKEE
+    CHICKASAW
+    CLARKE
+    CLAY
+    CLAYTON
+    CLINTON
+    CRAWFORD
+    DALLAS
+    DAVIS
+    DECATUR
+    DELAWARE
+    DES MOINES
+    DICKINSON
+    DUBUQUE
+    EMMET
+    FAYETTE
+    FLOYD
+    FRANKLIN
+    FREMONT
+    GREENE
+    GRUNDY
+    GUTHRIE
+    HAMILTON
+    HANCOCK
+    HARDIN
+    HARRISON
+    HENRY
+    HOWARD
+    HUMBOLDT
+    IDA
+    IOWA
+    JACKSON
+    JASPER
+    JEFFERSON
+    JOHNSON
+    JONES
+    KEOKUK
+    KOSSUTH
+    LEE
+    LINN
+    LOUISA
+    LUCAS
+    LYON
+    MADISON
+    MAHASKA
+    MARION
+    MARSHALL
+    MILLS
+    MITCHELL
+    MONONA
+    MONROE
+    MONTGOMERY
+    MUSCATINE
+    O'BRIEN
+    OSCEOLA
+    PAGE
+    PALO ALTO
+    PLYMOUTH
+    POCAHONTAS
+    POLK
+    POTTAWATTAMIE
+    POWESHIEK
+    RINGGOLD
+    SAC
+    SCOTT
+    SHELBY
+    SIOUX
+    STORY
+    TAMA
+    TAYLOR
+    UNION
+    VAN BUREN
+    WAPELLO
+    WARREN
+    WASHINGTON
+    WAYNE
+    WEBSTER
+    WINNEBAGO
+    WINNESHIEK
+    WOODBURY
+    WORTH
+    WRIGHT
+------
+

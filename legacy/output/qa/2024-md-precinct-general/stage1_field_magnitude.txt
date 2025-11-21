@@ -1,0 +1,85 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+    BOARD OF EDUCATION: [2 1 3 4]
+    BOARD OF EDUCATION AT LARGE: [1 2]
+    JUDGE OF THE CIRCUIT COURT: [2 7 4 1]
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['US PRESIDENT' 'US SENATE' 'US HOUSE' 'RETENTION STATE SUPREME COURT'
+ 'RETENTION JUDGE SPECIAL APPEALS AT LARGE' 'BOARD OF EDUCATION' 'MAYOR'
+ 'PRESIDENT CITY COUNCIL' 'COMPTROLLER' 'MEMBER CITY COUNCIL'
+ 'RETENTION JUDGE SPECIAL APPEALS' 'COUNTY EXECUTIVE' 'COUNTY COUNCIL'
+ 'JUDGE OF THE CIRCUIT COURT' 'BOARD OF EDUCATION AT LARGE'
+ 'COUNTY COUNCIL AT LARGE' 'MAYOR OF HAGERSTOWN']
+    2: ['BOARD OF EDUCATION' 'COUNCIL - CITY OF CUMBERLAND'
+ 'JUDGE OF THE CIRCUIT COURT' 'BOARD OF EDUCATION AT LARGE']
+    3: ['BOARD OF EDUCATION']
+    4: ['JUDGE OF THE CIRCUIT COURT' 'BOARD OF EDUCATION']
+    5: ['COUNCIL - CITY OF HAGERSTOWN']
+    7: ['JUDGE OF THE CIRCUIT COURT']
+------
+
+---------
+------
+ALL VALUES:
+    1
+    2
+    3
+    4
+    5
+    7
+------
+

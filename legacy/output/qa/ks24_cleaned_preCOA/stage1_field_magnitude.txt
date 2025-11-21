@@ -1,0 +1,69 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+   No Problems Found :) 
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['US PRESIDENT' 'US HOUSE' 'STATE HOUSE' 'STATE SENATE'
+ 'DISTRICT ATTORNEY' 'DISTRICT COURT JUDGE' 'STATE BOARD OF EDUCATION'
+ 'DISTRICT MAGISTRATE JUDGE']
+------
+
+---------
+------
+ALL VALUES:
+    1
+------
+

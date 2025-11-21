@@ -1,0 +1,83 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in writein!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+    JOHN ALEXANDER CABRANES WRITEIN: FALSE
+    PETER SONSKI LAUREN ONAK WRITEIN: FALSE
+    CHERUNDA LYNN FOX WRITEIN: FALSE
+    BRIAN KIENITZ WRITEIN: FALSE
+    DOUG JENKINS KIMBERLY LALONDE WRITEIN: FALSE
+    FUTURE MADAM POTUS JESSICA KENNEDY WRITEIN: FALSE
+    ANDRÉ RAMONE MCNEIL SR WRITEIN: FALSE
+    MILT SWAGEL WRITEIN: FALSE
+    JOHN SCHIESS WRITEIN: FALSE
+    MICAH LEAVITT WRITEIN: FALSE
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+   No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    FALSE
+------
+

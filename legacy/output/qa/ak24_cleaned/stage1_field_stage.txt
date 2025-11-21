@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'ABSENTEE', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'EARLY VOTING', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('001-600', 'BALLOT MEASURE NO. 1 - 23AMLS', '""', 'KETCHIKAN GATEWAY BOROUGH', 'NO', 'ELECTION DAY', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ...(skipping 127722 elements)
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'LIBERTARIAN', '""', 'CHASE OLIVER', 'QUESTION', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'FEDERAL OVERSEAS', 'STATEWIDE', 'FALSE', '2024-11-05')
+        ('HD99 Fed Overseas Absentee', 'US PRESIDENT', 'REPUBLICAN', '""', 'DONALD J TRUMP', 'QUESTION', 'STATEWIDE', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+------
+

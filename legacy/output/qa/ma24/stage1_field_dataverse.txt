@@ -1,0 +1,174 @@
+---------------------------
+---------------------------
+DATAVERSE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN dataverse WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN dataverse: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH IRREGULAR DATAVERSE:
+    No Problems Found :) 
+------
+
+------
+OFFICES WITH MULTIPLE DATAVERSES:
+    No Problems Found :) 
+------
+
+------
+COURT OFFICES TO DATAVERSES MAP:
+    BARNSTABLE CLERK OF COURTS: ['LOCAL']
+    BERKSHIRE CLERK OF COURTS: ['LOCAL']
+    BRISTOL CLERK OF COURTS: ['LOCAL']
+    DUKES CLERK OF COURTS: ['LOCAL']
+    ESSEX CLERK OF COURTS: ['LOCAL']
+    FRANKLIN CLERK OF COURTS: ['LOCAL']
+    HAMPDEN CLERK OF COURTS: ['LOCAL']
+    HAMPSHIRE CLERK OF COURTS: ['LOCAL']
+    MIDDLESEX CLERK OF COURTS: ['LOCAL']
+    NANTUCKET CLERK OF COURTS: ['LOCAL']
+    NORFOLK CLERK OF COURTS: ['LOCAL']
+    PLYMOUTH CLERK OF COURTS: ['LOCAL']
+    SUFFOLK CLERK OF SUPERIOR CIVIL COURT: ['LOCAL']
+    SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT: ['LOCAL']
+    SUFFOLK CLERK OF SUPREME JUDICIAL COURT: ['LOCAL']
+    WORCESTER CLERK OF COURTS: ['LOCAL']
+------
+
+------
+DATAVERSE TO OFFICES MAP:
+    HOUSE
+        US HOUSE
+    LOCAL
+        BARNSTABLE CLERK OF COURTS
+        BERKSHIRE CLERK OF COURTS
+        BRISTOL CLERK OF COURTS
+        DUKES CLERK OF COURTS
+        ESSEX CLERK OF COURTS
+        FRANKLIN CLERK OF COURTS
+        FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE
+        HAMPDEN CLERK OF COURTS
+        HAMPSHIRE CLERK OF COURTS
+        MIDDLESEX CLERK OF COURTS
+        NANTUCKET CLERK OF COURTS
+        NORFOLK CLERK OF COURTS
+        PLYMOUTH CLERK OF COURTS
+        REGISTER OF DEEDS
+        REGISTER OF PROBATE
+        SUFFOLK CLERK OF SUPERIOR CIVIL COURT
+        SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT
+        SUFFOLK CLERK OF SUPREME JUDICIAL COURT
+        WORCESTER CLERK OF COURTS
+    PRESIDENT
+        US PRESIDENT
+    SENATE
+        US SENATE
+    STATE
+        GOVERNORS COUNCIL
+        STATE HOUSE
+        STATE SENATE
+------
+
+------
+OFFICE TO ASSOCIATED # OF COUNTIES MAP:
+    BARNSTABLE CLERK OF COURTS
+        1 counties for this office
+    BERKSHIRE CLERK OF COURTS
+        1 counties for this office
+    BRISTOL CLERK OF COURTS
+        1 counties for this office
+    DUKES CLERK OF COURTS
+        1 counties for this office
+    ESSEX CLERK OF COURTS
+        1 counties for this office
+    FRANKLIN CLERK OF COURTS
+        1 counties for this office
+    FRANKLIN COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE
+        1 counties for this office
+    GOVERNORS COUNCIL
+        14 counties for this office
+    HAMPDEN CLERK OF COURTS
+        1 counties for this office
+    HAMPSHIRE CLERK OF COURTS
+        1 counties for this office
+    MIDDLESEX CLERK OF COURTS
+        1 counties for this office
+    NANTUCKET CLERK OF COURTS
+        1 counties for this office
+    NORFOLK CLERK OF COURTS
+        1 counties for this office
+    PLYMOUTH CLERK OF COURTS
+        1 counties for this office
+    REGISTER OF DEEDS
+        14 counties for this office
+    REGISTER OF PROBATE
+        2 counties for this office
+    STATE HOUSE
+        14 counties for this office
+    STATE SENATE
+        14 counties for this office
+    SUFFOLK CLERK OF SUPERIOR CIVIL COURT
+        1 counties for this office
+    SUFFOLK CLERK OF SUPERIOR CRIMINAL COURT
+        1 counties for this office
+    SUFFOLK CLERK OF SUPREME JUDICIAL COURT
+        1 counties for this office
+    US HOUSE
+        14 counties for this office
+    US PRESIDENT
+        14 counties for this office
+    US SENATE
+        14 counties for this office
+    WORCESTER CLERK OF COURTS
+        1 counties for this office
+------
+
+---------
+------
+ALL VALUES:
+    HOUSE
+    LOCAL
+    PRESIDENT
+    SENATE
+    STATE
+------
+

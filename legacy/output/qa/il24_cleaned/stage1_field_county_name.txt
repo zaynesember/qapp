@@ -1,0 +1,286 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+    FORD ||| [[WOODFORD]]
+    WILL ||| [[WILLIAMSON]]
+    WHITE ||| [[WHITESIDE]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADAMS', '17001')
+    ('ALEXANDER', '17003')
+    ('BOND', '17005')
+    ('BOONE', '17007')
+    ('BROWN', '17009')
+    ('BUREAU', '17011')
+    ('CALHOUN', '17013')
+    ('CARROLL', '17015')
+    ('CASS', '17017')
+    ('CHAMPAIGN', '17019')
+    ('CHRISTIAN', '17021')
+    ('CLARK', '17023')
+    ('CLAY', '17025')
+    ('CLINTON', '17027')
+    ('COLES', '17029')
+    ('COOK', '17031')
+    ('CRAWFORD', '17033')
+    ('CUMBERLAND', '17035')
+    ('DEKALB', '17037')
+    ('DEWITT', '17039')
+    ('DOUGLAS', '17041')
+    ('DUPAGE', '17043')
+    ('EDGAR', '17045')
+    ('EDWARDS', '17047')
+    ('EFFINGHAM', '17049')
+    ('FAYETTE', '17051')
+    ('FORD', '17053')
+    ('FRANKLIN', '17055')
+    ('FULTON', '17057')
+    ('GALLATIN', '17059')
+    ('GREENE', '17061')
+    ('GRUNDY', '17063')
+    ('HAMILTON', '17065')
+    ('HANCOCK', '17067')
+    ('HARDIN', '17069')
+    ('HENDERSON', '17071')
+    ('HENRY', '17073')
+    ('IROQUOIS', '17075')
+    ('JACKSON', '17077')
+    ('JASPER', '17079')
+    ('JEFFERSON', '17081')
+    ('JERSEY', '17083')
+    ('JODAVIESS', '17085')
+    ('JOHNSON', '17087')
+    ('KANE', '17089')
+    ('KANKAKEE', '17091')
+    ('KENDALL', '17093')
+    ('KNOX', '17095')
+    ('LAKE', '17097')
+    ('LASALLE', '17099')
+    ('LAWRENCE', '17101')
+    ('LEE', '17103')
+    ('LIVINGSTON', '17105')
+    ('LOGAN', '17107')
+    ('MACON', '17115')
+    ('MACOUPIN', '17117')
+    ('MADISON', '17119')
+    ('MARION', '17121')
+    ('MARSHALL', '17123')
+    ('MASON', '17125')
+    ('MASSAC', '17127')
+    ('MCDONOUGH', '17109')
+    ('MCHENRY', '17111')
+    ('MCLEAN', '17113')
+    ('MENARD', '17129')
+    ('MERCER', '17131')
+    ('MONROE', '17133')
+    ('MONTGOMERY', '17135')
+    ('MORGAN', '17137')
+    ('MOULTRIE', '17139')
+    ('OGLE', '17141')
+    ('PEORIA', '17143')
+    ('PERRY', '17145')
+    ('PIATT', '17147')
+    ('PIKE', '17149')
+    ('POPE', '17151')
+    ('PULASKI', '17153')
+    ('PUTNAM', '17155')
+    ('RANDOLPH', '17157')
+    ('RICHLAND', '17159')
+    ('ROCK ISLAND', '17161')
+    ('SALINE', '17165')
+    ('SANGAMON', '17167')
+    ('SCHUYLER', '17169')
+    ('SCOTT', '17171')
+    ('SHELBY', '17173')
+    ('ST. CLAIR', '17163')
+    ('STARK', '17175')
+    ('STEPHENSON', '17177')
+    ('TAZEWELL', '17179')
+    ('UNION', '17181')
+    ('VERMILION', '17183')
+    ('WABASH', '17185')
+    ('WARREN', '17187')
+    ('WASHINGTON', '17189')
+    ('WAYNE', '17191')
+    ('WHITE', '17193')
+    ('WHITESIDE', '17195')
+    ('WILL', '17197')
+    ('WILLIAMSON', '17199')
+    ('WINNEBAGO', '17201')
+    ('WOODFORD', '17203')
+------
+
+---------
+------
+ALL VALUES:
+    ADAMS
+    ALEXANDER
+    BOND
+    BOONE
+    BROWN
+    BUREAU
+    CALHOUN
+    CARROLL
+    CASS
+    CHAMPAIGN
+    CHRISTIAN
+    CLARK
+    CLAY
+    CLINTON
+    COLES
+    COOK
+    CRAWFORD
+    CUMBERLAND
+    DEKALB
+    DEWITT
+    DOUGLAS
+    DUPAGE
+    EDGAR
+    EDWARDS
+    EFFINGHAM
+    FAYETTE
+    FORD
+    FRANKLIN
+    FULTON
+    GALLATIN
+    GREENE
+    GRUNDY
+    HAMILTON
+    HANCOCK
+    HARDIN
+    HENDERSON
+    HENRY
+    IROQUOIS
+    JACKSON
+    JASPER
+    JEFFERSON
+    JERSEY
+    JODAVIESS
+    JOHNSON
+    KANE
+    KANKAKEE
+    KENDALL
+    KNOX
+    LAKE
+    LASALLE
+    LAWRENCE
+    LEE
+    LIVINGSTON
+    LOGAN
+    MACON
+    MACOUPIN
+    MADISON
+    MARION
+    MARSHALL
+    MASON
+    MASSAC
+    MCDONOUGH
+    MCHENRY
+    MCLEAN
+    MENARD
+    MERCER
+    MONROE
+    MONTGOMERY
+    MORGAN
+    MOULTRIE
+    OGLE
+    PEORIA
+    PERRY
+    PIATT
+    PIKE
+    POPE
+    PULASKI
+    PUTNAM
+    RANDOLPH
+    RICHLAND
+    ROCK ISLAND
+    SALINE
+    SANGAMON
+    SCHUYLER
+    SCOTT
+    SHELBY
+    ST. CLAIR
+    STARK
+    STEPHENSON
+    TAZEWELL
+    UNION
+    VERMILION
+    WABASH
+    WARREN
+    WASHINGTON
+    WAYNE
+    WHITE
+    WHITESIDE
+    WILL
+    WILLIAMSON
+    WINNEBAGO
+    WOODFORD
+------
+

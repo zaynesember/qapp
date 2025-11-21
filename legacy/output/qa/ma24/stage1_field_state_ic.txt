@@ -1,0 +1,62 @@
+---------------------------
+---------------------------
+STATE_IC CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+WRONG IC LENGTH
+    3
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+STATE_IC UNIQUENESS CHECK:
+    Detected 1 state_ic: 3
+------
+
+------
+STATE IC FOR STATE CHECK:
+    *Expected state ic code 3 for MASSACHUSETTS, found 3.
+------
+
+---------
+------
+ALL VALUES:
+    3
+------
+

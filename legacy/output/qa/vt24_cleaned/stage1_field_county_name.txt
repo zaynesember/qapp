@@ -1,0 +1,108 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('ADDISON', '50001')
+    ('BENNINGTON', '50003')
+    ('CALEDONIA', '50005')
+    ('CHITTENDEN', '50007')
+    ('ESSEX', '50009')
+    ('FRANKLIN', '50011')
+    ('GRAND ISLE', '50013')
+    ('LAMOILLE', '50015')
+    ('ORANGE', '50017')
+    ('ORLEANS', '50019')
+    ('RUTLAND', '50021')
+    ('WASHINGTON', '50023')
+    ('WINDHAM', '50025')
+    ('WINDSOR', '50027')
+------
+
+---------
+------
+ALL VALUES:
+    ADDISON
+    BENNINGTON
+    CALEDONIA
+    CHITTENDEN
+    ESSEX
+    FRANKLIN
+    GRAND ISLE
+    LAMOILLE
+    ORANGE
+    ORLEANS
+    RUTLAND
+    WASHINGTON
+    WINDHAM
+    WINDSOR
+------
+

@@ -1,0 +1,62 @@
+---------------------------
+---------------------------
+STATE_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+WRONG FIPS LENGTH
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+STATE_FIPS UNIQUENESS CHECK:
+    Detected 1 state_fips: 34
+------
+
+------
+STATE FIPS FOR STATE CHECK:
+    *Expected state fips code 34 for NEW JERSEY, found 34.
+------
+
+---------
+------
+ALL VALUES:
+    34
+------
+

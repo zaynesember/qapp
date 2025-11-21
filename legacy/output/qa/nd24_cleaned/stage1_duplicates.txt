@@ -1,0 +1,1 @@
+*There are 2 rows that are duplicated or duplicated except for the vote totals. Each candidate/precinct combo needs to have only one unique vote total. The problems are in rows [1357, 1358] 

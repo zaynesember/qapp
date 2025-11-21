@@ -1,0 +1,1608 @@
+---------------------------
+---------------------------
+PRECINCT CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    E TWP ||| [[TW]]
+    E Twp ||| [[TW]]
+    DREW TWP ||| [[TW]]
+    Drew Twp ||| [[TW]]
+    OLD TOWN ||| [[TOWN]]
+    MASON TWP ||| [[TW]]
+    Mason Twp ||| [[TW]]
+    SAKOM TWP ||| [[TW]]
+    Sakom Twp ||| [[TW]]
+    T3 ND TWP ||| [[TW]]
+    T3 ND Twp ||| [[TW]]
+    T7 SD TWP ||| [[TW]]
+    T7 SD Twp ||| [[TW]]
+    WYMAN TWP ||| [[TW]]
+    Wyman Twp ||| [[TW]]
+    ALBANY TWP ||| [[TW]]
+    Albany Twp ||| [[TW]]
+    Argyle Twp ||| [[TW]]
+    Arygle Twp ||| [[TW]]
+    CONNOR TWP ||| [[TW]]
+    Connor Twp ||| [[TW]]
+    GEORGETOWN ||| [[TOWN]]
+    Georgetown ||| [[TOWN]]
+    Indian Twp ||| [[TW]]
+    Madrid Twp ||| [[TW]]
+    Milton Twp ||| [[TW]]
+    T10 SD Twp ||| [[TW]]
+    T11 R4 Twp ||| [[TW]]
+    T22 MD TWP ||| [[TW]]
+    T22 MD Twp ||| [[TW]]
+    Concord Twp ||| [[TW]]
+    EUSTIS/TWPS ||| [[TW]]
+    Eustis/Twps ||| [[TW]]
+    KINGMAN TWP ||| [[TW]]
+    Kingman Twp ||| [[TW]]
+    MOSCOW TWPS ||| [[TW]]
+    MOSCOW/TWPS ||| [[TW]]
+    Medway/Twps ||| [[TW]]
+    Moscow/Twps ||| [[TW]]
+    STRONG/TWPS ||| [[TW]]
+    Strong/Twps ||| [[TW]]
+    WILTON/TWPS ||| [[TW]]
+    Wilton/Twps ||| [[TW]]
+    ASHLAND/TWPS ||| [[TW]]
+    ATKINSON TWP ||| [[TW]]
+    Ashland/Twps ||| [[TW]]
+    Atkinson Twp ||| [[TW]]
+    BINGHAM/TWPS ||| [[TW]]
+    BLAINE/E TWP ||| [[TW]]
+    Bingham/Twps ||| [[TW]]
+    CATHANCE TWP ||| [[TW]]
+    Cathance Twp ||| [[TW]]
+    Dayblock Twp ||| [[TW]]
+    JACKMAN TWPS ||| [[TW]]
+    JACKMAN/TWPS ||| [[TW]]
+    Jackman/Twps ||| [[TW]]
+    Molunkus Twp ||| [[TW]]
+    PRENTISS TWP ||| [[TW]]
+    Prentiss Twp ||| [[TW]]
+    DAY BLOCK TWP ||| [[TW]]
+    Day Block Twp ||| [[TW]]
+    FRANKLIN/TWPS ||| [[TW]]
+    Franklin/Twps ||| [[TW]]
+    LEXINGTON TWP ||| [[TW]]
+    Lexington Twp ||| [[TW]]
+    RANGELEY/TWPS ||| [[TW]]
+    Rangeley Twps ||| [[TW]]
+    Rangeley/Twps ||| [[TW]]
+    CROSS LAKE TWP ||| [[TW]]
+    Cross Lake Twp ||| [[TW]]
+    DENNISTOWN PLT ||| [[TOWN]]
+    Dennistown Plt ||| [[TOWN]]
+    GREENFIELD TWP ||| [[TW]]
+    HERSEYTOWN TWP ||| [[TOWN]]
+    Herseytown Twp ||| [[TOWN]]
+    MOXIE GORE TWP ||| [[TW]]
+    Moxie Gore Twp ||| [[TW]]
+    T7 R5 WELS TWP ||| [[TW]]
+    TD R2 WELS TWP ||| [[TW]]
+    Washington Twp ||| [[TW]]
+    ALBANY TOWNSHIP ||| [[TOWN]]
+    Albany Township ||| [[TOWN]]
+    BRIDGEWATER/TWP ||| [[TW]]
+    BROWNVILLE/TWPS ||| [[TW]]
+    Brownville/Twps ||| [[TW]]
+    Centerville Twp ||| [[TW]]
+    GREENVILLE/TWPS ||| [[TW]]
+    Greenville/Twps ||| [[TW]]
+    Indian Township ||| [[TOWN]]
+    OXBOW NORTH TWP ||| [[TW]]
+    Old Town/Argyle ||| [[TOWN]]
+    Oxbow North Twp ||| [[TW]]
+    STACYVILLE/TWPS ||| [[TW]]
+    T11 R4 WELS TWP ||| [[TW]]
+    T15 R6 WELS TWP ||| [[TW]]
+    ALBION/UNITY TWP ||| [[TW]]
+    Albion/Unity Twp ||| [[TW]]
+    BETHEL/MASON TWP ||| [[TW]]
+    Bethel/Mason Twp ||| [[TW]]
+    HODGDON/CARY TWP ||| [[TW]]
+    Hodgdon/Cary Twp ||| [[TW]]
+    LOUDS ISLAND TWP ||| [[TW]]
+    MILLINOCKET/TWPS ||| [[TW]]
+    Millinocket/Twps ||| [[TW]]
+    PISCATAQUIS TWPS ||| [[TW]]
+    Piscataquis Twps ||| [[TW]]
+    ATKINSON TOWNSHIP ||| [[TOWN]]
+    Atkinson Township ||| [[TOWN]]
+    NEW PORTLAND/TWPS ||| [[TW]]
+    REED PLT/DREW TWP ||| [[TW]]
+    SOLON/CONCORD TWP ||| [[TW]]
+    STEUBEN/T7 SD TWP ||| [[TW]]
+    CARIBOU/CONNOR TWP ||| [[TW]]
+    MASARDIS/OXBOW TWP ||| [[TW]]
+    MATTAMISCONTIS TWP ||| [[TW]]
+    MILO/ORNEVILLE TWP ||| [[TW]]
+    MORO PLT/T7 R5 TWP ||| [[TW]]
+    ROCKWOOD STRIP TWP ||| [[TW]]
+    COOPER/CATHANCE TWP ||| [[TW]]
+    EDINBURG/ARGYLE TWP ||| [[TW]]
+    MEDWAY/MOLUNKUS TWP ||| [[TW]]
+    OLD TOWN/ARGYLE TWP ||| [[TOWN]]
+    Old Town/Argyle Twp ||| [[TOWN]]
+    PHILLIPS/MADRID TWP ||| [[TW]]
+    WESTON/BANCROFT TWP ||| [[TW]]
+    BURLINGTON/T3 ND TWP ||| [[TW]]
+    GOULDSBORO/T7 SD TWP ||| [[TW]]
+    MILBRIDGE/T10 SD TWP ||| [[TW]]
+    WESLEY/DAY BLOCK TWP ||| [[TW]]
+    WOODSTOCK/MILTON TWP ||| [[TW]]
+    BEDDINGTON/T22 MD TWP ||| [[TW]]
+    DANFORTH/BROOKTON TWP ||| [[TW]]
+    DENNISTOWN PLANTATION ||| [[TOWN]]
+    Dennistown Plantation ||| [[TOWN]]
+    FREEMAN TWP/SALEM TWP ||| [[TW]]
+    GREENLAW CHOPPING TWP ||| [[TW]]
+    CHERRYFIELD/T10 SD TWP ||| [[TW]]
+    LAGRANGE/ORNEVILLE TWP ||| [[TW]]
+    MILFORD/GREENFIELD TWP ||| [[TW]]
+    PRINCETON/BIG LAKE TWP ||| [[TW]]
+    T10 SD TWP (MILBRIDGE) ||| [[TW]]
+    DENNYSVILLE/EDMUNDS TWP ||| [[TW]]
+    TOPSFIELD/CODYVILLE TWP ||| [[TW]]
+    BRISTOL/LOUDS ISLAND TWP ||| [[TW]]
+    INDIAN TOWNSHIP/SAKOM TWP ||| [[TOWN]]
+    MATTAWAMKEAG/MOLUNKUS TWP ||| [[TW]]
+    NEW CANADA/CROSS LAKE TWP ||| [[TW]]
+    CHESTER/MATTAMISCONTIS TWP ||| [[TW]]
+    EAGLE LAKE/T15 R6 WELS TWP ||| [[TW]]
+    HIGHLAND PLT/LEXINGTON TWP ||| [[TW]]
+    THE FORKS PLT/MOXIE GORE TWP ||| [[TW]]
+    VAN BUREN/VAN BUREN COVE TWP ||| [[TW]]
+    BENEDICTA TWP/SILVER RIDGE TWP ||| [[TW]]
+    COLUMBIA FALLS/CENTERVILLE TWP ||| [[TW]]
+    ELLSWORTH/FLETCHERS LANDING TWP ||| [[TW]]
+    WEBSTER PLT/KINGMAN TWP/PRENTISS TWP ||| [[TW]]
+    GRAND LAKE STREAM PLT/GREENLAW CHOPPING TWP ||| [[TW]]
+    PENOBSCOT NATION VOTING DISTRICT/ARGYLE TWP ||| [[TW]]
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    SACO ||| [[CO ]]
+    Saco ||| [[CO ]]
+    CASCO ||| [[CO ]]
+    Casco ||| [[CO ]]
+    COOPER ||| [[CO ]]
+    Cooper ||| [[CO ]]
+    MEXICO ||| [[CO ]]
+    MOSCOW ||| [[CO ]]
+    Mexico ||| [[CO ]]
+    Moscow ||| [[CO ]]
+    CORINNA ||| [[CO ]]
+    CORINTH ||| [[CO ]]
+    CORNISH ||| [[CO ]]
+    Corinna ||| [[CO ]]
+    Corinth ||| [[CO ]]
+    Cornish ||| [[CO ]]
+    HANCOCK ||| [[CO ]]
+    Hancock ||| [[CO ]]
+    LINCOLN ||| [[CO ]]
+    Lincoln ||| [[CO ]]
+    COLUMBIA ||| [[CO ]]
+    Columbia ||| [[CO ]]
+    EDGECOMB ||| [[CO ]]
+    Edgecomb ||| [[CO ]]
+    CORNVILLE ||| [[CO ]]
+    Cornville ||| [[CO ]]
+    PENOBSCOT ||| [[CO ]]
+    Penobscot ||| [[CO ]]
+    CONNOR TWP ||| [[CO ]]
+    Connor Twp ||| [[CO ]]
+    Coplin Plt ||| [[CO ]]
+    BEAVER COVE ||| [[CO ]]
+    Beaver Cove ||| [[CO ]]
+    Concord Twp ||| [[CO ]]
+    LINCOLN PLT ||| [[CO ]]
+    Lincoln Plt ||| [[CO ]]
+    MOSCOW TWPS ||| [[CO ]]
+    MOSCOW/TWPS ||| [[CO ]]
+    Moscow/Twps ||| [[CO ]]
+    DAMARISCOTTA ||| [[CO ]]
+    Damariscotta ||| [[CO ]]
+    LINCOLNVILLE ||| [[CO ]]
+    Lincolnville ||| [[CO ]]
+    COLUMBIA FALLS ||| [[CO ]]
+    Columbia Falls ||| [[CO ]]
+    COPLIN PLT/WYMAN ||| [[CO ]]
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    BYRON ||| [[YR]]
+    Byron ||| [[YR]]
+    SMYRNA ||| [[YR]]
+    Smyrna ||| [[YR]]
+    CYR PLT ||| [[YR]]
+    Cyr Plt ||| [[YR]]
+    PALMYRA ||| [[YR]]
+    Palmyra ||| [[YR]]
+    CYR PLANTATION ||| [[YR]]
+    Cyr Plantation ||| [[YR]]
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    PLEASANT POINT VOTING DISTRICT ||| [[DISTRICT]]
+    Pleasant Point Voting District ||| [[DISTRICT]]
+    Penobscot Nation Voting District ||| [[DISTRICT]]
+    PENOBSCOT NATION VOTING DISTRICT/ARGYLE TWP ||| [[DISTRICT]]
+    Penobscot Nation Voting District/Argyle Twp ||| [[DISTRICT]]
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    BOWDOIN ||| [[WD]]
+    Bowdoin ||| [[WD]]
+    BOWDOINHAM ||| [[WD]]
+    Bowdoinham ||| [[WD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    BOWDOIN ||| [[WD]]
+    Bowdoin ||| [[WD]]
+    BOWDOINHAM ||| [[WD]]
+    Bowdoinham ||| [[WD]]
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    GREENE ||| [[GREEN]]
+    Greene ||| [[GREEN]]
+    LIBERTY ||| [[LIB]]
+    Liberty ||| [[LIB]]
+    WINDHAM ||| [[IND]]
+    WINDSOR ||| [[IND]]
+    Windham ||| [[IND]]
+    Windsor ||| [[IND]]
+    INDUSTRY ||| [[IND]]
+    Industry ||| [[IND]]
+    GREENBUSH ||| [[GREEN]]
+    GREENWOOD ||| [[GREEN]]
+    Greenbush ||| [[GREEN]]
+    Greenwood ||| [[GREEN]]
+    GREENVILLE ||| [[GREEN]]
+    Greenville ||| [[GREEN]]
+    Indian Twp ||| [[IND]]
+    GREENFIELD TWP ||| [[GREEN]]
+    GREENVILLE/TWPS ||| [[GREEN]]
+    Greenville/Twps ||| [[GREEN]]
+    Indian Township ||| [[IND]]
+    GREENLAW CHOPPING TWP ||| [[GREEN]]
+    Greenlaw Chopping Twp ||| [[GREEN]]
+    MILFORD/GREENFIELD TWP ||| [[GREEN]]
+    Milford/Greenfield Twp ||| [[GREEN]]
+    INDIAN TOWNSHIP/SAKOM TWP ||| [[IND]]
+    GRAND LAKE STREAM PLT/GREENLAW CHOPPING TWP ||| [[GREEN]]
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    Centerville Twp ||| [[CENTER]]
+    COLUMBIA FALLS/CENTERVILLE TWP ||| [[CENTER]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    PRESQUE ISLE ||| [[PRES]]
+    Presque Isle ||| [[PRES]]
+------
+
+------------
+
+
+---------
+------
+ALL VALUES:
+    ABBOT
+    ACTON
+    ADDISON
+    ALBANY TOWNSHIP
+    ALBANY TWP
+    ALBION
+    ALBION/UNITY TWP
+    ALEXANDER
+    ALFRED
+    ALLAGASH
+    ALNA
+    ALTON
+    AMHERST
+    AMITY
+    ANDOVER
+    ANSON
+    APPLETON
+    ARROWSIC
+    ARUNDEL
+    ASHLAND
+    ASHLAND/TWPS
+    ATHENS
+    ATKINSON TOWNSHIP
+    ATKINSON TWP
+    AUBURN
+    AUGUSTA
+    AURORA
+    AVON
+    Abbot
+    Acton
+    Addison
+    Albany Township
+    Albany Twp
+    Albion
+    Albion/Unity Twp
+    Alexander
+    Alfred
+    Allagash
+    Alna
+    Alton
+    Amherst
+    Amity
+    Andover
+    Anson
+    Appleton
+    Argyle Twp
+    Arrowsic
+    Arundel
+    Arygle Twp
+    Ashland
+    Ashland/Twps
+    Athens
+    Atkinson Township
+    Atkinson Twp
+    Auburn
+    Augusta
+    Aurora
+    Avon
+    BAILEYVILLE
+    BALDWIN
+    BANGOR
+    BAR HARBOR
+    BARING PLT
+    BATH
+    BEALS
+    BEAVER COVE
+    BEDDINGTON/T22 MD TWP
+    BELFAST
+    BELGRADE
+    BELMONT
+    BENEDICTA TWP/SILVER RIDGE TWP
+    BENTON
+    BERWICK
+    BETHEL
+    BETHEL/MASON TWP
+    BIDDEFORD
+    BINGHAM
+    BINGHAM/TWPS
+    BLAINE
+    BLAINE/E TWP
+    BLUE HILL
+    BOOTHBAY
+    BOOTHBAY HARBOR
+    BOWDOIN
+    BOWDOINHAM
+    BOWERBANK
+    BRADFORD
+    BRADLEY
+    BREMEN
+    BREWER
+    BRIDGEWATER
+    BRIDGEWATER/TWP
+    BRIDGTON
+    BRIGHTON PLANTATION
+    BRIGHTON PLT
+    BRISTOL
+    BRISTOL/LOUDS ISLAND TWP
+    BROOKLIN
+    BROOKS
+    BROOKSVILLE
+    BROWNFIELD
+    BROWNVILLE/TWPS
+    BRUNSWICK
+    BUCKFIELD
+    BUCKSPORT
+    BURLINGTON
+    BURLINGTON/T3 ND TWP
+    BURNHAM
+    BUXTON
+    BYRON
+    Baileyville
+    Baldwin
+    Bangor
+    Bar Harbor
+    Baring Plantation
+    Baring Plt
+    Bath
+    Beals
+    Beaver Cove
+    Beddington
+    Belfast
+    Belgrade
+    Belmont
+    Benedicta Twp/Siliver Ridge Twp
+    Benedicta Twp/Silver Ridge Twp
+    Benton
+    Berwick
+    Bethel
+    Bethel/Mason Twp
+    Biddeford
+    Bingham/Twps
+    Blaine
+    Blue Hill
+    Boothbay
+    Boothbay Harbor
+    Bowdoin
+    Bowdoinham
+    Bowerbank
+    Bradford
+    Bradley
+    Bremen
+    Brewer
+    Bridgewater
+    Bridgton
+    Brighton Plantation
+    Brighton Plt
+    Bristol/Louds Island Twp
+    Brooklin
+    Brooks
+    Brooksville
+    Brownfield
+    Brownville
+    Brownville/Twps
+    Brunswick
+    Buckfield
+    Bucksport
+    Burlington
+    Burnham
+    Buxton
+    Byron
+    CALAIS
+    CAMBRIDGE
+    CAMDEN
+    CANAAN
+    CANTON
+    CAPE ELIZABETH
+    CARATUNK
+    CARIBOU
+    CARIBOU/CONNOR TWP
+    CARMEL
+    CARRABASSETT VALLEY
+    CARROLL PLANTATION
+    CARROLL PLT
+    CARTHAGE
+    CASCO
+    CASTINE
+    CASTLE HILL
+    CASTLE HILL/T11 R4 WELS
+    CASWELL
+    CATHANCE TWP
+    CHAPMAN
+    CHARLESTON
+    CHARLOTTE
+    CHEBEAGUE ISLAND
+    CHELSEA
+    CHERRYFIELD
+    CHERRYFIELD/T10 SD TWP
+    CHESTER
+    CHESTER/MATTAMISCONTIS TWP
+    CHESTERVILLE
+    CHINA
+    CLIFTON
+    CLINTON
+    COLUMBIA
+    COLUMBIA FALLS
+    COLUMBIA FALLS/CENTERVILLE TWP
+    CONNOR TWP
+    COOPER
+    COOPER/CATHANCE TWP
+    COPLIN PLANTATION
+    COPLIN PLT/WYMAN
+    CORINNA
+    CORINTH
+    CORNISH
+    CORNVILLE
+    CRANBERRY ISLES
+    CRAWFORD
+    CROSS LAKE TWP
+    CRYSTAL
+    CUMBERLAND
+    CUSHING
+    CUTLER
+    CYR PLANTATION
+    CYR PLT
+    Calais
+    Cambridge
+    Camden
+    Canaan
+    Canton
+    Cape Elizabeth
+    Caratunk
+    Caribou/Connor
+    Caribou/Connor Twp
+    Carmel
+    Carrabassett Valley
+    Carroll Plantation
+    Carroll Plt
+    Carthage
+    Casco
+    Castine
+    Castle Hill
+    Caswell
+    Cathance Twp
+    Centerville Twp
+    Chapman
+    Charleston
+    Charlotte
+    Chebeague Island
+    Chelsea
+    Cherryfield
+    Cherryfield/T10 SD Twp
+    Chester
+    Chesterville
+    China
+    Clifton
+    Clinton
+    Columbia
+    Columbia Falls
+    Concord Twp
+    Connor Twp
+    Cooper
+    Coplin Plantation
+    Coplin Plt
+    Corinna
+    Corinth
+    Cornish
+    Cornville
+    Cranberry Isles
+    Crawford
+    Cross Lake Twp
+    Crystal
+    Cumberland
+    Cushing
+    Cutler
+    Cyr Plantation
+    Cyr Plt
+    DALLAS PLANTATION
+    DALLAS PLT
+    DAMARISCOTTA
+    DANFORTH/BROOKTON TWP
+    DAY BLOCK TWP
+    DAYTON
+    DEBLOIS
+    DEDHAM
+    DEER ISLE
+    DENMARK
+    DENNISTOWN PLANTATION
+    DENNISTOWN PLT
+    DENNYSVILLE/EDMUNDS TWP
+    DETROIT
+    DEXTER
+    DIXFIELD
+    DIXMONT
+    DOVER-FOXCROFT
+    DRESDEN
+    DREW TWP
+    DURHAM
+    DYER BROOK
+    Dallas Plantation
+    Dallas Plt
+    Damariscotta
+    Danforth
+    Danforth/Brookton Twp
+    Day Block Twp
+    Day Block Twp (T31 MD BPP)
+    Dayblock Twp
+    Dayton
+    Deblois
+    Dedham
+    Deer Isle
+    Denmark
+    Dennistown Plantation
+    Dennistown Plt
+    Dennysville
+    Dennysville/Edmunds Twp
+    Detroit
+    Dexter
+    Dixfield
+    Dixmont
+    Dover-Foxcroft
+    Dresden
+    Drew Twp
+    Durham
+    Dyer Brook
+    E TWP
+    E Twp
+    EAGLE LAKE
+    EAGLE LAKE/T15 R6 WELS TWP
+    EAST MACHIAS
+    EAST MILLINOCKET
+    EASTBROOK
+    EASTON
+    EASTPORT
+    EDDINGTON
+    EDGECOMB
+    EDINBURG
+    EDINBURG/ARGYLE TWP
+    ELIOT
+    ELLSWORTH/FLETCHERS LANDING TWP
+    EMBDEN
+    ENFIELD
+    ETNA
+    EUSTIS/TWPS
+    EXETER
+    Eagle Lake/T15 R6 WELS Twp
+    East Machias
+    East Millinocket
+    Eastbrook
+    Easton
+    Eastport
+    Eddington
+    Edgecomb
+    Edinburg
+    Edinburg/Argyle Twp
+    Eliot
+    Ellsworth
+    Ellsworth/Fletchers Landing Twp
+    Embden
+    Enfield
+    Etna
+    Eustis
+    Eustis/Twps
+    Eustis/Wyman Twp
+    Exeter
+    FAIRFIELD
+    FALMOUTH
+    FARMINGDALE
+    FARMINGTON
+    FAYETTE
+    FORT FAIRFIELD
+    FORT KENT
+    FRANKFORT
+    FRANKLIN
+    FRANKLIN/TWPS
+    FREEDOM
+    FREEMAN TWP/SALEM TWP
+    FREEPORT
+    FRENCHBORO
+    FRENCHVILLE
+    FRIENDSHIP
+    FRYE ISLAND
+    FRYEBURG
+    Fairfield
+    Falmouth
+    Farmingdale
+    Farmington
+    Fayette
+    Fletchers Landing Twp
+    Fort Fairfield
+    Fort Kent
+    Frankfort
+    Franklin
+    Franklin/T10 SD Twp
+    Franklin/Twps
+    Freedom
+    Freeman Twp/Salem Twp
+    Freeport
+    Frenchboro
+    Frenchville
+    Friendship
+    Frye Island
+    Fryeburg
+    GARDINER
+    GARFIELD PLANTATION
+    GARFIELD PLT
+    GARLAND
+    GEORGETOWN
+    GILEAD
+    GLENBURN
+    GLENWOOD PLANTATION
+    GLENWOOD PLT
+    GORHAM
+    GOULDSBORO
+    GOULDSBORO/T7 SD TWP
+    GRAND ISLE
+    GRAND LAKE STREAM PLANTATION
+    GRAND LAKE STREAM PLT/GREENLAW CHOPPING TWP
+    GRAY
+    GREAT POND
+    GREENBUSH
+    GREENE
+    GREENFIELD TWP
+    GREENLAW CHOPPING TWP
+    GREENVILLE
+    GREENVILLE/TWPS
+    GREENWOOD
+    GUILFORD/KINGSBURY PLT
+    Gardiner
+    Garfield Plantation
+    Garfield Plt
+    Garland
+    Georgetown
+    Gilead
+    Glenburn
+    Glenwood Plantation
+    Glenwood Plt
+    Gorham
+    Gouldsboro
+    Gouldsboro/T7 SD Twp
+    Grand Isle
+    Grand Lake Stream Plantation
+    Grand Lake Stream Plt
+    Gray
+    Great Pond
+    Greenbush
+    Greene
+    Greenlaw Chopping Twp
+    Greenville
+    Greenville/Twps
+    Greenwood
+    Guilford/Kingsbury Plt
+    HALLOWELL
+    HAMLIN
+    HAMMOND
+    HAMPDEN
+    HANCOCK
+    HANOVER
+    HARMONY
+    HARPSWELL
+    HARRINGTON
+    HARRISON
+    HARTFORD
+    HARTLAND
+    HAYNESVILLE
+    HEBRON
+    HERMON
+    HERSEY
+    HERSEYTOWN TWP
+    HIGHLAND PLANTATION
+    HIGHLAND PLT/LEXINGTON TWP
+    HIRAM
+    HODGDON/CARY PLT
+    HODGDON/CARY TWP
+    HOLDEN
+    HOLLIS
+    HOPE
+    HOULTON
+    HOWLAND
+    HUDSON
+    Hallowell
+    Hamlin
+    Hammond
+    Hampden
+    Hancock
+    Hanover
+    Harmony
+    Harpswell
+    Harrington
+    Harrison
+    Hartford
+    Hartland
+    Haynesville
+    Hebron
+    Hermon
+    Hersey
+    Herseytown Twp
+    Highland Plantation
+    Highland Plt
+    Hiram
+    Hodgdon/Cary Twp
+    Holden
+    Hollis
+    Hope
+    Houlton
+    Howland
+    Hudson
+    INDIAN TOWNSHIP/SAKOM TWP
+    INDUSTRY
+    ISLAND FALLS
+    ISLE AU HAUT
+    ISLESBORO
+    Indian Township
+    Indian Twp
+    Industry
+    Island Falls
+    Isle Au Haut
+    Islesboro
+    JACKMAN
+    JACKMAN TWPS
+    JACKMAN/TWPS
+    JACKSON
+    JAY
+    JEFFERSON
+    JONESBORO
+    JONESPORT
+    Jackman
+    Jackman/Twps
+    Jackson
+    Jay
+    Jefferson
+    Jonesboro
+    Jonesport
+    KENDUSKEAG
+    KENNEBUNK
+    KENNEBUNKPORT
+    KINGFIELD
+    KINGMAN TWP
+    KITTERY
+    KNOX
+    Kenduskeag
+    Kennebunk
+    Kennebunkport
+    Kingfield
+    Kingman Twp
+    Kittery
+    Knox
+    LAGRANGE
+    LAGRANGE/ORNEVILLE TWP
+    LAKE VIEW PLT
+    LAKEVILLE
+    LAMOINE
+    LEBANON
+    LEE
+    LEEDS
+    LEVANT
+    LEWISTON
+    LEXINGTON TWP
+    LIBERTY
+    LIMERICK
+    LIMESTONE
+    LIMINGTON
+    LINCOLN
+    LINCOLN PLANTATION
+    LINCOLN PLT
+    LINCOLNVILLE
+    LINNEUS
+    LISBON
+    LITCHFIELD
+    LITTLETON
+    LIVERMORE
+    LIVERMORE FALLS
+    LONG ISLAND
+    LOUDS ISLAND TWP
+    LOVELL
+    LOWELL
+    LUBEC
+    LUDLOW
+    LYMAN
+    Lagrange
+    Lagrange/Orneville Twp
+    Lake View Plantation
+    Lake View Plt
+    Lakeville
+    Lamoine
+    Lebanon
+    Lee
+    Leeds
+    Levant
+    Lewiston
+    Lexington Twp
+    Liberty
+    Limerick
+    Limestone
+    Limington
+    Lincoln
+    Lincoln Plantation
+    Lincoln Plt
+    Lincolnville
+    Linneus
+    Lisbon
+    Litchfield
+    Littleton
+    Livermore
+    Livermore Falls
+    Long Island
+    Lovell
+    Lowell
+    Lubec
+    Ludlow
+    Lyman
+    MACHIAS
+    MACHIASPORT
+    MACWAHOC PLANTATION
+    MACWAHOC PLT
+    MADAWASKA
+    MADAWASKA LAKE
+    MADISON
+    MANCHESTER
+    MAPLETON
+    MARIAVILLE
+    MARS HILL
+    MARSHFIELD
+    MASARDIS
+    MASARDIS/OXBOW TWP
+    MASON TWP
+    MATINICUS ISLE PLANTATION
+    MATINICUS ISLE PLT
+    MATTAMISCONTIS TWP
+    MATTAWAMKEAG
+    MATTAWAMKEAG/MOLUNKUS TWP
+    MAXFIELD
+    MECHANIC FALLS
+    MEDDYBEMPS
+    MEDFORD
+    MEDWAY/MOLUNKUS TWP
+    MERCER
+    MERRILL
+    MEXICO
+    MILBRIDGE
+    MILBRIDGE/T10 SD TWP
+    MILFORD/GREENFIELD TWP
+    MILLINOCKET
+    MILLINOCKET/TWPS
+    MILO/ORNEVILLE TWP
+    MINOT
+    MONHEGAN ISLAND PLT
+    MONMOUTH
+    MONROE
+    MONSON
+    MONTICELLO
+    MONTVILLE
+    MOOSE RIVER
+    MORO PLANTATION
+    MORO PLT/T7 R5 TWP
+    MORRILL
+    MOSCOW
+    MOSCOW TWPS
+    MOSCOW/TWPS
+    MOUNT CHASE
+    MOUNT DESERT
+    MOUNT VERNON
+    MOXIE GORE TWP
+    Machias
+    Machiasport
+    Macwahoc Plantation
+    Macwahoc Plt
+    Madawaska
+    Madawaska Lake
+    Madawaska Lake Twp
+    Madison
+    Madrid Twp
+    Manchester
+    Mapleton
+    Mariaville
+    Mars Hill
+    Marshfield
+    Masardis
+    Mason Twp
+    Matinicus Isle Plantation
+    Matinicus Isle Plt
+    Mattamiscontis Twp
+    Mattawamkeag
+    Mattawamkeag/Molunkus Twp
+    Maxfield
+    Mechanic Falls
+    Meddybemps
+    Medford
+    Medway
+    Medway/Molunkus Twp
+    Medway/Twps
+    Mercer
+    Merrill
+    Mexico
+    Milbridge
+    Milbridge/T10 SD Twp
+    Milford/Greenfield Twp
+    Millinocket/Twps
+    Milo
+    Milo/Orneville Twp
+    Milton Twp
+    Minot
+    Molunkus Twp
+    Monhegan Island Plantation
+    Monhegan Island Plt
+    Monmouth
+    Monroe
+    Monson
+    Monticello
+    Montville
+    Moose River
+    Moro Plantation
+    Moro Plt
+    Morrill
+    Moscow
+    Moscow/Twps
+    Mount Chase
+    Mount Desert
+    Mount Vernon
+    Moxie Gore Twp
+    NAPLES
+    NASHVILLE PLT
+    NEW CANADA
+    NEW CANADA/CROSS LAKE TWP
+    NEW GLOUCESTER
+    NEW LIMERICK
+    NEW PORTLAND/TWPS
+    NEW SHARON
+    NEW SWEDEN
+    NEW VINEYARD
+    NEWBURGH
+    NEWCASTLE
+    NEWFIELD
+    NEWPORT
+    NEWRY
+    NOBLEBORO
+    NORRIDGEWOCK
+    NORTH BERWICK
+    NORTH HAVEN
+    NORTH YARMOUTH
+    NORTHFIELD
+    NORTHPORT
+    NORWAY
+    Naples
+    Nashville Plt
+    New Canada
+    New Gloucester
+    New Limerick
+    New Portland
+    New Sharon
+    New Sweden
+    New Vineyard
+    Newburgh
+    Newcastle
+    Newfield
+    Newport
+    Newry
+    Nobleboro
+    Norridgewock
+    North Berwick
+    North Haven
+    North Yarmouth
+    Northfield
+    Northport
+    Norway
+    OAKFIELD
+    OAKLAND
+    OGUNQUIT
+    OLD ORCHARD BEACH
+    OLD TOWN
+    OLD TOWN/ARGYLE TWP
+    ORIENT
+    ORLAND
+    ORONO
+    ORRINGTON
+    OSBORN
+    OTIS
+    OTISFIELD
+    OWLS HEAD
+    OXBOW NORTH TWP
+    OXFORD
+    Oakfield
+    Oakland
+    Ogunquit
+    Old Orchard Beach
+    Old Town/Argyle
+    Old Town/Argyle Twp
+    Orient
+    Orland
+    Orono
+    Orrington
+    Osborn
+    Otis
+    Otisfield
+    Owls Head
+    Oxbow North Twp
+    Oxford
+    PALERMO
+    PALMYRA
+    PARIS
+    PARKMAN
+    PARSONSFIELD
+    PASSADUMKEAG
+    PATTEN
+    PEMBROKE
+    PENOBSCOT
+    PENOBSCOT NATION VOTING DISTRICT/ARGYLE TWP
+    PERHAM
+    PERRY
+    PERU
+    PHILLIPS/MADRID TWP
+    PHIPPSBURG
+    PISCATAQUIS TWPS
+    PITTSFIELD
+    PITTSTON
+    PLEASANT POINT VOTING DISTRICT
+    PLEASANT RIDGE PLANTATION
+    PLEASANT RIDGE PLT
+    PLYMOUTH
+    POLAND
+    PORTAGE LAKE
+    PORTAGE LAKE/NASHVILLE PLT
+    PORTER
+    PORTLAND
+    POWNAL
+    PRENTISS TWP
+    PRESQUE ISLE
+    PRINCETON
+    PRINCETON/BIG LAKE TWP
+    PROSPECT
+    Palermo
+    Palmyra
+    Paris
+    Parkman
+    Parsonsfield
+    Passadumkeag
+    Patten
+    Pembroke
+    Penobscot
+    Penobscot Nation Voting District
+    Penobscot Nation Voting District/Argyle Twp
+    Perham
+    Perry
+    Peru
+    Phillips
+    Phillips/Madrid Twp
+    Phippsburg
+    Piscataquis Twps
+    Pittsfield
+    Pittston
+    Pleasant Point Voting District
+    Pleasant Ridge Plantation
+    Pleasant Ridge Plt
+    Plymouth
+    Poland
+    Portage Lake
+    Porter
+    Portland
+    Pownal
+    Prentiss Twp
+    Presque Isle
+    Princeton
+    Princeton/Big Lake Twp
+    Prospect
+    RANDOLPH
+    RANGELEY
+    RANGELEY PLT
+    RANGELEY/TWPS
+    RAYMOND
+    READFIELD
+    REED PLANTATION
+    REED PLT/DREW TWP
+    RICHMOND
+    RIPLEY
+    ROBBINSTON
+    ROCKLAND
+    ROCKPORT
+    ROCKWOOD STRIP TWP
+    ROME
+    ROQUE BLUFFS
+    ROXBURY
+    RUMFORD
+    Randolph
+    Rangeley
+    Rangeley Plt
+    Rangeley Twps
+    Rangeley/Twps
+    Raymond
+    Readfield
+    Reed Plantation
+    Reed Plt
+    Richmond
+    Ripley
+    Robbinston
+    Rockland
+    Rockport
+    Rockwood Strip Twp
+    Rome
+    Roque Bluffs
+    Roxbury
+    Rumford
+    SABATTUS
+    SACO
+    SAINT AGATHA
+    SAINT AGATHA/SINCLAIR
+    SAINT ALBANS
+    SAINT FRANCIS
+    SAINT GEORGE
+    SAINT JOHN PLANTATION
+    SAINT JOHN PLT
+    SAKOM TWP
+    SANDY RIVER PLANTATION
+    SANDY RIVER PLT
+    SANFORD
+    SANGERVILLE
+    SCARBOROUGH
+    SEARSMONT
+    SEARSPORT
+    SEBAGO
+    SEBEC
+    SEBOEIS PLANTATION
+    SEBOEIS PLT
+    SEDGWICK
+    SHAPLEIGH
+    SHERMAN
+    SHIRLEY
+    SIDNEY
+    SKOWHEGAN
+    SMITHFIELD
+    SMYRNA
+    SOLON/CONCORD TWP
+    SOMERVILLE
+    SORRENTO
+    SOUTH BERWICK
+    SOUTH BRISTOL
+    SOUTH PORTLAND
+    SOUTH THOMASTON
+    SOUTHPORT
+    SOUTHWEST HARBOR
+    SPRINGFIELD
+    ST. GEORGE
+    STACYVILLE
+    STACYVILLE/TWPS
+    STANDISH
+    STARKS
+    STETSON
+    STEUBEN/T7 SD TWP
+    STOCKHOLM
+    STOCKHOLM/MADAWASKA LAKE
+    STOCKTON SPRINGS
+    STONEHAM
+    STONINGTON
+    STOW
+    STRONG
+    STRONG/TWPS
+    SULLIVAN
+    SUMNER
+    SURRY
+    SWAN'S ISLAND
+    SWANS ISLAND
+    SWANVILLE
+    SWEDEN
+    Sabattus
+    Saco
+    Saint Agatha
+    Saint Agatha/Sinclair
+    Saint Albans
+    Saint Francis
+    Saint George
+    Saint John Plantation
+    Saint John Plt
+    Sakom Twp
+    Sandy River Plantation
+    Sandy River Plt
+    Sanford
+    Sangerville
+    Scarborough
+    Searsmont
+    Searsport
+    Sebago
+    Sebec
+    Seboeis Plantation
+    Seboeis Plt
+    Sedgwick
+    Shapleigh
+    Sherman
+    Shirley
+    Sidney
+    Skowhegan
+    Smithfield
+    Smyrna
+    Solon/Concord Twp
+    Somerville
+    Sorrento
+    South Berwick
+    South Bristol
+    South Portland
+    South Thomaston
+    Southport
+    Southwest Harbor
+    Springfield
+    St. George
+    Stacyville
+    Standish
+    Starks
+    Stetson
+    Steuben
+    Steuben/T7 SD Twp
+    Stockholm
+    Stockton Springs
+    Stoneham
+    Stonington
+    Stow
+    Strong
+    Strong/Twps
+    Sullivan
+    Sumner
+    Surry
+    Swan's Island
+    Swans Island
+    Swanville
+    Sweden
+    T10 SD TWP (MILBRIDGE)
+    T10 SD Twp
+    T10 SD Twp (Cherryfield)
+    T10 SD Twp (Milbridge)
+    T11 R4 Twp
+    T11 R4 WELS
+    T11 R4 WELS TWP
+    T11 R4 WELS Twp
+    T15 R6 WELS
+    T15 R6 WELS TWP
+    T15 R6 WELS Twp
+    T22 MD TWP
+    T22 MD Twp
+    T22 MD Twp (Beddington)
+    T3 ND TWP
+    T3 ND Twp
+    T3 ND Twp (Burlington)
+    T7 R5 WELS TWP
+    T7 R5 WELS Twp
+    T7 SD TWP
+    T7 SD Twp
+    T7 SD Twp (Steuben)
+    T9/T10 SD Twp (Franklin)
+    TALMADGE
+    TD R2 WELS
+    TD R2 WELS TWP
+    TD R2 WELS Twp
+    TEMPLE
+    THE FORKS PLANTATION
+    THE FORKS PLT/MOXIE GORE TWP
+    THOMASTON
+    THORNDIKE
+    TOPSFIELD/CODYVILLE TWP
+    TOPSHAM
+    TREMONT
+    TRENTON
+    TROY
+    TURNER
+    Talmadge
+    Taunton & Raynham Academy Grant
+    Taunton and Raynham Academy Grant
+    Temple
+    The Forks Plantation
+    The Forks Plt
+    Thomaston
+    Thorndike
+    Topsfield
+    Topsfield/Codyville Twp
+    Topsham
+    Tremont
+    Trenton
+    Troy
+    Turner
+    UNION
+    UNITY
+    UPTON
+    Union
+    Unity
+    Upton
+    VAN BUREN/VAN BUREN COVE TWP
+    VANCEBORO
+    VASSALBORO
+    VEAZIE
+    VERONA ISLAND
+    VIENNA
+    VINALHAVEN
+    Van Buren
+    Van Buren/Van Buren Cove Twp
+    Vanceboro
+    Vassalboro
+    Veazie
+    Verona Island
+    Vienna
+    Vinalhaven
+    WADE
+    WAITE
+    WALDO
+    WALDOBORO
+    WALES
+    WALLAGRASS
+    WALTHAM
+    WARREN
+    WASHBURN
+    WASHINGTON
+    WATERBORO
+    WATERFORD
+    WATERVILLE
+    WAYNE
+    WEBSTER PLANTATION
+    WEBSTER PLT/KINGMAN TWP/PRENTISS TWP
+    WELD
+    WELLINGTON
+    WELLS
+    WESLEY
+    WESLEY/DAY BLOCK TWP
+    WEST BATH
+    WEST FORKS PLANTATION
+    WEST FORKS PLT
+    WEST GARDINER
+    WEST PARIS
+    WESTBROOK
+    WESTFIELD
+    WESTMANLAND
+    WESTON
+    WESTON/BANCROFT TWP
+    WESTPORT ISLAND
+    WHITEFIELD
+    WHITING
+    WHITNEYVILLE
+    WILLIMANTIC
+    WILTON
+    WILTON/TWPS
+    WINDHAM
+    WINDSOR
+    WINN
+    WINSLOW
+    WINTER HARBOR
+    WINTERPORT
+    WINTERVILLE PLT/T15 R6 WELS
+    WINTHROP
+    WISCASSET
+    WOODLAND
+    WOODSTOCK/MILTON TWP
+    WOODVILLE
+    WOOLWICH
+    WYMAN TWP
+    Wade
+    Waite
+    Waldo
+    Waldoboro
+    Wales
+    Wallagrass
+    Waltham
+    Warren
+    Washburn
+    Washington
+    Washington Twp
+    Waterboro
+    Waterford
+    Waterville
+    Wayne
+    Webster Plantation
+    Webster Plt
+    Weld
+    Wellington
+    Wells
+    Wesley
+    Wesley/Day Block Twp
+    West Bath
+    West Forks Plantation
+    West Forks Plt
+    West Gardiner
+    West Paris
+    Westbrook
+    Westfield
+    Westmanland
+    Weston
+    Weston/Bancroft Twp
+    Westport Island
+    Whitefield
+    Whiting
+    Whitneyville
+    Willimantic
+    Wilton
+    Wilton/Twps
+    Windham
+    Windsor
+    Winn
+    Winslow
+    Winter Harbor
+    Winterport
+    Winterville Plantation
+    Winterville Plt
+    Winthrop
+    Wiscasset
+    Woodland
+    Woodstock/Milton Twp
+    Woodville
+    Woolwich
+    Wyman Twp
+    Wyman Twp/Spring Lake Twp
+    YARMOUTH
+    YORK
+    Yarmouth
+    York
+------
+
