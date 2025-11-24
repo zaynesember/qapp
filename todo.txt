@@ -1,12 +1,9 @@
 QAPP TO DO
 
 - Distinguish between empty values reported from the data (which should appear as <EMPTY>) from cells in the QA report that actually just don't have anything to report which should be left empty rather than have <EMPTY> within them
-- Check for correct column ordering matching the Precinct Project README
-- Vote totaller to not duplicate if there is a TOTAL `mode`
-- Exclude "COUNTY TOTALS", "MACHINE COUNT" from duplicate check
 - Implement office mapping checks
 - Detect running mate appearing with presidential candidate (i.e. detect "AND", "&", " - ", "/")
-- Autofit text to width in excel report
+- Add option to run the legacy engine and have it be put within the state's output folder in a directory called legacy_report
 
 
 

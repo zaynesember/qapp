@@ -104,7 +104,20 @@ def run_qa(file_path: str | pathlib.Path) -> None:
         res = field_checks.validate_field_regexes(df)
         if isinstance(res, tuple) and len(res) == 2:
             summary, details = res
-            all_results["field_regex_checks"] = summary
+            # Flatten one level of nested check dicts so that per-column
+            # format checks (e.g., 'precinct_format' -> {"EXTRANEOUS...": {...}})
+            # appear as individual checks in the 'Field Regex Checks' sheet.
+            flat_summary: Dict[str, Any] = {}
+            for name, val in (summary or {}).items():
+                # If this value is a dict whose values are themselves dicts,
+                # promote inner checks to top-level with a compound name.
+                if isinstance(val, dict) and any(isinstance(x, dict) for x in val.values()):
+                    for inner_name, inner_val in val.items():
+                        flat_key = f"{name}::{inner_name}"
+                        flat_summary[flat_key] = inner_val
+                else:
+                    flat_summary[name] = val
+            all_results["field_regex_checks"] = flat_summary
             # Add any detail DataFrames as top-level results so report writes them as sheets
             for name, table in (details or {}).items():
                 if isinstance(table, pd.DataFrame):
@@ -145,6 +158,30 @@ def run_qa(file_path: str | pathlib.Path) -> None:
 
     logging.info("Running vote-distribution sanity checks...")
     all_results["distribution"] = stats_utils.vote_distribution_check(df)
+
+    # Office mapping checks
+    try:
+        logging.info("Running office mapping checks...")
+        from qa_core import office_checks
+        # Use the internal canonical set only (do not rely on help_files)
+        office_res = office_checks.validate_office_mappings(df)
+        # The report writer expects each section to be a dict of checks
+        # where each check is itself a dict with keys like 'issues' and
+        # 'issue_values'. Wrap the office mapping result under a single
+        # check name so it appears in the QA Summary like other checks.
+        all_results["office_mappings"] = {
+            "office_mapping_check": {
+                "issues": int(office_res.get("issues", 0) or 0),
+                "issue_values": office_res.get("issue_values", []),
+                "mapping_suggestions": office_res.get("mapping_suggestions", {}),
+                "unmatched_counts": office_res.get("unmatched_counts", {}),
+            }
+        }
+        # include sample rows as a DataFrame if present — no longer adding
+        # a separate `office_mapping_samples` sheet; detailed samples are
+        # available in mapping_suggestions and can be requested separately.
+    except Exception as e:
+        logging.warning(f"Office mapping checks failed: {e}")
 
     # ------------------------------------------------------------------
     # Missingness and Statewide Totals

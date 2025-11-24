@@ -64,6 +64,15 @@ def compute_statewide_totals(df: pd.DataFrame) -> pd.DataFrame:
         office_subset = subset.loc[subset["office_norm"] == office]
         if office_subset.empty:
             continue
+        # If the dataset contains explicit TOTAL-mode rows for this office,
+        # prefer using those rows for statewide totals rather than summing
+        # across all per-mode rows (which can cause duplicated totals).
+        office_subset = office_subset.copy()
+        if "mode" in office_subset.columns:
+            office_subset["mode_norm"] = office_subset["mode"].astype(str).str.strip().str.upper()
+            if (office_subset["mode_norm"] == "TOTAL").any():
+                office_subset = office_subset.loc[office_subset["mode_norm"] == "TOTAL"]
+
         group_cols = ["office", "candidate", "party_simplified"]
         if office == "US HOUSE" and "district" in office_subset.columns:
             group_cols.append("district")
@@ -98,23 +107,26 @@ from pathlib import Path
 import pandas as pd
 import warnings
 
-def export_unique_values(df: pd.DataFrame, output_dir: Path) -> None:
-    """
-    Export a strict summary of unique jurisdiction, county, and precinct counts.
-    All expected columns from the schema must be present.
-    """
-    # Deprecated: previously wrote individual txt exports. Keep function
-    # for compatibility but no longer write files. Use `build_unique_values_df`
-    # to generate a DataFrame usable by the Excel report writer.
-    warnings.warn("export_unique_values no longer writes files; use build_unique_values_df()")
+# Note: the previous `export_unique_values` function that wrote per-column
+# text files was intentionally removed. Unique-values exports are now
+# constructed in `qa_core/runner.py` and written into the Excel report as
+# the "Unique" sheet. If you relied on the old per-column txt files, update
+# your workflow to read the Excel `Unique` sheet or use `build_unique_values_df`.
 
 
 def build_unique_values_df(df: pd.DataFrame) -> pd.DataFrame:
-    """Return a DataFrame where each column is an original column name and
-    rows list the unique values observed for that column (one unique value
-    per cell). Columns are padded with empty strings to form a rectangular
-    DataFrame suitable for writing as an Excel sheet.
+    """Deprecated helper.
+
+    Historically this returned a rectangular DataFrame of unique column
+    values for per-column exports. Unique-values construction is now
+    performed in `qa_core/runner.py` when building the `unique_values`
+    DataFrame written to the Excel report. Callers should read the report's
+    `Unique` sheet instead of using this helper.
+
+    This function intentionally raises a `DeprecationWarning` to signal
+    that it is no longer supported.
     """
-    raise NotImplementedError("build_unique_values_df has been removed; unique-values sheet is built in the runner")
+    warnings.warn("build_unique_values_df is deprecated; unique-values are built in runner and written to the Excel report", DeprecationWarning)
+    raise NotImplementedError("build_unique_values_df is deprecated; build unique-values from the Excel report instead")
 
 

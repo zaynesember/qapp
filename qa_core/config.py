@@ -47,6 +47,7 @@ AGGREGATE_MARKERS = [
     "COUNTY TOTAL",
     "MACHINE COUNT",
     "TOTAL",
+    "TOTAL VOTES"
     "OVERVOTES",
     "UNDERVOTES",
     "VOID",

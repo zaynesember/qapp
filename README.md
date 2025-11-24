@@ -33,8 +33,10 @@ python -m qa_core.runner path/to/STATE_file.csv
    implausible values (MAD outlier detection in `stats_utils`).
 - FIPS & state validation: cross-checks `state_*` and `county_fips` values
    against canonical reference CSVs (in `help_files/`).
-- Reporting: produces a single Excel workbook (`report_<inputstem>.xlsx`),
-   flat CSV/text summaries, and a `unique_values/` export folder.
+- Reporting: produces a single Excel workbook (`report_<inputstem>.xlsx`) and
+   flat CSV/text summaries. Unique-values are written into the Excel report
+   on the `Unique` sheet (the previous per-column `unique_values/` text
+   exports are deprecated).
 
 ## Checks
 
@@ -43,7 +45,9 @@ Below are the checks that `qapp` produces in its QA report, with a brief explana
 - `columns`: Validates the presence and count of required columns in the dataset (compares to `qa_core.config.REQUIRED_COLUMNS`).
 - `fields`: High-level per-field checks that summarize issues for individual columns (missing required values, invalid categories, etc.). Each field entry contains `issues`, optional `issue_values`, and `issue_row_numbers`.
 - `field_formats`: Checks that column values match expected enumerated formats or allowed value lists (e.g., `party_simplified`, `mode`).
-- `field_regex_checks`: Regex-based validations for fields where pattern matching is helpful (implemented in `qa_core/field_checks.py`). Example checks include `votes`, `candidate`, and `magnitude` patterns.
+- `field_regex_checks`: Regex-based validations for fields where pattern matching is helpful (implemented in `qa_core/field_checks.py`). Example checks include `votes`, `candidate`, and `magnitude` patterns. Note: the `Field Regex Checks` sheet only lists checks that have one or more issues to improve readability.
+
+   New text-format checks added (2025): checks for extraneous leading/trailing whitespace, embedded newlines, multiple consecutive spaces, accented/Latin-extended letters, nonstandard symbols (outside a conservative ASCII punctuation set), and squished-initials in `candidate` values (e.g., `J.D.Vance`). These appear under per-column `*_format` checks and the `field_regex_checks` section when they have issues.
 - `missingness`: Per-column missingness summary. For each column returns `missing_count`, `percent_empty`, and `alt_missing_values` discovered during scanning. This data is written to a separate `Missingness` sheet in the Excel report.
 - `duplicates`: Identifies duplicated or conflicting rows (exact duplicates or rows that conflict on key identifiers). The detailed DataFrame lists the duplicated rows.
 - `zero_vote_precincts`: Groups by precinct/office (using available grouping columns such as `county_fips`, `jurisdiction_fips`, `precinct`, `office`, `district`) and reports precinct-office groups whose total `votes` sums to zero. Returned as a DataFrame and summarized in `fields` as `zero_vote_precinct_groups`.
@@ -74,8 +78,10 @@ Notes:
 - `qa_core/checks.py` — structural and field checks + duplicate detection.
 - `qa_core/stats_utils.py` — numeric and distributional checks (MAD‑based).
 - `qa_core/io_utils.py` — data loading utilities (CSV/TSV normalization).
-- `qa_core/data_summary.py` — missingness summary, `compute_statewide_totals`,
-   and `export_unique_values` (writes `unique_values/` per state).
+-- `qa_core/data_summary.py` — missingness summary and `compute_statewide_totals`.
+   Unique-values exports are now generated in the runner and written to the
+   `Unique` sheet in the Excel report; the old `export_unique_values` helper
+   and per-column txt exports are deprecated and have been removed.
 - `qa_core/report.py` — serializes `all_results` into text/csv and the Excel
    workbook.
 - `qa_core/config.py` — canonical `REQUIRED_COLUMNS`, thresholds, and

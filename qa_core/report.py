@@ -89,6 +89,42 @@ def _compact_problematic_values(row):
     return s
 
 
+def _condense_issue_values_row(row):
+    """General-purpose compression: collapse repeated tokens into 'value × n'.
+
+    Takes a row (pandas Series) with keys 'issue_values' (string) and
+    optionally 'issues' (int). Parses values using common delimiters and
+    returns a concise, ordered summary like 'A × 3, B, C × 2'.
+    """
+    import re
+    from collections import Counter
+
+    s = str(row.get("issue_values", "")).strip()
+    if not s:
+        return ""
+    # If already condensed (contains a multiplier and no commas), leave as-is
+    if "×" in s and "," not in s:
+        return s
+
+    # Split on common delimiters, keep tokens that are non-empty after strip
+    tokens = [t.strip() for t in re.split(r"[,;\n]+", s) if t.strip()]
+    if not tokens:
+        return ""
+    # Remove tokens that are purely ellipses or stray punctuation (e.g., '.' or '...')
+    tokens = [t for t in tokens if not re.fullmatch(r"\.*\s*", t)]
+    if not tokens:
+        return ""
+    counter = Counter(tokens)
+    # Order by frequency desc, then lexicographically for stability
+    parts = []
+    for token, count in sorted(counter.items(), key=lambda kv: (-kv[1], kv[0])):
+        if count > 1:
+            parts.append(f"{token} × {count}")
+        else:
+            parts.append(token)
+
+    return ", ".join(parts)
+
 def _compress_row_ranges(row_nums, limit=10):
     """Convert list of row numbers to '1, 3-5, 7, ...'."""
     if not row_nums:
@@ -107,6 +143,83 @@ def _compress_row_ranges(row_nums, limit=10):
     if len(ranges) > limit:
         ranges = ranges[:limit] + ["..."]
     return ", ".join(ranges)
+
+
+def _pretty_check_name(raw: str) -> str:
+    """Convert internal check identifiers into concise, human-friendly labels.
+
+    Examples:
+      - 'precinct_format::ODD_NUMBER_OF_SINGLE_QUOTES' ->
+           'Odd number of single quotes (Precinct)'
+      - 'candidate_regex::UNRECOGNIZED CHARACTERS' ->
+           'Unrecognized characters (Candidate)'
+      - 'zero_vote_rows' -> 'Zero vote rows'
+    """
+    import re
+    s = str(raw or "")
+    if not s:
+        return ""
+    # Split composite keys joined by '::'
+    parts = s.split("::")
+    # Determine the most specific label (last part) and an optional column/source
+    label_part = parts[-1]
+    source_part = None
+    # Try to detect a column from earlier parts (look for *_format or *_regex)
+    for p in parts[:-1]:
+        if p.endswith("_format"):
+            source_part = p[: -len("_format")]
+            break
+        if p.endswith("_regex"):
+            source_part = p[: -len("_regex")]
+            break
+        # common section names like 'candidate_running_mates' are useful as source
+        if p in ("candidate", "votes", "candidate_running_mates"):
+            source_part = p
+            break
+
+    # Clean label part: replace underscores with spaces, lower-case, and tidy spacing
+    lab = re.sub(r"[_]+", " ", label_part).strip()
+    lab = lab.strip()
+    # Normalize case: lowercase then capitalize first char
+    lab_norm = lab.lower().capitalize()
+    # If label contains parentheses or special markers, keep them but clean spacing
+    lab_norm = re.sub(r"\s+\(", " (", lab_norm)
+
+    if source_part:
+        col = source_part.replace("_", " ").title()
+        return f"{lab_norm} ({col})"
+
+    # Fallback: if the original name is snake_case, make it human
+    if "_" in s and "::" not in s:
+        return s.replace("_", " ").capitalize()
+    return lab_norm
+
+
+def _extract_variables_from_check(raw: str) -> str:
+    """Attempt to infer which dataset variables/columns a given check refers to.
+
+    This is a best-effort parser that looks for prefixes like
+    '<column>_format', '<column>_missing', or composite keys joined by
+    '::'. Returns a human-friendly, comma-separated short list or an
+    empty string when nothing obvious can be inferred.
+    """
+    if not raw:
+        return ""
+    s = str(raw)
+    # Composite keys like 'candidate_format::ODD_...' or 'candidate::SOMETHING'
+    if "::" in s:
+        first = s.split("::", 1)[0]
+    else:
+        first = s
+    # If something like '<col>_format' or '<col>_missing'
+    for suffix in ("_format", "_regex", "_missing", "_invalid", "_rows"):
+        if first.endswith(suffix):
+            return first[: -len(suffix)].replace("_", " ").title()
+    # If underscore-separated, and looks like a single column name, return it
+    if "_" in first and len(first.split("_")) <= 3:
+        return first.replace("_", " ").title()
+    # If camel or plain single token, return title-cased
+    return first.replace("_", " ").title()
 
 
 # ---------------------------------------------------------------------
@@ -139,13 +252,17 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                     if "missingness" in results and col in results["missingness"]:
                         continue
 
-                issue_values = "" if check in ("exact_duplicates", "all_but_votes_duplicate") else _flatten(v.get("issue_values", ""))
+                # Use explicit '<EMPTY>' marker for issue values so that
+                # repeated empty values can be compressed into '<EMPTY> × n'.
+                issue_values = "" if check in ("exact_duplicates", "all_but_votes_duplicate") else _flatten(v.get("issue_values", ""), show_empty_marker=True)
                 rows.append({
                     "section": section,
                     "check": check,
                     "issues": int(v.get("issues", 0) or 0),
                     "issue_values": issue_values,
                     "issue_row_numbers": _flatten(v.get("issue_row_numbers", "")),
+                    # Best-effort variables/columns this check targets
+                    "variables": _extract_variables_from_check(check),
                 })
 
         # Add duplicates summary rows if not yet included
@@ -167,14 +284,14 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         # Remove redundant field-level duplicate check
         rows = [r for r in rows if not (r["section"] == "fields" and r["check"] == "exact_duplicates")]
 
-        df = pd.DataFrame(rows, columns=["section", "check", "issues", "issue_values", "issue_row_numbers"])
+        df = pd.DataFrame(rows, columns=["section", "check", "issues", "issue_values", "issue_row_numbers", "variables"])
         df["issues"] = df["issues"].fillna(0).astype(int)
-        df["issue_values"] = df["issue_values"].fillna("").replace("<EMPTY>", "")
+        # Preserve '<EMPTY>' markers here so compression logic can convert
+        # repeated empty entries into '<EMPTY> × n'. Do not strip the marker.
+        df["issue_values"] = df["issue_values"].fillna("")
         df["issue_row_numbers"] = df["issue_row_numbers"].fillna("<EMPTY>").replace("", "<EMPTY>")
-        df["issue_values"] = df.apply(_compress_issue_values_row, axis=1)
-
-        # Apply concise value × n syntax across all relevant sections
-        df["issue_values"] = df.apply(_compact_problematic_values, axis=1)
+        # Apply general compression: collapse repeated tokens into 'value × n'
+        df["issue_values"] = df.apply(_condense_issue_values_row, axis=1)
 
         # Compact row numbers
         def _safe_parse_rows(val):
@@ -190,10 +307,11 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         # Rename headers for readability
         df = df.rename(columns={
             "section": "QA Section",
-            "check": "Check Name",
+            "check": "Check",
             "issues": "Issues Found",
             "issue_values": "Problematic Values",
-            "issue_row_numbers": "Row Numbers"
+            "issue_row_numbers": "Row Numbers",
+            "variables": "Variables",
         })
 
         failed_checks = (df["Issues Found"] > 0).sum()
@@ -212,6 +330,7 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         # Gather failed checks names from all dict-based sections
         # Group failed checks by section so we show one line per section
         failed_by_section: dict[str, list[str]] = {}
+        merge_sections = {"fields", "field_formats", "field_regex_checks"}
         for section, content in results.items():
             if isinstance(content, dict):
                 for check, v in content.items():
@@ -220,7 +339,12 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                     except Exception:
                         issues = 0
                     if issues > 0:
-                        failed_by_section.setdefault(section, []).append(check)
+                        # Map merged field-level sections into a single 'Field Checks' group
+                        pretty = _pretty_check_name(check)
+                        if section in merge_sections:
+                            failed_by_section.setdefault("Field Checks", []).append(pretty)
+                        else:
+                            failed_by_section.setdefault(section, []).append(pretty)
 
         # Count total failed checks
         failed_checks = sum(len(v) for v in failed_by_section.values())
@@ -246,35 +370,55 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         else:
             grouped = ""
 
-        meta_items.append(["Failed Check Names", grouped])
-
+        # Note: detailed failed-checks list is written separately into the
+        # QA Summary sheet (see below) to keep the overview compact.
         meta_df = pd.DataFrame(meta_items, columns=["Info", "Value"])
 
-        # Write top metadata
-        state_banner.to_excel(writer, index=False, sheet_name="QA Summary", startrow=0)
-        banner_end = len(state_banner) + 2
-        meta_df.to_excel(writer, index=False, sheet_name="QA Summary", startrow=banner_end)
+        # Combine state banner and meta into one concise overview table
+        overview_df = pd.concat([state_banner, meta_df], ignore_index=True)
+
+        # Build a vertical list of failed checks (one per row) with separate
+        # 'Section' and 'Check' columns for readability. We'll link Section
+        # entries to their corresponding sheets below.
+        failed_rows = []
+        for sec, checks in failed_by_section.items():
+            for chk in checks:
+                failed_rows.append({"Section": sec, "Check": chk})
+        failed_df = pd.DataFrame(failed_rows) if failed_rows else pd.DataFrame({"Section": [], "Check": []})
+
+        # Reserve columns: TOC (left), Overview (middle), Failed Checks (right)
+        toc_col = 0
+        summary_col = 3
+        failed_col = summary_col + 4
+
+        # Write overview and failed-checks into the QA Summary sheet
+        overview_df.to_excel(writer, index=False, sheet_name="QA Summary", startrow=0, startcol=summary_col)
+        failed_df.to_excel(writer, index=False, sheet_name="QA Summary", startrow=0, startcol=failed_col)
 
         wb = writer.book
         ws = writer.sheets["QA Summary"]
 
         header_fmt = wb.add_format({"bold": True, "bg_color": "#D9E1F2", "text_wrap": True})
         wrap_fmt = wb.add_format({"text_wrap": True})
-        ws.set_column("A:A", 28)
-        ws.set_column("B:B", 60, wrap_fmt)
+        try:
+            ws.set_column(toc_col, toc_col, 28)
+            ws.set_column(summary_col, summary_col + 1, 40, wrap_fmt)
+            ws.set_column(failed_col, failed_col + 1, 40, wrap_fmt)
+        except Exception:
+            pass
 
-        # Highlight failed checks cell if > 0
+        # Highlight failed checks count cell inside overview (if present)
         try:
             failed_checks_val = int(failed_checks)
         except Exception:
             failed_checks_val = 0
         if failed_checks_val > 0:
             fail_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#FFC7CE", "bold": True})
-            # locate the row index for the "Failed Checks" entry in meta_items
-            idx_failed = next((i for i, item in enumerate(meta_items) if item[0] == "Failed Checks"), None)
-            if idx_failed is not None:
-                excel_failed_row = banner_end + 1 + idx_failed
-                ws.write(excel_failed_row, 1, str(failed_checks_val), fail_fmt)
+            try:
+                idx_failed = int(overview_df.index[overview_df["Info"] == "Failed Checks"].tolist()[0])
+                ws.write(1 + idx_failed, summary_col + 1, str(failed_checks_val), fail_fmt)
+            except Exception:
+                pass
 
         # Highlight columns mismatch against expected count from config if available
         from qa_core import config as _config
@@ -283,14 +427,13 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             actual_cols = int(dataset_info.get("columns", 0)) if dataset_info else 0
             if actual_cols != expected_cols:
                 col_fmt = wb.add_format({"font_color": "#9C0006", "bg_color": "#FFC7CE", "bold": True})
-                idx_cols = next((i for i, item in enumerate(meta_items) if item[0] == "Columns"), None)
-                if idx_cols is not None:
-                    excel_columns_row = banner_end + 1 + idx_cols
-                    ws.write(excel_columns_row, 1, str(actual_cols), col_fmt)
+                try:
+                    idx_cols = int(overview_df.index[overview_df["Info"] == "Columns"].tolist()[0])
+                    ws.write(1 + idx_cols, summary_col + 1, str(actual_cols), col_fmt)
+                except Exception:
+                    pass
         except Exception:
             pass
-
-        ws.freeze_panes(banner_end + 1, 0)
 
         # --- Extra sheets ---
         name_map = {
@@ -313,23 +456,172 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             ws = writer.sheets.get(sheet_name)
             if ws is None:
                 return
-            # Basic formats
+            wb = writer.book
             wrap_fmt = wb.add_format({"text_wrap": True})
-            min_w, max_w = 12, 60
+            # sensible min/max bounds (chars)
+            min_w, max_w = 8, 80
             for i, col in enumerate(df_table.columns):
-                # Compute max length from header and column values
+                # Compute max length from header and column values, accounting
+                # for multi-line cells — measure the longest line.
                 try:
                     vals = df_table[col].astype(str).fillna("").tolist()
                 except Exception:
                     vals = [str(x) for x in df_table[col].tolist()]
-                max_len = max([len(str(col))] + [len(v) for v in vals])
-                # heuristic scaling
-                width = min(max(max_len * 1.1, min_w), max_w)
-                # set column (xlsxwriter uses 0-based indexes into letters)
-                ws.set_column(i, i, width, wrap_fmt)
+                max_len = len(str(col))
+                wrap_needed = False
+                for v in vals:
+                    if not v:
+                        continue
+                    # consider multi-line cells
+                    parts = str(v).splitlines()
+                    for p in parts:
+                        l = len(p)
+                        if l > max_len:
+                            max_len = l
+                    if len(parts) > 1:
+                        wrap_needed = True
+
+                # Heuristic: shrink numeric-looking columns slightly
+                is_numeric = False
+                try:
+                    series = df_table[col]
+                    if pd.api.types.is_numeric_dtype(series):
+                        is_numeric = True
+                    else:
+                        non_empty = [x for x in vals if x.strip()]
+                        if non_empty:
+                            digit_like = sum(1 for x in non_empty if str(x).replace('.', '', 1).replace('-', '', 1).isdigit())
+                            if digit_like / len(non_empty) > 0.9:
+                                is_numeric = True
+                except Exception:
+                    is_numeric = False
+
+                # Add a small cushion and clamp
+                cushion = 2 if is_numeric else 4
+                width = min(max(max_len + cushion, min_w), max_w)
+                # Apply wrap format if any cell contains newlines or the text is long
+                fmt = wrap_fmt if wrap_needed or width > 30 else None
+                # set column (xlsxwriter set_column takes first_col, last_col, width, cell_format)
+                try:
+                    if fmt is not None:
+                        ws.set_column(i, i, width, fmt)
+                    else:
+                        ws.set_column(i, i, width)
+                except Exception:
+                    # fall back to a safe fixed width
+                    try:
+                        ws.set_column(i, i, min(40, max(width, 12)))
+                    except Exception:
+                        pass
 
         # Build list of DataFrame sheets to write (including Missingness as its own sheet)
         df_sheets: list[tuple[str, pd.DataFrame]] = []
+
+        # Merge field-level sections into a single sheet for clarity.
+        # Combine `fields`, `field_formats`, and `field_regex_checks` into
+        # one compact `Field Checks` sheet containing only checks with
+        # issues (>0). When multiple sections report the same `Check Name`,
+        # keep the entry with the largest `Issues Found` to avoid redundancy.
+        merged_field_rows = []
+        for merge_section in ("fields", "field_formats", "field_regex_checks"):
+            content = results.get(merge_section, {})
+            if not isinstance(content, dict):
+                continue
+            for check, v in content.items():
+                if not isinstance(v, dict):
+                    continue
+                # Skip missingness rows coming from field_formats (we have a Missingness sheet)
+                if merge_section == "field_formats" and isinstance(check, str) and check.endswith("_missing"):
+                    continue
+                try:
+                    issues = int(v.get("issues", 0) or 0)
+                except Exception:
+                    issues = 0
+                # Only include checks that actually found issues
+                if issues <= 0:
+                    continue
+                issue_values = _flatten(v.get("issue_values", ""), show_empty_marker=True)
+                merged_field_rows.append({
+                    "Section": merge_section,
+                    "Check Name": check,
+                    "Issues Found": issues,
+                    "Problematic Values": issue_values,
+                    "Row Numbers": _flatten(v.get("issue_row_numbers", "")),
+                    "variables": _extract_variables_from_check(check),
+                })
+
+        if merged_field_rows:
+            merged_df = pd.DataFrame(merged_field_rows)
+            # Convert internal check identifiers to concise human-friendly labels
+            try:
+                if "Check Name" in merged_df.columns:
+                    merged_df["Check"] = merged_df["Check Name"].apply(lambda x: _pretty_check_name(x) if isinstance(x, str) else _pretty_check_name(str(x)))
+                    merged_df = merged_df.drop(columns=["Check Name"])
+                # Drop the now-redundant Section column to keep the sheet compact
+                if "Section" in merged_df.columns:
+                    merged_df = merged_df.drop(columns=["Section"])
+                # Expose inferred variables column with a friendly header
+                if "variables" in merged_df.columns:
+                    merged_df = merged_df.rename(columns={"variables": "Variables"})
+            except Exception:
+                # If anything goes wrong, fall back to the original names
+                pass
+            # Attempt to collapse highly-overlapping checks (likely duplicates)
+            try:
+                def _parse_rows(val):
+                    if not val or val in ("<EMPTY>", ""):
+                        return set()
+                    parts = [p.strip() for p in str(val).replace('...', '').split(',') if p.strip()]
+                    nums = set()
+                    for p in parts:
+                        if '-' in p:
+                            try:
+                                a, b = p.split('-', 1)
+                                a = int(a); b = int(b)
+                                nums.update(range(a, b+1))
+                            except Exception:
+                                continue
+                        else:
+                            try:
+                                nums.add(int(p))
+                            except Exception:
+                                continue
+                    return nums
+
+                merged_df = merged_df.sort_values("Issues Found", ascending=False).reset_index(drop=True)
+                remove_idx = set()
+                row_sets = [ _parse_rows(r) for r in merged_df['Row Numbers'].tolist() ]
+                for i in range(len(merged_df)):
+                    if i in remove_idx:
+                        continue
+                    si = row_sets[i]
+                    if not si:
+                        continue
+                    for j in range(i+1, len(merged_df)):
+                        if j in remove_idx:
+                            continue
+                        sj = row_sets[j]
+                        if not sj:
+                            continue
+                        inter = si & sj
+                        if not inter:
+                            continue
+                        # If overlap covers at least half of the smaller set, treat as duplicate
+                        if len(inter) >= 0.5 * min(len(si), len(sj)):
+                            # remove the one with fewer issues (j will have <= because of sort)
+                            remove_idx.add(j)
+                if remove_idx:
+                    merged_df = merged_df.drop(index=list(remove_idx)).reset_index(drop=True)
+                # Final de-dup by check name keep highest-issue version
+                merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=["Check Name"], keep="first").reset_index(drop=True)
+            except Exception:
+                # Fall back to simple dedupe
+                try:
+                    merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=["Check Name"], keep="first").reset_index(drop=True)
+                except Exception:
+                    pass
+            # Friendly sheet name
+            df_sheets.append(("Field Checks", merged_df))
 
         # Convert missingness dict into a DataFrame sheet if present
         if "missingness" in results and isinstance(results["missingness"], dict):
@@ -349,25 +641,70 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             df_sheets.append(("Missingness", miss_df))
 
         # Convert dict-based sections (that are not DataFrames) into sheets
+        # Skip sections already merged into the `Field Checks` sheet.
+        merge_sections = {"fields", "field_formats", "field_regex_checks"}
         for section, content in results.items():
+            if section in merge_sections:
+                continue
             if section in {"duplicates_summary", "missingness", "dataset_info"}:
                 continue
             if isinstance(content, dict):
-                # Build a DataFrame of checks for this section
+                # Special-case office_mappings: render one row per problematic
+                # observed office with suggested mapping and score for clarity.
+                if section == "office_mappings":
+                    rows_sec = []
+                    for check, v in content.items():
+                        if not isinstance(v, dict):
+                            continue
+                        mapping_suggestions = v.get("mapping_suggestions", {}) or {}
+                        unmatched_counts = v.get("unmatched_counts", {}) or {}
+                        # Build one row per observed unmatched office
+                        for obs, sug in mapping_suggestions.items():
+                            rows_sec.append({
+                                "Observed Office": obs,
+                                "Count": int(unmatched_counts.get(obs, 0) or 0),
+                                "Suggested Mapping": sug.get("suggested", ""),
+                            })
+                    if rows_sec:
+                        sec_name = name_map.get(section, section.replace("_", " ").title())[:31]
+                        df_sheets.append((sec_name, pd.DataFrame(rows_sec)))
+                    continue
+                # Generic handling: Build a DataFrame of checks for this section
                 rows_sec = []
                 for check, v in content.items():
                     if not isinstance(v, dict):
                         continue
-                    issue_values = _flatten(v.get("issue_values", ""))
+                    # Skip checks with zero issues for the large field_regex_checks
+                    if section == "field_regex_checks":
+                        try:
+                            if int(v.get("issues", 0) or 0) == 0:
+                                continue
+                        except Exception:
+                            pass
+                    # For field_formats, skip any missingness rows (we have a
+                    # dedicated Missingness sheet)
+                    if section == "field_formats" and isinstance(check, str) and check.endswith("_missing"):
+                        continue
+                    # Preserve explicit '<EMPTY>' markers for problematic values
+                    # so they can be compressed into '<EMPTY> × n' in the sheet.
+                    issue_values = _flatten(v.get("issue_values", ""), show_empty_marker=True)
                     rows_sec.append({
-                        "Check Name": check,
+                        "Check": _pretty_check_name(check),
+                        "Variables": _extract_variables_from_check(check),
                         "Issues Found": int(v.get("issues", 0) or 0),
                         "Problematic Values": issue_values,
                         "Row Numbers": _flatten(v.get("issue_row_numbers", "")),
                     })
                 if rows_sec:
                     sec_name = name_map.get(section, section.replace("_", " ").title())[:31]
-                    df_sheets.append((sec_name, pd.DataFrame(rows_sec)))
+                    df_table = pd.DataFrame(rows_sec)
+                    # Show checks with issues at the top to aid triage
+                    if "Issues Found" in df_table.columns:
+                        try:
+                            df_table = df_table.sort_values("Issues Found", ascending=False).reset_index(drop=True)
+                        except Exception:
+                            pass
+                    df_sheets.append((sec_name, df_table))
                 continue
             # If the section already contains a DataFrame, write it as-is
             if isinstance(content, pd.DataFrame) and not content.empty:
@@ -377,31 +714,103 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         # Write DataFrame sheets in alphabetical order
         df_sheets.sort(key=lambda x: x[0].lower())
 
-        # --- Table of Contents on QA Summary ---
+        # --- Table of Contents on QA Summary (left) ---
+        toc_col = 0
         try:
-            toc_start = banner_end + len(meta_items) + 2
-            ws.write(toc_start, 0, "Table of Contents", header_fmt)
+            ws.write(0, toc_col, "Table of Contents", header_fmt)
             link_fmt = wb.add_format({"font_color": "#0563C1", "underline": True})
-            # list each sheet with hyperlink and a short shape description
-            row_idx = toc_start + 1
+            row_idx = 1
             for name, table in df_sheets:
                 sheet_name = name[:31]
-                # skip if somehow the name is the QA Summary itself
+                # Do not include the 'Failed Checks' table (it's embedded in QA Summary)
                 if sheet_name == "QA Summary":
                     continue
-                # internal hyperlink to sheet's A1 (no size/shape column)
                 url = f"internal:'{sheet_name}'!A1"
-                ws.write_url(row_idx, 0, url, link_fmt, sheet_name)
+                ws.write_url(row_idx, toc_col, url, link_fmt, sheet_name)
                 row_idx += 1
         except Exception:
             pass
-        for name, table in df_sheets:
+        # After constructing df_sheets, link the QA Summary 'Section' entries
+        # in the failed-checks table to their corresponding sheets.
+        try:
+            # Determine the starting column where we wrote the failed_df
+            # (must match the values used above when writing overview/failed_df)
+            summary_col = 3
+            failed_col = summary_col + 4
+            failed_startrow = 0
+            # Write hyperlinks into the Section column for each failed-check row
+            if not failed_df.empty:
+                # map section label to sheet name used in df_sheets/name_map
+                sheet_name_map = {}
+                for name, _ in df_sheets:
+                    sheet_name_map[name] = name
+                for r_idx, row in failed_df.iterrows():
+                    sec_label = str(row.get("Section", ""))
+                    # Map 'Field Checks' directly; otherwise use name_map fallback
+                    if sec_label == "Field Checks":
+                        target = "Field Checks"
+                    else:
+                        target = name_map.get(sec_label, sec_label)
+                    target = str(target)[:31]
+                    try:
+                        cell_row = failed_startrow + 1 + int(r_idx)
+                        url = f"internal:'{target}'!A1"
+                        ws.write_url(cell_row, failed_col, url, link_fmt, target)
+                    except Exception:
+                        # If hyperlinking fails, leave plain text
+                        try:
+                            ws.write(cell_row, failed_col, sec_label)
+                        except Exception:
+                            pass
+        except Exception:
+            pass
+
+        # Before writing, condense repeated problematic values in each sheet
+        for i, (name, table) in enumerate(df_sheets):
+            # operate on a copy to avoid side effects
+            table = table.copy()
+            if 'Problematic Values' in table.columns:
+                try:
+                    table['Problematic Values'] = table.apply(
+                        lambda r: _condense_issue_values_row({
+                            'issue_values': r.get('Problematic Values', ''),
+                            'issues': int(r.get('Issues Found', 0) or 0)
+                        }),
+                        axis=1
+                    )
+                except Exception:
+                    pass
+                # If a check reports zero issues, leave the problematic-values
+                # cell blank (do not show '<EMPTY>' which indicates a real
+                # missing value in the dataset).
+                try:
+                    if 'Issues Found' in table.columns:
+                        table.loc[table['Issues Found'] == 0, 'Problematic Values'] = ""
+                except Exception:
+                    pass
+            if 'issue_values' in table.columns:
+                try:
+                    table['issue_values'] = table.apply(
+                        lambda r: _condense_issue_values_row({
+                            'issue_values': r.get('issue_values', ''),
+                            'issues': int(r.get('issues', 0) or 0)
+                        }),
+                        axis=1
+                    )
+                except Exception:
+                    pass
+                try:
+                    if 'issues' in table.columns:
+                        table.loc[table['issues'] == 0, 'issue_values'] = ""
+                except Exception:
+                    pass
+
             sheet_name = name[:31]
             table.to_excel(writer, index=False, sheet_name=sheet_name)
             _autosize_sheet(sheet_name, table)
-            # Freeze header row for the Unique Values sheet for easier browsing
+            # Freeze header row for the Unique sheet for easier browsing
             try:
-                if sheet_name == "Unique Values":
+                if sheet_name in ("Unique", "Unique Values"):
                     ws_uv = writer.sheets.get(sheet_name)
                     if ws_uv is not None:
                         ws_uv.freeze_panes(1, 0)
