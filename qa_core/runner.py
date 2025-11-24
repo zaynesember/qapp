@@ -57,7 +57,6 @@ def run_qa(file_path: str | pathlib.Path) -> None:
 
     # ------------------------------------------------------------------
     # Load dataset
-    # ------------------------------------------------------------------
     try:
         df = io_utils.load_data(file_path)
     except Exception as e:
@@ -68,8 +67,6 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     # Prepare original/ordered column lists and enforce canonical ordering when possible
     try:
         original_cols = list(df.columns)
-        # Desired canonical order: required columns first (in config.REQUIRED_COLUMNS),
-        # then any extra columns in their original order.
         canonical_present = [c for c in config.REQUIRED_COLUMNS if c in df.columns]
         extras = [c for c in original_cols if c not in config.REQUIRED_COLUMNS]
         ordered_cols = canonical_present + extras
@@ -88,69 +85,45 @@ def run_qa(file_path: str | pathlib.Path) -> None:
             "note": "Columns reordered to place REQUIRED_COLUMNS first"
         }
     except Exception:
-        # already logged earlier if computing failed
         pass
 
     # ------------------------------------------------------------------
-    # Core QA checks
-    # ------------------------------------------------------------------
-    logging.info("Running structural and field-level checks...")
-    all_results["columns"] = checks.check_columns(df)
-    all_results["fields"] = checks.check_fields(df)
-    all_results["field_formats"] = check_field_formats.validate_field_patterns(df)
-    # Extended regex-based field checks (port of core legacy rules)
-    try:
-        logging.info("Running regex-based field checks...")
-        res = field_checks.validate_field_regexes(df)
-        if isinstance(res, tuple) and len(res) == 2:
-            summary, details = res
-            # Flatten one level of nested check dicts so that per-column
-            # format checks (e.g., 'precinct_format' -> {"EXTRANEOUS...": {...}})
-            # appear as individual checks in the 'Field Regex Checks' sheet.
-            flat_summary: Dict[str, Any] = {}
-            for name, val in (summary or {}).items():
-                # If this value is a dict whose values are themselves dicts,
-                # promote inner checks to top-level with a compound name.
-                if isinstance(val, dict) and any(isinstance(x, dict) for x in val.values()):
-                    for inner_name, inner_val in val.items():
-                        flat_key = f"{name}::{inner_name}"
-                        flat_summary[flat_key] = inner_val
-                else:
-                    flat_summary[name] = val
-            all_results["field_regex_checks"] = flat_summary
-            # Add any detail DataFrames as top-level results so report writes them as sheets
-            for name, table in (details or {}).items():
-                if isinstance(table, pd.DataFrame):
-                    all_results[name] = table
-        else:
-            all_results["field_regex_checks"] = res
-    except Exception as e:
-        logging.warning(f"Field regex checks failed: {e}")
-
-    # ------------------------------------------------------------------
-    # FIPS Validation
-    # ------------------------------------------------------------------
     help_dir = pathlib.Path(__file__).resolve().parent.parent / "help_files"
-    if help_dir.exists():
-        logging.info("Running FIPS/state validation checks...")
-        state_ref = pd.read_csv(help_dir / "merge_on_statecodes.csv", dtype=str)
-        detected_state = check_fips.detect_state_from_filename(file_path, state_ref)
-        all_results["detected_state"] = detected_state
-        all_results["fips_checks"] = check_fips.run_fips_checks(df, help_dir, file_path)
-        # Surface dataset-level state_po mismatch into the top-level dataset_info
-        try:
-            ds_summary = all_results["fips_checks"].get("state_po_dataset_summary", {})
-            if ds_summary.get("dataset_state_mismatch"):
-                # Flag for QA Summary and include dominant state for context
-                all_results.setdefault("dataset_info", {})["state_po_dataset_mismatch"] = True
-                all_results.setdefault("dataset_info", {})["dominant_state_po"] = ds_summary.get("dominant_state_po")
-                all_results.setdefault("dataset_info", {})["dominant_share"] = ds_summary.get("dominant_share")
-        except Exception:
-            pass
-    else:
-        logging.warning("Help files directory not found; skipping FIPS validation.")
+    # Attempt to detect state from the filename using the reference table
+    try:
+        state_ref, _ = check_fips.load_reference_files(help_dir)
+        detected = check_fips.detect_state_from_filename(file_path, state_ref)
+        if detected:
+            all_results['detected_state'] = detected
+            logging.info(f"Detected state from filename: {detected.get('state_po')} - {detected.get('state_name')}")
+        else:
+            logging.info("No state detected from filename using reference files.")
+    except Exception as e:
+        logging.warning(f"Failed to detect state from filename: {e}")
 
-    # ------------------------------------------------------------------
+    # Run structural and field-level checks so they appear in the report
+    try:
+        logging.info("Running column and field checks...")
+        all_results["columns"] = checks.check_columns(df)
+        all_results["fields"] = checks.check_fields(df)
+    except Exception as e:
+        logging.warning(f"Column/field checks failed: {e}")
+
+    # Field-format validations (enumerated sets, missing vs invalid)
+    try:
+        logging.info("Running field-format validations...")
+        all_results["field_formats"] = check_field_formats.validate_field_patterns(df)
+    except Exception as e:
+        logging.warning(f"Field format checks failed: {e}")
+
+    # Run FIPS/state identifier checks (state codes)
+    try:
+        logging.info("Running state/FIPS checks...")
+        fips_res = check_fips.run_fips_checks(df, help_dir, file_path)
+        # place under 'state_codes' which the report prefers
+        all_results["state_codes"] = fips_res
+    except Exception as e:
+        logging.warning(f"State/FIPS checks failed: {e}")
     # Numerical and Distribution Checks
     # ------------------------------------------------------------------
     logging.info("Running numeric consistency checks...")
@@ -219,6 +192,225 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     totals = data_summary.compute_statewide_totals(df)
     if not totals.empty:
         all_results["statewide_totals"] = totals
+
+    # Compare aggregated totals to state-level reference files (president/senate)
+    try:
+        if (help_dir.exists() and 'statewide_totals' in all_results):
+            # Ensure the specific state-level reference files exist; if none are present,
+            # warn and skip the president/senate comparisons entirely.
+            required_files = ["2024-president-state.csv", "2024-senate-state.csv"]
+            missing = [f for f in required_files if not (help_dir / f).exists()]
+            if len(missing) == len(required_files):
+                logging.warning("State-level totals files not found in help_files; skipping President and Senate comparisons.")
+            else:
+                if missing:
+                    logging.warning(f"State-level totals missing for: {', '.join(missing)}; will skip those files.")
+                logging.info("Comparing aggregated statewide totals to help_files references...")
+                try:
+                    compare_results = stats_utils.compare_with_state_level(all_results['statewide_totals'], help_dir, all_results.get('detected_state'))
+                    # Place the summary of these checks into a single section for the report
+                    all_results['statewide_totals_checks'] = {}
+                    for k, v in compare_results.items():
+                        # v is expected to be a dict with 'issues', 'issue_values', maybe 'details_df'
+                        if isinstance(v, dict):
+                            # Copy summary fields into the existing 'fields' section so
+                            # it appears in the QA Summary but does not create a new sheet.
+                            summary = {
+                                'issues': int(v.get('issues', 0) or 0),
+                                'issue_values': v.get('issue_values', []),
+                                'issue_row_numbers': v.get('issue_row_numbers', []),
+                                'note': v.get('note', None),
+                            }
+                            all_results.setdefault('fields', {})[k] = summary
+                            # If a details DataFrame was returned, collect it to merge
+                            if isinstance(v.get('details_df'), pd.DataFrame):
+                                # collect all office comparison details to merge
+                                all_results.setdefault('_statewide_comparisons_tmp', []).append(v.get('details_df'))
+                        else:
+                            # Non-dict result: log as a note under 'fields'
+                            all_results.setdefault('fields', {})[k] = {'issues': 0, 'note': str(v)}
+                except Exception as e:
+                    logging.warning(f"State-level totals comparison failed: {e}")
+            # If we collected any comparison details, concatenate and merge
+            try:
+                comp_list = all_results.pop('_statewide_comparisons_tmp', [])
+                if comp_list:
+                    comp_df = pd.concat(comp_list, ignore_index=True, sort=False)
+                    # Ensure we have the main totals DataFrame to merge into
+                    totals_df = all_results.get('statewide_totals')
+                    try:
+                        if isinstance(totals_df, pd.DataFrame) and not totals_df.empty:
+                            # Make a defensive copy
+                            totals_df = totals_df.copy()
+
+                            # Ensure aggregated dataset vote column exists for merging/inspection
+                            if 'dataset_votes' not in totals_df.columns and 'votes' in totals_df.columns:
+                                try:
+                                    totals_df['dataset_votes'] = pd.to_numeric(totals_df['votes'], errors='coerce').fillna(0).astype(int)
+                                except Exception:
+                                    totals_df['dataset_votes'] = totals_df['votes']
+
+                            # Local name-normalization to match stats_utils behavior: remove parentheses,
+                            # strip periods, split on conjunctions (&, AND, /), handle 'LAST, FIRST' ordering,
+                            # and produce 'FIRST LAST' key (uppercased). This mirrors the compare helper.
+                            import re
+                            def _name_key(s):
+                                try:
+                                    s0 = str(s).strip()
+                                    if not s0:
+                                        return ""
+                                    s0 = re.sub(r"\(.*?\)", "", s0)
+                                    s0 = s0.replace('.', '')
+                                    s0 = re.split(r"\s*(?:&|AND|/)\s*", s0, flags=re.IGNORECASE)[0].strip()
+                                    if "," in s0:
+                                        parts = [p.strip() for p in s0.split(",")]
+                                        last = parts[0]
+                                        first_parts = parts[1].split()
+                                        first = first_parts[0] if first_parts else ""
+                                        return (first + " " + last).strip().upper()
+                                    tokens = [t for t in s0.split() if t]
+                                    if len(tokens) == 1:
+                                        return tokens[0].upper()
+                                    return (tokens[0] + " " + tokens[-1]).upper()
+                                except Exception:
+                                    return str(s).strip().upper()
+
+                            # Compute normalized keys on totals
+                            totals_df['candidate_norm'] = totals_df.get('candidate_norm', totals_df.get('candidate', '')).apply(_name_key)
+                            totals_df['office_norm'] = totals_df.get('office_norm', totals_df.get('office', '')).astype(str).str.strip().str.upper()
+
+                            # Aggregate totals by normalized keys so variants like 'KAMALA D HARRIS' and
+                            # 'KAMALA HARRIS' collapse into a single canonical row per candidate_norm
+                            group_cols = ['office_norm', 'candidate_norm']
+                            agg_fields = {}
+                            # keep a representative office string
+                            agg_fields['office'] = 'first'
+                            # sum votes/dataset_votes
+                            agg_fields['votes'] = 'sum'
+                            agg_fields['dataset_votes'] = 'sum'
+                            # preserve a representative candidate and party
+                            agg_fields['candidate'] = 'first'
+                            if 'party_simplified' in totals_df.columns:
+                                agg_fields['party_simplified'] = 'first'
+                            if 'district' in totals_df.columns:
+                                agg_fields['district'] = 'first'
+
+                            totals_agg = totals_df.groupby(group_cols, dropna=False).agg(agg_fields).reset_index()
+                            # Ensure dataset_votes is integer-like
+                            try:
+                                totals_agg['dataset_votes'] = pd.to_numeric(totals_agg['dataset_votes'], errors='coerce').fillna(0).astype(int)
+                            except Exception:
+                                pass
+
+                            # Ensure comp_df has normalized keys too; if not present, compute from the candidate column
+                            if 'candidate_norm' not in comp_df.columns or comp_df['candidate_norm'].isnull().all():
+                                comp_df['candidate_norm'] = comp_df.get('candidate', '').apply(_name_key)
+                            else:
+                                comp_df['candidate_norm'] = comp_df['candidate_norm'].astype(str).str.strip().str.upper()
+
+                            # Compute or infer office_norm for comp_df. If the details DataFrame
+                            # omitted the 'office' column, try to infer office_norm by mapping
+                            # candidate_norm → office_norm from the aggregated totals.
+                            if 'office' in comp_df.columns:
+                                comp_df['office_norm'] = comp_df.get('office_norm', comp_df.get('office', '')).astype(str).str.strip().str.upper()
+                            else:
+                                # build mapping from totals_agg (computed below) after we have it
+                                comp_df['office_norm'] = ''
+
+                            # Merge comparison columns into the aggregated totals
+                            # Include state_candidate (display name from help file) when present
+                            comp_cols = [c for c in ['office_norm', 'candidate_norm', 'state_candidate', 'state_votes', 'diff', 'present_in', 'suggested_match', 'match_score'] if c in comp_df.columns]
+                            # If comp_df lacks office_norm values, infer them from totals_agg mapping
+                            if comp_df['office_norm'].isnull().all() or (comp_df['office_norm'] == '').all():
+                                mapping = {k: v for k, v in totals_agg.set_index('candidate_norm')['office_norm'].to_dict().items()}
+                                comp_df['office_norm'] = comp_df['candidate_norm'].map(mapping).fillna(comp_df['office_norm'])
+
+                            merged_totals = pd.merge(
+                                totals_agg,
+                                comp_df[comp_cols].drop_duplicates(subset=['office_norm', 'candidate_norm']),
+                                on=['office_norm', 'candidate_norm'],
+                                how='left',
+                            )
+                            # Drop helper office_norm. We prefer showing the state-side
+                            # candidate display name (state_candidate) instead of the
+                            # internal 'candidate_norm' helper in the final sheet.
+                            merged_totals = merged_totals.drop(columns=['office_norm'], errors='ignore')
+                            # If a 'state_candidate' column exists, prefer it for display
+                            # and drop the internal 'candidate_norm' helper to avoid
+                            # confusing users. Keep it only if 'state_candidate' absent.
+                            if 'state_candidate' in merged_totals.columns and 'candidate_norm' in merged_totals.columns:
+                                try:
+                                    merged_totals = merged_totals.drop(columns=['candidate_norm'])
+                                except Exception:
+                                    pass
+                            # Drop redundant raw 'votes' column (we use 'dataset_votes' as canonical)
+                            if 'votes' in merged_totals.columns and 'dataset_votes' in merged_totals.columns:
+                                try:
+                                    merged_totals = merged_totals.drop(columns=['votes'])
+                                except Exception:
+                                    pass
+                            # Reorder columns to put office first for the Vote Aggregation sheet
+                            desired_order = [
+                                'office', 'candidate', 'party_simplified', 'district',
+                                'dataset_votes', 'state_candidate', 'state_votes', 'diff', 'present_in',
+                                'suggested_match', 'match_score'
+                            ]
+                            cols_present = [c for c in desired_order if c in merged_totals.columns]
+                            # append any other columns at the end to avoid dropping data
+                            other_cols = [c for c in merged_totals.columns if c not in cols_present]
+                            merged_totals = merged_totals[cols_present + other_cols]
+                            # Remove internal suggestion columns that are not needed in the
+                            # primary Vote Aggregation sheet for readability.
+                            for _c in ['suggested_match', 'match_score']:
+                                if _c in merged_totals.columns:
+                                    try:
+                                        merged_totals = merged_totals.drop(columns=[_c])
+                                    except Exception:
+                                        pass
+
+                            # Human-friendly header renames for Excel output
+                            rename_map = {
+                                'office': 'Office',
+                                'candidate': 'Candidate',
+                                'party_simplified': 'Party',
+                                'district': 'District',
+                                'dataset_votes': 'Dataset Votes',
+                                'state_candidate': 'State Candidate',
+                                'state_votes': 'State Votes',
+                                'diff': 'Difference',
+                                'present_in': 'Present In'
+                            }
+                            cols_to_rename = {k: v for k, v in rename_map.items() if k in merged_totals.columns}
+                            if cols_to_rename:
+                                try:
+                                    merged_totals = merged_totals.rename(columns=cols_to_rename)
+                                except Exception:
+                                    pass
+
+                            all_results['statewide_totals'] = merged_totals
+                        else:
+                            # No existing totals: use comp_df as the statewide_totals sheet
+                            # but clean up column names to match expected output
+                            comp_df = comp_df.copy()
+                            if 'candidate_norm' in comp_df.columns:
+                                comp_df = comp_df.rename(columns={'candidate_norm': 'candidate'})
+                            all_results['statewide_totals'] = comp_df
+                    except Exception:
+                        # As a final fallback, append comp_df rows to any existing totals
+                        try:
+                            if isinstance(totals_df, pd.DataFrame) and not totals_df.empty:
+                                appended = pd.concat([totals_df, comp_df], ignore_index=True, sort=False)
+                                all_results['statewide_totals'] = appended
+                            else:
+                                all_results['statewide_totals'] = comp_df
+                        except Exception:
+                            # If all else fails, still attach comp_df but under the standard key
+                            all_results['statewide_totals'] = comp_df
+            except Exception:
+                logging.exception('Failed to merge state-level comparison details into statewide_totals')
+    except Exception:
+        # ensure any unexpected error here doesn't stop report generation
+        logging.exception("Unexpected error during state-level totals comparison")
 
     # ------------------------------------------------------------------
     # Duplicate and Near-Duplicate Detection

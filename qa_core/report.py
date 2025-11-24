@@ -328,9 +328,17 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         dataset_info = results.get("dataset_info", {})
 
         # Gather failed checks names from all dict-based sections
-        # Group failed checks by section so we show one line per section
-        failed_by_section: dict[str, list[str]] = {}
+        # Group failed checks by a friendly section title so we show one line per section.
+        # Store tuples of (pretty_name, issues_count) so we can report failure counts.
+        failed_by_section: dict[str, list[tuple[str, int]]] = {}
         merge_sections = {"fields", "field_formats", "field_regex_checks"}
+        # Small mapping from internal section keys to display titles
+        section_title_map = {
+            "state_codes": "State Codes",
+            "office_mappings": "Office Mappings",
+            "duplicates": "Duplicates",
+            "missingness": "Missingness",
+        }
         for section, content in results.items():
             if isinstance(content, dict):
                 for check, v in content.items():
@@ -339,12 +347,18 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                     except Exception:
                         issues = 0
                     if issues > 0:
+                        # If this is a field-level duplicate check, skip adding
+                        # it into the 'Field Checks' group so duplicates are
+                        # represented only in the dedicated Duplicates sheet.
+                        if section in merge_sections and isinstance(check, str) and "duplicate" in check.lower():
+                            continue
                         # Map merged field-level sections into a single 'Field Checks' group
                         pretty = _pretty_check_name(check)
                         if section in merge_sections:
-                            failed_by_section.setdefault("Field Checks", []).append(pretty)
+                            failed_by_section.setdefault("Field Checks", []).append((pretty, issues))
                         else:
-                            failed_by_section.setdefault(section, []).append(pretty)
+                            title = section_title_map.get(section, section.replace("_", " ").title())
+                            failed_by_section.setdefault(title, []).append((pretty, issues))
 
         # Count total failed checks
         failed_checks = sum(len(v) for v in failed_by_section.values())
@@ -365,7 +379,9 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         if failed_by_section:
             lines = []
             for sec, checks in failed_by_section.items():
-                lines.append(f"{sec}: {', '.join(checks)}")
+                # checks is a list of (pretty_name, count) tuples
+                pretty_names = [t[0] for t in checks]
+                lines.append(f"{sec}: {', '.join(pretty_names)}")
             grouped = "\n\n".join(lines)
         else:
             grouped = ""
@@ -378,13 +394,13 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         overview_df = pd.concat([state_banner, meta_df], ignore_index=True)
 
         # Build a vertical list of failed checks (one per row) with separate
-        # 'Section' and 'Check' columns for readability. We'll link Section
-        # entries to their corresponding sheets below.
+        # 'Section', 'Check Failed', and 'Failures' columns for readability.
+        # We'll link Section entries to their corresponding sheets below.
         failed_rows = []
         for sec, checks in failed_by_section.items():
-            for chk in checks:
-                failed_rows.append({"Section": sec, "Check": chk})
-        failed_df = pd.DataFrame(failed_rows) if failed_rows else pd.DataFrame({"Section": [], "Check": []})
+            for pretty, cnt in checks:
+                failed_rows.append({"Section": sec, "Check Failed": pretty, "Failures": int(cnt)})
+        failed_df = pd.DataFrame(failed_rows) if failed_rows else pd.DataFrame({"Section": [], "Check Failed": [], "Failures": []})
 
         # Reserve columns: TOC (left), Overview (middle), Failed Checks (right)
         toc_col = 0
@@ -530,6 +546,9 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             for check, v in content.items():
                 if not isinstance(v, dict):
                     continue
+                # Skip duplicate-related checks here; duplicates have their own sheet
+                if isinstance(check, str) and "duplicate" in check.lower():
+                    continue
                 # Skip missingness rows coming from field_formats (we have a Missingness sheet)
                 if merge_section == "field_formats" and isinstance(check, str) and check.endswith("_missing"):
                     continue
@@ -556,13 +575,13 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
             try:
                 if "Check Name" in merged_df.columns:
                     merged_df["Check"] = merged_df["Check Name"].apply(lambda x: _pretty_check_name(x) if isinstance(x, str) else _pretty_check_name(str(x)))
-                    merged_df = merged_df.drop(columns=["Check Name"])
-                # Drop the now-redundant Section column to keep the sheet compact
-                if "Section" in merged_df.columns:
-                    merged_df = merged_df.drop(columns=["Section"])
+                    # Keep original Check Name column temporarily for stable dedupe
                 # Expose inferred variables column with a friendly header
                 if "variables" in merged_df.columns:
                     merged_df = merged_df.rename(columns={"variables": "Variables"})
+                # Drop the now-redundant Section column to keep the sheet compact
+                if "Section" in merged_df.columns:
+                    merged_df = merged_df.drop(columns=["Section"])
             except Exception:
                 # If anything goes wrong, fall back to the original names
                 pass
@@ -612,14 +631,35 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                             remove_idx.add(j)
                 if remove_idx:
                     merged_df = merged_df.drop(index=list(remove_idx)).reset_index(drop=True)
-                # Final de-dup by check name keep highest-issue version
-                merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=["Check Name"], keep="first").reset_index(drop=True)
+                # Final de-dup by check name keep highest-issue version. Prefer
+                # the pretty 'Check' column if present, otherwise fall back to
+                # the original 'Check Name' identifier.
+                dedupe_key = 'Check' if 'Check' in merged_df.columns else 'Check Name'
+                merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=[dedupe_key], keep="first").reset_index(drop=True)
             except Exception:
                 # Fall back to simple dedupe
                 try:
-                    merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=["Check Name"], keep="first").reset_index(drop=True)
+                    dedupe_key = 'Check' if 'Check' in merged_df.columns else 'Check Name'
+                    merged_df = merged_df.sort_values("Issues Found", ascending=False).drop_duplicates(subset=[dedupe_key], keep="first").reset_index(drop=True)
                 except Exception:
                     pass
+            # Reorder columns: Check first, then Variables, then other columns
+            cols = merged_df.columns.tolist()
+            preferred = []
+            if 'Check' in cols:
+                preferred.append('Check')
+            if 'Variables' in cols:
+                preferred.append('Variables')
+            for c in ['Issues Found', 'Problematic Values', 'Row Numbers']:
+                if c in cols and c not in preferred:
+                    preferred.append(c)
+            # Exclude internal 'Check Name' column from final output
+            other_cols = [c for c in cols if c not in preferred and c != 'Check Name']
+            try:
+                merged_df = merged_df[preferred + other_cols]
+            except Exception:
+                pass
+
             # Friendly sheet name
             df_sheets.append(("Field Checks", merged_df))
 
@@ -674,6 +714,11 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                 for check, v in content.items():
                     if not isinstance(v, dict):
                         continue
+                    # Compute pretty name early for section-specific filtering
+                    try:
+                        pretty_name = _pretty_check_name(check)
+                    except Exception:
+                        pretty_name = str(check)
                     # Skip checks with zero issues for the large field_regex_checks
                     if section == "field_regex_checks":
                         try:
@@ -685,11 +730,18 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                     # dedicated Missingness sheet)
                     if section == "field_formats" and isinstance(check, str) and check.endswith("_missing"):
                         continue
+                    # For the Columns sheet, drop the redundant 'Column count' check
+                    if section == "columns":
+                        try:
+                            if "column count" in pretty_name.lower():
+                                continue
+                        except Exception:
+                            pass
                     # Preserve explicit '<EMPTY>' markers for problematic values
                     # so they can be compressed into '<EMPTY> × n' in the sheet.
                     issue_values = _flatten(v.get("issue_values", ""), show_empty_marker=True)
                     rows_sec.append({
-                        "Check": _pretty_check_name(check),
+                        "Check": pretty_name,
                         "Variables": _extract_variables_from_check(check),
                         "Issues Found": int(v.get("issues", 0) or 0),
                         "Problematic Values": issue_values,
@@ -769,6 +821,22 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
         for i, (name, table) in enumerate(df_sheets):
             # operate on a copy to avoid side effects
             table = table.copy()
+
+            # Special-case: Columns sheet should not show row numbers and
+            # should label problematic entries as 'Problematic Columns'
+            sheet_name = name[:31]
+            try:
+                if sheet_name.lower() == "columns" or name.lower() == "columns":
+                    # Drop any 'Row Numbers' column if present
+                    if 'Row Numbers' in table.columns:
+                        table = table.drop(columns=['Row Numbers'])
+                    # Rename 'Problematic Values' to 'Problematic Columns'
+                    if 'Problematic Values' in table.columns:
+                        table = table.rename(columns={'Problematic Values': 'Problematic Columns'})
+            except Exception:
+                pass
+
+            # Condense problematic values (use the canonical column name if present)
             if 'Problematic Values' in table.columns:
                 try:
                     table['Problematic Values'] = table.apply(
@@ -788,6 +856,7 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                         table.loc[table['Issues Found'] == 0, 'Problematic Values'] = ""
                 except Exception:
                     pass
+            # Also handle legacy 'issue_values' columns
             if 'issue_values' in table.columns:
                 try:
                     table['issue_values'] = table.apply(
@@ -805,9 +874,121 @@ def write_excel_report(results: Dict[str, Any], path: pathlib.Path) -> None:
                 except Exception:
                     pass
 
+            # If we renamed 'Problematic Values' to 'Problematic Columns',
+            # ensure condensation step applies to the new column name as well.
+            if 'Problematic Columns' in table.columns:
+                try:
+                    table['Problematic Columns'] = table.apply(
+                        lambda r: _condense_issue_values_row({
+                            'issue_values': r.get('Problematic Columns', ''),
+                            'issues': int(r.get('Issues Found', 0) or 0)
+                        }),
+                        axis=1
+                    )
+                except Exception:
+                    pass
+                try:
+                    if 'Issues Found' in table.columns:
+                        table.loc[table['Issues Found'] == 0, 'Problematic Columns'] = ""
+                except Exception:
+                    pass
+
             sheet_name = name[:31]
+
+            # Special handling for the Duplicates sheet:
+            # - Drop rows reported as candidate_office_dataverse_mismatch (handled in Office Mappings)
+            # - Compute duplicate groups (assign same group number to rows that share the same values
+            #   across all columns except 'dup_type') and add a 'duplicate_group' column as the first column.
+            try:
+                if sheet_name.lower() == "duplicates" or name.lower() == "duplicates":
+                    # Drop candidate_office_dataverse_mismatch rows
+                    if 'dup_type' in table.columns:
+                        try:
+                            table = table[~table['dup_type'].astype(str).str.lower().eq('candidate_office_dataverse_mismatch')]
+                        except Exception:
+                            pass
+
+                    # Determine grouping columns: we'll compute groups per dup_type
+                    # so that special dup types (e.g., 'all_but_votes_duplicate')
+                    # can ignore the 'votes' column when grouping.
+                    base_cols = [c for c in table.columns if c != 'dup_type']
+                    if not base_cols:
+                        base_cols = table.columns.tolist()
+
+                    group_id_map = {}
+                    next_gid = 1
+                    # Create a Series aligned with the table's index to store group ids
+                    try:
+                        duplicate_group = pd.Series([""] * len(table), index=table.index, dtype=object)
+                    except Exception:
+                        duplicate_group = pd.Series([""] * len(table), dtype=object)
+
+                    # Iterate over each dup_type subset and assign group ids
+                    try:
+                        if 'dup_type' in table.columns:
+                            for dup_val, subset in table.groupby('dup_type'):
+                                dup_val_str = str(dup_val).lower()
+                                # Choose grouping columns for this dup_type
+                                if dup_val_str == 'all_but_votes_duplicate':
+                                    grp_cols = [c for c in base_cols if c != 'votes']
+                                else:
+                                    grp_cols = list(base_cols)
+
+                                if not grp_cols:
+                                    grp_cols = table.columns.tolist()
+
+                                # Group within this subset
+                                grouped = subset.groupby(grp_cols, dropna=False)
+                                for key, sub in grouped:
+                                    if len(sub) > 1:
+                                        # assign a new group id
+                                        gid = next_gid
+                                        next_gid += 1
+                                        # set gid on the aligned Series for these original indices
+                                        duplicate_group.loc[sub.index] = gid
+                        else:
+                            # No dup_type column: default grouping by all base_cols
+                            grouped = table.groupby(base_cols, dropna=False)
+                            for key, sub in grouped:
+                                if len(sub) > 1:
+                                    gid = next_gid
+                                    next_gid += 1
+                                    duplicate_group.loc[sub.index] = gid
+                    except Exception:
+                        # Fallback: use string-joined keys across base_cols
+                        try:
+                            keys = table[base_cols].fillna('').astype(str).agg('||'.join, axis=1)
+                            counts = keys.value_counts()
+                            for idx, k in keys.items():
+                                if counts.get(k, 0) > 1:
+                                    if k not in group_id_map:
+                                        group_id_map[k] = next_gid
+                                        next_gid += 1
+                                    duplicate_group.loc[idx] = group_id_map[k]
+                        except Exception:
+                            pass
+
+                    # Prepend duplicate_group as first column and ensure dup_type is second
+                    try:
+                        table.insert(0, 'duplicate_group', duplicate_group)
+                    except Exception:
+                        table = table.copy()
+                        table['duplicate_group'] = duplicate_group
+                        cols = ['duplicate_group'] + [c for c in table.columns if c != 'duplicate_group']
+                        table = table.reindex(columns=cols)
+                    # Move dup_type to be the second column if present
+                    try:
+                        if 'dup_type' in table.columns:
+                            new_cols = ['duplicate_group', 'dup_type'] + [c for c in table.columns if c not in ('duplicate_group', 'dup_type')]
+                            table = table.reindex(columns=new_cols)
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
             table.to_excel(writer, index=False, sheet_name=sheet_name)
             _autosize_sheet(sheet_name, table)
+
             # Freeze header row for the Unique sheet for easier browsing
             try:
                 if sheet_name in ("Unique", "Unique Values"):
