@@ -152,6 +152,21 @@ Edit `qa_core/config.py` for repo‑wide constants:
 - Sample CSVs are in `tests/` (e.g., `nh_test.csv`, `nj_test.csv`). Use them
    for quick verification; there is no formal unit test harness by default.
 
+## Running tests
+
+This project includes a small pytest test suite covering core checks and
+comparison utilities. To run the tests locally:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest -q
+```
+
+The tests create temporary files and do not modify repository files. If you
+are running in CI, ensure `pytest` is available in the environment.
+
 ## Contributing notes
 
 - Make minimal, localized changes — prefer adding checks and registering them
