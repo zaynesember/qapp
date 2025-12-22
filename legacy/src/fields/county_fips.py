@@ -14,8 +14,47 @@ Series = pd.core.series.Series
 
 _config = configparser.ConfigParser()
 
-if not _config.read('config.ini'):
-    _config.read(str(pathlib.Path(r'electioncleaner/config.ini')))
+_legacy_root = pathlib.Path(__file__).resolve().parents[2]
+_repo_root = pathlib.Path(__file__).resolve().parents[3]
+
+# Try (in order): cwd/config.ini, legacy/config.ini, electioncleaner/config.ini
+_config.read(
+    [
+        str(pathlib.Path("config.ini")),
+        str(_legacy_root / "config.ini"),
+        str(pathlib.Path(r"electioncleaner/config.ini")),
+    ]
+)
+
+
+def _default_county_fips_file() -> str:
+    precinct_base = None
+    try:
+        precinct_base = _config.get("Paths", "precinct_base", fallback=None)
+    except Exception:
+        precinct_base = None
+
+    candidates: list[pathlib.Path] = []
+    if precinct_base:
+        pb = pathlib.Path(precinct_base)
+        # legacy default
+        candidates.append(pb / "help-files" / "county-fips-codes.csv")
+        # repo-style
+        candidates.append(pb / "help_files" / "county-fips-codes.csv")
+
+    # repo fallback (this repository stores reference files here)
+    candidates.append(_repo_root / "help_files" / "county-fips-codes.csv")
+
+    for p in candidates:
+        try:
+            if p.exists():
+                return str(p)
+        except Exception:
+            continue
+    # Last resort: keep the original default string (may raise later with a clear FileNotFoundError)
+    if precinct_base:
+        return str(pathlib.Path(precinct_base) / "help-files" / "county-fips-codes.csv")
+    return str(_repo_root / "help_files" / "county-fips-codes.csv")
 
 class County_fips(field.Field):
     DEFAULT_TEXT_CHECKS = {
@@ -30,7 +69,7 @@ class County_fips(field.Field):
 
     @staticmethod
     def parse_fips_from_name(data: DataFrame,
-                             fips_file: str = os.path.join(_config['Paths']['precinct_base'], 'help-files/county-fips-codes.csv')) -> Series:
+                             fips_file: str | None = None) -> Series:
         """
         Return a series containing the county fips codes associated with each row of `data`
         based on its `county_name` column.
@@ -61,6 +100,8 @@ class County_fips(field.Field):
 
         """
 
+        if fips_file is None:
+            fips_file = _default_county_fips_file()
         fips = pd.read_csv(fips_file)
 
         fips['state'] = fips['state'].str.upper()
@@ -93,7 +134,7 @@ class County_fips(field.Field):
                       filename: str = None,
                       overwrite: bool = True,
                       verbose: bool = True,
-                      fips_file: str = os.path.join(_config['Paths']['precinct_base'], 'help-files/county-fips-codes.csv')):
+                      fips_file: str | None = None):
 
         output = list()
         output.append('------------\n')
@@ -103,6 +144,8 @@ class County_fips(field.Field):
             print('*Starting correct county fips for county check...', flush=True)
 
         issues = False
+        if fips_file is None:
+            fips_file = _default_county_fips_file()
         fips_official = pd.read_csv(fips_file)
         fips_official['state'] = fips_official['state'].str.upper()
 

@@ -1,0 +1,206 @@
+---------------------------
+---------------------------
+MODE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO MUNICIPALITY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REFERENDA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO REGISTRATION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO BALLOTS: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO OVERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO UNDERVOTES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MAGNITUDE: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO LENGTH: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO VACANCIES: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RETENTION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO RECALL: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DISTRICT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO WARD: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO AREA: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO SEAT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO DIVISION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO POSITION: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO GROUP: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PRECINCT: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO PARTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO TOTAL: 
+    TOTAL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO BLANK: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO MODE: 
+    TOTAL ||| [[TOTAL]]
+------
+
+------
+CONTAINS/IS SIMILAR TO ELECTION TYPE: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN mode WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN mode: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+MODE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'district', 'stage', 'special', 'date']
+    ('TOTAL',)
+        ('ACME TOWNSHIP 1 Ward 0', 'GRAND TRAVERSE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'GRAND TRAVERSE', 'JENNIFER L WHITTEN', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT', 'NONPARTISAN', 'GRAND TRAVERSE', 'STEPHEN L BORRELLO', '4', 'GEN', 'FALSE', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT - PARTIAL TERM ENDING 1/1/2027', 'NONPARTISAN', 'GRAND TRAVERSE', 'ALLIE GREENLEAF MALDONADO', '4', 'GEN', 'TRUE', '2024-11-05')
+        ...(skipping 326204 elements)
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'REPUBLICAN', 'VAN BUREN', 'MIKE ROGERS', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'US TAXPAYERS', 'HURON', 'DAVE STEIN', 'STATEWIDE', 'GEN', 'FALSE', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'WAYNE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'WAYNE', 'DANIEL L MERCIER', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE', '2024-11-05')
+
+------
+
+------
+IRREGULAR MODES
+    No Problems Found :) 
+------
+
+---------
+------
+ALL VALUES:
+    TOTAL
+------
+

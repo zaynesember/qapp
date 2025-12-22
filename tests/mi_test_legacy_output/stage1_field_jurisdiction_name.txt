@@ -1,0 +1,241 @@
+---------------------------
+---------------------------
+JURISDICTION_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN jurisdiction_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN jurisdiction_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+(POSSIBLY) IRREGULAR JURISDICTION NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR JURISDICTION FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL JURISDICTION NAME, JURISDICTION FIPS PAIRS
+    ('ALCONA', ['ALCONA', 26001, ['26001']])
+    ('ALGER', ['ALGER', 26003, ['26003']])
+    ('ALLEGAN', ['ALLEGAN', 26005, ['26005']])
+    ('ALPENA', ['ALPENA', 26007, ['26007']])
+    ('ANTRIM', ['ANTRIM', 26009, ['26009']])
+    ('ARENAC', ['ARENAC', 26011, ['26011']])
+    ('BARAGA', ['BARAGA', 26013, ['26013']])
+    ('BARRY', ['BARRY', 26015, ['26015']])
+    ('BAY', ['BAY', 26017, ['26017']])
+    ('BENZIE', ['BENZIE', 26019, ['26019']])
+    ('BERRIEN', ['BERRIEN', 26021, ['26021']])
+    ('BRANCH', ['BRANCH', 26023, ['26023']])
+    ('CALHOUN', ['CALHOUN', 26025, ['26025']])
+    ('CASS', ['CASS', 26027, ['26027']])
+    ('CHARLEVOIX', ['CHARLEVOIX', 26029, ['26029']])
+    ('CHEBOYGAN', ['CHEBOYGAN', 26031, ['26031']])
+    ('CHIPPEWA', ['CHIPPEWA', 26033, ['26033']])
+    ('CLARE', ['CLARE', 26035, ['26035']])
+    ('CLINTON', ['CLINTON', 26037, ['26037']])
+    ('CRAWFORD', ['CRAWFORD', 26039, ['26039']])
+    ('DELTA', ['DELTA', 26041, ['26041']])
+    ('DICKINSON', ['DICKINSON', 26043, ['26043']])
+    ('EATON', ['EATON', 26045, ['26045']])
+    ('EMMET', ['EMMET', 26047, ['26047']])
+    ('GENESEE', ['GENESEE', 26049, ['26049']])
+    ('GLADWIN', ['GLADWIN', 26051, ['26051']])
+    ('GOGEBIC', ['GOGEBIC', 26053, ['26053']])
+    ('GRAND TRAVERSE', ['GRAND TRAVERSE', 26055, ['26055']])
+    ('GRATIOT', ['GRATIOT', 26057, ['26057']])
+    ('HILLSDALE', ['HILLSDALE', 26059, ['26059']])
+    ('HOUGHTON', ['HOUGHTON', 26061, ['26061']])
+    ('HURON', ['HURON', 26063, ['26063']])
+    ('INGHAM', ['INGHAM', 26065, ['26065']])
+    ('IONIA', ['IONIA', 26067, ['26067']])
+    ('IOSCO', ['IOSCO', 26069, ['26069']])
+    ('IRON', ['IRON', 26071, ['26071']])
+    ('ISABELLA', ['ISABELLA', 26073, ['26073']])
+    ('JACKSON', ['JACKSON', 26075, ['26075']])
+    ('KALAMAZOO', ['KALAMAZOO', 26077, ['26077']])
+    ('KALKASKA', ['KALKASKA', 26079, ['26079']])
+    ('KENT', ['KENT', 26081, ['26081']])
+    ('KEWEENAW', ['KEWEENAW', 26083, ['26083']])
+    ('LAKE', ['LAKE', 26085, ['26085']])
+    ('LAPEER', ['LAPEER', 26087, ['26087']])
+    ('LEELANAU', ['LEELANAU', 26089, ['26089']])
+    ('LENAWEE', ['LENAWEE', 26091, ['26091']])
+    ('LIVINGSTON', ['LIVINGSTON', 26093, ['26093']])
+    ('LUCE', ['LUCE', 26095, ['26095']])
+    ('MACKINAC', ['MACKINAC', 26097, ['26097']])
+    ('MACOMB', ['MACOMB', 26099, ['26099']])
+    ('MANISTEE', ['MANISTEE', 26101, ['26101']])
+    ('MARQUETTE', ['MARQUETTE', 26103, ['26103']])
+    ('MASON', ['MASON', 26105, ['26105']])
+    ('MECOSTA', ['MECOSTA', 26107, ['26107']])
+    ('MENOMINEE', ['MENOMINEE', 26109, ['26109']])
+    ('MIDLAND', ['MIDLAND', 26111, ['26111']])
+    ('MISSAUKEE', ['MISSAUKEE', 26113, ['26113']])
+    ('MONROE', ['MONROE', 26115, ['26115']])
+    ('MONTCALM', ['MONTCALM', 26117, ['26117']])
+    ('MONTMORENCY', ['MONTMORENCY', 26119, ['26119']])
+    ('MUSKEGON', ['MUSKEGON', 26121, ['26121']])
+    ('NEWAYGO', ['NEWAYGO', 26123, ['26123']])
+    ('OAKLAND', ['OAKLAND', 26125, ['26125']])
+    ('OCEANA', ['OCEANA', 26127, ['26127']])
+    ('OGEMAW', ['OGEMAW', 26129, ['26129']])
+    ('ONTONAGON', ['ONTONAGON', 26131, ['26131']])
+    ('OSCEOLA', ['OSCEOLA', 26133, ['26133']])
+    ('OSCODA', ['OSCODA', 26135, ['26135']])
+    ('OTSEGO', ['OTSEGO', 26137, ['26137']])
+    ('OTTAWA', ['OTTAWA', 26139, ['26139']])
+    ('PRESQUE ISLE', ['PRESQUE ISLE', 26141, ['26141']])
+    ('ROSCOMMON', ['ROSCOMMON', 26143, ['26143']])
+    ('SAGINAW', ['SAGINAW', 26145, ['26145']])
+    ('SANILAC', ['SANILAC', 26151, ['26151']])
+    ('SCHOOLCRAFT', ['SCHOOLCRAFT', 26153, ['26153']])
+    ('SHIAWASSEE', ['SHIAWASSEE', 26155, ['26155']])
+    ('ST. CLAIR', ['ST. CLAIR', 26147, ['26147']])
+    ('ST. JOSEPH', ['ST. JOSEPH', 26149, ['26149']])
+    ('TUSCOLA', ['TUSCOLA', 26157, ['26157']])
+    ('VAN BUREN', ['VAN BUREN', 26159, ['26159']])
+    ('WASHTENAW', ['WASHTENAW', 26161, ['26161']])
+    ('WAYNE', ['WAYNE', 26163, ['26163']])
+    ('WEXFORD', ['WEXFORD', 26165, ['26165']])
+------
+
+---------
+------
+ALL VALUES:
+    ALCONA
+    ALGER
+    ALLEGAN
+    ALPENA
+    ANTRIM
+    ARENAC
+    BARAGA
+    BARRY
+    BAY
+    BENZIE
+    BERRIEN
+    BRANCH
+    CALHOUN
+    CASS
+    CHARLEVOIX
+    CHEBOYGAN
+    CHIPPEWA
+    CLARE
+    CLINTON
+    CRAWFORD
+    DELTA
+    DICKINSON
+    EATON
+    EMMET
+    GENESEE
+    GLADWIN
+    GOGEBIC
+    GRAND TRAVERSE
+    GRATIOT
+    HILLSDALE
+    HOUGHTON
+    HURON
+    INGHAM
+    IONIA
+    IOSCO
+    IRON
+    ISABELLA
+    JACKSON
+    KALAMAZOO
+    KALKASKA
+    KENT
+    KEWEENAW
+    LAKE
+    LAPEER
+    LEELANAU
+    LENAWEE
+    LIVINGSTON
+    LUCE
+    MACKINAC
+    MACOMB
+    MANISTEE
+    MARQUETTE
+    MASON
+    MECOSTA
+    MENOMINEE
+    MIDLAND
+    MISSAUKEE
+    MONROE
+    MONTCALM
+    MONTMORENCY
+    MUSKEGON
+    NEWAYGO
+    OAKLAND
+    OCEANA
+    OGEMAW
+    ONTONAGON
+    OSCEOLA
+    OSCODA
+    OTSEGO
+    OTTAWA
+    PRESQUE ISLE
+    ROSCOMMON
+    SAGINAW
+    SANILAC
+    SCHOOLCRAFT
+    SHIAWASSEE
+    ST. CLAIR
+    ST. JOSEPH
+    TUSCOLA
+    VAN BUREN
+    WASHTENAW
+    WAYNE
+    WEXFORD
+------
+

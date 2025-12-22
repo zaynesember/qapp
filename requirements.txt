@@ -1,7 +1,9 @@
-# MEDSL Precinct QA Engine dependencies
-# Original QA engine by sbaltz
-# Refactored and extended by Zayne (2025)
-
-pandas>=2.0.0
-numpy>=1.25.0
-pytest>=7.0.0
+wheel
+numpy
+pandas
+Levenshtein
+fuzzywuzzy
+tqdm
+openpyxl
+xlsxwriter
+xlrd

@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import configparser
 import os
+import pathlib
 
 from typing import Dict
 
@@ -16,8 +17,16 @@ Series = pd.core.series.Series
 
 _config = configparser.ConfigParser()
 
-if not _config.read('config.ini'):
-    _config.read(str(pathlib.Path(r'electioncleaner/config.ini')))
+_legacy_root = pathlib.Path(__file__).resolve().parents[2]
+
+# Try (in order): cwd/config.ini, legacy/config.ini, electioncleaner/config.ini
+_config.read(
+    [
+        str(pathlib.Path("config.ini")),
+        str(_legacy_root / "config.ini"),
+        str(pathlib.Path(r"electioncleaner/config.ini")),
+    ]
+)
 
 class Jurisdiction_fips(field.Field):
     DEFAULT_TEXT_CHECKS = {
@@ -30,7 +39,7 @@ class Jurisdiction_fips(field.Field):
 
     @staticmethod
     def parse_fips_from_name(data: DataFrame,
-                             fips_file: str = os.path.join(_config['Paths']['precinct_base'], 'help-files/jurisdiction-fips-codes.csv'),
+                             fips_file: str | None = None,
                              additional: Dict[str, int] = None) -> Series:
         """
         Return a series containing the jurisdiction fips codes associated with each row of `data`
@@ -69,6 +78,18 @@ class Jurisdiction_fips(field.Field):
             Jurisdiction fips series.
 
         """
+
+        if fips_file is None:
+            # Preserve legacy default if config exists; otherwise fall back to a relative path.
+            precinct_base = None
+            try:
+                precinct_base = _config.get("Paths", "precinct_base", fallback=None)
+            except Exception:
+                precinct_base = None
+            if precinct_base:
+                fips_file = os.path.join(precinct_base, 'help-files/jurisdiction-fips-codes.csv')
+            else:
+                fips_file = 'help-files/jurisdiction-fips-codes.csv'
 
         if additional is None:
             additional = dict()

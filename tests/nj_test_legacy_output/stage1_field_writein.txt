@@ -1,0 +1,108 @@
+---------------------------
+---------------------------
+WRITEIN CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in writein!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------
+VALUES IN writein WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN writein: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED WRITEIN VALUES:
+    No Problems Found :)
+------
+
+------
+CANDIDATES WITH MULTIPLE WRITEIN VALUES:
+    <<<EC: VALUE WAS EMPTY>>>: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    AAMIR ARIF: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    ANDREW BLACK: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    ANDY KIM: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    BEAU FORTE: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    BENJAMIN TAYLOR: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    BILLY PREMPEH: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    BRUNO PEREIRA: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    CHASE OLIVER: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    CHRISTINA KHALIL: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    CLAUDIA DE LA CRUZ: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    CURTIS BASHAW: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    DONALD J TRUMP: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    JAMES TOSONE: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    JILL STEIN: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    JOANNE KUNIANSKY: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    JOSEPH KISHORE: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    JOSH GOTTHEIMER: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    KAMALA D HARRIS: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    KENNETH R KAPLAN: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    LANA LEGUIA: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    MARY JO GUINCHARD: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    NELLIE POU: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    NO: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    NO PETITION FILED: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    PATRICIA G MOONEYHAM: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    RACHELE FRUIT: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    RANDALL TERRY: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    ROBERT F KENNEDY: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    SUE ALTMAN: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    THOMAS H KEAN JR: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    THOMAS KELLY: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+    UNDERVOTE: ['FALSE' '<<<EC: VALUE WAS EMPTY>>>']
+    YES: ['<<<EC: VALUE WAS EMPTY>>>' 'FALSE']
+------
+
+------
+(POSSIBLY) CANDIDATES WITH IRREGULARLY PLACED WRITEIN WITHIN THE NAME:
+    WRITE-IN: TRUE
+------
+
+------
+WRITEIN CANDIDATES THAT APPEAR SOMEWHERE HAVING 0 VOTES.
+    WRITE-IN
+------
+
+---------
+------
+ALL VALUES:
+    <<<EC: VALUE WAS EMPTY>>>
+    FALSE
+    TRUE
+------
+

@@ -72,17 +72,19 @@ class Field():
         if output_file is None:
             output_file = str(pathlib.Path(rf'{base}/{name}/{name}.txt'))
         if precinct_base is None:
-            # Set precinct base from ini
-            _default_config = dict()
-            _default_config['Paths'] = {
-                'precinct_base': '..',
-                }
-            _config = configparser.ConfigParser(defaults=_default_config)
-            if not _config.read('config.ini'):
-                _config.read(str(pathlib.Path(r'electioncleaner/config.ini')))
-            #_config.read(str(pathlib.Path(rf'{base}/config.ini')))
-            # breakpoint()
-            precinct_base = _config['Paths']['precinct_base']
+            # Set precinct base from ini.
+            # The legacy engine expects a [Paths] precinct_base setting, but
+            # we fall back gracefully when config is missing.
+            _config = configparser.ConfigParser()
+            legacy_root = pathlib.Path(__file__).resolve().parents[2]
+            _config.read(
+                [
+                    str(pathlib.Path('config.ini')),
+                    str(legacy_root / 'config.ini'),
+                    str(pathlib.Path(r'electioncleaner/config.ini')),
+                ]
+            )
+            precinct_base = _config.get('Paths', 'precinct_base', fallback='..')
         if similarities is None:
             similarities = self.DEFAULT_SIMILARITIES
         if text_checks is None:
@@ -111,28 +113,56 @@ class Field():
         all_matches = dict()
         values_to_search = sorted(values, key=len)
 
+        # Normalize search-like candidates once so matching is deterministic.
+        search_like_list = None
+        if search_like is not None:
+            search_like_list = sorted([str(x) for x in search_like], key=lambda s: (len(s), s))
+
         def _iterate(pbar=None):
             for (i, value) in enumerate(values_to_search):
                 condensed_value = re.sub(r'\.|,|-', '', value.strip())
                 condensed_value = re.sub(r' ( )+', ' ', condensed_value)
-                entries = search_like if search_like is not None else values_to_search[i+1:]
+                entries = search_like_list if search_like_list is not None else values_to_search[i+1:]
+
+                best_entry = None
+                best_score = None
 
                 for search_like_entry in entries:
                     # Explicitly prevent 'valid' empty strings to fuzzy match, as they raise
                     # warnings otherwise
                     if condensed_value == '""' or search_like_entry == '""':
-                        match = None
+                        score = None
                     else:
-                        match = process.extract(condensed_value, [search_like_entry])
-                    if not alt_exact_match and match and match[0][1] >= sensitivity:
-                        all_matches[value] = match
+                        score = process.extract(condensed_value, [search_like_entry])[0][1]
+
+                    if alt_exact_match:
+                        if condensed_value != search_like_entry:
+                            continue
+                        score = 100
+
+                    qualifies = False
+                    if score is not None and score >= sensitivity:
+                        qualifies = True
+                    elif not alt_exact_match and search_like_entry in condensed_value:
+                        qualifies = True
+                        # If it only qualifies by containment, treat as minimally passing.
+                        score = score if score is not None else sensitivity
+
+                    if not qualifies:
                         continue
-                    if not alt_exact_match and search_like_entry in condensed_value:
-                        all_matches[value] = [(search_like_entry, None)]
+
+                    if best_score is None or (score is not None and score > best_score):
+                        best_entry = search_like_entry
+                        best_score = score
                         continue
-                    if alt_exact_match and condensed_value == search_like_entry:
-                        all_matches[value] = [(search_like_entry, None)]
-                        continue
+                    if score == best_score:
+                        # Deterministic tie-break: prefer shorter token, then lexical.
+                        if best_entry is None or (len(search_like_entry), search_like_entry) < (len(best_entry), best_entry):
+                            best_entry = search_like_entry
+                            best_score = score
+
+                if best_entry is not None:
+                    all_matches[value] = [(best_entry, best_score)]
                 if pbar:
                     pbar.update(1)
 
@@ -316,7 +346,7 @@ class Field():
                     dup = {word for word in split_value
                            if split_value.count(word) > 1}
                     if dup:
-                        values_with_duplicates.append((' '.join(split_value), dup))
+                        values_with_duplicates.append((' '.join(split_value), tuple(sorted(dup))))
                     if pbar:
                         pbar.update(1)
 
@@ -382,7 +412,7 @@ class Field():
 
         def _build(pbar=None):
             for (attributes, fields) in by_field:
-                fields_tuple = tuple(set(fields))
+                fields_tuple = tuple(sorted(set(fields), key=lambda s: str(s)))
                 if fields_tuple not in fields_dict:
                     fields_dict[fields_tuple] = list()
                 fields_dict[fields_tuple].append(attributes)

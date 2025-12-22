@@ -1,0 +1,87 @@
+---------------------------
+---------------------------
+MAGNITUDE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED NEGATIVE SIGNS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------
+(POSSIBLY) INVALID NEGATIVE VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+OFFICES WITH MULTIPLE MAGNITUDES:
+    STATE HOUSE: [ 1  2  4  3  7  8  6 10  9]
+------
+
+------
+MAGNITUDE TO OFFICES MAP
+    1: ['US PRESIDENT' 'President' 'ELECTORS FOR PRESIDENT' 'GOVERNOR'
+ 'EXECUTIVE COUNCIL' 'STATE SENATE' 'US HOUSE' 'QUESTION NO. 1'
+ 'BALLOTS CAST' 'STATE HOUSE' 'SHERIFF' 'ATTORNEY' 'TREASURER'
+ 'REGISTER OF DEEDS' 'REGISTER OF PROBATE' 'COUNTY COMMISSIONER'
+ 'COUNTY ATTORNEY']
+    2: ['STATE HOUSE']
+    3: ['STATE HOUSE']
+    4: ['STATE HOUSE']
+    6: ['STATE HOUSE']
+    7: ['STATE HOUSE']
+    8: ['STATE HOUSE']
+    9: ['STATE HOUSE']
+    10: ['STATE HOUSE']
+------
+
+---------
+------
+ALL VALUES:
+    1
+    10
+    2
+    3
+    4
+    6
+    7
+    8
+    9
+------
+

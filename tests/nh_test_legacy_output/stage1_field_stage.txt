@@ -1,0 +1,59 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    GEN RECOUNT
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+    GEN ||| [[GEN RECOUNT]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+Unable to report stage attributes: mode field missing.
+---------
+------
+ALL VALUES:
+    GEN
+    GEN RECOUNT
+------
+

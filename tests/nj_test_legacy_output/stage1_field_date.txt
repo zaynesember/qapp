@@ -1,0 +1,66 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    No Problems Found :) 
+------
+
+------
+DATE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'special']
+    ('2024-11-05',)
+        ('11TH CD STATE/FED', 'BALLOTS CAST', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'DEBORAH SMITH', 'EARLY VOTING', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'DEBORAH SMITH', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ...(skipping 641694 elements)
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'THOMAS J MADIGAN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', 'PROVISIONAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', 'FALSE')
+
+------
+
+---------
+------
+ALL VALUES:
+    2024-11-05
+------
+

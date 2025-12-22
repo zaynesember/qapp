@@ -1,0 +1,69 @@
+---------------------------
+---------------------------
+STATE_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    32.0
+    33.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+WRONG FIPS LENGTH
+    32.0
+    33.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+
+------
+UNRECOGNIZED LEADING ZEROS
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+WARNING: Empty values detected in state_fips!
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    <<<EC: VALUE WAS EMPTY>>> ||| [[<<<EC: VALUE WAS EMPTY>>>]]
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+STATE_FIPS UNIQUENESS CHECK:
+    Detected 3 state_fipss (see output below)
+------
+
+------
+STATE FIPS FOR STATE CHECK:
+    Unable to report on correct state fips for state check: multiple state_fips values found.
+------
+
+---------
+------
+ALL VALUES:
+    32.0
+    33.0
+    <<<EC: VALUE WAS EMPTY>>>
+------
+

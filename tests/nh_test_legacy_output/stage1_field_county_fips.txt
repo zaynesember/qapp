@@ -1,0 +1,61 @@
+---------------------------
+---------------------------
+COUNTY_FIPS CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    No Problems Found :) 
+------
+
+------
+FIPS TOO LONG
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+COUNTY FIPS FOR COUNTY CHECK:
+    No Problems Found :)
+------
+
+---------
+------
+ALL VALUES:
+    33001
+    33003
+    33005
+    33007
+    33009
+    33011
+    33013
+    33015
+    33017
+    33019
+------
+

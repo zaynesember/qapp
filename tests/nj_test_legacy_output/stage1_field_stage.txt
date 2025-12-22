@@ -1,0 +1,71 @@
+---------------------------
+---------------------------
+STAGE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN stage WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN stage: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+UNRECOGNIZED STAGE VALUES:
+    No Problems Found :) 
+------
+
+------
+STAGE TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'special', 'date']
+    ('GEN',)
+        ('11TH CD STATE/FED', 'BALLOTS CAST', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'DEBORAH SMITH', 'EARLY VOTING', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('11TH CD STATE/FED', 'MORRIS BOARD OF COUNTY COMMISSIONERS', '<<<EC: VALUE WAS EMPTY>>>', 'MORRIS', 'DEBORAH SMITH', 'ELECTION DAY', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ...(skipping 641694 elements)
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE', 'REPUBLICAN', 'BERGEN', 'THOMAS J MADIGAN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', 'PROVISIONAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+        ('Wyckoff Provisional', 'WYCKOFF TOWNSHIP COMMITTEE UNEX TWO YR', 'REPUBLICAN', 'BERGEN', 'ROGER J LANE', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'FALSE', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    GEN
+------
+

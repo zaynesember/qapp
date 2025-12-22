@@ -1,0 +1,100 @@
+---------------------------
+---------------------------
+COUNTY_NAME CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+LOWERCASE
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS CONSECUTIVE SYMBOLS
+    No Problems Found :) 
+------
+
+------
+EXTRANEOUS SPACES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO COUNTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN county_name WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN county_name: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR COUNTY NAME TO FIPS RELATIONS
+    No Problems Found :) 
+------
+
+------
+IRREGULAR COUNTY FIPS TO NAMES RELATIONS
+    No Problems Found :) 
+------
+
+------
+ALL COUNTY NAME, COUNTY FIPS PAIRS
+    ('BELKNAP', '33001')
+    ('CARROLL', '33003')
+    ('CHESHIRE', '33005')
+    ('COOS', '33007')
+    ('GRAFTON', '33009')
+    ('HILLSBOROUGH', '33011')
+    ('MERRIMACK', '33013')
+    ('ROCKINGHAM', '33015')
+    ('STRAFFORD', '33017')
+    ('SULLIVAN', '33019')
+------
+
+---------
+------
+ALL VALUES:
+    BELKNAP
+    CARROLL
+    CHESHIRE
+    COOS
+    GRAFTON
+    HILLSBOROUGH
+    MERRIMACK
+    ROCKINGHAM
+    STRAFFORD
+    SULLIVAN
+------
+

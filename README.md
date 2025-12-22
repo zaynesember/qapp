@@ -4,8 +4,7 @@ Original QA engine by sbaltz. Refactored and extended by Zayne (2025).
 
 This repository contains a modular, PEP‑8–compliant QA engine for precinct‑level
 election results. It runs a sequence of structural, field, numeric, and FIPS
-validation checks and emits human‑readable text/csv summaries plus a single
-Excel workbook per run.
+validation checks and emits a single Excel workbook per run (plus a log file).
 
 ## Quick start
 
@@ -16,6 +15,13 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python qapp.py tests/nh_test.csv
+```
+
+Run the legacy (sbaltz) engine and generate the legacy text outputs under
+`output/qa/<input_stem>/`:
+
+```bash
+python qapp.py --legacy tests/nh_test.csv
 ```
 
 Or run the module directly:
@@ -97,9 +103,9 @@ Notes:
    e.g., `NH_2024_precincts.csv` → state `NH`. See
    `runner.run_qa` for the exact behavior.
 - Output layout: run outputs go to `output/<STATE>/` (determined by
-   `config.QA_OUTPUT_DIR`). Files produced include `qa_run.log`,
-   `report_<inputstem>.xlsx`, and a `unique_values/` folder with per‑column
-   exports.
+   `config.QA_OUTPUT_DIR`). Files produced include `qa_run.log` and
+   `report_<inputstem>.xlsx`. Output files are generated artifacts and are
+   ignored by git (see `.gitignore`).
 - `all_results` shape: `runner.py` collects check outputs into an
    `all_results` dict which `report.write_excel_report` expects to serialize.
    Keep outputs as scalars, dicts, DataFrames, or lists to maintain
@@ -150,7 +156,7 @@ Edit `qa_core/config.py` for repo‑wide constants:
 ## Samples & tests
 
 - Sample CSVs are in `tests/` (e.g., `nh_test.csv`, `nj_test.csv`). Use them
-   for quick verification; there is no formal unit test harness by default.
+   for quick verification.
 
 ## Running tests
 

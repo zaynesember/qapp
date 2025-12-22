@@ -260,10 +260,9 @@ def init_summary(base: str = None):
         base = str(pathlib.Path('electioncleaner/output/qa'))
     summary_file = str(pathlib.Path(f'{base}/SUMMARY.txt'))
     fileio.make_dir_if_needed(summary_file)
-    date = datetime.datetime.now().strftime("%Y-%m-%d")
-    startTime = datetime.datetime.now().strftime("%I:%M:%S")
     with open(summary_file, 'w+', encoding='utf-8') as f:
-        f.writelines("~ "+summary_file+" on "+date+", begun at "+startTime+" ~\n\n")
+        # Deterministic header for stable fixture diffs.
+        f.writelines(f"~ {summary_file} ~\n\n")
 
 def write_summary(filename: str = None,
                   currentCheck: str = None,
@@ -284,8 +283,6 @@ def wrap_summary(filename: str = None,
     with open(summary_file, 'a+', encoding='utf-8') as f:
         f.writelines(reminders)
         f.close()
-    archive_folder = str(pathlib.Path(f'{base}/../ARCHIVE/'))
-    archive_file = archive_folder+'/SUMMARY_'+\
-        datetime.datetime.now().strftime("%Y%m%d_%I%M%S")+'.txt'
-    fileio.make_dir_if_needed(archive_file)
-    os.popen('cp '+summary_file+' '+archive_file)
+
+    # Intentionally do not archive SUMMARY.txt during runs in this repository.
+    # The archive side-effect creates extra files and makes validation noisy.

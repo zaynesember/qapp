@@ -1,0 +1,53 @@
+---------------------------
+---------------------------
+DATE CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED CHARACTERS
+    11/5/24
+------
+
+------
+UNRECOGNIZED YYYY-MM-DD DATES
+    11/5/24
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+IRREGULAR DATE TO YEAR RELATIONS
+    11/5/24: [2024]
+------
+
+Unable to report date attributes: mode field missing.
+---------
+------
+ALL VALUES:
+    11/5/24
+------
+

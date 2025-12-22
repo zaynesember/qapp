@@ -1,60 +1,148 @@
 <!-- Copilot / AI agent instructions for the QAPP repository -->
 # QAPP — AI Agent Guidance
 
-This file contains concise, actionable guidance to help an AI coding agent be immediately productive in this repository.
+MEDSL's precinct-level QA engine. Validates election result CSVs, runs structural/field/numeric checks, and outputs a single Excel workbook per run.
 
-- **Project purpose:** `qapp` is MEDSL's precinct-level QA engine. The main entry point is `qapp.py` which calls `qa_core.runner.run_qa` to execute checks and emit a single Excel report plus auxiliary outputs.
+## Quick Start
 
-- **Entrypoints & commands:**
-  - Run via wrapper: `python qapp.py <path/to/STATE_file.csv>`
-  - Run module directly: `python -m qa_core.runner <path/to/file.csv>`
-  - Recommended quick setup:
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate
-    pip install -r requirements.txt
-    python qapp.py tests/nh_test.csv
-    ```
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python qapp.py tests/nh_test.csv
+# Inspect output/NH/report_nh_test.xlsx
+```
 
-- **Where to look first:**
-  - `qa_core/runner.py` — orchestrates load → checks → summarize → `report.write_excel_report`
-  - `qapp.py` — thin CLI shim used by developers/scripts
-  - `qa_core/config.py` — canonical `REQUIRED_COLUMNS`, thresholds, and `QA_OUTPUT_DIR`
-  - `qa_core/checks.py` — structural and field checks and duplicate logic
-  - `qa_core/stats_utils.py` — numeric and distributional checks
-  - `qa_core/io_utils.py` and `qa_core/data_summary.py` — loading, missingness, and `export_unique_values`
-  - `qa_core/report.py` — Excel/text output formatting
+## Architecture & Data Flow
 
-- **Important data & conventions (explicit & discoverable):**
-  - Input file state detection: runner takes the file stem, splits on `_`, and uses the first token as the state code (uppercased). See `runner.run_qa` (`state_name = file_path.stem.split("_")[0].upper()`).
-  - Output layout: reports and logs are written to `output/<STATE>/` (controlled by `config.QA_OUTPUT_DIR`). Excel filename pattern: `report_<inputstem>.xlsx`.
-  - `help_files/` contains canonical references used for FIPS/state checks; runner looks there at runtime (`merge_on_statecodes.csv`, `county-fips-codes.csv`). If `help_files/` is missing, FIPS checks are skipped.
-  - Unique-value exports are placed in a `unique_values/` subfolder per state (see `data_summary.export_unique_values`).
-  - Required columns are defined in `qa_core/config.py -> REQUIRED_COLUMNS`. Use this list when adding or validating checks.
+**Pipeline:** `qapp.py` → `runner.run_qa()` → load CSV → run checks → aggregate `all_results` → `report.write_excel_report()` → Excel workbook
 
-- **How to add a new check (concrete example):**
-  1. Implement `def my_check(df: pd.DataFrame) -> dict[str, Any]:` in `qa_core/checks.py` (or `stats_utils.py` for numeric checks).
-  2. Return a small dictionary or DataFrame representing the check result.
-  3. Register the check in `qa_core/runner.py` by assigning into `all_results` (e.g., `all_results['my_check'] = checks.my_check(df)`) so it gets reported and written to Excel.
+**Key modules:**
+- [qa_core/runner.py](qa_core/runner.py) — orchestrator (load → checks → report)
+- [qa_core/checks.py](qa_core/checks.py) — structural/field checks + duplicate detection
+- [qa_core/field_checks.py](qa_core/field_checks.py) — regex-based validations (whitespace, accents, symbols)
+- [qa_core/check_field_formats.py](qa_core/check_field_formats.py) — enumerated value checks (party, mode, stage)
+- [qa_core/check_fips.py](qa_core/check_fips.py) — state/county FIPS validation against `help_files/`
+- [qa_core/stats_utils.py](qa_core/stats_utils.py) — numeric checks (MAD outlier detection, vote distributions)
+- [qa_core/data_summary.py](qa_core/data_summary.py) — missingness summary & statewide vote totals
+- [qa_core/office_checks.py](qa_core/office_checks.py) — office name normalization/validation
+- [qa_core/report.py](qa_core/report.py) — Excel generation with formatting/highlighting
+- [qa_core/config.py](qa_core/config.py) — constants (`REQUIRED_COLUMNS`, thresholds, `AGGREGATE_MARKERS`)
 
-- **Logging & diagnostics:**
-  - Runner initializes logging to `qa_run.log` inside the state output folder. Log lines also stream to console.
-  - When loading fails, `io_utils.load_data` exceptions are logged and the run returns early.
+**Critical conventions:**
+- **State detection:** Filename stem before first `_` (e.g., `NH_2024.csv` → state `NH`)
+- **Output path:** `output/<STATE>/report_<inputstem>.xlsx` + `qa_run.log`
+- **`all_results` contract:** Each check returns `dict[str, Any]` or `pd.DataFrame`. Structure:
+  ```python
+  {
+    "my_check": {
+      "issues": int,
+      "issue_values": list[str],
+      "issue_row_numbers": list[int]
+    }
+  }
+  ```
+  Or a DataFrame for detailed outputs (e.g., duplicates, zero-vote groups).
+- **Reference files:** `help_files/*.csv` used for FIPS checks; gracefully skipped if missing
+- **AGGREGATE_MARKERS:** Rows with `candidate` matching these tokens (e.g., `"COUNTY TOTALS"`, `"OVERVOTES"`) are excluded from duplicate/mismatch detection. Edit in [qa_core/config.py](qa_core/config.py#L40).
 
-- **Tests & sample data:**
-  - There are sample CSVs in `tests/` (e.g., `nh_test.csv`, `nj_test.csv`) useful for quick runs. There is no unit test harness in the repo by default; run the runner against these files to validate behavior.
+## Adding a New Check (Step-by-Step)
 
-- **Styles & patterns the agent should follow:**
-  - Keep changes minimal and localized: prefer adding a new check function and registering it in `runner.py` rather than changing runner control flow.
-  - Follow PEP‑8 and the repository's docstring style (module header comments found in each `qa_core` file).
-  - Prefer using `qa_core/config.py` constants (e.g., `REQUIRED_COLUMNS`, `OUTLIER_THRESHOLD`) rather than hard-coded values.
+1. **Implement** in appropriate module:
+   - Structural/field → [qa_core/checks.py](qa_core/checks.py)
+   - Numeric/distribution → [qa_core/stats_utils.py](qa_core/stats_utils.py)
+   - Regex/format → [qa_core/field_checks.py](qa_core/field_checks.py)
+   
+   ```python
+   def my_new_check(df: pd.DataFrame) -> dict[str, Any]:
+       issues_mask = df["votes"].astype(str).str.contains("N/A", na=False)
+       vals = df.loc[issues_mask, "votes"].head(10).tolist()
+       rows = df.loc[issues_mask].index.to_series().add(1).head(10).tolist()
+       return {
+           "issues": int(issues_mask.sum()),
+           "issue_values": vals,
+           "issue_row_numbers": rows
+       }
+   ```
 
-- **Integration points to be careful with:**
-  - `runner.py` composes results into `all_results` and expects values to be serializable by `report.write_excel_report` (pandas DataFrames and dictionaries). Returning exotic objects may break report generation.
-  - File-path conventions (state detection via filename) are fragile — avoid changing that behavior without updating calls that depend on the derived `state_name` and output folder.
+2. **Register** in [qa_core/runner.py](qa_core/runner.py) (~line 110):
+   ```python
+   all_results["my_new_check"] = checks.my_new_check(df)
+   ```
 
-- **If in doubt:**
-  - Run the engine on `tests/nh_test.csv` and inspect `output/NH*` to see exact output files and formats.
-  - Look at `qa_core/report.py` to understand how results are serialized into Excel and text; match expected shapes (dicts of scalars, DataFrames, lists).
+3. **Test** locally:
+   ```bash
+   python qapp.py tests/nh_test.csv
+   # Inspect output/NH/report_nh_test.xlsx for new check
+   ```
 
-- **Feedback:** Please tell me which sections need more detail (examples, check template, or PR checklist).
+4. **Run tests** (if modifying core logic):
+   ```bash
+   pytest -q tests/
+   ```
+
+## Testing & Validation
+
+- **Sample data:** [tests/nh_test.csv](tests/nh_test.csv), [tests/nj_test.csv](tests/nj_test.csv) (~3k rows each)
+- **Test suite:** Pytest-based. Run with `pytest -q`. See [tests/test_checks.py](tests/test_checks.py) for patterns.
+- **Manual verification:** Compare output Excel sheets to expected check results.
+
+## Common Patterns
+
+**Sample issues helper:**
+```python
+# In qa_core/checks.py
+def sample_issues(df, condition, col=None, n=10):
+    matches = df.loc[condition]
+    rows = matches.index.to_series().add(1).head(n).tolist()
+    vals = matches[col].head(n).astype(str).tolist() if col else []
+    if condition.sum() > n:
+        vals.append("...")
+        rows.append("...")
+    return vals, rows
+```
+
+**Numeric coercion:**
+```python
+votes_numeric = pd.to_numeric(df["votes"], errors="coerce")
+neg_mask = votes_numeric < 0
+```
+
+**Multi-section checks:**
+For checks returning multiple sub-checks (e.g., `field_formats`), return a nested dict:
+```python
+{
+  "party_simplified_invalid": {"issues": 5, "issue_values": [...]},
+  "mode_missing": {"issues": 12, "issue_values": []}
+}
+```
+Report module auto-flattens these into separate Excel rows.
+
+## Integration Gotchas
+
+- **Don't** return non-serializable objects (sets, custom classes) — `report.py` expects dicts/DataFrames/lists/scalars
+- **Don't** mutate `df` in check functions — runner reuses the same DataFrame across all checks
+- **Don't** change state detection logic ([runner.py#L50](qa_core/runner.py#L50)) without updating `QA_OUTPUT_DIR` assumptions
+- **Do** use `logging.info()` for progress, `logging.warning()` for skipped/failed checks
+- **Do** handle missing columns gracefully (`if "votes" not in df.columns: return {...}`)
+
+## Configuration
+
+Edit [qa_core/config.py](qa_core/config.py) for:
+- `REQUIRED_COLUMNS` — canonical column set
+- `OUTLIER_THRESHOLD` — MAD threshold (default 3.5)
+- `AGGREGATE_MARKERS` — tokens identifying summary rows (excluded from duplicate checks)
+- `AUTO_OPEN_REPORT` — auto-open Excel report after generation (default `True`)
+- `VALID_STAGES`, `VALID_MODES`, `VALID_DATAVERSES` — enumerated values for field validation
+
+## File Loading & Normalization
+
+[qa_core/io_utils.py](qa_core/io_utils.py) auto-detects delimiter (`.csv` vs `.tsv`), loads as `dtype=str`, and replaces `MISSING_TOKENS` with `""` (empty string). All downstream checks treat missing as empty string.
+
+## Legacy Migration Notes
+
+`legacy/` contains original sbaltz QA engine. Current codebase is a complete refactor (v3+). Key differences:
+- Single Excel output (not per-check text files)
+- Unified `all_results` dict structure
+- Modular check modules (`check_fips`, `field_checks`, `office_checks`)
+- Auto-open report with `config.AUTO_OPEN_REPORT`

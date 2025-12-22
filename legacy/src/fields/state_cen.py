@@ -40,8 +40,15 @@ class State_cen(field.Field):
             print('*Starting correct state cen for state check...', flush=True)
         fileio.make_dir_if_needed(filename)
         cen_values = miscellaneous.obtain(column=data['state_cen'], intended_type=str)
-        state_codes_location = str(pathlib.Path(f'{self._precinct_base}/help-files/'
-                                                f'merge_on_statecodes.csv'))
+        # Legacy expected location is <precinct_base>/help-files/, but this repo
+        # stores reference files under help_files/.
+        repo_root = pathlib.Path(__file__).resolve().parents[3]
+        candidates = [
+            pathlib.Path(f'{self._precinct_base}/help-files/merge_on_statecodes.csv'),
+            pathlib.Path(f'{self._precinct_base}/help_files/merge_on_statecodes.csv'),
+            repo_root / 'help_files' / 'merge_on_statecodes.csv',
+        ]
+        state_codes_location = str(next((p for p in candidates if p.exists()), candidates[0]))
 
         def _state_code():
             issues = False

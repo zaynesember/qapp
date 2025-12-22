@@ -1,0 +1,76 @@
+---------------------------
+---------------------------
+SPECIAL CHECK
+---------------------------
+---------------------------
+
+------------
+CHARACTER CHECK
+
+------
+UNRECOGNIZED VALUES
+    No Problems Found :) 
+------
+
+------------
+
+
+------------
+SIMILARITY CHECK
+
+------
+CONTAINS/IS SIMILAR TO EMPTY: 
+    No Problems Found :) 
+------
+
+------
+CONTAINS/IS SIMILAR TO EXACT EMPTY: 
+    No Problems Found :) 
+------
+
+------
+VALUES IN special WITH DUPLICATE WORDS: 
+    No Problems Found :) 
+------
+
+------
+SIMILAR VALUES IN special: 
+   No Problems Found :) 
+------
+
+------------
+
+
+------------
+SPECIAL CHECK
+
+------
+SPECIAL TO ELECTION ATTRIBUTES MAP:
+Attributes: ['precinct', 'office', 'party_detailed', 'county_name', 'candidate', 'mode', 'district', 'stage', 'date']
+    ('FALSE',)
+        ('ACME TOWNSHIP 1 Ward 0', 'GRAND TRAVERSE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'GRAND TRAVERSE', 'JENNIFER L WHITTEN', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT', 'NONPARTISAN', 'GRAND TRAVERSE', 'STEPHEN L BORRELLO', 'TOTAL', '4', 'GEN', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF DISTRICT COURT INCUMBENT', 'NONPARTISAN', 'GRAND TRAVERSE', 'BOB COONEY', 'TOTAL', '86', 'GEN', '2024-11-05')
+        ...(skipping 312317 elements)
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'REPUBLICAN', 'VAN BUREN', 'MIKE ROGERS', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'US SENATE', 'US TAXPAYERS', 'HURON', 'DAVE STEIN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'WAYNE JUDGE OF PROBATE COURT', 'NONPARTISAN', 'WAYNE', 'DANIEL L MERCIER', 'TOTAL', '<<<EC: VALUE WAS EMPTY>>>', 'GEN', '2024-11-05')
+
+    ('TRUE',)
+        ('ACME TOWNSHIP 1 Ward 0', 'JUDGE OF COURT OF APPEALS INCUMBENT - PARTIAL TERM ENDING 1/1/2027', 'NONPARTISAN', 'GRAND TRAVERSE', 'ALLIE GREENLEAF MALDONADO', 'TOTAL', '4', 'GEN', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUSTICE OF THE SUPREME COURT', 'NONPARTISAN', 'GRAND TRAVERSE', 'KYRA HARRIS BOLDEN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('ACME TOWNSHIP 1 Ward 0', 'JUSTICE OF THE SUPREME COURT', 'NONPARTISAN', 'GRAND TRAVERSE', 'PATRICK WILLIAM OGRADY', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ...(skipping 13881 elements)
+        ('{Statistical Adjustments} 9999 Ward 0', 'JUSTICE OF THE SUPREME COURT', 'NONPARTISAN', 'MONROE', 'PATRICK WILLIAM OGRADY', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'JUSTICE OF THE SUPREME COURT', 'NONPARTISAN', 'VAN BUREN', 'KYRA HARRIS BOLDEN', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+        ('{Statistical Adjustments} 9999 Ward 0', 'JUSTICE OF THE SUPREME COURT', 'NONPARTISAN', 'VAN BUREN', 'PATRICK WILLIAM OGRADY', 'TOTAL', 'STATEWIDE', 'GEN', '2024-11-05')
+
+------
+
+---------
+------
+ALL VALUES:
+    FALSE
+    TRUE
+------
+

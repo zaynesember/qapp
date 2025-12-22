@@ -1,0 +1,34 @@
+~ output/qa/nh_test/SUMMARY.txt ~
+
+COLUMN CHECK found potential issues in stage1_columns.txt
+SIMILARITY CHECK found potential issues in stage1_field_precinct.txt
+CHARACTER CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_office.txt
+SPECIAL CHECK found potential issues in stage1_field_office.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_detailed.txt
+SPECIAL CHECK found potential issues in stage1_field_party_detailed.txt
+SIMILARITY CHECK found potential issues in stage1_field_party_simplified.txt
+SPECIAL CHECK found potential issues in stage1_field_party_simplified.txt
+CHARACTER CHECK found potential issues in stage1_field_votes.txt
+SIMILARITY CHECK found potential issues in stage1_field_votes.txt
+CHARACTER CHECK found potential issues in stage1_field_candidate.txt
+SIMILARITY CHECK found potential issues in stage1_field_candidate.txt
+DUPLICATES CHECK found potential issues in stage1_field_candidate.txt
+SPECIAL CHECK found potential issues in stage1_field_magnitude.txt
+CHARACTER CHECK found potential issues in stage1_field_dataverse.txt
+SIMILARITY CHECK found potential issues in stage1_field_dataverse.txt
+CHARACTER CHECK found potential issues in stage1_field_stage.txt
+SPECIAL CHECK found potential issues in stage1_field_writein.txt
+CHARACTER CHECK found potential issues in stage1_field_state_fips.txt
+SIMILARITY CHECK found potential issues in stage1_field_state_fips.txt
+UNIQUENESS CHECK found potential issues in state_fips/state_fips.txt
+SPECIAL CHECK found potential issues in stage1_field_state_fips.txt
+CHARACTER CHECK found potential issues in stage1_field_state_ic.txt
+CHARACTER CHECK found potential issues in stage1_field_date.txt
+SPECIAL CHECK found potential issues in stage1_field_date.txt
+DUPLICATES CHECK found duplicated rows.
+DUPLICATES CHECK found nearly duplicated rows.
+
+ ***REMINDERS:*** 
+*REMEMBER TO CHECK votes.txt 
+*LOOK THROUGH the candidate names
