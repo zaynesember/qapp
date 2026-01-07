@@ -109,12 +109,92 @@ def run_qa(file_path: str | pathlib.Path) -> None:
     except Exception as e:
         logging.warning(f"Column/field checks failed: {e}")
 
+    # Legacy-equivalent cross-field checks that historically lived inside
+    # per-field "special" checks (mode/date) in the legacy engine.
+    try:
+        logging.info("Running legacy-equivalent mode/date consistency checks...")
+        all_results.setdefault("fields", {})
+        all_results["fields"]["mode_total_with_other_modes"] = checks.check_mode_total_with_other_modes(df)
+        all_results["fields"]["date_year_inconsistent"] = checks.check_date_year_consistency(df)
+    except Exception as e:
+        logging.warning(f"Legacy-equivalent mode/date checks failed: {e}")
+
+    # Legacy-equivalent dataverse↔office diagnostics (legacy/src/fields/dataverse.py)
+    try:
+        logging.info("Running legacy-equivalent dataverse/office checks...")
+        dv_summary, dv_details = checks.check_dataverse_office_relationships(df)
+        if isinstance(dv_summary, dict) and dv_summary:
+            all_results.setdefault("fields", {})
+            # Keep these in Field Checks for visibility.
+            for k, v in dv_summary.items():
+                all_results["fields"][k] = v
+        if isinstance(dv_details, dict) and dv_details:
+            # Expose detail tables as separate sheets.
+            for name, table in dv_details.items():
+                if isinstance(table, pd.DataFrame) and not table.empty:
+                    all_results[str(name)] = table
+    except Exception as e:
+        logging.warning(f"Dataverse/office checks failed: {e}")
+
+    # Legacy-equivalent fuzzy near-duplicate detection within key text columns.
+    try:
+        logging.info("Running similar-values-in-column checks...")
+        all_results.setdefault("fields", {})
+        for col in ("candidate", "office", "precinct", "county_name", "jurisdiction_name"):
+            if col not in df.columns:
+                continue
+            res = checks.check_similar_values_in_column(df, col)
+            # Only include if it found something actionable.
+            try:
+                issues = int(res.get("issues", 0) or 0)
+            except Exception:
+                issues = 0
+            if issues > 0:
+                all_results["fields"][f"similar_values_in_{col}"] = res
+    except Exception as e:
+        logging.warning(f"Similar-values-in-column checks failed: {e}")
+
     # Field-format validations (enumerated sets, missing vs invalid)
     try:
         logging.info("Running field-format validations...")
         all_results["field_formats"] = check_field_formats.validate_field_patterns(df)
     except Exception as e:
         logging.warning(f"Field format checks failed: {e}")
+
+    # Regex/character-format validations (ported from legacy per-field checks).
+    # Flatten nested results into keys like '<col>_format::CHECK_NAME' so
+    # `report.write_excel_report` can merge them into the Field Checks sheet.
+    try:
+        logging.info("Running field regex/format checks...")
+        regex_res, regex_details = field_checks.validate_field_regexes(df)
+
+        flattened = {}
+        for section_name, section_checks in (regex_res or {}).items():
+            if not isinstance(section_checks, dict):
+                continue
+            for check_name, payload in section_checks.items():
+                if not isinstance(payload, dict):
+                    continue
+                flat_key = f"{section_name}::{check_name}"
+                flattened[flat_key] = payload
+
+        if flattened:
+            all_results["field_regex_checks"] = flattened
+
+        # Attach detail DataFrames as separate sheets.
+        # Use stable, report-friendly keys.
+        for k, df_detail in (regex_details or {}).items():
+            if isinstance(df_detail, pd.DataFrame) and not df_detail.empty:
+                key = str(k).strip()
+                if key.lower() == "magnitude":
+                    all_results["magnitude_offices_map"] = df_detail
+                elif key.lower() == "running mates":
+                    all_results["running_mates"] = df_detail
+                else:
+                    # Keep the key; report.py will title-case it for the sheet name.
+                    all_results[key] = df_detail
+    except Exception as e:
+        logging.warning(f"Field regex/format checks failed: {e}")
 
     # Run FIPS/state identifier checks (state codes)
     try:

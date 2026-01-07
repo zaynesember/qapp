@@ -17,13 +17,6 @@ pip install -r requirements.txt
 python qapp.py tests/nh_test.csv
 ```
 
-Run the legacy (sbaltz) engine and generate the legacy text outputs under
-`output/qa/<input_stem>/`:
-
-```bash
-python qapp.py --legacy tests/nh_test.csv
-```
-
 Or run the module directly:
 
 ```bash
