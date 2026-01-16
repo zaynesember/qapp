@@ -1,8 +1,0 @@
-UNIQUE VALUES — special
-============================================================
-FALSE
-    Count: 622405
-    Counties: 21
-TRUE
-    Count: 19295
-    Counties: 18

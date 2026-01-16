@@ -1,5 +1,0 @@
-UNIQUE VALUES — state
-============================================================
-NEW JERSEY
-    Count: 641700
-    Counties: 21

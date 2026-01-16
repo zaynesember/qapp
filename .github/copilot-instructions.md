@@ -31,7 +31,10 @@ python qapp.py tests/nh_test.csv
 
 **Critical conventions:**
 - **State detection:** Filename stem before first `_` (e.g., `NH_2024.csv` → state `NH`)
-- **Output path:** `output/<STATE>/report_<inputstem>.xlsx` + `qa_run.log`
+- **Output path:** `output/<STATE>/` contains:
+  - `report_<inputstem>.xlsx` — Excel report
+  - `qa_run.log` — run log
+  - `legacy/` — (when `--output=both` or `--output=legacy`) legacy text files
 - **`all_results` contract:** Each check returns `dict[str, Any]` or `pd.DataFrame`. Structure:
   ```python
   {
@@ -132,7 +135,7 @@ Edit [qa_core/config.py](qa_core/config.py) for:
 - `REQUIRED_COLUMNS` — canonical column set
 - `OUTLIER_THRESHOLD` — MAD threshold (default 3.5)
 - `AGGREGATE_MARKERS` — tokens identifying summary rows (excluded from duplicate checks)
-- `AUTO_OPEN_REPORT` — auto-open Excel report after generation (default `True`)
+- `AUTO_OPEN_REPORT` — auto-open Excel report after generation (default `False`; GUI handles open prompts)
 - `VALID_STAGES`, `VALID_MODES`, `VALID_DATAVERSES` — enumerated values for field validation
 
 ## File Loading & Normalization
@@ -145,4 +148,4 @@ Edit [qa_core/config.py](qa_core/config.py) for:
 - Single Excel output (not per-check text files)
 - Unified `all_results` dict structure
 - Modular check modules (`check_fips`, `field_checks`, `office_checks`)
-- Auto-open report with `config.AUTO_OPEN_REPORT`
+- GUI with completion dialog for opening outputs

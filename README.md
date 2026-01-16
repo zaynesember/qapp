@@ -1,10 +1,11 @@
 # Quality Assurance for the Precinct Project (QAPP)
 
-Original QA engine by sbaltz. Refactored and extended by Zayne (2025).
+Original QA engine by sbaltz. Overhauled by Zayne in 2025 and 2026.
 
 This repository contains a modular, PEP‑8–compliant QA engine for precinct‑level
 election results. It runs a sequence of structural, field, numeric, and FIPS
-validation checks and emits a single Excel workbook per run (plus a log file).
+validation checks and outputs a single Excel workbook per run (plus a log file)
+and/or a set of legacy txt reports from the original version of the engine.
 
 ## Quick start
 
@@ -16,6 +17,24 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python qapp.py tests/nh_test.csv
 ```
+
+### Using the GUI
+
+For a graphical interface (no command line needed):
+
+- **macOS**: Double-click `launch_qapp_mac.command`
+- **Windows**: Double-click `launch_qapp_win.bat`
+
+Or launch from command line:
+
+```bash
+python gui.py
+# or
+python qapp.py --gui
+```
+
+The GUI allows you to browse for a CSV file, select which checks to run,
+choose output format (Excel, Legacy text files, or Both), and view results.
 
 Or run the module directly:
 
@@ -77,7 +96,7 @@ Notes:
 - `qa_core/checks.py` — structural and field checks + duplicate detection.
 - `qa_core/stats_utils.py` — numeric and distributional checks (MAD‑based).
 - `qa_core/io_utils.py` — data loading utilities (CSV/TSV normalization).
--- `qa_core/data_summary.py` — missingness summary and `compute_statewide_totals`.
+- `qa_core/data_summary.py` — missingness summary and `compute_statewide_totals`.
    Unique-values exports are now generated in the runner and written to the
    `Unique` sheet in the Excel report; the old `export_unique_values` helper
    and per-column txt exports are deprecated and have been removed.
@@ -96,8 +115,14 @@ Notes:
    e.g., `NH_2024_precincts.csv` → state `NH`. See
    `runner.run_qa` for the exact behavior.
 - Output layout: run outputs go to `output/<STATE>/` (determined by
-   `config.QA_OUTPUT_DIR`). Files produced include `qa_run.log` and
-   `report_<inputstem>.xlsx`. Output files are generated artifacts and are
+   `config.QA_OUTPUT_DIR`). Files produced include:
+   - `qa_run.log` — log file for the run
+   - `report_<inputstem>.xlsx` — Excel workbook with all QA results
+   - `legacy/` — (optional) subdirectory containing legacy text file outputs
+     when using `--output=both` or `--output=legacy`. These are the original
+     sbaltz-style `stage1_*.txt` files.
+   
+   Output files are generated artifacts and are
    ignored by git (see `.gitignore`).
 - `all_results` shape: `runner.py` collects check outputs into an
    `all_results` dict which `report.write_excel_report` expects to serialize.

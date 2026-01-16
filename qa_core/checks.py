@@ -479,16 +479,24 @@ def find_duplicate_rows(df: pd.DataFrame) -> pd.DataFrame:
                 no_votes_dups["dup_type"] = "all_but_votes_duplicate"
                 out.append(no_votes_dups)
 
-    # 3) Precincts with conflicting county identifiers (same precinct, different county_fips or county_name)
+    # 3) Precincts with conflicting county identifiers (same precinct+county, different county_fips or county_name)
     if "precinct" in df_work.columns and ("county_fips" in df_work.columns or "county_name" in df_work.columns):
-        group_cols = ["precinct"]
+        # Group by precinct AND county to find actual conflicts (not just duplicate precinct names across counties)
+        if "county_fips" in df_work.columns:
+            group_cols = ["precinct", "county_fips"]
+        else:
+            group_cols = ["precinct", "county_name"]
         g = df_work.groupby(group_cols, dropna=False)
         conflict_idx = []
         for name, grp in g:
-            if "county_fips" in grp.columns and grp["county_fips"].astype(str).nunique(dropna=True) > 1:
-                conflict_idx.extend(grp.index.tolist())
-            elif "county_name" in grp.columns and grp["county_name"].astype(str).nunique(dropna=True) > 1:
-                conflict_idx.extend(grp.index.tolist())
+            # Within the same precinct+county, check if county_name varies (when grouping by fips)
+            # or if county_fips varies (when grouping by name)
+            if "county_fips" in group_cols and "county_name" in grp.columns:
+                if grp["county_name"].astype(str).nunique(dropna=True) > 1:
+                    conflict_idx.extend(grp.index.tolist())
+            elif "county_name" in group_cols and "county_fips" in grp.columns:
+                if grp["county_fips"].astype(str).nunique(dropna=True) > 1:
+                    conflict_idx.extend(grp.index.tolist())
         if conflict_idx:
             pc_conf = df_work.loc[sorted(set(conflict_idx))].copy()
             pc_conf["dup_type"] = "precinct_county_mismatch"

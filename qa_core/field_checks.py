@@ -46,6 +46,9 @@ def validate_field_regexes(df: pd.DataFrame) -> tuple[Dict[str, Any], Dict[str, 
         # skip obviously numeric columns
         if pd.api.types.is_numeric_dtype(df[col]):
             continue
+        # skip FIPS codes and other numeric ID columns (they're loaded as strings but are numeric identifiers)
+        if col.lower() in ("county_fips", "jurisdiction_fips", "state_fips", "state_cen", "state_ic", "year", "magnitude"):
+            continue
         section_name = f"{col}_format"
         section_checks: Dict[str, Any] = {}
 
@@ -100,14 +103,15 @@ def validate_field_regexes(df: pd.DataFrame) -> tuple[Dict[str, Any], Dict[str, 
         vals, rows = _sample_list(series_raw, symbol_mask)
         section_checks["NONSTANDARD_SYMBOLS"] = {"issues": issues, "issue_values": vals, "issue_row_numbers": rows}
 
-        # LOWERCASE detection: flag any values containing lowercase letters
-        try:
-            lowercase_mask = series_raw.str.contains(r"[a-z]", regex=True, na=False) & nonempty_mask
-        except re.error:
-            lowercase_mask = pd.Series([False] * len(series_raw), index=series_raw.index)
-        issues = int(lowercase_mask.sum())
-        vals, rows = _sample_list(series_raw, lowercase_mask)
-        section_checks["LOWERCASE_LETTERS"] = {"issues": issues, "issue_values": vals, "issue_row_numbers": rows}
+        # LOWERCASE detection: skip precinct (users may legitimately use mixed-case labels)
+        if col.lower() != "precinct":
+            try:
+                lowercase_mask = series_raw.str.contains(r"[a-z]", regex=True, na=False) & nonempty_mask
+            except re.error:
+                lowercase_mask = pd.Series([False] * len(series_raw), index=series_raw.index)
+            issues = int(lowercase_mask.sum())
+            vals, rows = _sample_list(series_raw, lowercase_mask)
+            section_checks["LOWERCASE_LETTERS"] = {"issues": issues, "issue_values": vals, "issue_row_numbers": rows}
 
         # Odd number of quotation marks (double and single)
         try:

@@ -26,7 +26,7 @@ MIN_EXPECTED_ROWS = 10
 REPORT_LINE_WIDTH = 80
 
 VALID_STAGES = ["PRI","GEN","RUNOFF"]
-VALID_MODES = ["TOTAL","ELECTION DAY","ABSENTEE","PROVISIONAL","ONE-STOP"]
+VALID_MODES = ["TOTAL","ELECTION DAY","ABSENTEE","PROVISIONAL","ONE-STOP","EMERGENCY","FEDERAL/OVERSEAS"]
 VALID_DATAVERSES = ["PRESIDENT","SENATE","HOUSE","STATE","LOCAL",""]
 VALID_PARTY_SIMPLIFIED = ["DEMOCRAT","REPUBLICAN","LIBERTARIAN","OTHER","NONPARTISAN",""]
 VALID_SPECIAL = ["TRUE","FALSE",""]
@@ -58,4 +58,113 @@ AGGREGATE_MARKERS = [
 # If True, attempt to open the generated Excel report using the OS default
 # application after the report is written. Default False to avoid surprises
 # in CI or headless environments. Set to True in local development if desired.
-AUTO_OPEN_REPORT = True
+AUTO_OPEN_REPORT = False
+
+# ---------------------------------------------------------------------
+# Check Registry — maps check keys to their associated columns
+# Used by the GUI to filter checks by variable and to enumerate available checks.
+# Keys should match the keys used in runner.py's all_results dict.
+# ---------------------------------------------------------------------
+AVAILABLE_CHECKS = {
+    # Structural checks
+    "columns": {
+        "label": "Column validation",
+        "columns": [],  # applies to all columns
+        "category": "structural",
+    },
+    # Field-level checks
+    "fields": {
+        "label": "Field checks (missing values, invalid entries)",
+        "columns": [],  # applies to all columns
+        "category": "fields",
+    },
+    "field_formats": {
+        "label": "Field format validation (enumerated values)",
+        "columns": ["party_simplified", "party_detailed", "mode", "stage", "dataverse", "special", "writein"],
+        "category": "fields",
+    },
+    "field_regex_checks": {
+        "label": "Regex/character format checks",
+        "columns": [],  # applies to all text columns
+        "category": "fields",
+    },
+    # FIPS/geographic checks
+    "state_codes": {
+        "label": "State/FIPS code validation",
+        "columns": ["state_po", "state_fips", "state_cen", "state_ic", "county_fips", "jurisdiction_fips"],
+        "category": "fips",
+    },
+    # Numeric checks
+    "numerical": {
+        "label": "Numeric consistency checks",
+        "columns": ["votes", "magnitude"],
+        "category": "numeric",
+    },
+    "distribution": {
+        "label": "Vote distribution sanity checks",
+        "columns": ["votes"],
+        "category": "numeric",
+    },
+    # Duplicate detection
+    "duplicates": {
+        "label": "Duplicate/conflicting row detection",
+        "columns": [],  # applies to all columns
+        "category": "duplicates",
+    },
+    "zero_vote_precincts": {
+        "label": "Zero-vote precinct groups",
+        "columns": ["votes", "precinct", "office"],
+        "category": "duplicates",
+    },
+    # Office mapping
+    "office_mappings": {
+        "label": "Office name validation",
+        "columns": ["office"],
+        "category": "office",
+    },
+    # Data summary
+    "missingness": {
+        "label": "Missingness summary",
+        "columns": [],  # applies to all columns
+        "category": "summary",
+    },
+    "statewide_totals": {
+        "label": "Statewide vote totals",
+        "columns": ["votes", "candidate", "office"],
+        "category": "summary",
+    },
+    "unique_values": {
+        "label": "Unique values per column",
+        "columns": [],  # applies to all columns
+        "category": "summary",
+    },
+}
+
+# Categories for grouping checks in the GUI
+CHECK_CATEGORIES = {
+    "structural": "Structural Checks",
+    "fields": "Field Checks",
+    "fips": "FIPS/Geographic Checks",
+    "numeric": "Numeric Checks",
+    "duplicates": "Duplicate Detection",
+    "office": "Office Validation",
+    "summary": "Data Summary",
+}
+
+
+def get_checks_for_columns(columns: list[str]) -> list[str]:
+    """Return check keys that apply to the given column(s)."""
+    if not columns:
+        return list(AVAILABLE_CHECKS.keys())
+    
+    matching = []
+    columns_lower = [c.lower() for c in columns]
+    for key, info in AVAILABLE_CHECKS.items():
+        check_cols = info.get("columns", [])
+        # If check has no specific columns, it applies to all
+        if not check_cols:
+            matching.append(key)
+        # If any of the check's columns match the filter
+        elif any(c.lower() in columns_lower for c in check_cols):
+            matching.append(key)
+    return matching

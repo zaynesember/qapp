@@ -180,18 +180,18 @@ def _pretty_check_name(raw: str) -> str:
     # Clean label part: replace underscores with spaces, lower-case, and tidy spacing
     lab = re.sub(r"[_]+", " ", label_part).strip()
     lab = lab.strip()
-    # Normalize case: lowercase then capitalize first char
-    lab_norm = lab.lower().capitalize()
+    # Normalize: keep everything lowercase (preserve original column names elsewhere)
+    lab_norm = lab.lower()
     # If label contains parentheses or special markers, keep them but clean spacing
     lab_norm = re.sub(r"\s+\(", " (", lab_norm)
 
     if source_part:
-        col = source_part.replace("_", " ").title()
+        col = source_part
         return f"{lab_norm} ({col})"
 
-    # Fallback: if the original name is snake_case, make it human
+    # Fallback: if the original name is snake_case, show it in lowercase with spaces
     if "_" in s and "::" not in s:
-        return s.replace("_", " ").capitalize()
+        return s.replace("_", " ")
     return lab_norm
 
 
@@ -214,12 +214,12 @@ def _extract_variables_from_check(raw: str) -> str:
     # If something like '<col>_format' or '<col>_missing'
     for suffix in ("_format", "_regex", "_missing", "_invalid", "_rows"):
         if first.endswith(suffix):
-            return first[: -len(suffix)].replace("_", " ").title()
-    # If underscore-separated, and looks like a single column name, return it
+            return first[: -len(suffix)]
+    # If underscore-separated, and looks like a single column name, return it as-is
     if "_" in first and len(first.split("_")) <= 3:
-        return first.replace("_", " ").title()
-    # If camel or plain single token, return title-cased
-    return first.replace("_", " ").title()
+        return first
+    # If camel or plain single token, return as-is
+    return first
 
 
 # ---------------------------------------------------------------------
