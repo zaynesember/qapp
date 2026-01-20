@@ -21,6 +21,7 @@ from tkinter import ttk, filedialog, messagebox
 from pathlib import Path
 import subprocess
 import platform
+from PIL import Image, ImageTk
 
 # Ensure repo root is on sys.path
 REPO_ROOT = Path(__file__).resolve().parent
@@ -50,8 +51,27 @@ class QAPPGui:
         
         # Progress tracking
         self.progress_value = tk.DoubleVar(value=0)
+        
+        # Load logo image
+        self.logo_image = None
+        self.logo_photo = None
+        self._load_logo()
 
         self._create_widgets()
+
+    def _load_logo(self):
+        """Load and prepare the logo image."""
+        logo_path = REPO_ROOT / "logo.png"
+        if not logo_path.exists():
+            return
+        
+        try:
+            img = Image.open(logo_path)
+            # Resize logo to fit nicely in header (height ~126px)
+            img.thumbnail((200, 126), Image.Resampling.LANCZOS)
+            self.logo_photo = ImageTk.PhotoImage(img)
+        except Exception as e:
+            print(f"Failed to load logo: {e}")
 
     def _create_widgets(self):
         """Create all GUI widgets."""
@@ -59,10 +79,13 @@ class QAPPGui:
         main_frame.grid(row=0, column=0, sticky="nsew")
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
+        main_frame.columnconfigure(0, weight=1)
+        main_frame.rowconfigure(3, weight=1)
 
         # --- Title Header ---
         header_frame = ttk.Frame(main_frame)
         header_frame.grid(row=0, column=0, sticky="ew", pady=(0, 15))
+        header_frame.columnconfigure(0, weight=1)
         
         # Title with QAPP highlighted
         title_frame = ttk.Frame(header_frame)
@@ -90,6 +113,11 @@ class QAPPGui:
         
         title_text.configure(state="disabled")
         title_text.grid(row=0, column=0, sticky="w")
+        
+        # Logo in top right
+        if self.logo_photo:
+            logo_label = ttk.Label(header_frame, image=self.logo_photo)
+            logo_label.grid(row=0, column=1, sticky="e", padx=(10, 0))
 
         # --- File Selection ---
         file_frame = ttk.LabelFrame(main_frame, text="1. Select CSV File", padding="5")
@@ -564,6 +592,15 @@ def main():
         pass
 
     app = QAPPGui(root)
+    
+    # Bring window to front (basic cross-platform approach)
+    def raise_window():
+        root.lift()
+        root.focus_set()
+    
+    # Schedule the raise after window is initialized
+    root.after(100, raise_window)
+    
     root.mainloop()
 
 

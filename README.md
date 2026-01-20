@@ -1,11 +1,10 @@
 # Quality Assurance for the Precinct Project (QAPP)
 
-Original QA engine by sbaltz. Overhauled by Zayne in 2025 and 2026.
+Original QA engine by sbaltz. Refactored and extended by Zayne (2025).
 
 This repository contains a modular, PEP‑8–compliant QA engine for precinct‑level
 election results. It runs a sequence of structural, field, numeric, and FIPS
-validation checks and outputs a single Excel workbook per run (plus a log file)
-and/or a set of legacy txt reports from the original version of the engine.
+validation checks and emits a single Excel workbook per run (plus a log file).
 
 ## Quick start
 
